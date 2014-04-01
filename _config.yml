@@ -1,0 +1,16 @@
+name: MarsBased
+description: "MarsBased, a development start-up from Barcelona. Mobile and web-applications with effective designs and the latest technologies."
+url: "http://blog.marsbased.com"
+markdown: redcarpet
+pygments: true
+permalink: /blog/:year/:month/:day/:title
+exclude: [
+  'Gemfile', 'Gemfile.lock', 'corporate-jekyll.sublime-project',
+  'corporate-jekyll.sublime-workspace', 'vendor', 'README.md'
+]
+assets:
+  js_compressor: uglifier
+  css_compressor: yui
+excerpt_separator: <!--more-->
+paginate: 10
+paginate_path: "blog/page:num"

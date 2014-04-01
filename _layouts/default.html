@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>MarsBased | Development start-up from Mars | {{ page.title }}</title>
+    <meta name="description" content="MarsBased, a development start-up from Barcelona. Mobile and web-applications with effective designs and the latest technologies.">
+    <meta property="og:image" content="{% asset_path marsbased_logo.png %}"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Favicon -->
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <!-- Viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Style -->
+    {% stylesheet application %}
+    <!-- jQuery JS -->
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    {% javascript application %}
+    <!-- IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <nav class="navbar navbar-default" role="navigation" itemscope itemtype="http://schema.org/Brand">
+      <div class="logo">
+        <a itemprop="url" href="/" title="MarsBased homepage">
+          <img itemprop="logo" src="{% asset_path marsbased_logo.png %}" title="MarsBased logo" alt="MarsBased logo" />
+        </a>
+      </div>
+      <div class="missing-space">
+        <div data-spy="affix" data-offset-top="210">
+          <div class="sections">
+            <div class="menu">
+              <div class="menu-nav">
+                <ul class="navbar-nav">
+                  {% include shared_navbar.html %}
+                </ul>
+              </div>
+              <div class="menu-logo">
+                <a href="/" title="MarsBased homepage">
+                  <img src="{% asset_path marsbased_logo_wide.png %}" title="MarsBased logo horitzontal" alt="MarsBased logo horitzontal" />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div class="content">
+      <div class="container">
+        {{ content }}
+        {% include newsletter.html %}
+      </div>
+    </div>
+    <footer>
+      <div class="footer">
+        <div class="navbar">
+          <ul class="navbar-nav">
+            {% include shared_navbar.html %}
+            <li class="{% if page.code == 'privacy' %}active{% endif %}"><a href="/privacy" title="Privacy">Privacy</a></li>
+          </ul>
+        </div>
+        <p>© 2014 MarsBased. <img class="img_pin" src="{% asset_path pin.png %}" /> Created between Barcelona and Mars.</p>
+      </div>
+    </footer>
+    {% include analytics.html %}
+  </body>
+</html>

@@ -1,0 +1,75 @@
+/* LESS STYLESHEETS */
+
+@import "variables.less";
+@import "navbar.less";
+@import "footer.less";
+@import "content.less";
+
+/* GENERAL STYLES */
+
+body {
+  padding: 0px;
+  background-color: @mars-white;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+  color: #333;
+  text-rendering: optimizelegibility;
+}
+
+.content {
+  background: @mars-grey;
+  padding: 10px 0px;
+}
+
+@media all and (min-width: @screen-sm) {
+
+  .content {
+    padding: 40px 0px;
+  }
+
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.5em;
+  margin-bottom: 20px;
+  font-weight: 200;
+}
+
+h1 {
+  font-size: 1.6em;
+  color: #000;
+  line-height: 1.4em;
+  font-weight: 200;
+}
+
+h2 {
+  font-size: 1.3em;
+  line-height: 1.4em;
+  font-weight: 200;
+  margin: 0px 0px 30px 0px;
+  color: @mars-red;
+}
+
+@media all and (min-width: @screen-sm) {
+
+  h1 {
+    font-size: 3.2em;
+  }
+
+  h2 {
+    font-size: 1.8em;
+    margin-bottom: 60px;
+  }
+
+}
+
+h3 {
+  font-size: 1.2em;
+  line-height: 1.4em;
+  margin-bottom: 15px;
+}
+
+a, a:hover {
+  color: @mars-red;
+}
