@@ -6,7 +6,7 @@ pygments: true
 permalink: /blog/:year/:month/:day/:title
 exclude: [
   'Gemfile', 'Gemfile.lock', 'corporate-jekyll.sublime-project',
-  'corporate-jekyll.sublime-workspace', 'vendor', 'README.md'
+  'corporate-jekyll.sublime-workspace', 'vendor', 'README.md', 'Rakefile'
 ]
 assets:
   js_compressor: uglifier
