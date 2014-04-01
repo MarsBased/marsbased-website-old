@@ -5,7 +5,7 @@ markdown: redcarpet
 pygments: true
 permalink: /blog/:year/:month/:day/:title
 exclude: [
-  'Gemfile', 'Gemfile.lock', 'corporate-jekyll.sublime-project',
+  'Gemfile', 'Gemfile.lock', 'corporate-jekyll.sublime-project', '.bundle',
   'corporate-jekyll.sublime-workspace', 'vendor', 'README.md', 'Rakefile'
 ]
 assets:
