@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "We make the right app for you (part 2)"
-date:   2014-02-01 23:59:00
+date:   2014-03-24 23:59:00
 categories: MarsBased Startup Business
 ---
 
-*Captain's log, stardate d440.y35/AB*
+*Captain's log, stardate d489.y35/AB*
 
 *Disclaimer: long (and nerdy) post ahead.*
 
