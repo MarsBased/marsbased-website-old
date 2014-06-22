@@ -17,7 +17,7 @@ MarsBased stands for innovation by using state-of-the-art technologies. HTML5, C
 
 <!--more-->
 
-<img src="{% asset_path post6.png %}" alt="The MarsBased Tech Stack" title="The MarsBased Tech Stack" class="img-right img-responsive" />
+<img src="/images/blog/post6.png" alt="The MarsBased Tech Stack" title="The MarsBased Tech Stack" class="img-right img-responsive" />
 
 Twitter Bootstrap is a front-end framework created to design websites faster and easier. Its last version adopts a "mobile first" philosophy providing tools to create responsive sites. Nowadays, every competitive website needs to be responsive, due to the rise of mobile traffic in multiple-sized screens or the latest Google algorithm changes, focusing on mobile experience (Google Hummingbird explained <a href="http://venturebeat.com/2013/10/02/things-not-strings-how-googles-new-hummingbird-algorithm-sets-the-stage-for-the-future-of-mobile-search/" title="Google Hummingbird" target="_blank">here</a>).
 

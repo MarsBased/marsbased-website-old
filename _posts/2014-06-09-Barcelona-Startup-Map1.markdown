@@ -11,7 +11,7 @@ We are very happy to announce that two days ago we launched our biggest project 
 
 ###We support the Barcelona local scene###
 
-<img src="{% asset_path post9a.png %}" alt="Barcelona Startup Map" title="Barcelona Startup Map" class="img-center img-rounded img-responsive" />
+<img src="/images/blog/post9a.png" alt="Barcelona Startup Map" title="Barcelona Startup Map" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>Barcelona Startup Map, The entrepreneurial ecosystem of Barcelona</small></p>
 
 Barcelona Startup Map is a web application that displays the current state of the Barcelona entrepreneurial ecosystem in a map. Through Barcelona Startup Map, you will be able to find, geolocate and add start-ups, investors, accelerators/incubators, talent centers and venues providing services to entrepreneurs.
@@ -24,13 +24,13 @@ For now, the platform is only available to companies and individuals based in Ba
 
 ###Presentation at BizBarcelona###
 
-<img src="{% asset_path post9b.png %}" alt="Barcelona Startup Map" title="Barcelona Startup Map" class="img-right img-rounded img-responsive" />
+<img src="/images/blog/post9b.png" alt="Barcelona Startup Map" title="Barcelona Startup Map" class="img-right img-rounded img-responsive" />
 
 Barcelona Startup Map was made publicly available during the <a href="http://www.bizbarcelona.com/" title="BizBarcelona" target="_blank">BizBarcelona</a>. An institutional presentation speech was made by Sònia Recasens (Deputy Mayor of Barcelona) stating the good health of the entrepreneurial scene in Barcelona. Itziar Blasco (head of new incubation models at Barcelona Activa) did shortly afterwards a quick demo of the app, showing all its possibilities.
 
 Because both <a href="http://www.dailymail.co.uk/sciencetech/article-2162027/Microsofts-Surface-tablet-crashes-stage--repeat-Bill-Gates-Windows-98-blue-screen-death-moment.html" title="Microsoft FAIL" target="_blank">Microsoft</a> and <a href="https://www.youtube.com/watch?v=vzDDO3Xb_QU" title="Apple FAIL" target="_blank">Apple</a> had major FAIL moments during the presentations of their products, we prepared for the worst. However, the app behaved as expected and the presentation was therefore successful.
 
-<img src="{% asset_path post9c.png %}" alt="Barcelona Startup Map" title="Barcelona Startup Map" class="img-center img-rounded img-responsive" />
+<img src="/images/blog/post9c.png" alt="Barcelona Startup Map" title="Barcelona Startup Map" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>Itziar Blasco (head of new incubation models at Barcelona Activa), doing a demo of the app</small></p>
 
 After the demo, our co-founder Àlex Rodríguez directed a round table discussing the Barcelona entrepreneurial ecosystem. The guests were chosen to have one person representing each resource type: Gloria Molins (CEO @ <a href="http://www.trip4real.com/" title="Trip4Real" target="_blank">Trip4Real</a>), Daniel Sánchez (Founder @ <a href="http://www.nautacapital.com/" title="NautaCapital" target="_blank">NautaCapital</a>), Juan Pérez (Director at <a href="http://technovabarcelona.org" title="Innovator Park La Salle" target="_blank">Innovator Park La Salle</a>), Iolanda Triviño (CEO @ <a href="http://www.valkiriahubspace.com" title="Valkiria Hub Space" target="_blank">Valkiria Hub Space</a>) and Andrés Mansó (CEO @ <a href="http://www.incubio.com" title="Incubio" target="_blank">Incubio</a>). Each one shared in turns their opinion on the evolution of their sector in the last years, the current state and a prediction of where is the situation going. All of them had a common vision: the city had been nurturing its entrepreneurial tissue for some years, and is now ready for something big.
