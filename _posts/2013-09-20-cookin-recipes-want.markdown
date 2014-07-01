@@ -15,7 +15,7 @@ Cookin.me features an easy, clean and intuitive user interface that will help yo
 
 <!--more-->
 
-<img src="{% asset_path post2.png %}" alt="Some of our favourite recipes!" title="Some of our favourite recipes!" class="img-center img-responsive" />
+<img src="/images/blog/post2.png" alt="Some of our favourite recipes!" title="Some of our favourite recipes!" class="img-center img-responsive" />
 <small class="caption">*Some of our favourite recipes!*</small>
 
 If you want to try Cookin.me, you will need to wait a little longer. We're currently finishing the development, and completely changing the way it looks. We are adapting to the newest and trendiest *look&feels* and opted for a flat design.

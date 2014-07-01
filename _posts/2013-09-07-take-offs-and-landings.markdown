@@ -13,7 +13,7 @@ The MarsBased crew have been eagerly anticipating this moment for some months no
 
 <!--more-->
 
-<img src="{% asset_path post1.png %}" alt="Rocket Launch" title="Rocket Launch" class="img-circle img-right img-responsive" />
+<img src="/images/blog/post1.png" alt="Rocket Launch" title="Rocket Launch" class="img-circle img-right img-responsive" />
 
 *Commencing countdown (five), engines on (four). (three) (two) Check ignition (one) and may God's (blastoff) love be with you.*
 

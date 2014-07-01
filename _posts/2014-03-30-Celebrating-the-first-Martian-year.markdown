@@ -11,7 +11,7 @@ This week has been definitely a turning point in the life of MarsBased. Coincide
 
 It's been truly memorable: not only did we enjoy a delicious cake commemorating the first year of the Martian family, but we sealed the biggest project to date for MarsBased, too. 
 
-<img src="{% asset_path post8a.png %}" alt="The Mars Cake" title="The Mars Cake" class="img-center img-rounded img-responsive" />
+<img src="/images/blog/post8a.png" alt="The Mars Cake" title="The Mars Cake" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>The countdown on the cake is over, time to take-off</small></p>
 
 Most of our first year, we spend it building our portfolio and tools such as Cookin.me, which we are releasing as open source in an alpha phase. The last few months, however, we devoted our time to work for other companies building apps and killer websites for them. Our customers are happy, and so are we.

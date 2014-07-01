@@ -15,7 +15,7 @@ That being said, we want to share a few thoughts about how we've worked in the f
 
 <!--more-->
 
-<img src="{% asset_path post3.png %}" alt="Planet Success" title="Planet Success" class="img-center img-responsive" />
+<img src="/images/blog/post3.png" alt="Planet Success" title="Planet Success" class="img-center img-responsive" />
 
 These changes – model, company name, organization, software, project typology, etc. – shouldn't be seen as strange in young companies. On the contrary: they're necessary.
 

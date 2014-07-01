@@ -15,7 +15,7 @@ Don't you know what a start-up circle is? Well, plain and simple: it's a group o
 
 In our case, our start-up circle consists of four start-ups and a start-up-less entrepreneur. They are, in no particular order:
 
-<img src="{% asset_path post4.png %}" alt="The Sagrada Família, in Barcelona, home of our start-up circle" title="The Sagrada Família, in Barcelona, home of our start-up circle" class="img-circle img-right img-responsive" />
+<img src="/images/blog/post4.png" alt="The Sagrada Família, in Barcelona, home of our start-up circle" title="The Sagrada Família, in Barcelona, home of our start-up circle" class="img-circle img-right img-responsive" />
 
 * <a href="http://www.fusetic.com/" title="Fuse TIC's Website" target="_blank">Fuse TIC</a>
 * <a href="http://mercurio-platform.com/" title="Mercurio Platform's Website" target="_blank">Mercurio Platform</a>

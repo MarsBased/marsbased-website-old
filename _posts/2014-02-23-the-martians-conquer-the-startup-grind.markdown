@@ -17,7 +17,7 @@ People coming from all over the world travelled all the way to Mountain View to 
 
 There, we learnt the three Startup Grind principles:
 
-<img src="{% asset_path post7a.jpg %}" alt="The Startup Grind Values" title="The Startup Grind Values" class="img-center img-rounded img-responsive" />
+<img src="/images/blog/post7a.jpg" alt="The Startup Grind Values" title="The Startup Grind Values" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>The Startup Grind Values</small></p>
 
 As Martians, and newcomers, we found these principles to be particularly welcoming. Want to know how do we apply them? Keep reading!
@@ -50,7 +50,7 @@ Giving before taking is one of the principles of altruism. And what is more altr
 
 The Startup Grind guys came with a very nice initiative: the world-changing wall. All the attendees were encouraged to write how is their company changing the world.
 
-<img src="{% asset_path post7b.jpg %}" alt="How did we change the world" title="How did we change the world" class="img-center img-rounded img-responsive" />
+<img src="/images/blog/post7b.jpg" alt="How did we change the world" title="How did we change the world" class="img-center img-rounded img-responsive" />
 
 <p class="text-center img-footer"><small>How did we change the world</small></p>
 
