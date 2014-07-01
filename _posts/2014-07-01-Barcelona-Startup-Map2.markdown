@@ -31,7 +31,7 @@ This way, start-ups can find all the similar businesses in their area, and other
 
 Now it’s up to them to convince Nauta Capital to lend them some money! We can’t help any further with the map :)
 
-<img src="{% asset_path post10.png %}" alt="Barcelona Startup Map" title="Barcelona Startup Map" class="img-center img-rounded img-responsive" />
+<img src="/images/blog/post10.png" alt="Barcelona Startup Map" title="Barcelona Startup Map" class="img-center img-rounded img-responsive" />
 
 ###Some numbers###
 
