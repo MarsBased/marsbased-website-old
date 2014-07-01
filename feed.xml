@@ -7,14 +7,57 @@
     <atom:link href="http://blog.marsbased.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Barcelona Startup Map (part 2)</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d586.y35/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;The Martians attend Startup Grind Barcelona&lt;/h3&gt;
+
+&lt;p&gt;On Friday, 13th we attended the first Startup Grind Barcelona event held in the Mobile World Centre, right in the heart of Barcelona. As you might already know, we’re the technological partner of Startup Grind Barcelona (check out their &lt;a href=&quot;http://startupgrind.cat/&quot; title=&quot;Startup Grind Barcelona's website&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt;!).&lt;/p&gt;
+
+&lt;p&gt;There, our soon-to-be-disclosed CTO presented our latest project: &lt;a href=&quot;http://bcn.cat/bcnstartupmap&quot; title=&quot;Barcelona Startup Map&quot; target=&quot;_blank&quot;&gt;Barcelona Startup Map&lt;/a&gt;. Here’s some impressions!&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3&gt;The event&lt;/h3&gt;
+
+&lt;p&gt;More than 50 people witnessed the presentation of the map. First time entrepreneurs, long running freelancers, investors and a very diverse audience saw the possibilities of this webapp that connects the whole Barcelona Startup Ecosystem.&lt;/p&gt;
+
+&lt;p&gt;We did this tour of the app amidst other very interesting presentations on the event’s topic: entrepreneurship in sport. We presented after Oriol Serra (Nektria) and Guillermo Llibre (Gymforless).&lt;/p&gt;
+
+&lt;p&gt;Startup Grind is always open to the community, and anybody is entitled to present their interesting projects to the entrepreneurial community.&lt;/p&gt;
+
+&lt;h3&gt;By the community, for the community&lt;/h3&gt;
+
+&lt;p&gt;Barcelona Startup Map was first conceived as a tool to enable all the actors in the entrepreneurial ecosystem of Barcelona to interact with each other, by being able to find one another in a map.&lt;/p&gt;
+
+&lt;p&gt;This way, start-ups can find all the similar businesses in their area, and other services of they might need. For instance, let’s suppose our friends at Dineyo (red marker) are looking for investment in their own neighborhood. They can filter by the Investors typology and zoom in their area. There, they will find Nauta Capital.&lt;/p&gt;
+
+&lt;p&gt;Now it’s up to them to convince Nauta Capital to lend them some money! We can’t help any further with the map :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post10.png&quot; alt=&quot;Barcelona Startup Map&quot; title=&quot;Barcelona Startup Map&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Some numbers&lt;/h3&gt;
+
+&lt;p&gt;The Barcelona Startup Map has been really well adopted since its release on the first week of June. It has had more than 50 signups in barely two weeks, which is almost five new registrations per day.&lt;/p&gt;
+
+&lt;p&gt;In order to increase participation, we’ve partnered with Startup Grind Barcelona to offer free entrance to the next SGBCN event to all companies registering before July, 15th! Register now and you’ll receive free tickets for the next Startup Grind on July, 15th with Marcos Alves (CEO @ Eltenedor.es).&lt;/p&gt;
+
+&lt;p&gt;Didn’t get yours? Send an email to &lt;a href=&quot;mailto:hola@marsbased.com&quot; title=&quot;Our email address&quot;&gt;hola@marsbased.com&lt;/a&gt; to request your tickets or just to say hello :)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jul 2014 12:00:00 +0200</pubDate>
+        <link>http://blog.marsbased.com//blog/2014/07/01/Barcelona-Startup-Map2</link>
+        <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/07/01/Barcelona-Startup-Map2</guid>
+      </item>
+    
+      <item>
         <title>Barcelona Startup Map (part 1)</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d499.y35/AB&lt;/em&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d564.y35/AB&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;We are very happy to announce that two days ago we launched our biggest project to date. Together with the Barcelona City Hall and Barcelona Activa - the executive tool of the Economic Development policies of the Barcelona City Council - we launched &lt;a href=&quot;http://bcn.cat/bcnstartupmap&quot; title=&quot;Barcelona Startup Map&quot; target=&quot;_blank&quot;&gt;Barcelona Startup Map&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;We support the Barcelona local scene&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/post9a-5ab85cfe957f71908c0caa176cf6c569.png&quot; alt=&quot;Barcelona Startup Map&quot; title=&quot;Barcelona Startup Map&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/post9a.png&quot; alt=&quot;Barcelona Startup Map&quot; title=&quot;Barcelona Startup Map&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
 &lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Barcelona Startup Map, The entrepreneurial ecosystem of Barcelona&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;Barcelona Startup Map is a web application that displays the current state of the Barcelona entrepreneurial ecosystem in a map. Through Barcelona Startup Map, you will be able to find, geolocate and add start-ups, investors, accelerators/incubators, talent centers and venues providing services to entrepreneurs.&lt;/p&gt;
@@ -27,13 +70,13 @@
 
 &lt;h3&gt;Presentation at BizBarcelona&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/post9b-342f1630ca538134aa3618be5e17b2fc.png&quot; alt=&quot;Barcelona Startup Map&quot; title=&quot;Barcelona Startup Map&quot; class=&quot;img-right img-rounded img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/post9b.png&quot; alt=&quot;Barcelona Startup Map&quot; title=&quot;Barcelona Startup Map&quot; class=&quot;img-right img-rounded img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Barcelona Startup Map was made publicly available during the &lt;a href=&quot;http://www.bizbarcelona.com/&quot; title=&quot;BizBarcelona&quot; target=&quot;_blank&quot;&gt;BizBarcelona&lt;/a&gt;. An institutional presentation speech was made by Sònia Recasens (Deputy Mayor of Barcelona) stating the good health of the entrepreneurial scene in Barcelona. Itziar Blasco (head of new incubation models at Barcelona Activa) did shortly afterwards a quick demo of the app, showing all its possibilities.&lt;/p&gt;
 
 &lt;p&gt;Because both &lt;a href=&quot;http://www.dailymail.co.uk/sciencetech/article-2162027/Microsofts-Surface-tablet-crashes-stage--repeat-Bill-Gates-Windows-98-blue-screen-death-moment.html&quot; title=&quot;Microsoft FAIL&quot; target=&quot;_blank&quot;&gt;Microsoft&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/watch?v=vzDDO3Xb_QU&quot; title=&quot;Apple FAIL&quot; target=&quot;_blank&quot;&gt;Apple&lt;/a&gt; had major FAIL moments during the presentations of their products, we prepared for the worst. However, the app behaved as expected and the presentation was therefore successful.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/post9c-f685ffd77c966051a0ade35c46841d0f.png&quot; alt=&quot;Barcelona Startup Map&quot; title=&quot;Barcelona Startup Map&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/post9c.png&quot; alt=&quot;Barcelona Startup Map&quot; title=&quot;Barcelona Startup Map&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
 &lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Itziar Blasco (head of new incubation models at Barcelona Activa), doing a demo of the app&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;After the demo, our co-founder Àlex Rodríguez directed a round table discussing the Barcelona entrepreneurial ecosystem. The guests were chosen to have one person representing each resource type: Gloria Molins (CEO @ &lt;a href=&quot;http://www.trip4real.com/&quot; title=&quot;Trip4Real&quot; target=&quot;_blank&quot;&gt;Trip4Real&lt;/a&gt;), Daniel Sánchez (Founder @ &lt;a href=&quot;http://www.nautacapital.com/&quot; title=&quot;NautaCapital&quot; target=&quot;_blank&quot;&gt;NautaCapital&lt;/a&gt;), Juan Pérez (Director at &lt;a href=&quot;http://technovabarcelona.org&quot; title=&quot;Innovator Park La Salle&quot; target=&quot;_blank&quot;&gt;Innovator Park La Salle&lt;/a&gt;), Iolanda Triviño (CEO @ &lt;a href=&quot;http://www.valkiriahubspace.com&quot; title=&quot;Valkiria Hub Space&quot; target=&quot;_blank&quot;&gt;Valkiria Hub Space&lt;/a&gt;) and Andrés Mansó (CEO @ &lt;a href=&quot;http://www.incubio.com&quot; title=&quot;Incubio&quot; target=&quot;_blank&quot;&gt;Incubio&lt;/a&gt;). Each one shared in turns their opinion on the evolution of their sector in the last years, the current state and a prediction of where is the situation going. All of them had a common vision: the city had been nurturing its entrepreneurial tissue for some years, and is now ready for something big.&lt;/p&gt;
@@ -50,7 +93,7 @@
 
 &lt;p&gt;Love from Mars!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 09 Jun 2014 19:00:00 +0000</pubDate>
+        <pubDate>Mon, 09 Jun 2014 21:00:00 +0200</pubDate>
         <link>http://blog.marsbased.com//blog/2014/06/09/Barcelona-Startup-Map1</link>
         <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/06/09/Barcelona-Startup-Map1</guid>
       </item>
@@ -63,7 +106,7 @@
 
 &lt;p&gt;It&amp;#39;s been truly memorable: not only did we enjoy a delicious cake commemorating the first year of the Martian family, but we sealed the biggest project to date for MarsBased, too. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/post8a-5ed4e75e28b6eaae9ab70b9887b653e5.png&quot; alt=&quot;The Mars Cake&quot; title=&quot;The Mars Cake&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/post8a.png&quot; alt=&quot;The Mars Cake&quot; title=&quot;The Mars Cake&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
 &lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;The countdown on the cake is over, time to take-off&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;Most of our first year, we spend it building our portfolio and tools such as Cookin.me, which we are releasing as open source in an alpha phase. The last few months, however, we devoted our time to work for other companies building apps and killer websites for them. Our customers are happy, and so are we.&lt;/p&gt;
@@ -102,7 +145,7 @@
 
 &lt;p&gt;We want to make consultancy simple, fun, and down-to-earth.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Mar 2014 14:00:00 +0000</pubDate>
+        <pubDate>Sun, 30 Mar 2014 16:00:00 +0200</pubDate>
         <link>http://blog.marsbased.com//blog/2014/03/30/Celebrating-the-first-Martian-year</link>
         <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/03/30/Celebrating-the-first-Martian-year</guid>
       </item>
@@ -121,7 +164,7 @@
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/post6-9e8789425533e6f98881fee5206aa1ad.png&quot; alt=&quot;The MarsBased Tech Stack&quot; title=&quot;The MarsBased Tech Stack&quot; class=&quot;img-right img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/post6.png&quot; alt=&quot;The MarsBased Tech Stack&quot; title=&quot;The MarsBased Tech Stack&quot; class=&quot;img-right img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Twitter Bootstrap is a front-end framework created to design websites faster and easier. Its last version adopts a &amp;quot;mobile first&amp;quot; philosophy providing tools to create responsive sites. Nowadays, every competitive website needs to be responsive, due to the rise of mobile traffic in multiple-sized screens or the latest Google algorithm changes, focusing on mobile experience (Google Hummingbird explained &lt;a href=&quot;http://venturebeat.com/2013/10/02/things-not-strings-how-googles-new-hummingbird-algorithm-sets-the-stage-for-the-future-of-mobile-search/&quot; title=&quot;Google Hummingbird&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
 
@@ -168,9 +211,9 @@
 
 &lt;p&gt;That&amp;#39;s all for today, folks. As you can see, we love talking technologies. Feel free to drop us an e-mail or bring up a conversation on &lt;a title=&quot;MarsBased Twitter Profile&quot; href=&quot;http://twitter.com/MarsBased&quot;&gt;Twitter&lt;/a&gt; anytime.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 24 Mar 2014 23:59:00 +0000</pubDate>
-        <link>http://blog.marsbased.com//blog/2014/03/24/we-make-the-right-app2</link>
-        <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/03/24/we-make-the-right-app2</guid>
+        <pubDate>Tue, 25 Mar 2014 00:59:00 +0100</pubDate>
+        <link>http://blog.marsbased.com//blog/2014/03/25/we-make-the-right-app2</link>
+        <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/03/25/we-make-the-right-app2</guid>
       </item>
     
       <item>
@@ -205,7 +248,7 @@
 
 &lt;p&gt;In the meantime, if you happen to have any good idea for an app and want MarsBased to develop it, drop us an &lt;a href=&quot;mailto:hola@marsbased.com&quot;&gt;e-mail&lt;/a&gt;!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Mar 2014 01:17:00 +0000</pubDate>
+        <pubDate>Tue, 04 Mar 2014 02:17:00 +0100</pubDate>
         <link>http://blog.marsbased.com//blog/2014/03/04/we-make-the-right-app1</link>
         <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/03/04/we-make-the-right-app1</guid>
       </item>
@@ -224,7 +267,7 @@
 
 &lt;p&gt;There, we learnt the three Startup Grind principles:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/post7a-138c9d250cfb262dd603d658e9ac0913.jpg&quot; alt=&quot;The Startup Grind Values&quot; title=&quot;The Startup Grind Values&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/post7a.jpg&quot; alt=&quot;The Startup Grind Values&quot; title=&quot;The Startup Grind Values&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
 &lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;The Startup Grind Values&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;As Martians, and newcomers, we found these principles to be particularly welcoming. Want to know how do we apply them? Keep reading!&lt;/p&gt;
@@ -259,7 +302,7 @@
 
 &lt;p&gt;The Startup Grind guys came with a very nice initiative: the world-changing wall. All the attendees were encouraged to write how is their company changing the world.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/post7b-2f04ec0276a9918f665a6c7d5bbf5a3c.jpg&quot; alt=&quot;How did we change the world&quot; title=&quot;How did we change the world&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/post7b.jpg&quot; alt=&quot;How did we change the world&quot; title=&quot;How did we change the world&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;How did we change the world&lt;/small&gt;&lt;/p&gt;
 
@@ -269,7 +312,7 @@
 
 &lt;p&gt;And you? What are your company values? How do you plan to change the world? Share your opinion in the comments!&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Feb 2014 22:00:00 +0000</pubDate>
+        <pubDate>Sun, 23 Feb 2014 23:00:00 +0100</pubDate>
         <link>http://blog.marsbased.com//blog/2014/02/23/the-martians-conquer-the-startup-grind</link>
         <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/02/23/the-martians-conquer-the-startup-grind</guid>
       </item>
@@ -286,7 +329,7 @@
 
 &lt;p&gt;In our case, our start-up circle consists of four start-ups and a start-up-less entrepreneur. They are, in no particular order:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/post4-389c276322b59762ab2f05788fd9b35f.png&quot; alt=&quot;The Sagrada Família, in Barcelona, home of our start-up circle&quot; title=&quot;The Sagrada Família, in Barcelona, home of our start-up circle&quot; class=&quot;img-circle img-right img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/post4.png&quot; alt=&quot;The Sagrada Família, in Barcelona, home of our start-up circle&quot; title=&quot;The Sagrada Família, in Barcelona, home of our start-up circle&quot; class=&quot;img-circle img-right img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.fusetic.com/&quot; title=&quot;Fuse TIC's Website&quot; target=&quot;_blank&quot;&gt;Fuse TIC&lt;/a&gt;&lt;/li&gt;
@@ -322,7 +365,7 @@ Of course, there are more benefits in belonging to a start-up circle, but these 
 
 &lt;p&gt;If you want to read more about our start-up circle, follow us in our social profiles and we&amp;#39;ll keep you updated! Else, if you want to be a part of our start-up circle, drop us a line at &lt;a href=&quot;mailto:hola@marsbased.com&quot;&gt;hola@marsbased.com&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 07 Nov 2013 19:40:00 +0000</pubDate>
+        <pubDate>Thu, 07 Nov 2013 20:40:00 +0100</pubDate>
         <link>http://blog.marsbased.com//blog/2013/11/07/start-up-circle-barcelona</link>
         <guid isPermaLink="true">http://blog.marsbased.com//blog/2013/11/07/start-up-circle-barcelona</guid>
       </item>
@@ -339,7 +382,7 @@ Of course, there are more benefits in belonging to a start-up circle, but these 
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/post3-514d571a2983b536308587221f70f83c.png&quot; alt=&quot;Planet Success&quot; title=&quot;Planet Success&quot; class=&quot;img-center img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/post3.png&quot; alt=&quot;Planet Success&quot; title=&quot;Planet Success&quot; class=&quot;img-center img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;These changes – model, company name, organization, software, project typology, etc. – shouldn&amp;#39;t be seen as strange in young companies. On the contrary: they&amp;#39;re necessary.&lt;/p&gt;
 
@@ -359,7 +402,7 @@ Of course, there are more benefits in belonging to a start-up circle, but these 
 
 &lt;p&gt;They&amp;#39;re our inspiration, and this is our way to thank them.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 12 Oct 2013 13:08:00 +0000</pubDate>
+        <pubDate>Sat, 12 Oct 2013 15:08:00 +0200</pubDate>
         <link>http://blog.marsbased.com//blog/2013/10/12/continuous-leaning-todo</link>
         <guid isPermaLink="true">http://blog.marsbased.com//blog/2013/10/12/continuous-leaning-todo</guid>
       </item>
@@ -376,7 +419,7 @@ Of course, there are more benefits in belonging to a start-up circle, but these 
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/post2-8eb5464e263e88e23d8541a60fb74eb0.png&quot; alt=&quot;Some of our favourite recipes!&quot; title=&quot;Some of our favourite recipes!&quot; class=&quot;img-center img-responsive&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/post2.png&quot; alt=&quot;Some of our favourite recipes!&quot; title=&quot;Some of our favourite recipes!&quot; class=&quot;img-center img-responsive&quot; /&gt;
 &lt;small class=&quot;caption&quot;&gt;&lt;em&gt;Some of our favourite recipes!&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;If you want to try Cookin.me, you will need to wait a little longer. We&amp;#39;re currently finishing the development, and completely changing the way it looks. We are adapting to the newest and trendiest &lt;em&gt;look&amp;amp;feels&lt;/em&gt; and opted for a flat design.&lt;/p&gt;
@@ -406,7 +449,7 @@ Of course, there are more benefits in belonging to a start-up circle, but these 
 
 &lt;p&gt;PS: Actually, the Cookin.me roadmap is quite clear, but we would definitely love to hear your thoughts on that. Got a nice idea for it? Tell us and we might include it as a feature, and you will be eligible for being a beta tester! Use our social profiles or &lt;a href=&quot;mailto:hola@marsbased.com&quot;&gt;send us an e-mail&lt;/a&gt; like it&amp;#39;s still 1994!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Sep 2013 15:21:00 +0000</pubDate>
+        <pubDate>Fri, 20 Sep 2013 17:21:00 +0200</pubDate>
         <link>http://blog.marsbased.com//blog/2013/09/20/cookin-recipes-want</link>
         <guid isPermaLink="true">http://blog.marsbased.com//blog/2013/09/20/cookin-recipes-want</guid>
       </item>
@@ -421,7 +464,7 @@ Of course, there are more benefits in belonging to a start-up circle, but these 
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/post1-4a0b21637aa05a86d56ed7f4ddae289c.png&quot; alt=&quot;Rocket Launch&quot; title=&quot;Rocket Launch&quot; class=&quot;img-circle img-right img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/post1.png&quot; alt=&quot;Rocket Launch&quot; title=&quot;Rocket Launch&quot; class=&quot;img-circle img-right img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Commencing countdown (five), engines on (four). (three) (two) Check ignition (one) and may God&amp;#39;s (blastoff) love be with you.&lt;/em&gt;&lt;/p&gt;
 
@@ -440,7 +483,7 @@ Of course, there are more benefits in belonging to a start-up circle, but these 
 
 &lt;p&gt;Now it&amp;#39;s time for us to choose our travel companions, so you are all welcome on board. Join the MarsBased crew on this adventure!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 07 Sep 2013 16:19:00 +0000</pubDate>
+        <pubDate>Sat, 07 Sep 2013 18:19:00 +0200</pubDate>
         <link>http://blog.marsbased.com//blog/2013/09/07/take-offs-and-landings</link>
         <guid isPermaLink="true">http://blog.marsbased.com//blog/2013/09/07/take-offs-and-landings</guid>
       </item>
