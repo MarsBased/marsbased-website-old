@@ -23,6 +23,9 @@ We did this tour of the app amidst other very interesting presentations on the e
 
 Startup Grind is always open to the community, and anybody is entitled to present their interesting projects to the entrepreneurial community.
 
+<img src="/images/blog/post10b.png" alt="Xavier Redó presenting the Barcelona Startup Map" title="Xavier Redó presenting the Barcelona Startup Map" class="img-center img-rounded img-responsive" />
+<p class="text-center img-footer"><small>Xavier Redó, our CTO, presenting the Barcelona Startup Map</small></p>
+
 ###By the community, for the community###
 
 Barcelona Startup Map was first conceived as a tool to enable all the actors in the entrepreneurial ecosystem of Barcelona to interact with each other, by being able to find one another in a map.
