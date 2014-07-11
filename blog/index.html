@@ -28,7 +28,7 @@ code: blog
 
     {% for page in (1..paginator.total_pages) %}
       {% if page == paginator.page %}
-        
+
         <li class="active"><a href="#">{{ page }}</a></li>
 
       {% elsif page == 1 %}

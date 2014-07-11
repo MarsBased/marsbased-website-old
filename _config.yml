@@ -14,3 +14,4 @@ assets:
 excerpt_separator: <!--more-->
 paginate: 10
 paginate_path: "blog/page:num"
+baseurl: '/'
