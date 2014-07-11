@@ -5,7 +5,7 @@ date:   2014-03-04 01:17:00
 categories: MarsBased Startup Business
 ---
 
-*Captain's log, stardate d470.y35/AB*
+*Captain's log, stardate {{page.date | martian_date}}*
 
 We're often asked *"what do you guys do at MarsBased?"* when we're out there promoting our start-up. While it might get repetitive after a few hundred times, it gets never tiring: it helps us to perfect the answer. And actually, it's been a good proof that we were not conveying our message clearly enough through our communication channels.
 

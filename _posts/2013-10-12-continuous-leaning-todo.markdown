@@ -5,7 +5,7 @@ date:   2013-10-12 13:08:00
 categories: MarsBased Startup
 ---
 
-*Captain's log, stardate d331.y35/AB*
+*Captain's log, stardate {{page.date | martian_date}}*
 
 Cheers to everybody that has been reading us for a couple of posts as of now. It feels really good to know there's *someone out there*.
 

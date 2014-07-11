@@ -5,7 +5,7 @@ date:   2014-06-09 19:00:00
 categories: MarsBased
 ---
 
-*Captain's log, stardate d564.y35/AB*
+*Captain's log, stardate {{page.date | martian_date}}*
 
 We are very happy to announce that two days ago we launched our biggest project to date. Together with the Barcelona City Hall and Barcelona Activa - the executive tool of the Economic Development policies of the Barcelona City Council - we launched <a href="http://bcn.cat/bcnstartupmap" title="Barcelona Startup Map" target="_blank">Barcelona Startup Map</a>.
 

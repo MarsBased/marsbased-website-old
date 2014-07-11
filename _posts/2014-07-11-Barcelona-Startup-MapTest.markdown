@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Barcelona Startup Map (part 2)"
-date:   2014-07-01 10:00:00
+title:  "Barcelona Startup Map (test)"
+date:   2014-07-11 10:00:00
 categories: MarsBased
 ---
 

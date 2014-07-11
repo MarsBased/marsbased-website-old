@@ -5,7 +5,7 @@ date:   2014-02-23 22:00:00
 categories: MarsBased Startup
 ---
 
-*Captain's log, stardate d461.y35/AB*
+*Captain's log, stardate {{page.date | martian_date}}*
 
 It's been two weeks since we attended the famous <a href="http://startupgrind.com/2014" title="Startup Grind" target="_blank">Startup Grind</a> Global Summit in Mountain View, California, and we already look forward to next year's edition!
 

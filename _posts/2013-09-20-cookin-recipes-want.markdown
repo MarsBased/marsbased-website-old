@@ -5,7 +5,7 @@ date:   2013-09-20 15:21:00
 categories: MarsBased Startup Blog Cookin.me
 ---
 
-*Captain's log, stardate d623.y35/AB*
+*Captain's log, stardate {{page.date | martian_date}}*
 
 So some of you want to know what's going on in the MarsBased headquarters, right? We can not reveal much, but we can tell you we're indeed *cookin'* something!
 

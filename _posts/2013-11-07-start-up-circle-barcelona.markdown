@@ -5,7 +5,7 @@ date:   2013-11-07 19:40:00
 categories: MarsBased Startup
 ---
 
-*Captain's log, stardate d356.y35/AB*
+*Captain's log, stardate {{page.date | martian_date}}*
 
 So the start-up circle we've been talking about on Twitter is already working! It's a small step for the start-up community in Barcelona, but a huge step for MarsBased!
 

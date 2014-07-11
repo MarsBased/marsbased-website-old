@@ -5,7 +5,7 @@ date:   2014-03-24 23:59:00
 categories: MarsBased Startup Business
 ---
 
-*Captain's log, stardate d489.y35/AB*
+*Captain's log, stardate {{page.date | martian_date}}*
 
 *Disclaimer: long (and nerdy) post ahead.*
 

@@ -5,7 +5,7 @@ date:   2014-03-30 14:00:00
 categories: MarsBased
 ---
 
-*Captain's log, stardate d495.y35/AB*
+*Captain's log, stardate {{page.date | martian_date}}*
 
 This week has been definitely a turning point in the life of MarsBased. Coincidentally, we also celebrated our first MarsBased birthday.
 

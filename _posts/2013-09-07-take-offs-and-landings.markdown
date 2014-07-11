@@ -5,7 +5,7 @@ date:   2013-09-07 16:19:00
 categories: MarsBased Startup
 ---
 
-*Captain's log, stardate d297.y35/AB*
+*Captain's log, stardate {{page.date | martian_date}}*
 
 Today is the day. This blog celebrates its first post and after it the whole MarsBased machinery is taking off.
 
