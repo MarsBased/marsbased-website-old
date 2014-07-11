@@ -11,7 +11,7 @@ categories: MarsBased
 
 On Friday, 13th we attended the first Startup Grind Barcelona event held in the Mobile World Centre, right in the heart of Barcelona. As you might already know, we’re the technological partner of Startup Grind Barcelona (check out their <a href="http://startupgrind.cat/" title="Startup Grind Barcelona's website" target="_blank">website</a>!).
 
-There, our soon-to-be-disclosed CTO presented our latest project: <a href="http://bcn.cat/bcnstartupmap" title="Barcelona Startup Map" target="_blank">Barcelona Startup Map</a>. Here’s some impressions!
+There, our CTO, Xavi, presented our latest project: <a href="http://bcn.cat/bcnstartupmap" title="Barcelona Startup Map" target="_blank">Barcelona Startup Map</a>. Here’s some impressions!
 
 <!--more-->
 
