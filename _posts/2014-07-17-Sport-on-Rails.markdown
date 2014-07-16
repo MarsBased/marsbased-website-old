@@ -43,7 +43,7 @@ The event was well received within the community and we’re planning to do it a
 
 Unlike rock bands, startups are not famous for their groupies (more for their lack thereof), at least in their early stages. Hence, no pictures were taken during the match!
 
-We’re planning the next edition for the coming weeks, with our brothers from <a href="http://www.dineyo.com" title="Dineyo" target="_blank">Dineyo</a>, <a target="http://www.nektria.com" title="Nektria" target="_blank">Nektria</a>, <a href="http://www.lemon8media.com/" title="Lemon8 website" target="_blank"> Lemon8</a> and the rest of the Startup Circle people.
+We’re planning the next edition for the coming weeks, with our brothers from <a href="http://www.dineyo.com" title="Dineyo" target="_blank">Dineyo</a>, <a href="http://www.nektria.com" title="Nektria" target="_blank">Nektria</a>, <a href="http://www.lemon8media.com/" title="Lemon8 website" target="_blank"> Lemon8</a> and the rest of the Startup Circle people.
 
 Wanna join? Shoot an e-mail at <a href="mailto:hola@marsbased.com" title="Mailto MarsBased" target="_blank">hola@marsbased.com</a>
 
