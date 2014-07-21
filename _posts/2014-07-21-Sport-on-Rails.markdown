@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sport on Rails - How Do We Keep Fit At MarsBased"
-date:   2014-07-17 00:27:00
+date:   2014-07-21 21:00:00
 categories: MarsBased Startup Sport Health Fitness Entrepreneurship StartupCircle
 ---
 
@@ -32,6 +32,9 @@ Because we wanted to encourage a healthier lifestyle within the company, last mo
 Using <a href="http://www.runkeeper.com" title="Runkeeper" target="_blank">Runkeeper</a> as a tracking app, we track each other’s timings to compete. This way, we motivate each other to go jogging just for fun, and to avoid the shame of finishing in the last position.
 
 The winner doesn’t get rewarded and the loser doesn’t get punished or mocked. We do it for fun, and it actually is a good excuse to get adrenaline flowing before going into a concentration phase or burning all the calories ingested in *that* business lunch.
+
+<img src="/images/blog/post11.png" alt="The MarsBased shoes" title="The MarsBased shoes" class="img-center img-circle img-responsive" />
+<p class="text-center img-footer"><small>Not the best shoes for running, but gotta be corporate!</small></p>
 
 ###Sport outside the company###
 
