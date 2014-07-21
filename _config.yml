@@ -1,6 +1,6 @@
 name: MarsBased
 description: "MarsBased, a development start-up from Barcelona. Mobile and web-applications with effective designs and the latest technologies."
-url: "http://blog.marsbased.com"
+url: "http://www.marsbased.com"
 markdown: redcarpet
 highlighter: true
 permalink: /blog/:year/:month/:day/:title
