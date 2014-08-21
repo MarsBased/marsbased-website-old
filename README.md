@@ -6,12 +6,11 @@ couple of them we keep the *master* branch as our development branch and the
 *gh-pages* branch as the deploy branch with only static content.
 
 ## Who we are?
-MarsBased is an offshore development start-up that has two main business lines: We create our own products and we can be hired to develop mobile or web apps that meet your needs.
+MarsBased is an application development company highly specialized in Ruby on Rails, based in Barcelona.
 
+We build our apps using Ruby on Rails, AngularJS, HTML5, CSS3, Bootstrap, Elastic search and other awesome state-of-the-art technologies, while applying agile development methodologies. With all these tools under our belt, we can build a killer app for you!
 
-We mostly work with Ruby on Rails, AngularJS, HTML5, CSS3, Bootstrap, Elastic search and other similarly awesome technologies to develop our apps. Only using the best tools can we build our killer applications!
-
-Largely inspired by 37Signals' books "Rework", "Remote" and "Getting real", we're a lean start-up that relies on basic principles when developing: Simpler is better, working remotely and the usage of agile development methodologies to get things going.
+We are a development company with the DNA of a startup. Largely inspired by the Lean Startup methodology, we craft our applications the artisan way while getting involved with your company, building elegant and high-quality solutions. More than a provider, we become your partner all throughout the project.
 
 If you want us to develop for you, send us an e-mail with your idea and we will contact you ASAP.
 

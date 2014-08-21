@@ -19,7 +19,7 @@ code: sitemap
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.marsbased.com/resources</loc>
+    <loc>http://www.marsbased.com/about</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
@@ -35,11 +35,5 @@ code: sitemap
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://support.marsbased.com</loc>
-    <lastmod>{{ site.time | date:"%F" }}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
   </url>
 </urlset>

@@ -14,3 +14,16 @@
  *= require cookiecuttr
  *= require style
  */
+
+.modal-header {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.modal-header .close {
+  color: #ffffff;
+}
+
+.about .faces img{
+	width: 100px;
+}
