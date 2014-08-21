@@ -27,7 +27,7 @@ I also added to the list some developer bootcamps, completely ignoring the fact 
 
 ###Time Flies###
 
-After some months of chatting back and forth, I received an email from them asking for collaborators for their summer edition in Barcelona. We were invited to know them in person, at <a href="http://mob-barcelona.com/" title="Makers of Barcelona" target="_blank">MOB</a>and introduced to their team assistants and guest teachers: top Ruby and Javascript developers, working for Xing, Spotify and other leading companies.
+After some months of chatting back and forth, I received an email from them asking for collaborators for their summer edition in Barcelona. We were invited to know them in person, at <a href="http://mob-barcelona.com/" title="Makers of Barcelona" target="_blank">MOB</a>, and introduced to their team assistants and guest teachers: top Ruby and Javascript developers, working for Xing, Spotify and other leading companies.
 
 The IronHack bootcamp runs for two months with full dedication to learning coding: Rails, AngularJS, Javascript and what it takes to create state-of-the-art webapps. After their daily dose of programming, the session is completed with talks regarding different subjects: branding, accounting, marketing and all kinds of useful stuff. We were asked to provide two talks.
 
@@ -39,7 +39,7 @@ Because I know that most people there are passionate about web applications and 
 
 I used Prezi to create a motivational presentation using their fantastic Space template (fits perfectly with our Martian imagery) and rallied the troops to go out and create their startup right NOW.
 
-<img src="/images/blog/post12a.jpg" alt="Àlex presenting at IronHack" title="Àlex presenting at IronHack" class="img-center img-circle img-responsive" />
+<img src="/images/blog/post12a.jpg" alt="Àlex presenting at IronHack" title="Àlex presenting at IronHack" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>Warning! The presentation contains profanity!</small></p>
 
 <a href="http://prezi.com/ttqvo8ssl6ew/create-your-company-from-out-of-this-world/" title="Prepare your business to sky-rocket" target="_blank">Get the presentation here.</a>
@@ -48,7 +48,7 @@ I used Prezi to create a motivational presentation using their fantastic Space t
 
 Two weeks later, Xavi provided a largely comprehensive talk on how to build large web applications to be easily maintainable. While the presentation dealt mostly with Rails best practices, it contained a fair share of <a href="http://www.urbandictionary.com/define.php?term=lulz&defid=2539255" title="Definition of lulz" target="_blank">lulz</a>. At MarsBased we enforce the use of meme-driven presentations.
 
-<img src="/images/blog/post12b.jpg" alt="Xavi presenting at IronHack" title="Xavi presenting at IronHack" class="img-center img-circle img-responsive" />
+<img src="/images/blog/post12b.jpg" alt="Xavi presenting at IronHack" title="Xavi presenting at IronHack" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>Meme-driven technical presentation!</small></p>
 
 <a href="https://dl.dropboxusercontent.com/u/12625879/MarsBased/Ironhack%20presentation.pdf" title="Bulding Large Webapps That Are Easy to Maintain" target="_blank">Get the presentation here.</a>
