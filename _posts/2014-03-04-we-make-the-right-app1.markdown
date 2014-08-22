@@ -2,6 +2,7 @@
 layout: post
 title:  "We make the right app for you (part 1)"
 date:   2014-03-04 01:17:00
+author: alex
 categories: MarsBased Startup Business
 ---
 
@@ -9,11 +10,11 @@ categories: MarsBased Startup Business
 
 We're often asked *"what do you guys do at MarsBased?"* when we're out there promoting our start-up. While it might get repetitive after a few hundred times, it gets never tiring: it helps us to perfect the answer. And actually, it's been a good proof that we were not conveying our message clearly enough through our communication channels.
 
+<!--more-->
+
 The answer to that question is plain simple: *We make the right app for you*.
 
 Because we wanted to work for other companies as well as developing our own apps, we applied the lean techniques we wrote about in a <a href="/blog/2013/10/12/continuous-leaning-todo" title="Blog entry about lean start-ups" target="_blank">previous entry</a>, changed our motto to "we make the right app for you", and started the search for freelancing projects at MarsBased.
-
-<!--more-->
 
 ###Getting to know each other: The exchange###
 

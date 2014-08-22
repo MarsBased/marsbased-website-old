@@ -2,6 +2,7 @@
 layout: post
 title:  "Fail. Learn. Change. Evolve."
 date:   2013-10-12 13:08:00
+author: alex
 categories: MarsBased Startup
 ---
 
@@ -11,9 +12,9 @@ Cheers to everybody that has been reading us for a couple of posts as of now. It
 
 We're a starting company, and we're still learning how to do things and in which order, so you might expect some changes in the coming months. Hopefully, they're all for the better.
 
-That being said, we want to share a few thoughts about how we've worked in the first months since MarsBased was created. Yes, in fact, we have been *leaning*. <a href="http://en.wikipedia.org/wiki/Lean_Startup" title="Wikipedia definition of lean startup" target="_blank">More info on leaning startups here</a>.
-
 <!--more-->
+
+That being said, we want to share a few thoughts about how we've worked in the first months since MarsBased was created. Yes, in fact, we have been *leaning*. <a href="http://en.wikipedia.org/wiki/Lean_Startup" title="Wikipedia definition of lean startup" target="_blank">More info on leaning startups here</a>.
 
 <img src="/images/blog/post3.png" alt="Planet Success" title="Planet Success" class="img-center img-responsive" />
 

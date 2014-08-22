@@ -2,12 +2,11 @@
 layout: post
 title:  "Barcelona Startup Map (part 2)"
 date:   2014-07-01 10:00:00
+author: alex
 categories: MarsBased
 ---
 
 *Captain's log, stardate {{page.date | martian_date}}*
-
-###The Martians attend Startup Grind Barcelona###
 
 On Friday, 13th we attended the first Startup Grind Barcelona event held in the Mobile World Centre, right in the heart of Barcelona. As you might already know, we’re the technological partner of Startup Grind Barcelona (check out their <a href="http://startupgrind.cat/" title="Startup Grind Barcelona's website" target="_blank">website</a>!).
 
@@ -15,7 +14,7 @@ There, our CTO, Xavi, presented our latest project: <a href="http://bcn.cat/bcns
 
 <!--more-->
 
-###The event###
+###The Martians attend Startup Grind Barcelona###
 
 More than 50 people witnessed the presentation of the map. First time entrepreneurs, long running freelancers, investors and a very diverse audience saw the possibilities of this webapp that connects the whole Barcelona Startup Ecosystem.
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Start-up circle in Barcelona"
 date:   2013-11-07 19:40:00
+author: alex
 categories: MarsBased Startup
 ---
 

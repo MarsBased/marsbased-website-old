@@ -2,6 +2,7 @@
 layout: post
 title:  "We make the right app for you (part 2)"
 date:   2014-03-24 23:59:00
+author: xavi
 categories: MarsBased Startup Business
 ---
 
@@ -11,11 +12,11 @@ categories: MarsBased Startup Business
 
 In our last entry we wrote about MarsBased's principles when working for other companies, because we have recently been hired to develop our first projects. In this entry, we are breaking down our tool belt.
 
+<!--more-->
+
 ###Front-end Development###
 
 MarsBased stands for innovation by using state-of-the-art technologies. HTML5, CSS3 and both Javascript and front-end frameworks - such as <a href="http://getbootstrap.com/" title="Bootstrap" target="_blank">Bootstrap</a> or <a href="http://angularjs.org/" title="AngularJS" target="_blank">AngularJS</a> - allow us to deliver responsive and highly dynamic websites with an unparalleled User Experience.
-
-<!--more-->
 
 <img src="/images/blog/post6.png" alt="The MarsBased Tech Stack" title="The MarsBased Tech Stack" class="img-right img-responsive" />
 
@@ -38,7 +39,7 @@ We have adopted two popular ruby frameworks for our testing needs. With <a title
 For more specific projects, we have a flexible tool belt. According to every project's needs, we've got a broad set of technologies at hand to give our clients exactly what they need:
 
 * <a title="ElasticSearch" href="http://www.elasticsearch.org">ElasticSearch</a>: For indexing and searching through our client data without affecting performance.
-* <a title="Sidekiq" href="http://sidekiq.org">Sidekiq</a>: Handy when there's a lot of background processing jobs - like image and video transformations, web crawling or big data processing. 
+* <a title="Sidekiq" href="http://sidekiq.org">Sidekiq</a>: Handy when there's a lot of background processing jobs - like image and video transformations, web crawling or big data processing.
 * <a title="Memcached" href="http://memcached.org">Memcached</a>: Caches almost every little part of a web application to achieve blazing fast responses, thus keeping response times low.
 * <a title="Redis" href="http://redis.io">Redis</a>: Manages big amounts of volatile data faster than any relational database can.
 
@@ -56,7 +57,7 @@ At MarsBased we know that sometimes things might go wrong. Most of the times, th
 
 Our servers run very different services that need to be monitored (Nginx, MySQL, Elasticsearch… just to name a few!), so we use <a title="Monit" href="http://mmonit.com/monit/">Monit</a> to rule them all. Monit sends notifications whenever there is a risk of something failing such as a service being too loaded. It actually allows us to act proactively before any errors arise. But if a service goes down, Monit automatically tries to start it to minimize the downtime as much as possible.
 
-Although Monit itself is very impressive, we also use another error-tracking tool very known by the Ruby community. Airbrake is an exception reporting service <a title="Airbrake" href="https://airbrake.io/">trusted by over 40k customers</a>, now seamlessly integrated with our tech stack. Simply put, if anyone using our web applications comes across an error message, we'll get a notification in our cell phones with the details of the error in less than a minute. 
+Although Monit itself is very impressive, we also use another error-tracking tool very known by the Ruby community. Airbrake is an exception reporting service <a title="Airbrake" href="https://airbrake.io/">trusted by over 40k customers</a>, now seamlessly integrated with our tech stack. Simply put, if anyone using our web applications comes across an error message, we'll get a notification in our cell phones with the details of the error in less than a minute.
 
 Nothing is more satisfying than spotting and solving bugs before users have even time to report them.
 

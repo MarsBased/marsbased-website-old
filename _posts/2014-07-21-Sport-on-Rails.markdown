@@ -2,6 +2,7 @@
 layout: post
 title:  "Sport on Rails - How Do We Keep Fit At MarsBased"
 date:   2014-07-21 21:00:00
+author: alex
 categories: MarsBased Startup Sport Health Fitness Entrepreneurship StartupCircle
 ---
 

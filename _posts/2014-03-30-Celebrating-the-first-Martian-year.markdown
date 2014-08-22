@@ -2,6 +2,7 @@
 layout: post
 title:  "Celebrating the first Martian year"
 date:   2014-03-30 14:00:00
+author: alex
 categories: MarsBased
 ---
 
@@ -9,16 +10,16 @@ categories: MarsBased
 
 This week has been definitely a turning point in the life of MarsBased. Coincidentally, we also celebrated our first MarsBased birthday.
 
-It's been truly memorable: not only did we enjoy a delicious cake commemorating the first year of the Martian family, but we sealed the biggest project to date for MarsBased, too. 
+It's been truly memorable: not only did we enjoy a delicious cake commemorating the first year of the Martian family, but we sealed the biggest project to date for MarsBased, too.
+
+<!--more-->
 
 <img src="/images/blog/post8a.png" alt="The Mars Cake" title="The Mars Cake" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>The countdown on the cake is over, time to take-off</small></p>
 
 Most of our first year, we spend it building our portfolio and tools such as Cookin.me, which we are releasing as open source in an alpha phase. The last few months, however, we devoted our time to work for other companies building apps and killer websites for them. Our customers are happy, and so are we.
 
-<!--more-->
-
-In one year we have sealed projects abroad, attended some big events and, as MarsBased completed some important goals, we've learned and had fun along the way. On a funnier side, we've received job applications before we had any projects, we got the Nigerian prince scam, and two companies even tried to acquire MarsBased. 
+In one year we have sealed projects abroad, attended some big events and, as MarsBased completed some important goals, we've learned and had fun along the way. On a funnier side, we've received job applications before we had any projects, we got the Nigerian prince scam, and two companies even tried to acquire MarsBased.
 
 To celebrate this first anniversary, we want to share some of our best moments with you.
 
@@ -40,7 +41,7 @@ In these months, we've gotten to know amazing companies such as <a href="http://
 
 ###And now, onto the second year!###
 
-So where are we now? As we speak, we're probably in three different geographical points in Catalonia. That's how we work: we might not necessarily know where the others are, but we know we're always there. Work-wise, however, we are 100% sure of where we stand: we're set to work on our biggest project to date, while putting the final touches to our most recent projects. 
+So where are we now? As we speak, we're probably in three different geographical points in Catalonia. That's how we work: we might not necessarily know where the others are, but we know we're always there. Work-wise, however, we are 100% sure of where we stand: we're set to work on our biggest project to date, while putting the final touches to our most recent projects.
 
 In the last few months, we have become a more mature company with clear roles & responsibilities. We have transitioned from being a product company to selling our services and our expertise. Our focus is now set on understanding the customer's needs and making our vision converge with theirs to get to the heart of the project.
 

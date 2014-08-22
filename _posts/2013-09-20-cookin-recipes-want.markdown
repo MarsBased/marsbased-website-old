@@ -2,6 +2,7 @@
 layout: post
 title:  "Cookin.me: where all your recipes want to be!"
 date:   2013-09-20 15:21:00
+author: alex
 categories: MarsBased Startup Blog Cookin.me
 ---
 
@@ -11,9 +12,9 @@ So some of you want to know what's going on in the MarsBased headquarters, right
 
 Let us introduce you to "Cookin.me". Cookin.me is our soon-to-be first product, consisting in a web application for managing cooking recipes.
 
-Cookin.me features an easy, clean and intuitive user interface that will help you organize your cooking recipes the way you want: create cookbooks and move recipes between them. The smooth transitions provide a pleasant experience when combined with in-line editing. You will breeze through your recipes collection!
-
 <!--more-->
+
+Cookin.me features an easy, clean and intuitive user interface that will help you organize your cooking recipes the way you want: create cookbooks and move recipes between them. The smooth transitions provide a pleasant experience when combined with in-line editing. You will breeze through your recipes collection!
 
 <img src="/images/blog/post2.png" alt="Some of our favourite recipes!" title="Some of our favourite recipes!" class="img-center img-responsive" />
 <small class="caption">*Some of our favourite recipes!*</small>

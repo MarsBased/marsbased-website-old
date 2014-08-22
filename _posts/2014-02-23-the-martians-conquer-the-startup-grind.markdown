@@ -2,6 +2,7 @@
 layout: post
 title:  "The Martians conquer the Startup Grind"
 date:   2014-02-23 22:00:00
+author: alex
 categories: MarsBased Startup
 ---
 
@@ -11,9 +12,9 @@ It's been two weeks since we attended the famous <a href="http://startupgrind.co
 
 If you are not familiar with the <a href="http://startupgrind.com/" title="Startup Grind" target="_blank">Startup Grind</a>, it's a recurring monthly event that aims to educate, inspire and connect entrepreneurs worldwide. The Startup Grind is a growing community in over 70 cities in 30 different countries, powered by <a href="http://www.google.com/entrepreneurs/" title="Google for Entrepreneurs" target="_blank">Google for Entrepreneurs</a>.
 
-People coming from all over the world travelled all the way to Mountain View to represent their start-ups or businesses. Investors, CEOs, developers, marketers, hackers, and all sorts of entrepreneurs attended the gathered in the <a href="http://www.computerhistory.org/" title="Computer History Musem" target="_blank">Computer History Musem</a>, that hosted the event.
-
 <!--more-->
+
+People coming from all over the world travelled all the way to Mountain View to represent their start-ups or businesses. Investors, CEOs, developers, marketers, hackers, and all sorts of entrepreneurs attended the gathered in the <a href="http://www.computerhistory.org/" title="Computer History Musem" target="_blank">Computer History Musem</a>, that hosted the event.
 
 There, we learnt the three Startup Grind principles:
 
@@ -56,7 +57,7 @@ The Startup Grind guys came with a very nice initiative: the world-changing wall
 
 MarsBased is composed by three Martians driven to change the consultancy world for the better. We want to make consultancy friendly, fun, and down-to-earth.
 
-The usage of lean techniques, agile development methodologies, the "simpler is better" philosophy and our charming presence are giving our consulting services a fresher touch. Our clients are already enjoying this closer approach. 
+The usage of lean techniques, agile development methodologies, the "simpler is better" philosophy and our charming presence are giving our consulting services a fresher touch. Our clients are already enjoying this closer approach.
 
 And you? What are your company values? How do you plan to change the world? Share your opinion in the comments!
 

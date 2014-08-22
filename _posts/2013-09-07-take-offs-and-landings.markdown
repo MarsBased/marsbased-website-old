@@ -2,6 +2,7 @@
 layout: post
 title:  "Take-offs and landings"
 date:   2013-09-07 16:19:00
+author: alex
 categories: MarsBased Startup
 ---
 

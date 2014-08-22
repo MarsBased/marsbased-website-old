@@ -2,6 +2,7 @@
 layout: post
 title:  "Barcelona Startup Map (part 1)"
 date:   2014-06-09 19:00:00
+author: alex
 categories: MarsBased
 ---
 
@@ -9,14 +10,16 @@ categories: MarsBased
 
 We are very happy to announce that two days ago we launched our biggest project to date. Together with the Barcelona City Hall and Barcelona Activa - the executive tool of the Economic Development policies of the Barcelona City Council - we launched <a href="http://bcn.cat/bcnstartupmap" title="Barcelona Startup Map" target="_blank">Barcelona Startup Map</a>.
 
+Want to know more about the app? Keep reading!
+
+<!--more-->
+
 ###We support the Barcelona local scene###
 
 <img src="/images/blog/post9a.png" alt="Barcelona Startup Map" title="Barcelona Startup Map" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>Barcelona Startup Map, The entrepreneurial ecosystem of Barcelona</small></p>
 
 Barcelona Startup Map is a web application that displays the current state of the Barcelona entrepreneurial ecosystem in a map. Through Barcelona Startup Map, you will be able to find, geolocate and add start-ups, investors, accelerators/incubators, talent centers and venues providing services to entrepreneurs.
-
-<!--more-->
 
 Barcelona Startup Map, like <a href="http://www.spainstartupmap.com/" title="SpainStartupMap" target="_blank">SpainStartupMap</a>, <a href="http://techbritain.com/" title="TechBritain" target="_blank">TechBritain</a>, <a href="http://www.mappedinisrael.com/" title="MappedInIsrael" target="_blank">MappedInIsrael</a> and similar initiatives, provides a quick overview of the resources available to entrepreneurs in a certain area or city. Simply, if investors want to know whether the Barcelona start-up scene is solid enough, they will load Barcelona Startup Map to get the picture. To help the visitor understand the mapped data quicker and further, we are adding infographics as more data is brought into the system.
 
