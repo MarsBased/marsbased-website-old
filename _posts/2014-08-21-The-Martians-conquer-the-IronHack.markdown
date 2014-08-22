@@ -6,12 +6,6 @@ author: alex
 categories: MarsBased Startup IronHack Development Bootcamp Entrepreneurship Barcelona Ruby Rails
 ---
 
-
-<div class="author-info">
-	{{page.author | post_author}}
-</div>
-
-
 *Captain's log, stardate {{page.date | martian_date}}*
 
 When we created MarsBased, we decided to be a social, outgoing and media-friendly company. We also wanted to help the community, to pay back what the community had helped us in the beginning.

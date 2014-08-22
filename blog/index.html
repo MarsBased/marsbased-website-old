@@ -9,6 +9,11 @@ code: blog
     <div class="col-xs-12 col-lg-10 col-lg-offset-1">
       <h1 class="text-center"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
       <h2 class="text-center">Posted on {{ post.date | date: '%B %d, %Y' }}</h2>
+        {% if post.author %}
+          <div class="author-info">
+            {{post.author | post_author}}
+          </div>
+        {% endif %}
     </div>
     <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
       {{ post.excerpt }}
@@ -16,8 +21,6 @@ code: blog
     </div>
   </div>
 {% endfor %}
-
-HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 {% if paginator.total_pages > 1 %}
 <div class="page-links">

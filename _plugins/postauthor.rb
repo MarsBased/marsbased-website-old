@@ -1,9 +1,11 @@
+# encoding: UTF-8
+
 module Jekyll
   module PostAuthorFilter
     def post_author(input)
 
-      img = '<img class="img-circle img-responsive" src="/images/blog/author.png"/>'
-      html_line = '<div id="author-by">by '
+      img = '<div class="avatar"><img class="img-circle" src="/images/blog/author.png"/></div>'
+      html_line = '<div class="author-by">Written by '
 
       if input == 'alex'
         html_line << 'Àlex Rodríguez (<a href="http://twitter.com/lexrodba" target="_blank" title="Àlex Rodríguez twitter handle">@lexrodba</a>)'

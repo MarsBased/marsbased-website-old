@@ -6,6 +6,11 @@ layout: default
   <div class="col-xs-12 col-lg-10 col-lg-offset-1">
     <h1 class="text-center">{{ page.title }}</h1>
     <h2 class="text-center">Posted on {{ page.date | date: '%B %d, %Y' }}</h2>
+    {% if page.author %}
+      <div class="author-info">
+        {{page.author | post_author}}
+      </div>
+    {% endif %}
   </div>
   <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
     {{ content }}
