@@ -2,8 +2,15 @@
 layout: post
 title:  "The Martians Conquer the IronHack"
 date:   2014-08-21 21:00:00
+author: alex
 categories: MarsBased Startup IronHack Development Bootcamp Entrepreneurship Barcelona Ruby Rails
 ---
+
+
+<div class="author-info">
+	{{page.author | post_author}}
+</div>
+
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
@@ -61,4 +68,3 @@ We definitely connected with the IronHack community and want to get more involve
 Did you meet us at IronHack? We would appreciate if you left some feedback in the comments section!
 
 Love from Mars.
-
