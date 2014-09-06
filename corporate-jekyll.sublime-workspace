@@ -28,92 +28,166 @@
 	"buffers":
 	[
 		{
-			"file": "_config.yml",
+			"contents": "about us -> team\ncanviar títol i metas\n\ntreure:\n-    <p>We develop software for a living: web and mobile apps, mostly based on Ruby on Rails, AngularJS and HTML5. We love it, and therefore we do it with a passion.</p>\n-    <p>As an offshore development start-up, you can hire us to create apps that meet your needs from every corner of this world. Coming soon to other planets!</p>\n-    <p>We haven't been around for long. In fact, it's been a few months since MarsBased was created, but we have a big expertise on app development because our previous work experiences.</p>\n-    <p>But enough talking about us! We want to hear your story, because everyone has one. We deeply believe that everyone should work on what they are passionate about! Focus on what you do best, and let us develop the perfect app for you.</p>\n\nficar:\n+    <p>We haven't been around for long, so you might want to get to know us. This is our team!</p>\n+    <div class=\"team-members\">\n+      <div class=\"faces\">\n+        <img class=\"img-circle about-img img-responsive\" src=\"/images/xavi.jpg\" title=\"Xavier Redó Cano\" alt=\"Xavier Redó Cano\" />\n+        <img class=\"img-circle about-img img-responsive\" src=\"/images/alex.png\" title=\"Àlex Rodríguez Bacardit\" alt=\"Àlex Rodríguez Bacardit\" />\n+        <img class=\"img-circle about-img img-responsive\" src=\"/images/alien.png\" title=\"Locked team member\" alt=\"Locked team member\" />\n+      </div>\n+      <div class=\"bios\">\n+\n+      </div>\n+\n+    </div>\n\n",
 			"settings":
 			{
-				"buffer_size": 580,
+				"buffer_size": 1472,
+				"line_ending": "Unix",
+				"name": "about us -> team"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 1600,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "README.md",
+			"file": "_plugins/postauthor.rb",
 			"settings":
 			{
-				"buffer_size": 1226,
+				"buffer_size": 991,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/addthis.html",
+			"file": "_assets/stylesheets/content.less",
 			"settings":
 			{
-				"buffer_size": 430,
+				"buffer_size": 9325,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/blog-info.html",
+			"contents": "---\nlayout: post\ntitle:  \"The Martians Conquer the IronHack\"\ndate:   2014-08-21 21:00:00\nauthor: alex\ncategories: MarsBased Startup IronHack Development Bootcamp Entrepreneurship Barcelona Ruby Rails\n---\n\n\n<div class=\"author-info\">\n	{{page.author | post_author}}\n</div>\n\n\n*Captain's log, stardate {{page.date | martian_date}}*\n\nWhen we created MarsBased, we decided to be a social, outgoing and media-friendly company. We also wanted to help the community, to pay back what the community had helped us in the beginning.\n\nIn the early stages of a company, this is however something hard to achieve. The first priorities should be creating the company, establishing an organized accounting culture and sales, and developing your product.\n\n<!--more-->\n\nOnce the cash comes in, and stabilizes the company, you can take some time to contribute back to the community. While it's not mandatory, it clearly helps developing a friendly attitude as a company.\n\nLately, we have been helping newcomers in the Ruby community.\n\n###Enter the IronHack###\n\nWhen we created the company, we compiled a list of the leading Ruby development shops we wanted to meet and learn from. We threw in a bunch of names such as <a href=\"http://thoughtbot.com/\" title=\"Thoughbot\" target=\"_blank\">Thoughtbot</a>, <a href=\"http://www.codegram.com/\" title=\"Codegram\" target=\"_blank\">Codegram</a>, <a href=\"http://plataformatec.com.br/\" title=\"Plataformatec\" target=\"_blank\">Plataformatec</a> and so on.\n\nLast December, when I embarked in <a href=\"http://startupoddity.ghost.io/meeting-san-francisco/\" title=\"Startup Oddity Blog\" target=\"_blank\">my trip to San Francisco</a>, I reached out to the all of them and got a fair share of replies, hence meeting the guys from <a href=\"http://thoughtbot.com/\" title=\"Thoughbot\" target=\"_blank\">Thoughtbot</a>, <a href=\"http://monterail.com/\" title=\"Monterail\" target=\"_blank\">Monterail</a>, <a href=\"http://prorubyteam.com/\" title=\"ProRuby\" target=\"_blank\">ProRuby</a>, just to name a few. All of them vowed to help us like they had been once helped, and gave us very useful pieces of advice. It was, indeed, a very promising start!\n\nI also added to the list some developer bootcamps, completely ignoring the fact that most of them work exclusively with top-class companies and developers. However, <a href=\"http://ironhack.com/\" title=\"IronHack\" target=\"_blank\">IronHack</a> replied back nonetheless.\n\n###Time Flies###\n\nAfter some months of chatting back and forth, I received an email from them asking for collaborators for their summer edition in Barcelona. We were invited to know them in person, at <a href=\"http://mob-barcelona.com/\" title=\"Makers of Barcelona\" target=\"_blank\">MOB</a>, and introduced to their team assistants and guest teachers: top Ruby and Javascript developers, working for Xing, Spotify and other leading companies.\n\nThe IronHack bootcamp runs for two months with full dedication to learning coding: Rails, AngularJS, Javascript and what it takes to create state-of-the-art webapps. After their daily dose of programming, the session is completed with talks regarding different subjects: branding, accounting, marketing and all kinds of useful stuff. We were asked to provide two talks.\n\n###First Talk: Create your Company NOW###\n\nI was honoured to give the first talk of the current edition.\n\nBecause I know that most people there are passionate about web applications and will end their IronHack program creating an app (because it's their final project), I thought it would be useful to motivate them. What if they didn't only program that app for IronHack? What if they could create a startup around it?\n\nI used Prezi to create a motivational presentation using their fantastic Space template (fits perfectly with our Martian imagery) and rallied the troops to go out and create their startup right NOW.\n\n<img src=\"/images/blog/post12a.jpg\" alt=\"Àlex presenting at IronHack\" title=\"Àlex presenting at IronHack\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Warning! The presentation contains profanity!</small></p>\n\n<a href=\"http://prezi.com/ttqvo8ssl6ew/create-your-company-from-out-of-this-world/\" title=\"Prepare your business to sky-rocket\" target=\"_blank\">Get the presentation here.</a>\n\n###Second Talk: Bulding Large Webapps That Are Easy to Maintain###\n\nTwo weeks later, Xavi provided a largely comprehensive talk on how to build large web applications to be easily maintainable. While the presentation dealt mostly with Rails best practices, it contained a fair share of <a href=\"http://www.urbandictionary.com/define.php?term=lulz&defid=2539255\" title=\"Definition of lulz\" target=\"_blank\">lulz</a>. At MarsBased we enforce the use of meme-driven presentations.\n\n<img src=\"/images/blog/post12b.jpg\" alt=\"Xavi presenting at IronHack\" title=\"Xavi presenting at IronHack\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Meme-driven technical presentation!</small></p>\n\n<a href=\"https://dl.dropboxusercontent.com/u/12625879/MarsBased/Ironhack%20presentation.pdf\" title=\"Bulding Large Webapps That Are Easy to Maintain\" target=\"_blank\">Get the presentation here.</a>\n\n###Future###\nThe feedback we received was so good that we were invited to an afterwork event on the rooftop of Betahaus, where we talked everything: from loving or hating TDD, to everyone's future plans or why Barcelona is the best city in the world.\n\nWe definitely connected with the IronHack community and want to get more involved in the coming editions to make more people love coding and Ruby on Rails. So far, we can say we will be mentoring at the next edition of IronHack in Barcelona!\n\nDid you meet us at IronHack? We would appreciate if you left some feedback in the comments section!\n\nLove from Mars.",
+			"file": "_posts/2014-08-21-The-Martians-conquer-the-IronHack.markdown",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 820,
+				"buffer_size": 5806,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/flip.html",
+			"file": "_posts/2014-07-21-Sport-on-Rails.markdown",
 			"settings":
 			{
-				"buffer_size": 8996,
+				"buffer_size": 5021,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/shared_navbar.html",
+			"file": "_posts/2014-07-01-Barcelona-Startup-Map2.markdown",
 			"settings":
 			{
-				"buffer_size": 437,
+				"buffer_size": 3195,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_layouts/default.html",
+			"file": "_posts/2014-06-09-Barcelona-Startup-Map1.markdown",
 			"settings":
 			{
-				"buffer_size": 2987,
+				"buffer_size": 5417,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "_posts/2014-03-30-Celebrating-the-first-Martian-year.markdown",
 			"settings":
 			{
-				"buffer_size": 5104,
+				"buffer_size": 5234,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "about/index.html",
+			"file": "_posts/2014-03-24-we-make-the-right-app2.markdown",
 			"settings":
 			{
-				"buffer_size": 2762,
+				"buffer_size": 7336,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_assets/stylesheets/application.css",
+			"file": "_posts/2014-03-04-we-make-the-right-app1.markdown",
 			"settings":
 			{
-				"buffer_size": 782,
+				"buffer_size": 3116,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2014-02-23-the-martians-conquer-the-startup-grind.markdown",
+			"settings":
+			{
+				"buffer_size": 4294,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2014-08-22-The-Martians-conquer-the-IronHack.markdown",
+			"settings":
+			{
+				"buffer_size": 5739,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2013-11-07-start-up-circle-barcelona.markdown",
+			"settings":
+			{
+				"buffer_size": 4109,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2013-10-12-continuous-leaning-todo.markdown",
+			"settings":
+			{
+				"buffer_size": 2923,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2013-09-20-cookin-recipes-want.markdown",
+			"settings":
+			{
+				"buffer_size": 3729,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2013-09-07-take-offs-and-landings.markdown",
+			"settings":
+			{
+				"buffer_size": 1796,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nBetter CoffeeScript:\n-------------------\n\n  # Better CoffeeScript changelog\n  \n  ```\n  IF YOU SEE THIS MESSAGE\n  Because you have updated the plugin,\n  you might need to restart Sublime Text\n  if the syntax highlighter stopped working.\n  ```\n  \n  ## Version 2.1\n  \n  ### May 2014 Log\n  * Have been doing little improvements with the help of community\n  * Pull requests are always welcome and appreciated.\n  * Looking for active maintainer, will give pointers for development!!!\n  \n  \n  \n  ## Version 2.0\n  \n  Version 2.0 is out!\n  \n  ### Log:\n  * New written Watch Mode.\n  * Line number tracking in Watch Mode.\n  * Toggle 2 columns when enabling Watch Mode.\n  * It is possible to compile with sourcemaps.\n  * Compile litcofee files.\n  * Auto-indent after `else\\n`.\n  * and other bugs fixes.\n  \n  \n  \n",
+			"settings":
+			{
+				"buffer_size": 851,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 75.0,
+		"height": 117.0,
 		"selected_items":
 		[
+			[
+				"chek",
+				"Git: Checkout Current File"
+			],
 			[
 				"check",
 				"Git: Checkout Current File"
@@ -139,7 +213,7 @@
 				"Git: Blame"
 			]
 		],
-		"width": 476.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -160,15 +234,27 @@
 	},
 	"file_history":
 	[
+		"/home/alex/project/marsbased-web/_assets/stylesheets/style.less",
+		"/home/alex/project/marsbased-web/_assets/stylesheets/content.less",
+		"/home/alex/project/marsbased-web/_layouts/post.html",
+		"/home/alex/project/marsbased-web/blog/index.html",
+		"/home/alex/project/marsbased-web/_config.yml",
+		"/home/alex/project/marsbased-web/README.md",
+		"/home/alex/project/marsbased-web/_includes/addthis.html",
+		"/home/alex/project/marsbased-web/_includes/blog-info.html",
+		"/home/alex/project/marsbased-web/_includes/flip.html",
+		"/home/alex/project/marsbased-web/_includes/shared_navbar.html",
+		"/home/alex/project/marsbased-web/_layouts/default.html",
+		"/home/alex/project/marsbased-web/index.html",
+		"/home/alex/project/marsbased-web/about/index.html",
+		"/home/alex/project/marsbased-web/_posts/2014-08-21-The-Martians-conquer-the-IronHack.markdown",
+		"/home/alex/project/marsbased-web/_assets/stylesheets/application.css",
 		"/home/alex/project/marsbased-web/_assets/stylesheets/bootstrap/bootstrap.css",
 		"/home/alex/project/marsbased-web/robots.txt",
 		"/home/alex/project/marsbased-web/sitemap.xml",
-		"/home/alex/project/marsbased-web/index.html",
 		"/home/alex/project/marsbased-web/_plugins/marsdate.rb",
 		"/home/alex/project/marsbased-web/_posts/2014-07-17-Sport-on-Rails.markdown",
-		"/home/alex/project/marsbased-web/_config.yml",
 		"/home/alex/project/marsbased-web/_posts/2014-07-11-Barcelona-Startup-MapTest.markdown",
-		"/home/alex/project/marsbased-web/blog/index.html",
 		"/home/alex/project/marsbased-web/_posts/2013-10-12-continuous-leaning-todo.markdown",
 		"/home/alex/project/marsbased-web/_posts/2014-07-01-Barcelona-Startup-Map2.markdown",
 		"/home/alex/project/marsbased-web/_posts/2014-06-09-Barcelona-Startup-Map1.markdown",
@@ -218,6 +304,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"marsdate",
+			"martian",
+			"blog-info.html",
 			"sagrada",
 			"modal",
 			"model",
@@ -245,31 +334,234 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 17,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 580,
+						"buffer_size": 1472,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1472,
+								1472
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
+							"auto_name": "about us -> team",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
-						"translation.x": 280.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1446,
+								1446
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_plugins/postauthor.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_assets/stylesheets/content.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8060,
+								8060
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8364.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_posts/2014-08-21-The-Martians-conquer-the-IronHack.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_posts/2014-07-21-Sport-on-Rails.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1346,
+								1346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_posts/2014-07-01-Barcelona-Startup-Map2.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_posts/2014-06-09-Barcelona-Startup-Map1.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								591,
+								591
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -277,20 +569,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "README.md",
+					"buffer": 8,
+					"file": "_posts/2014-03-30-Celebrating-the-first-Martian-year.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1226,
+						"buffer_size": 5234,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								679,
-								679
+								516,
+								516
 							]
 						],
 						"settings":
@@ -305,25 +597,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "_includes/addthis.html",
+					"buffer": 9,
+					"file": "_posts/2014-03-24-we-make-the-right-app2.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 430,
+						"buffer_size": 7336,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								471,
+								471
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -333,25 +625,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "_includes/blog-info.html",
+					"buffer": 10,
+					"file": "_posts/2014-03-04-we-make-the-right-app1.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 820,
+						"buffer_size": 3116,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								567,
-								567
+								561,
+								561
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -361,70 +653,40 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "_includes/flip.html",
+					"buffer": 11,
+					"file": "_posts/2014-02-23-the-martians-conquer-the-startup-grind.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8996,
+						"buffer_size": 4294,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8078,
-								8078
+								897,
+								897
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2669.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "_includes/shared_navbar.html",
-					"semi_transient": false,
+					"buffer": 12,
+					"file": "_posts/2014-08-22-The-Martians-conquer-the-IronHack.markdown",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 437,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								320,
-								320
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_layouts/default.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2987,
+						"buffer_size": 5739,
 						"regions":
 						{
 						},
@@ -437,39 +699,119 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "index.html",
+					"buffer": 13,
+					"file": "_posts/2013-11-07-start-up-circle-barcelona.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5104,
+						"buffer_size": 4109,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								508,
-								508
+								96,
+								96
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 663.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "_posts/2013-10-12-continuous-leaning-todo.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "_posts/2013-09-20-cookin-recipes-want.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								535,
+								535
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "_posts/2013-09-07-take-offs-and-landings.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1230,
+								1230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -479,61 +821,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "about/index.html",
+					"buffer": 17,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2762,
+						"buffer_size": 851,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1421,
-								1421
+								851,
+								851
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 51.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "_assets/stylesheets/application.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 782,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								754,
-								754
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
