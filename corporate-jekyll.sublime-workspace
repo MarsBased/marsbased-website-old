@@ -160,13 +160,21 @@
 			}
 		},
 		{
-			"contents": "---\nlayout: post\ntitle:  \"What have we learnt from our recruitment process\"\ndate:   2014-10-03 15:00:00\nauthor: alex\ncategories: MarsBased Startup Recruitment HR Development Employees CompanyCulture Entrepreneurship Barcelona Ruby Rails\n---\n\n*Captain's log, stardate {{page.date | martian_date}}*\n\nThings are looking good on the Martian spaceship. All the signs point to a bright future, if we analyse what we've accomplished in our short existence.\n\nIn the last month we have been involved in a pretty exhaustive research of our first signing.\n<!--more-->\n\nOnce the cash comes in, and stabilizes the company, you can take some time to contribute back to the community. While it's not mandatory, it clearly helps developing a friendly attitude as a company.\n\nLately, we have been helping newcomers in the Ruby community.\n\n###Enter the IronHack###\n\nWhen we created the company, we compiled a list of the leading Ruby development shops we wanted to meet and learn from. We threw in a bunch of names such as <a href=\"http://thoughtbot.com/\" title=\"Thoughbot\" target=\"_blank\">Thoughtbot</a>, <a href=\"http://www.codegram.com/\" title=\"Codegram\" target=\"_blank\">Codegram</a>, <a href=\"http://plataformatec.com.br/\" title=\"Plataformatec\" target=\"_blank\">Plataformatec</a> and so on.\n\nLast December, when I embarked in <a href=\"http://startupoddity.ghost.io/meeting-san-francisco/\" title=\"Startup Oddity Blog\" target=\"_blank\">my trip to San Francisco</a>, I reached out to the all of them and got a fair share of replies, hence meeting the guys from <a href=\"http://thoughtbot.com/\" title=\"Thoughbot\" target=\"_blank\">Thoughtbot</a>, <a href=\"http://monterail.com/\" title=\"Monterail\" target=\"_blank\">Monterail</a>, <a href=\"http://prorubyteam.com/\" title=\"ProRuby\" target=\"_blank\">ProRuby</a>, just to name a few. All of them vowed to help us like they had been once helped, and gave us very useful pieces of advice. It was, indeed, a very promising start!\n\nI also added to the list some developer bootcamps, completely ignoring the fact that most of them work exclusively with top-class companies and developers. However, <a href=\"http://ironhack.com/\" title=\"IronHack\" target=\"_blank\">IronHack</a> replied back nonetheless.\n\n###Time Flies###\n\nAfter some months of chatting back and forth, I received an email from them asking for collaborators for their summer edition in Barcelona. We were invited to know them in person, at <a href=\"http://mob-barcelona.com/\" title=\"Makers of Barcelona\" target=\"_blank\">MOB</a>, and introduced to their team assistants and guest teachers: top Ruby and Javascript developers, working for Xing, Spotify and other leading companies.\n\nThe IronHack bootcamp runs for two months with full dedication to learning coding: Rails, AngularJS, Javascript and what it takes to create state-of-the-art webapps. After their daily dose of programming, the session is completed with talks regarding different subjects: branding, accounting, marketing and all kinds of useful stuff. We were asked to provide two talks.\n\n###First Talk: Create your Company NOW###\n\nI was honoured to give the first talk of the current edition.\n\nBecause I know that most people there are passionate about web applications and will end their IronHack program creating an app (because it's their final project), I thought it would be useful to motivate them. What if they didn't only program that app for IronHack? What if they could create a startup around it?\n\nI used Prezi to create a motivational presentation using their fantastic Space template (fits perfectly with our Martian imagery) and rallied the troops to go out and create their startup right NOW.\n\n<img src=\"/images/blog/post12a.jpg\" alt=\"Àlex presenting at IronHack\" title=\"Àlex presenting at IronHack\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Warning! The presentation contains profanity!</small></p>\n\n<a href=\"http://prezi.com/ttqvo8ssl6ew/create-your-company-from-out-of-this-world/\" title=\"Prepare your business to sky-rocket\" target=\"_blank\">Get the presentation here.</a>\n\n###Second Talk: Bulding Large Webapps That Are Easy to Maintain###\n\nTwo weeks later, Xavi provided a largely comprehensive talk on how to build large web applications to be easily maintainable. While the presentation dealt mostly with Rails best practices, it contained a fair share of <a href=\"http://www.urbandictionary.com/define.php?term=lulz&defid=2539255\" title=\"Definition of lulz\" target=\"_blank\">lulz</a>. At MarsBased we enforce the use of meme-driven presentations.\n\n<img src=\"/images/blog/post12b.jpg\" alt=\"Xavi presenting at IronHack\" title=\"Xavi presenting at IronHack\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Meme-driven technical presentation!</small></p>\n\n<a href=\"https://dl.dropboxusercontent.com/u/12625879/MarsBased/Ironhack%20presentation.pdf\" title=\"Bulding Large Webapps That Are Easy to Maintain\" target=\"_blank\">Get the presentation here.</a>\n\n###Future###\nThe feedback we received was so good that we were invited to an afterwork event on the rooftop of Betahaus, where we talked everything: from loving or hating TDD, to everyone's future plans or why Barcelona is the best city in the world.\n\nWe definitely connected with the IronHack community and want to get more involved in the coming editions to make more people love coding and Ruby on Rails. So far, we can say we will be mentoring at the next edition of IronHack in Barcelona!\n\nDid you meet us at IronHack? We would appreciate if you left some feedback in the comments section!\n\nLove from Mars.",
-			"file": "_drafts/2014-08-22-The-Martians-conquer-the-IronHack.markdown",
+			"contents": "---\nlayout: post\ntitle:  \"What Have We Learnt From Our Recruitment Process\"\ndate:   2014-10-03 15:00:00\nauthor: alex\ncategories: MarsBased Startup Recruitment HR Development Employees CompanyCulture Entrepreneurship Barcelona Ruby Rails\n---\n\n*Captain's log, stardate {{page.date | martian_date}}*\n\nThings are looking good on the Martian spaceship. All the signs point to a bright future, if we analyse what we've accomplished in our short existence.\n\nIn the last month we have been involved in a pretty exhaustive research of our first signing.\n<!--more-->\n\nOnce the cash comes in, and stabilizes the company, you can take some time to contribute back to the community. While it's not mandatory, it clearly helps developing a friendly attitude as a company.\n\nLately, we have been helping newcomers in the Ruby community.\n\n###Enter the IronHack###\n\nWhen we created the company, we compiled a list of the leading Ruby development shops we wanted to meet and learn from. We threw in a bunch of names such as <a href=\"http://thoughtbot.com/\" title=\"Thoughbot\" target=\"_blank\">Thoughtbot</a>, <a href=\"http://www.codegram.com/\" title=\"Codegram\" target=\"_blank\">Codegram</a>, <a href=\"http://plataformatec.com.br/\" title=\"Plataformatec\" target=\"_blank\">Plataformatec</a> and so on.\n\nLast December, when I embarked in <a href=\"http://startupoddity.ghost.io/meeting-san-francisco/\" title=\"Startup Oddity Blog\" target=\"_blank\">my trip to San Francisco</a>, I reached out to the all of them and got a fair share of replies, hence meeting the guys from <a href=\"http://thoughtbot.com/\" title=\"Thoughbot\" target=\"_blank\">Thoughtbot</a>, <a href=\"http://monterail.com/\" title=\"Monterail\" target=\"_blank\">Monterail</a>, <a href=\"http://prorubyteam.com/\" title=\"ProRuby\" target=\"_blank\">ProRuby</a>, just to name a few. All of them vowed to help us like they had been once helped, and gave us very useful pieces of advice. It was, indeed, a very promising start!\n\nI also added to the list some developer bootcamps, completely ignoring the fact that most of them work exclusively with top-class companies and developers. However, <a href=\"http://ironhack.com/\" title=\"IronHack\" target=\"_blank\">IronHack</a> replied back nonetheless.\n\n###Time Flies###\n\nAfter some months of chatting back and forth, I received an email from them asking for collaborators for their summer edition in Barcelona. We were invited to know them in person, at <a href=\"http://mob-barcelona.com/\" title=\"Makers of Barcelona\" target=\"_blank\">MOB</a>, and introduced to their team assistants and guest teachers: top Ruby and Javascript developers, working for Xing, Spotify and other leading companies.\n\nThe IronHack bootcamp runs for two months with full dedication to learning coding: Rails, AngularJS, Javascript and what it takes to create state-of-the-art webapps. After their daily dose of programming, the session is completed with talks regarding different subjects: branding, accounting, marketing and all kinds of useful stuff. We were asked to provide two talks.\n\n###First Talk: Create your Company NOW###\n\nI was honoured to give the first talk of the current edition.\n\nBecause I know that most people there are passionate about web applications and will end their IronHack program creating an app (because it's their final project), I thought it would be useful to motivate them. What if they didn't only program that app for IronHack? What if they could create a startup around it?\n\nI used Prezi to create a motivational presentation using their fantastic Space template (fits perfectly with our Martian imagery) and rallied the troops to go out and create their startup right NOW.\n\n<img src=\"/images/blog/post12a.jpg\" alt=\"Àlex presenting at IronHack\" title=\"Àlex presenting at IronHack\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Warning! The presentation contains profanity!</small></p>\n\n<a href=\"http://prezi.com/ttqvo8ssl6ew/create-your-company-from-out-of-this-world/\" title=\"Prepare your business to sky-rocket\" target=\"_blank\">Get the presentation here.</a>\n\n###Second Talk: Bulding Large Webapps That Are Easy to Maintain###\n\nTwo weeks later, Xavi provided a largely comprehensive talk on how to build large web applications to be easily maintainable. While the presentation dealt mostly with Rails best practices, it contained a fair share of <a href=\"http://www.urbandictionary.com/define.php?term=lulz&defid=2539255\" title=\"Definition of lulz\" target=\"_blank\">lulz</a>. At MarsBased we enforce the use of meme-driven presentations.\n\n<img src=\"/images/blog/post12b.jpg\" alt=\"Xavi presenting at IronHack\" title=\"Xavi presenting at IronHack\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Meme-driven technical presentation!</small></p>\n\n<a href=\"https://dl.dropboxusercontent.com/u/12625879/MarsBased/Ironhack%20presentation.pdf\" title=\"Bulding Large Webapps That Are Easy to Maintain\" target=\"_blank\">Get the presentation here.</a>\n\n###Future###\nThe feedback we received was so good that we were invited to an afterwork event on the rooftop of Betahaus, where we talked everything: from loving or hating TDD, to everyone's future plans or why Barcelona is the best city in the world.\n\nWe definitely connected with the IronHack community and want to get more involved in the coming editions to make more people love coding and Ruby on Rails. So far, we can say we will be mentoring at the next edition of IronHack in Barcelona!\n\nDid you meet us at IronHack? We would appreciate if you left some feedback in the comments section!\n\nLove from Mars.",
+			"file": "_drafts/2014-08-22-What-Have-We-Learnt-From-Our-Recruitment-Process.markdown",
 			"file_size": 5741,
 			"file_write_time": 130531949147144503,
 			"settings":
 			{
 				"buffer_size": 5614,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_drafts/2014-10-09-The-MarsBased-Team-Grows-Bigger-The-Abduction.markdown",
+			"settings":
+			{
+				"buffer_size": 5900,
 				"line_ending": "Unix"
 			}
 		},
@@ -247,7 +255,9 @@
 		"/home/alex/project/marsbased-web/_drafts",
 		"/home/alex/project/marsbased-web/_posts",
 		"/home/alex/project/marsbased-web/about",
-		"/home/alex/project/marsbased-web/contact"
+		"/home/alex/project/marsbased-web/contact",
+		"/home/alex/project/marsbased-web/images",
+		"/home/alex/project/marsbased-web/images/blog"
 	],
 	"file_history":
 	[
@@ -380,7 +390,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
@@ -410,7 +420,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
@@ -441,7 +451,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
@@ -471,7 +481,7 @@
 						"translation.y": 8364.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
@@ -499,7 +509,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
@@ -527,7 +537,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
@@ -555,7 +565,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
@@ -583,7 +593,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
@@ -611,7 +621,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
@@ -639,7 +649,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
@@ -667,7 +677,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -683,8 +693,8 @@
 						"selection":
 						[
 							[
-								897,
-								897
+								1324,
+								1324
 							]
 						],
 						"settings":
@@ -695,7 +705,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -723,7 +733,7 @@
 						"translation.y": 663.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -751,7 +761,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -779,7 +789,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -807,12 +817,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 16,
-					"file": "_drafts/2014-08-22-The-Martians-conquer-the-IronHack.markdown",
+					"file": "_drafts/2014-08-22-What-Have-We-Learnt-From-Our-Recruitment-Process.markdown",
 					"semi_transient": false,
 					"settings":
 					{
@@ -823,8 +833,8 @@
 						"selection":
 						[
 							[
-								1275,
-								1275
+								52,
+								52
 							]
 						],
 						"settings":
@@ -840,6 +850,34 @@
 				},
 				{
 					"buffer": 17,
+					"file": "_drafts/2014-10-09-The-MarsBased-Team-Grows-Bigger-The-Abduction.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5900,
+								5900
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
 					"file": "contact/index.html",
 					"semi_transient": false,
 					"settings":
@@ -865,11 +903,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 18,
+					"buffer": 19,
 					"file": "about/index.html",
 					"semi_transient": false,
 					"settings":
@@ -895,7 +933,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
