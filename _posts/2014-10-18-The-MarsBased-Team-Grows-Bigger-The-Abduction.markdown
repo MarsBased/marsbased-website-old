@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "The MarsBased Team Grows Bigger: The Abduction"
-date:   2014-10-16 15:00:00
+date:   2014-10-18 15:00:00
 author: alex
 categories: MarsBased Startup Recruitment HR Development Team Coworking Entrepreneurship Barcelona Ruby Rails Javascript
 ---
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-Tuesday, October 9th will be a date to remember for all the Martians.
+Tuesday, October 7th will be a date to remember for all the Martians.
 
 The last few months we have been swamped with work. Far from being a quiet and relaxed summer, the MarsBased flagship has been advancing at cruise speed. And to face the coming months, we hired a new developer.
 
