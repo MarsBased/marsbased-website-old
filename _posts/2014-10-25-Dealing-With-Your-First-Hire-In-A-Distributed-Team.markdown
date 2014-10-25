@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dealing With Your First Hire in a Distributed Team"
-date:   2014-10-23 15:00:00
+date:   2014-10-25 15:00:00
 author: alex
 categories: MarsBased Startup HR Entrepreneurship Hiring Remote-Work
 ---
