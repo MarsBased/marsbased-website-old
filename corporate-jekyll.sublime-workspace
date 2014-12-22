@@ -37,18 +37,36 @@
 			}
 		},
 		{
-			"file": "_layouts/post.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1602,
+				"buffer_size": 5104,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_plugins/postauthor.rb",
+			"file": "_assets/javascripts/flip.js",
 			"settings":
 			{
-				"buffer_size": 991,
+				"buffer_size": 261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "_assets/stylesheets/variables.less",
+			"settings":
+			{
+				"buffer_size": 907,
 				"line_ending": "Unix"
 			}
 		},
@@ -61,144 +79,18 @@
 			}
 		},
 		{
-			"contents": "---\nlayout: post\ntitle:  \"The Martians Conquer the IronHack\"\ndate:   2014-08-21 21:00:00\nauthor: alex\ncategories: MarsBased Startup IronHack Development Bootcamp Entrepreneurship Barcelona Ruby Rails\n---\n\n\n<div class=\"author-info\">\n	{{page.author | post_author}}\n</div>\n\n\n*Captain's log, stardate {{page.date | martian_date}}*\n\nWhen we created MarsBased, we decided to be a social, outgoing and media-friendly company. We also wanted to help the community, to pay back what the community had helped us in the beginning.\n\nIn the early stages of a company, this is however something hard to achieve. The first priorities should be creating the company, establishing an organized accounting culture and sales, and developing your product.\n\n<!--more-->\n\nOnce the cash comes in, and stabilizes the company, you can take some time to contribute back to the community. While it's not mandatory, it clearly helps developing a friendly attitude as a company.\n\nLately, we have been helping newcomers in the Ruby community.\n\n###Enter the IronHack###\n\nWhen we created the company, we compiled a list of the leading Ruby development shops we wanted to meet and learn from. We threw in a bunch of names such as <a href=\"http://thoughtbot.com/\" title=\"Thoughbot\" target=\"_blank\">Thoughtbot</a>, <a href=\"http://www.codegram.com/\" title=\"Codegram\" target=\"_blank\">Codegram</a>, <a href=\"http://plataformatec.com.br/\" title=\"Plataformatec\" target=\"_blank\">Plataformatec</a> and so on.\n\nLast December, when I embarked in <a href=\"http://startupoddity.ghost.io/meeting-san-francisco/\" title=\"Startup Oddity Blog\" target=\"_blank\">my trip to San Francisco</a>, I reached out to the all of them and got a fair share of replies, hence meeting the guys from <a href=\"http://thoughtbot.com/\" title=\"Thoughbot\" target=\"_blank\">Thoughtbot</a>, <a href=\"http://monterail.com/\" title=\"Monterail\" target=\"_blank\">Monterail</a>, <a href=\"http://prorubyteam.com/\" title=\"ProRuby\" target=\"_blank\">ProRuby</a>, just to name a few. All of them vowed to help us like they had been once helped, and gave us very useful pieces of advice. It was, indeed, a very promising start!\n\nI also added to the list some developer bootcamps, completely ignoring the fact that most of them work exclusively with top-class companies and developers. However, <a href=\"http://ironhack.com/\" title=\"IronHack\" target=\"_blank\">IronHack</a> replied back nonetheless.\n\n###Time Flies###\n\nAfter some months of chatting back and forth, I received an email from them asking for collaborators for their summer edition in Barcelona. We were invited to know them in person, at <a href=\"http://mob-barcelona.com/\" title=\"Makers of Barcelona\" target=\"_blank\">MOB</a>, and introduced to their team assistants and guest teachers: top Ruby and Javascript developers, working for Xing, Spotify and other leading companies.\n\nThe IronHack bootcamp runs for two months with full dedication to learning coding: Rails, AngularJS, Javascript and what it takes to create state-of-the-art webapps. After their daily dose of programming, the session is completed with talks regarding different subjects: branding, accounting, marketing and all kinds of useful stuff. We were asked to provide two talks.\n\n###First Talk: Create your Company NOW###\n\nI was honoured to give the first talk of the current edition.\n\nBecause I know that most people there are passionate about web applications and will end their IronHack program creating an app (because it's their final project), I thought it would be useful to motivate them. What if they didn't only program that app for IronHack? What if they could create a startup around it?\n\nI used Prezi to create a motivational presentation using their fantastic Space template (fits perfectly with our Martian imagery) and rallied the troops to go out and create their startup right NOW.\n\n<img src=\"/images/blog/post12a.jpg\" alt=\"Àlex presenting at IronHack\" title=\"Àlex presenting at IronHack\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Warning! The presentation contains profanity!</small></p>\n\n<a href=\"http://prezi.com/ttqvo8ssl6ew/create-your-company-from-out-of-this-world/\" title=\"Prepare your business to sky-rocket\" target=\"_blank\">Get the presentation here.</a>\n\n###Second Talk: Bulding Large Webapps That Are Easy to Maintain###\n\nTwo weeks later, Xavi provided a largely comprehensive talk on how to build large web applications to be easily maintainable. While the presentation dealt mostly with Rails best practices, it contained a fair share of <a href=\"http://www.urbandictionary.com/define.php?term=lulz&defid=2539255\" title=\"Definition of lulz\" target=\"_blank\">lulz</a>. At MarsBased we enforce the use of meme-driven presentations.\n\n<img src=\"/images/blog/post12b.jpg\" alt=\"Xavi presenting at IronHack\" title=\"Xavi presenting at IronHack\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Meme-driven technical presentation!</small></p>\n\n<a href=\"https://dl.dropboxusercontent.com/u/12625879/MarsBased/Ironhack%20presentation.pdf\" title=\"Bulding Large Webapps That Are Easy to Maintain\" target=\"_blank\">Get the presentation here.</a>\n\n###Future###\nThe feedback we received was so good that we were invited to an afterwork event on the rooftop of Betahaus, where we talked everything: from loving or hating TDD, to everyone's future plans or why Barcelona is the best city in the world.\n\nWe definitely connected with the IronHack community and want to get more involved in the coming editions to make more people love coding and Ruby on Rails. So far, we can say we will be mentoring at the next edition of IronHack in Barcelona!\n\nDid you meet us at IronHack? We would appreciate if you left some feedback in the comments section!\n\nLove from Mars.",
-			"file": "_posts/2014-08-21-The-Martians-conquer-the-IronHack.markdown",
-			"file_size": -1,
-			"file_write_time": -1,
+			"file": "_posts/2014-10-25-Dealing-With-Your-First-Hire-In-A-Distributed-Team.markdown",
 			"settings":
 			{
-				"buffer_size": 5806,
+				"buffer_size": 6290,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_posts/2014-07-21-Sport-on-Rails.markdown",
+			"file": "_plugins/postauthor.rb",
 			"settings":
 			{
-				"buffer_size": 5021,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2014-07-01-Barcelona-Startup-Map2.markdown",
-			"settings":
-			{
-				"buffer_size": 3195,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2014-06-09-Barcelona-Startup-Map1.markdown",
-			"settings":
-			{
-				"buffer_size": 5417,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2014-03-30-Celebrating-the-first-Martian-year.markdown",
-			"settings":
-			{
-				"buffer_size": 5234,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2014-03-24-we-make-the-right-app2.markdown",
-			"settings":
-			{
-				"buffer_size": 7336,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2014-03-04-we-make-the-right-app1.markdown",
-			"settings":
-			{
-				"buffer_size": 3116,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2014-02-23-the-martians-conquer-the-startup-grind.markdown",
-			"settings":
-			{
-				"buffer_size": 4294,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2013-11-07-start-up-circle-barcelona.markdown",
-			"settings":
-			{
-				"buffer_size": 4109,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2013-10-12-continuous-leaning-todo.markdown",
-			"settings":
-			{
-				"buffer_size": 2923,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2013-09-20-cookin-recipes-want.markdown",
-			"settings":
-			{
-				"buffer_size": 3729,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2013-09-07-take-offs-and-landings.markdown",
-			"settings":
-			{
-				"buffer_size": 1796,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "---\nlayout: post\ntitle:  \"What Have We Learnt From Our Recruitment Process\"\ndate:   2014-10-03 15:00:00\nauthor: alex\ncategories: MarsBased Startup Recruitment HR Development Employees CompanyCulture Entrepreneurship Barcelona Ruby Rails\n---\n\n*Captain's log, stardate {{page.date | martian_date}}*\n\nThings are looking good on the Martian spaceship. All the signs point to a bright future, if we analyse what we've accomplished in our short existence.\n\nIn the last month we have been involved in a pretty exhaustive research of our first signing.\n<!--more-->\n\nOnce the cash comes in, and stabilizes the company, you can take some time to contribute back to the community. While it's not mandatory, it clearly helps developing a friendly attitude as a company.\n\nLately, we have been helping newcomers in the Ruby community.\n\n###Enter the IronHack###\n\nWhen we created the company, we compiled a list of the leading Ruby development shops we wanted to meet and learn from. We threw in a bunch of names such as <a href=\"http://thoughtbot.com/\" title=\"Thoughbot\" target=\"_blank\">Thoughtbot</a>, <a href=\"http://www.codegram.com/\" title=\"Codegram\" target=\"_blank\">Codegram</a>, <a href=\"http://plataformatec.com.br/\" title=\"Plataformatec\" target=\"_blank\">Plataformatec</a> and so on.\n\nLast December, when I embarked in <a href=\"http://startupoddity.ghost.io/meeting-san-francisco/\" title=\"Startup Oddity Blog\" target=\"_blank\">my trip to San Francisco</a>, I reached out to the all of them and got a fair share of replies, hence meeting the guys from <a href=\"http://thoughtbot.com/\" title=\"Thoughbot\" target=\"_blank\">Thoughtbot</a>, <a href=\"http://monterail.com/\" title=\"Monterail\" target=\"_blank\">Monterail</a>, <a href=\"http://prorubyteam.com/\" title=\"ProRuby\" target=\"_blank\">ProRuby</a>, just to name a few. All of them vowed to help us like they had been once helped, and gave us very useful pieces of advice. It was, indeed, a very promising start!\n\nI also added to the list some developer bootcamps, completely ignoring the fact that most of them work exclusively with top-class companies and developers. However, <a href=\"http://ironhack.com/\" title=\"IronHack\" target=\"_blank\">IronHack</a> replied back nonetheless.\n\n###Time Flies###\n\nAfter some months of chatting back and forth, I received an email from them asking for collaborators for their summer edition in Barcelona. We were invited to know them in person, at <a href=\"http://mob-barcelona.com/\" title=\"Makers of Barcelona\" target=\"_blank\">MOB</a>, and introduced to their team assistants and guest teachers: top Ruby and Javascript developers, working for Xing, Spotify and other leading companies.\n\nThe IronHack bootcamp runs for two months with full dedication to learning coding: Rails, AngularJS, Javascript and what it takes to create state-of-the-art webapps. After their daily dose of programming, the session is completed with talks regarding different subjects: branding, accounting, marketing and all kinds of useful stuff. We were asked to provide two talks.\n\n###First Talk: Create your Company NOW###\n\nI was honoured to give the first talk of the current edition.\n\nBecause I know that most people there are passionate about web applications and will end their IronHack program creating an app (because it's their final project), I thought it would be useful to motivate them. What if they didn't only program that app for IronHack? What if they could create a startup around it?\n\nI used Prezi to create a motivational presentation using their fantastic Space template (fits perfectly with our Martian imagery) and rallied the troops to go out and create their startup right NOW.\n\n<img src=\"/images/blog/post12a.jpg\" alt=\"Àlex presenting at IronHack\" title=\"Àlex presenting at IronHack\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Warning! The presentation contains profanity!</small></p>\n\n<a href=\"http://prezi.com/ttqvo8ssl6ew/create-your-company-from-out-of-this-world/\" title=\"Prepare your business to sky-rocket\" target=\"_blank\">Get the presentation here.</a>\n\n###Second Talk: Bulding Large Webapps That Are Easy to Maintain###\n\nTwo weeks later, Xavi provided a largely comprehensive talk on how to build large web applications to be easily maintainable. While the presentation dealt mostly with Rails best practices, it contained a fair share of <a href=\"http://www.urbandictionary.com/define.php?term=lulz&defid=2539255\" title=\"Definition of lulz\" target=\"_blank\">lulz</a>. At MarsBased we enforce the use of meme-driven presentations.\n\n<img src=\"/images/blog/post12b.jpg\" alt=\"Xavi presenting at IronHack\" title=\"Xavi presenting at IronHack\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Meme-driven technical presentation!</small></p>\n\n<a href=\"https://dl.dropboxusercontent.com/u/12625879/MarsBased/Ironhack%20presentation.pdf\" title=\"Bulding Large Webapps That Are Easy to Maintain\" target=\"_blank\">Get the presentation here.</a>\n\n###Future###\nThe feedback we received was so good that we were invited to an afterwork event on the rooftop of Betahaus, where we talked everything: from loving or hating TDD, to everyone's future plans or why Barcelona is the best city in the world.\n\nWe definitely connected with the IronHack community and want to get more involved in the coming editions to make more people love coding and Ruby on Rails. So far, we can say we will be mentoring at the next edition of IronHack in Barcelona!\n\nDid you meet us at IronHack? We would appreciate if you left some feedback in the comments section!\n\nLove from Mars.",
-			"file": "_drafts/2014-08-22-What-Have-We-Learnt-From-Our-Recruitment-Process.markdown",
-			"file_size": 5741,
-			"file_write_time": 130531949147144503,
-			"settings":
-			{
-				"buffer_size": 5614,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_drafts/2014-08-22-Dealing-With-Your-First-Hire-In-A-Distributed-Team.markdown",
-			"settings":
-			{
-				"buffer_size": 3087,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2014-10-09-The-MarsBased-Team-Grows-Bigger-The-Abduction.markdown",
-			"settings":
-			{
-				"buffer_size": 3703,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "contact/index.html",
-			"settings":
-			{
-				"buffer_size": 2375,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "about/index.html",
-			"settings":
-			{
-				"buffer_size": 2908,
+				"buffer_size": 991,
 				"line_ending": "Unix"
 			}
 		}
@@ -260,19 +152,40 @@
 	"expanded_folders":
 	[
 		"/home/alex/project/marsbased-web",
+		"/home/alex/project/marsbased-web/_assets",
 		"/home/alex/project/marsbased-web/_drafts",
+		"/home/alex/project/marsbased-web/_includes",
+		"/home/alex/project/marsbased-web/_layouts",
+		"/home/alex/project/marsbased-web/_plugins",
 		"/home/alex/project/marsbased-web/_posts",
 		"/home/alex/project/marsbased-web/about",
-		"/home/alex/project/marsbased-web/contact",
-		"/home/alex/project/marsbased-web/images",
-		"/home/alex/project/marsbased-web/images/blog"
+		"/home/alex/project/marsbased-web/blog"
 	],
 	"file_history":
 	[
+		"/home/alex/project/marsbased-web/_layouts/post.html",
+		"/home/alex/project/marsbased-web/_plugins/postauthor.rb",
+		"/home/alex/project/marsbased-web/_assets/stylesheets/content.less",
+		"/home/alex/project/marsbased-web/_posts/2014-08-21-The-Martians-conquer-the-IronHack.markdown",
+		"/home/alex/project/marsbased-web/_posts/2014-07-21-Sport-on-Rails.markdown",
+		"/home/alex/project/marsbased-web/_posts/2014-07-01-Barcelona-Startup-Map2.markdown",
+		"/home/alex/project/marsbased-web/_posts/2014-06-09-Barcelona-Startup-Map1.markdown",
+		"/home/alex/project/marsbased-web/_posts/2014-03-30-Celebrating-the-first-Martian-year.markdown",
+		"/home/alex/project/marsbased-web/_posts/2014-03-24-we-make-the-right-app2.markdown",
+		"/home/alex/project/marsbased-web/_posts/2014-03-04-we-make-the-right-app1.markdown",
+		"/home/alex/project/marsbased-web/_posts/2014-02-23-the-martians-conquer-the-startup-grind.markdown",
+		"/home/alex/project/marsbased-web/_posts/2013-11-07-start-up-circle-barcelona.markdown",
+		"/home/alex/project/marsbased-web/_posts/2013-10-12-continuous-leaning-todo.markdown",
+		"/home/alex/project/marsbased-web/_posts/2013-09-20-cookin-recipes-want.markdown",
+		"/home/alex/project/marsbased-web/_posts/2013-09-07-take-offs-and-landings.markdown",
+		"/home/alex/project/marsbased-web/_drafts/2014-08-22-What-Have-We-Learnt-From-Our-Recruitment-Process.markdown",
+		"/home/alex/project/marsbased-web/_drafts/2014-08-22-Dealing-With-Your-First-Hire-In-A-Distributed-Team.markdown",
+		"/home/alex/project/marsbased-web/contact/index.html",
+		"/home/alex/project/marsbased-web/about/index.html",
+		"/home/alex/project/paellas-ol/paellas-ole.sublime-",
+		"/home/alex/project/marsbased-web/_posts/2014-10-09-The-MarsBased-Team-Grows-Bigger-The-Abduction.markdown",
 		"/home/alex/Desktop/August is a tough month to plan events, they said.",
 		"/home/alex/project/marsbased-web/_assets/stylesheets/style.less",
-		"/home/alex/project/marsbased-web/_assets/stylesheets/content.less",
-		"/home/alex/project/marsbased-web/_layouts/post.html",
 		"/home/alex/project/marsbased-web/blog/index.html",
 		"/home/alex/project/marsbased-web/_config.yml",
 		"/home/alex/project/marsbased-web/README.md",
@@ -282,8 +195,6 @@
 		"/home/alex/project/marsbased-web/_includes/shared_navbar.html",
 		"/home/alex/project/marsbased-web/_layouts/default.html",
 		"/home/alex/project/marsbased-web/index.html",
-		"/home/alex/project/marsbased-web/about/index.html",
-		"/home/alex/project/marsbased-web/_posts/2014-08-21-The-Martians-conquer-the-IronHack.markdown",
 		"/home/alex/project/marsbased-web/_assets/stylesheets/application.css",
 		"/home/alex/project/marsbased-web/_assets/stylesheets/bootstrap/bootstrap.css",
 		"/home/alex/project/marsbased-web/robots.txt",
@@ -291,16 +202,6 @@
 		"/home/alex/project/marsbased-web/_plugins/marsdate.rb",
 		"/home/alex/project/marsbased-web/_posts/2014-07-17-Sport-on-Rails.markdown",
 		"/home/alex/project/marsbased-web/_posts/2014-07-11-Barcelona-Startup-MapTest.markdown",
-		"/home/alex/project/marsbased-web/_posts/2013-10-12-continuous-leaning-todo.markdown",
-		"/home/alex/project/marsbased-web/_posts/2014-07-01-Barcelona-Startup-Map2.markdown",
-		"/home/alex/project/marsbased-web/_posts/2014-06-09-Barcelona-Startup-Map1.markdown",
-		"/home/alex/project/marsbased-web/_posts/2014-03-30-Celebrating-the-first-Martian-year.markdown",
-		"/home/alex/project/marsbased-web/_posts/2014-03-24-we-make-the-right-app2.markdown",
-		"/home/alex/project/marsbased-web/_posts/2014-03-04-we-make-the-right-app1.markdown",
-		"/home/alex/project/marsbased-web/_posts/2014-02-23-the-martians-conquer-the-startup-grind.markdown",
-		"/home/alex/project/marsbased-web/_posts/2013-11-07-start-up-circle-barcelona.markdown",
-		"/home/alex/project/marsbased-web/_posts/2013-09-20-cookin-recipes-want.markdown",
-		"/home/alex/project/marsbased-web/_posts/2013-09-07-take-offs-and-landings.markdown",
 		"/home/alex/project/startup-grind-bcn/_assets/javascripts/eventbrite-integration.coffee",
 		"/home/alex/.config/sublime-text-3/Packages/User/trailing_spaces.sublime-settings",
 		"/home/alex/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
@@ -340,6 +241,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"flip",
+			"flip.js",
 			"marsdate",
 			"martian",
 			"blog-info.html",
@@ -370,7 +273,7 @@
 	"groups":
 	[
 		{
-			"selected": 18,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -398,528 +301,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_layouts/post.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1602,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1446,
-								1446
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 19,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_plugins/postauthor.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 991,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								138,
-								138
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 17,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_assets/stylesheets/content.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9325,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8060,
-								8060
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 7486.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 18,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_posts/2014-08-21-The-Martians-conquer-the-IronHack.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5806,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								206,
-								206
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_posts/2014-07-21-Sport-on-Rails.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5021,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1346,
-								1346
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_posts/2014-07-01-Barcelona-Startup-Map2.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3195,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								780,
-								780
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "_posts/2014-06-09-Barcelona-Startup-Map1.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5417,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								591,
-								591
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "_posts/2014-03-30-Celebrating-the-first-Martian-year.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5234,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								516,
-								516
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "_posts/2014-03-24-we-make-the-right-app2.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7336,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								471,
-								471
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "_posts/2014-03-04-we-make-the-right-app1.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3116,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								561,
-								561
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "_posts/2014-02-23-the-martians-conquer-the-startup-grind.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4294,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1324,
-								1324
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "_posts/2013-11-07-start-up-circle-barcelona.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4109,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								96,
-								96
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 633.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "_posts/2013-10-12-continuous-leaning-todo.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2923,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								519,
-								519
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "_posts/2013-09-20-cookin-recipes-want.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3729,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								535,
-								535
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
-					"file": "_posts/2013-09-07-take-offs-and-landings.markdown",
+					"buffer": 1,
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1796,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1230,
-								1230
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "_drafts/2014-08-22-What-Have-We-Learnt-From-Our-Recruitment-Process.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5614,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								52,
-								52
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"file": "_drafts/2014-08-22-Dealing-With-Your-First-Hire-In-A-Distributed-Team.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3087,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3087,
-								3087
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
-					"file": "_posts/2014-10-09-The-MarsBased-Team-Grows-Bigger-The-Abduction.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3703,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								92,
-								92
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "contact/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2375,
+						"buffer_size": 5104,
 						"regions":
 						{
 						},
@@ -940,29 +331,91 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
-					"file": "about/index.html",
+					"buffer": 2,
+					"file": "_assets/javascripts/flip.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2908,
+						"buffer_size": 261,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								606,
-								606
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_assets/stylesheets/variables.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -970,7 +423,95 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_assets/stylesheets/content.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1968.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_posts/2014-10-25-Dealing-With-Your-First-Hire-In-A-Distributed-Team.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2218,
+								2218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_plugins/postauthor.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
