@@ -2,16 +2,20 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>MarsBased | Development start-up from Mars | We make the right app for you (part 2)</title>
-    <meta name="description" content="MarsBased, a development start-up from Barcelona. Mobile and web-applications with effective designs and the latest technologies.">
+    <title>MarsBased | Application development from Barcelona | We make the right app for you (part 2)</title>
+    <meta name="description" content="MarsBased is an application development company in Barcelona, highly specialized in Ruby on Rails - We make the right app for you (part 2)">
     <meta property="og:image" content="http://marsbased.com/images/marsbased_logo.png"/>
+    <META name="author" content="www.marsbased.com">
+    <META name="copyright" content="2014 MarsBased">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Favicon -->
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <!-- Viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Feed -->
+    <link rel="alternate" type="application/atom+xml" title="MarsBased" href="http://www.marsbased.com/feed.xml" />
     <!-- Style -->
-    <link rel="stylesheet" href="/assets/application-8d5bc3fdcd2e3ddc9b897e9f7746a8fa.css">
+    <link rel="stylesheet" href="/assets/application-4048821425e992abaab89a51fb722bbe.css">
     <!-- jQuery JS -->
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="/assets/application-2179d18713f8ccc8fb30739a9bfdee00.js"></script>
@@ -43,9 +47,6 @@
 <li class="">
   <a href="/blog" title="Blog">Blog</a>
 </li>
-<li>
-  <a href="http://support.marsbased.com/" title="Support">Support</a>
-</li>
 <li class="">
   <a href="/contact" title="Contact">Contact</a>
 </li>
@@ -67,6 +68,14 @@
   <div class="col-xs-12 col-lg-10 col-lg-offset-1">
     <h1 class="text-center">We make the right app for you (part 2)</h1>
     <h2 class="text-center">Posted on March 25, 2014</h2>
+    
+      <div class="author-info">
+        <div class="author-by">Written by Xavier Redó (<a href="http://twitter.com/xavier_redo" target="_blank" title="Xavier Redó twitter handle">@xavier_redo</a>)</div> <div class="avatar"><img class="img-circle" src="/images/blog/xavi.png"/></div>
+      </div>
+    
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52f52c19120c835c"></script>
+
   </div>
   <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
     <p><em>Captain&#39;s log, stardate d490.y35/AB</em></p>
@@ -75,11 +84,11 @@
 
 <p>In our last entry we wrote about MarsBased&#39;s principles when working for other companies, because we have recently been hired to develop our first projects. In this entry, we are breaking down our tool belt.</p>
 
+<!--more-->
+
 <h3>Front-end Development</h3>
 
 <p>MarsBased stands for innovation by using state-of-the-art technologies. HTML5, CSS3 and both Javascript and front-end frameworks - such as <a href="http://getbootstrap.com/" title="Bootstrap" target="_blank">Bootstrap</a> or <a href="http://angularjs.org/" title="AngularJS" target="_blank">AngularJS</a> - allow us to deliver responsive and highly dynamic websites with an unparalleled User Experience.</p>
-
-<!--more-->
 
 <p><img src="/images/blog/post6.png" alt="The MarsBased Tech Stack" title="The MarsBased Tech Stack" class="img-right img-responsive" /></p>
 
@@ -103,7 +112,7 @@
 
 <ul>
 <li><a title="ElasticSearch" href="http://www.elasticsearch.org">ElasticSearch</a>: For indexing and searching through our client data without affecting performance.</li>
-<li><a title="Sidekiq" href="http://sidekiq.org">Sidekiq</a>: Handy when there&#39;s a lot of background processing jobs - like image and video transformations, web crawling or big data processing. </li>
+<li><a title="Sidekiq" href="http://sidekiq.org">Sidekiq</a>: Handy when there&#39;s a lot of background processing jobs - like image and video transformations, web crawling or big data processing.</li>
 <li><a title="Memcached" href="http://memcached.org">Memcached</a>: Caches almost every little part of a web application to achieve blazing fast responses, thus keeping response times low.</li>
 <li><a title="Redis" href="http://redis.io">Redis</a>: Manages big amounts of volatile data faster than any relational database can.</li>
 </ul>
@@ -122,26 +131,13 @@
 
 <p>Our servers run very different services that need to be monitored (Nginx, MySQL, Elasticsearch… just to name a few!), so we use <a title="Monit" href="http://mmonit.com/monit/">Monit</a> to rule them all. Monit sends notifications whenever there is a risk of something failing such as a service being too loaded. It actually allows us to act proactively before any errors arise. But if a service goes down, Monit automatically tries to start it to minimize the downtime as much as possible.</p>
 
-<p>Although Monit itself is very impressive, we also use another error-tracking tool very known by the Ruby community. Airbrake is an exception reporting service <a title="Airbrake" href="https://airbrake.io/">trusted by over 40k customers</a>, now seamlessly integrated with our tech stack. Simply put, if anyone using our web applications comes across an error message, we&#39;ll get a notification in our cell phones with the details of the error in less than a minute. </p>
+<p>Although Monit itself is very impressive, we also use another error-tracking tool very known by the Ruby community. Airbrake is an exception reporting service <a title="Airbrake" href="https://airbrake.io/">trusted by over 40k customers</a>, now seamlessly integrated with our tech stack. Simply put, if anyone using our web applications comes across an error message, we&#39;ll get a notification in our cell phones with the details of the error in less than a minute.</p>
 
 <p>Nothing is more satisfying than spotting and solving bugs before users have even time to report them.</p>
 
 <p>That&#39;s all for today, folks. As you can see, we love talking technologies. Feel free to drop us an e-mail or bring up a conversation on <a title="MarsBased Twitter Profile" href="http://twitter.com/MarsBased">Twitter</a> anytime.</p>
 
   </div>
-  <!-- AddThis Smart Layers BEGIN -->
-<!-- Go to http://www.addthis.com/get/smart-layers to customize -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52f52c19120c835c"></script>
-<script type="text/javascript">
-  addthis.layers({
-    'theme' : 'transparent',
-    'share' : {
-      'position' : 'left',
-      'numPreferredServices' : 6
-    }   
-  });
-</script>
-<!-- AddThis Smart Layers END -->
 </div>
 
 <div class="row disqus">
@@ -168,8 +164,8 @@
   <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
     <div>
       <h3>You're reading the MarsBased blog</h3>
-      <p>MarsBased is an offshore development start-up that has two main business lines: We create our own products and we can be hired to develop mobile or web apps that meet your needs.</p>
-      <p>We mostly work with Ruby on Rails, AngularJS, HTML5, CSS3, Bootstrap, Elastic search and other similarly awesome technologies to develop our apps. Only using the best tools can we build our killer applications!</p>
+      <p>MarsBased is an application development company highly specialized in Ruby on Rails, based in Barcelona.</p>
+      <p>We are a development company with the DNA of a startup. We are publishing all our experiences as a company in this blog, because there might be somebody out there willing to read it! And someday, we will compile all of this in an ebook, available in the best Martian libraries.</p>
       <a class="btn btn-default" href="/feed.xml"><i class="fa fa-rss"></i> Subscribe to our RSS feed</a>
       <a class="btn btn-default" href="https://twitter.com/MarsBased" target="_blank">Or follow us on Twitter!</a>
     </div>
@@ -241,9 +237,6 @@
 </li>
 <li class="">
   <a href="/blog" title="Blog">Blog</a>
-</li>
-<li>
-  <a href="http://support.marsbased.com/" title="Support">Support</a>
 </li>
 <li class="">
   <a href="/contact" title="Contact">Contact</a>

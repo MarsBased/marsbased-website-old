@@ -2,15 +2,326 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MarsBased</title>
-    <description>MarsBased, a development start-up from Barcelona. Mobile and web-applications with effective designs and the latest technologies.</description>
-    <link>http://blog.marsbased.com</link>
-    <atom:link href="http://blog.marsbased.com/feed.xml" rel="self" type="application/rss+xml" />
+    <description>MarsBased is an application development company in Barcelona, highly specialized in Ruby on Rails.</description>
+    <link>http://www.marsbased.com</link>
+    <atom:link href="http://www.marsbased.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Our First Christmas Dinner</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d87.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s been two months since our last status update, and we wanted to let you know we&amp;#39;re far from dead.&lt;/p&gt;
+
+&lt;p&gt;After a fledging progression that has seen us completing our first projects after the summer, a couple of new big challenges have popped up. All these projects have kept us swamped with work, but they are also a reason to celebrate.&lt;/p&gt;
+
+&lt;p&gt;Indeed, 2014 has brought many good achievements and landmarks for our company. But none of them can compare to celebrating our first Christmas dinner.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3&gt;A year in review&lt;/h3&gt;
+
+&lt;p&gt;The MarsBased spaceship has been working at full capacity to complete the ongoing projects we have had thus far, having barely no time to update the blog. While we can&amp;#39;t wait to tell you everything we are undergoing at the moment, we also need to meet the deadlines.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#39;s review the steps we have taken to reach this point.&lt;/p&gt;
+
+&lt;p&gt;MarsBased as a company was founded in March this year, after I came back from San Francisco. Signing all the required documentation to create the company was both relieving and challenging, and definitely has changed our lives for the better.&lt;/p&gt;
+
+&lt;p&gt;After doing some minor projects, we got the opportunity of working for Barcelona Activa, in the creation of the &lt;a href=&quot;http://bcn.cat/bcnstartupMap&quot; title=&quot;BCN Startup Map&quot; target=&quot;_blank&quot;&gt;Barcelona Startup Map&lt;/a&gt;. This project gave us enough propulsion (both economically and visiblity-wise) to start working on other projects. Also, through this project we were contacted by other companies who wanted to hire our services.&lt;/p&gt;
+
+&lt;p&gt;During the summer we landed the project of &lt;a href=&quot;http://www.eureka-startups.com&quot; title=&quot;Eureka Startups&quot; target=&quot;_blank&quot;&gt;Eureka Startups Experts&lt;/a&gt; (still in progress), and a couple of other projects, that allowed both Xavi and I to go full time for the company. As a result of that, we boosted our production capacity, which means we could take on more &amp;amp; bigger projects.&lt;/p&gt;
+
+&lt;p&gt;By working full-time, we could also start going to events, thus increasing our visibility in the scene. We participated in numerous events, organizing meetings with the Startup Circle, collaborating with &lt;a href=&quot;http://www.startupgrind.cat&quot; title=&quot;Startup Grind Barcelona&quot; target=&quot;_blank&quot;&gt;Startup Grind&lt;/a&gt;, mentoring at &lt;a href=&quot;http://ironhack.com&quot; title=&quot;IronHack&quot; target=&quot;_blank&quot;&gt;IronHack&lt;/a&gt;, giving speeches at congresses, attending &lt;a href=&quot;http://www.baruco.org&quot; title=&quot;Baruco&quot; target=&quot;_blank&quot;&gt;Baruco&lt;/a&gt;, and meeting fantastic people everywhere.&lt;/p&gt;
+
+&lt;p&gt;But it was in September-October that we landed a couple of big projects from abroad (details to be disclosed soon!). These two projects have given us enough stability to hire &lt;a href=&quot;http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction/&quot; title=&quot;Our blog post of our first hire&quot; target=&quot;_blank&quot;&gt;Javi&lt;/a&gt; to increase our development capacity again. Soon thereafter, we got the opportunity of welcoming our first intern &lt;a href=&quot;https://twitter.com/MarsBased/status/538760313836158976&quot; title=&quot;MarsBased welcomes Emilio Rios&quot; target=&quot;_blank&quot;&gt;Emilio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;A Martian Christmas dinner&lt;/h3&gt;
+
+&lt;p&gt;Last Wednesday we got together and spent a whole evening celebrating the first MarsBased Christmas dinner.&lt;/p&gt;
+
+&lt;p&gt;As a remote working company, this kind of get-togethers are essential to help bonding with the team at a personal level. They also increase happiness in the company and provide a good way to talk about stuff that&amp;#39;s normally not covered in the corporate chat.&lt;/p&gt;
+
+&lt;p&gt;The evening started at &lt;a href=&quot;https://foursquare.com/v/la-cerveseria-clandestina/50447f7de4b072dc97475858&quot; title=&quot;La Cervecería Clanestina&quot; target=&quot;_blank&quot;&gt;Cervecería Clandestina&lt;/a&gt; to taste a selection of the finest beers. Barcelona is not famous for its craft beer yet, but it&amp;#39;s a growing trend that is getting very popular in the last years.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post15a.jpg&quot; alt=&quot;The MarsBased team at Cervecería Clandestina&quot; title=&quot;The MarsBased team at Cervecería Clandestina&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Beer makes people more proficient in foreign languages such as Martian!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Dinner took place in the &lt;a href=&quot;https://foursquare.com/v/lomb%C3%BA/4c0ab162009a0f475fe1e9bf&quot;title=&quot;Restaurant L&#39;Ombú&quot; target=&quot;_blank&quot;&gt;Restaurant L&amp;#39;Ombú&lt;/a&gt;. A very cozy restaurant hidden between the Gracia and Horta districts in Barcelona. A well-kept secret for fusion cuisine mixing tradicional Catalan recipes with the latest trends.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post15c.jpg&quot; alt=&quot;Enjoying tasty Earth food at Restaurant L&#39;Ombú&quot; title=&quot;Enjoying tasty Earth food at Restaurant L&#39;Ombú&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Enjoying tasty Earth food at Restaurant L&amp;#39;Ombú.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post15d.jpg&quot; alt=&quot;The MarsBased team at Restaurant L&#39;Ombú&quot; title=&quot;The MarsBased team at Restaurant L&#39;Ombú&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;The MarsBased team at Restaurant L&amp;#39;Ombú.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;In the restaurant we spent hours talking about the company and its future, and we toasted to our success in 2015.&lt;/p&gt;
+
+&lt;p&gt;The evening came to a close at the famous &lt;a href=&quot;https://foursquare.com/v/elephanta/4b510121f964a5201a3d27e3&quot; title=&quot;L&#39;Elephanta&quot; target=&quot;_blank&quot;&gt;L&amp;#39;Elephanta&lt;/a&gt;, one of the best gin&amp;amp;tonic places in Barcelona. Conversation drifted to off-topic mode and provided an excellent ending to a lovely evening out enjoying a good share of teambuilding.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post15e.jpg&quot; alt=&quot;The MarsBased team at L&#39;Elephanta&quot; title=&quot;The MarsBased team at L&#39;Elephanta&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Martian advise: Don&amp;#39;t drink &amp;amp; drive spaceships.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;We are ecstatic to have been able to celebrate such a landmark in our career and looking forward to kicking off 2015 stronger than ever.&lt;/p&gt;
+
+&lt;p&gt;Happy &lt;code&gt;I18n.translate :local_winter_celebration&lt;/code&gt; everyone!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Dec 2014 16:00:00 +0100</pubDate>
+        <link>http://www.marsbased.com/blog/2014/12/23/Our-First-Christmas-Dinner</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/12/23/Our-First-Christmas-Dinner</guid>
+      </item>
+    
+      <item>
+        <title>Dealing With Your First Hire in a Distributed Team</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d30.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In the last blog entry we described our first day with our new hire, Javi. Two weeks in, and the whole team has felt the boost of having a new employee at MarsBased: the company is producing more, he&amp;#39;s learning while having fun, and so are we.&lt;/p&gt;
+
+&lt;p&gt;However, a new employee brings in a whole set of risks that need to be adressed when running your own company. One of them is the integration in the team, and this is what this entry is about.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;We&amp;#39;re talking about our first employee here. &lt;i&gt;Serious business&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;After having read a lot of literature on how to deal with this situation, we found these tips worth sharing:&lt;/p&gt;
+
+&lt;h3&gt;Day to day&lt;/h3&gt;
+
+&lt;p&gt;When introducing a new hire to your company, you need to make sure he feels integrated as soon as possible, specially in small companies. And even more so if he/she is your very first hire.&lt;/p&gt;
+
+&lt;p&gt;The most valuable piece of advice here is &lt;i&gt;work naturally&lt;/i&gt;. 37Signals&amp;#39; book &lt;a href=&quot;http://37signals.com/remote/&quot; target=&quot;_blank&quot; title=&quot;Remote: No Office Required&quot;&gt;Remote: No Office Required&lt;/a&gt; strongly advises companies to continue working like they did before the employee was hired. Changing your behaviour will look like unnatural and will create awkward situations.&lt;/p&gt;
+
+&lt;p&gt;Be yourselves while making him part of team decisions, not leaving him out of meetings, and showing him everything is there to learn. Obviously, you&amp;#39;ll be spending some time teaching him all that stuff, but consider this as an investment.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, terms like &amp;quot;family&amp;quot; or &amp;quot;friends&amp;quot; should be avoided. After all, this is a business relationship. Experts tend to favour the usage of expressions such as &amp;quot;we&amp;#39;re a team&amp;quot;, instead. Or else, no mentioning of this at all. &lt;a href=&quot;http://blogs.hbr.org/2014/06/your-company-is-not-a-family/&quot; target=&quot;_blank&quot; title=&quot;Your Business Is Not A Family&quot;&gt;This blog post&lt;/a&gt; explains the situation very well.&lt;/p&gt;
+
+&lt;p&gt;The bottom line here is: show, don&amp;#39;t tell. Your actions will be more valuable than your words.&lt;/p&gt;
+
+&lt;h3&gt;Roles&lt;/h3&gt;
+
+&lt;p&gt;Distributed teams meet seldom. In these companies, the limits of your duties and/or responsibilities are sometimes unclear. Specially if the introduction to the company isn&amp;#39;t done right.&lt;/p&gt;
+
+&lt;p&gt;This issue can be avoided by introducing the team accordingly, and telling the new hire clearly what you expect from him or her.&lt;/p&gt;
+
+&lt;p&gt;For instance, when hiring a new programmer, do not send him into coding without explaining what&amp;#39;s your coding style, which metodologies do you use, whether you do pair programming or not, which technologies do you expect him to know, the frequency of your commits, what additional tasks will he have to handle (devops, code refactoring, QA, performance tests, etc.) and so on.&lt;/p&gt;
+
+&lt;p&gt;In these situations, it is better to tell them what they are expected to do according to their role, but that they set the limits to their involvement with the company. That is: programmers deal with the development of the apps, but they have the option of getting involved with social media, writing in the blog, participating in the sales processes, improving internal organizational processes, preparing workshops for events, etc.&lt;/p&gt;
+
+&lt;p&gt;Besides that, in small teams, the figure of the leader - bosses who work by your side - is enforced, instead of the classical boss enclosed in his own office. An almost-flat hierarchy helps easing this process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post14.png&quot; alt=&quot;Remote: No office required&quot; title=&quot;Remote: No office required&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;&lt;a href=&quot;http://37signals.com/remote/&quot; target=&quot;_blank&quot; title=&quot;Remote: No Office Required&quot;&gt;Remote: No Office Required&lt;/a&gt; is one of our favourite books and a mandatory read for distributed teams.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h3&gt;Communication is key&lt;/h3&gt;
+
+&lt;p&gt;Spending half a day listing all the communication tools you use as a team, and how to use them, is never a waste of time. On the contrary: set the rules now, and forget about it.&lt;/p&gt;
+
+&lt;p&gt;At MarsBased we use &lt;a href=&quot;http://basecamp.com&quot; target=&quot;_blank&quot; title=&quot;Basecamp&quot;&gt;Basecamp&lt;/a&gt; for internal discussion that needs to be recorded. Then we use &lt;a href=&quot;http://slack.com&quot; target=&quot;_blank&quot; title=&quot;Slack&quot;&gt;Slack&lt;/a&gt; for in-real-time communication and having the water-cooler effect of always having someone to talk to.&lt;/p&gt;
+
+&lt;p&gt;We hardly ever email each other save for communications with third parties.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, it is very important to present all the tools to the new hire, as well as the frequency of use and some rules that need to be met to ensure a fluid &amp;amp; correct communication.&lt;/p&gt;
+
+&lt;h3&gt;Get-togethers&lt;/h3&gt;
+
+&lt;p&gt;Secondly, get-togethers, for work or leisure, are necessary in all remote working companies.&lt;/p&gt;
+
+&lt;p&gt;Imagine a team that never sees each other&amp;#39;s faces save for videocalls. As hard as they might try, there&amp;#39;s a great chance they will not bond as much as a normal company due to the lack of physical connection.&lt;/p&gt;
+
+&lt;p&gt;In distributed teams, not everybody lives in the same city. In some cases, you might even have an employee in the other side of the globe, that might probably feel a little left out if not dealt with properly.&lt;/p&gt;
+
+&lt;p&gt;Get-togethers help bridging that gap. They create a sense of bonding that should be enforced regularly, depending on the maturity and budget of the company.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, get-togethers for working will also boost productivity for a day. Instead of everyone working separately, try getting the team together in the same room for a day. This will boost creativity and create an exciting vibe to get more stuff done before the session ends.&lt;/p&gt;
+
+&lt;p&gt;Lastly, get-togethers on the new employee&amp;#39;s first day are also critical to help easing the introduction to the rest of the crew. He or she will want to meet the bosses &amp;amp; coworkers on the first day.&lt;/p&gt;
+
+&lt;p&gt;From the company side, that shows appreciation and interest in the new employee. Not only will this help him/her gelling in with the rest of the crew, but they can all get to know one another in a more natural way.&lt;/p&gt;
+
+&lt;p&gt;Is your company a distributed team as well? Feel free to share your tips and experiences with us in the comments below!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Oct 2014 17:00:00 +0200</pubDate>
+        <link>http://www.marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team</guid>
+      </item>
+    
+      <item>
+        <title>The MarsBased Team Grows Bigger: The Abduction</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d23.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Tuesday, October 7th will be a date to remember for all the Martians.&lt;/p&gt;
+
+&lt;p&gt;The last few months we have been swamped with work. Far from being a quiet and relaxed summer, the MarsBased flagship has been advancing at cruise speed. And to face the coming months, we hired a new developer.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s what we did in our first day with him.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3&gt;In the last chapter of The MarsBased Diaries...&lt;/h3&gt;
+
+&lt;p&gt;During the summer we have been working non-stop to make MarsBased grow bigger, looking for larger projects that would allow an organic and sustainable growth of the company.&lt;/p&gt;
+
+&lt;p&gt;Turns out, one of the first contacts we ever made as MarsBased reached out and hired us for a very ambitious project we hope to disclose very soon.&lt;/p&gt;
+
+&lt;p&gt;The project is big. So big that &lt;a href=&quot;http://twitter.com/xavier_redo&quot; target=&quot;_blank&quot; title=&quot;Xavier Redó Twitter handle&quot;&gt;Xavi&lt;/a&gt;, our CTO, could not complete it on his own in the given dates. So we hired a new Martian called &lt;a href=&quot;http://www.twitter.com/_iamjavi_&quot; target=&quot;_blank&quot; title=&quot;Javi&#39;s Twitter handle&quot;&gt;Javier Pérez&lt;/a&gt;, who has an extensive background in IT consulting and webapps development. Plus he&amp;#39;s got a beard.&lt;/p&gt;
+
+&lt;h3&gt;The Abduction&lt;/h3&gt;
+
+&lt;p&gt;Because we&amp;#39;re a remote working company, we do not have a physical office. We always meet our clients at their offices and seldom hold any get-togethers by now. So we went out for some coworking at one of the best venues in town: &lt;a href=&quot;http://www.start2bee.com/&quot; target=&quot;_blank&quot; title=&quot;Start2bee coworking space&quot;&gt;Start2bee&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Javi is our first hire at MarsBased, so we made sure we gave him the best possible welcoming to the company.&lt;/p&gt;
+
+&lt;p&gt;He showed up with his new &amp;amp; shiny Macbook Pro and after having read the Martian Playbook, prepared for a day-long session of initiation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post13a.jpg&quot; alt=&quot;MarsBased abduction&quot; title=&quot;MarsBased abduction&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;MarsBased corporate presentation to commence the abduction!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;The session kicked off with a formal presentation of the company: who we are, what are our working methods and what do we offer as a company.&lt;/p&gt;
+
+&lt;p&gt;We then reviewed the MarsBased Playbook to emphasize the importance of communication and mutual understanding in distributed teams.&lt;/p&gt;
+
+&lt;p&gt;Finally, the first half of the coworking session ended with a review of the company history, project by project, to help understand our progress as a company up until now.&lt;/p&gt;
+
+&lt;p&gt;After lunch, we started rolling: Xavi and Javi teamed up to start pair-programming while the rest of the team worked on project definition and estimations for potential clients.&lt;/p&gt;
+
+&lt;h3&gt;Immediate future&lt;/h3&gt;
+
+&lt;p&gt;Our biggest challenge is to integrate Javi into the MarsBased culture &amp;amp; working methods as soon and natural as possible.&lt;/p&gt;
+
+&lt;p&gt;His challenge is to help us achieve the goals we&amp;#39;ve set, that we couldn&amp;#39;t achieve without him, while bringing a whole lot of expertise in Javascript to our tech stack.&lt;/p&gt;
+
+&lt;p&gt;And for that, he (also) got a corporate coffee mug.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post13c.jpg&quot; alt=&quot;MarsBased coffee mug&quot; title=&quot;MarsBased coffee mug&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;MarsBased coffee mug with our new logo!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Welcome aboard, Javi.&lt;/p&gt;
+
+&lt;p&gt;PS: Xavi and Javi will be pair-programming during the next weeks at Start2bee a couple of days a week. Drop by to say hello, if you&amp;#39;re around!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Oct 2014 17:00:00 +0200</pubDate>
+        <link>http://www.marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction</guid>
+      </item>
+    
+      <item>
+        <title>The Martians Conquer the IronHack</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d636.y35/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When we created MarsBased, we decided to be a social, outgoing and media-friendly company. We also wanted to help the community, to pay back what the community had helped us in the beginning.&lt;/p&gt;
+
+&lt;p&gt;In the early stages of a company, this is however something hard to achieve. The first priorities should be creating the company, establishing an organized accounting culture and sales, and developing your product.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Once the cash comes in, and stabilizes the company, you can take some time to contribute back to the community. While it&amp;#39;s not mandatory, it clearly helps developing a friendly attitude as a company.&lt;/p&gt;
+
+&lt;p&gt;Lately, we have been helping newcomers in the Ruby community.&lt;/p&gt;
+
+&lt;h3&gt;Enter the IronHack&lt;/h3&gt;
+
+&lt;p&gt;When we created the company, we compiled a list of the leading Ruby development shops we wanted to meet and learn from. We threw in a bunch of names such as &lt;a href=&quot;http://thoughtbot.com/&quot; title=&quot;Thoughbot&quot; target=&quot;_blank&quot;&gt;Thoughtbot&lt;/a&gt;, &lt;a href=&quot;http://www.codegram.com/&quot; title=&quot;Codegram&quot; target=&quot;_blank&quot;&gt;Codegram&lt;/a&gt;, &lt;a href=&quot;http://plataformatec.com.br/&quot; title=&quot;Plataformatec&quot; target=&quot;_blank&quot;&gt;Plataformatec&lt;/a&gt; and so on.&lt;/p&gt;
+
+&lt;p&gt;Last December, when I embarked in &lt;a href=&quot;http://startupoddity.ghost.io/meeting-san-francisco/&quot; title=&quot;Startup Oddity Blog&quot; target=&quot;_blank&quot;&gt;my trip to San Francisco&lt;/a&gt;, I reached out to the all of them and got a fair share of replies, hence meeting the guys from &lt;a href=&quot;http://thoughtbot.com/&quot; title=&quot;Thoughbot&quot; target=&quot;_blank&quot;&gt;Thoughtbot&lt;/a&gt;, &lt;a href=&quot;http://monterail.com/&quot; title=&quot;Monterail&quot; target=&quot;_blank&quot;&gt;Monterail&lt;/a&gt;, &lt;a href=&quot;http://prorubyteam.com/&quot; title=&quot;ProRuby&quot; target=&quot;_blank&quot;&gt;ProRuby&lt;/a&gt;, just to name a few. All of them vowed to help us like they had been once helped, and gave us very useful pieces of advice. It was, indeed, a very promising start!&lt;/p&gt;
+
+&lt;p&gt;I also added to the list some developer bootcamps, completely ignoring the fact that most of them work exclusively with top-class companies and developers. However, &lt;a href=&quot;http://ironhack.com/&quot; title=&quot;IronHack&quot; target=&quot;_blank&quot;&gt;IronHack&lt;/a&gt; replied back nonetheless.&lt;/p&gt;
+
+&lt;h3&gt;Time Flies&lt;/h3&gt;
+
+&lt;p&gt;After some months of chatting back and forth, I received an email from them asking for collaborators for their summer edition in Barcelona. We were invited to know them in person, at &lt;a href=&quot;http://mob-barcelona.com/&quot; title=&quot;Makers of Barcelona&quot; target=&quot;_blank&quot;&gt;MOB&lt;/a&gt;, and introduced to their team assistants and guest teachers: top Ruby and Javascript developers, working for Xing, Spotify and other leading companies.&lt;/p&gt;
+
+&lt;p&gt;The IronHack bootcamp runs for two months with full dedication to learning coding: Rails, AngularJS, Javascript and what it takes to create state-of-the-art webapps. After their daily dose of programming, the session is completed with talks regarding different subjects: branding, accounting, marketing and all kinds of useful stuff. We were asked to provide two talks.&lt;/p&gt;
+
+&lt;h3&gt;First Talk: Create your Company NOW&lt;/h3&gt;
+
+&lt;p&gt;I was honoured to give the first talk of the current edition.&lt;/p&gt;
+
+&lt;p&gt;Because I know that most people there are passionate about web applications and will end their IronHack program creating an app (because it&amp;#39;s their final project), I thought it would be useful to motivate them. What if they didn&amp;#39;t only program that app for IronHack? What if they could create a startup around it?&lt;/p&gt;
+
+&lt;p&gt;I used Prezi to create a motivational presentation using their fantastic Space template (fits perfectly with our Martian imagery) and rallied the troops to go out and create their startup right NOW.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post12a.jpg&quot; alt=&quot;Àlex presenting at IronHack&quot; title=&quot;Àlex presenting at IronHack&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Warning! The presentation contains profanity!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://prezi.com/ttqvo8ssl6ew/create-your-company-from-out-of-this-world/&quot; title=&quot;Prepare your business to sky-rocket&quot; target=&quot;_blank&quot;&gt;Get the presentation here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Second Talk: Bulding Large Webapps That Are Easy to Maintain&lt;/h3&gt;
+
+&lt;p&gt;Two weeks later, Xavi provided a largely comprehensive talk on how to build large web applications to be easily maintainable. While the presentation dealt mostly with Rails best practices, it contained a fair share of &lt;a href=&quot;http://www.urbandictionary.com/define.php?term=lulz&amp;defid=2539255&quot; title=&quot;Definition of lulz&quot; target=&quot;_blank&quot;&gt;lulz&lt;/a&gt;. At MarsBased we enforce the use of meme-driven presentations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post12b.jpg&quot; alt=&quot;Xavi presenting at IronHack&quot; title=&quot;Xavi presenting at IronHack&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Meme-driven technical presentation!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/12625879/MarsBased/Ironhack%20presentation.pdf&quot; title=&quot;Bulding Large Webapps That Are Easy to Maintain&quot; target=&quot;_blank&quot;&gt;Get the presentation here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Future&lt;/h3&gt;
+
+&lt;p&gt;The feedback we received was so good that we were invited to an afterwork event on the rooftop of Betahaus, where we talked everything: from loving or hating TDD, to everyone&amp;#39;s future plans or why Barcelona is the best city in the world.&lt;/p&gt;
+
+&lt;p&gt;We definitely connected with the IronHack community and want to get more involved in the coming editions to make more people love coding and Ruby on Rails. So far, we can say we will be mentoring at the next edition of IronHack in Barcelona!&lt;/p&gt;
+
+&lt;p&gt;Did you meet us at IronHack? We would appreciate if you left some feedback in the comments section!&lt;/p&gt;
+
+&lt;p&gt;Love from Mars.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Aug 2014 17:00:00 +0200</pubDate>
+        <link>http://www.marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack</guid>
+      </item>
+    
+      <item>
+        <title>Sport on Rails - How Do We Keep Fit At MarsBased</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d605.y35/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;People coming from IT backgrounds mostly suffer from the same ailments as executives: back aches, migraine, circulation problems, eye dryness, stress. Luckily enough, we’ve got our own methods to fight these ailments back.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3&gt;Offices are evolving&lt;/h3&gt;
+
+&lt;p&gt;In the last years we have seen some innovation in the offices. Companies are bringing in new hardware such as standing desks, ergonomical mouses &amp;amp; pointing devices or having rotational seats. Also, standing up every now and then to stretch your legs is now allowed and encouraged, contrary to the strictness of the 80s, mostly thanks to wireless communications and devices.&lt;/p&gt;
+
+&lt;p&gt;However healthier that might sound, these perks are not yet an established practice in Spanish companies yet, and they seem to be adopted only by start-ups and like-minded companies.&lt;/p&gt;
+
+&lt;p&gt;While we can’t really tell you what to do to reduce the negative effects of sitting for too long, we will explain how we’re battling sedentarism at MarsBased. Of course, you can also follow some well-known tips like commuting to work on foot, answering phone calls while standing or even installing software that dims the screen’s brightness naturally to reduce eye dryness such as &lt;a href=&quot;https://justgetflux.com/&quot; title=&quot;Get F.lux&quot; target=&quot;_blank&quot;&gt;f.lux&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Working remotely&lt;/h3&gt;
+
+&lt;p&gt;We are a remote working company. Therefore, we get to move around our own homes/offices without anybody commenting on how often do we get up or how much do we slack off and/or procrastinate. Work gets done and deadlines are met regardless of our sitting position.&lt;/p&gt;
+
+&lt;p&gt;We move around freely, sitting, standing or leaning wherever we want, changing position and seat multiple times a day. Having an own office also allows to customize it further than most offices, which are sometimes shared with other people or don’t allow much freedom to bring new appliances or hardware.&lt;/p&gt;
+
+&lt;h3&gt;Sport within the company&lt;/h3&gt;
+
+&lt;p&gt;Because we wanted to encourage a healthier lifestyle within the company, last month we started the MarsBased Running Competition. The three Martians embarked in a running competition with different goals every fifteen days.&lt;/p&gt;
+
+&lt;p&gt;Using &lt;a href=&quot;http://www.runkeeper.com&quot; title=&quot;Runkeeper&quot; target=&quot;_blank&quot;&gt;Runkeeper&lt;/a&gt; as a tracking app, we track each other’s timings to compete. This way, we motivate each other to go jogging just for fun, and to avoid the shame of finishing in the last position.&lt;/p&gt;
+
+&lt;p&gt;The winner doesn’t get rewarded and the loser doesn’t get punished or mocked. We do it for fun, and it actually is a good excuse to get adrenaline flowing before going into a concentration phase or burning all the calories ingested in &lt;em&gt;that&lt;/em&gt; business lunch.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post11.png&quot; alt=&quot;The MarsBased shoes&quot; title=&quot;The MarsBased shoes&quot; class=&quot;img-center img-circle img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Not the best shoes for running, but gotta be corporate!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h3&gt;Sport outside the company&lt;/h3&gt;
+
+&lt;p&gt;This year we were invited to take part in the &lt;a href=&quot;http://www.startupdodgeball.net/bcn.html&quot; title=&quot;Startup Dodgeball&quot; target=&quot;_blank&quot;&gt;Startup Dodgeball&lt;/a&gt;. We could not attend because we were putting the final touches to the &lt;a href=&quot;http://bcn.cat/bcnstartupmap&quot; title=&quot;Barcelona Startup Map&quot; target=&quot;_blank&quot;&gt;Barcelona Startup Map&lt;/a&gt;, so we decided to create our own event.&lt;/p&gt;
+
+&lt;p&gt;In one of our first entries we told you about the &lt;a href=&quot;http://marsbased.com/blog/2013/11/07/start-up-circle-barcelona/&quot; title=&quot;Startup Circle in Barcelona&quot; target=&quot;_blank&quot;&gt;Startup Circle&lt;/a&gt; we’re leading in Barcelona. Two weeks ago we decided to end the serious business-oriented meetings we were having and met for a football match and dinner. A good way to unwind from the daily grind.&lt;/p&gt;
+
+&lt;p&gt;The event was well received within the community and we’re planning to do it again. We garnered ten members of this small community to play a game of indoors football that saw the birth of a very powerful interplanetary alliance between &lt;a href=&quot;http://mercurio-platform.com&quot; title=&quot;Mercurio Platform&quot; target=&quot;_blank&quot;&gt;Mercurio&lt;/a&gt; and MarsBased on the winning team.&lt;/p&gt;
+
+&lt;p&gt;Unlike rock bands, startups are not famous for their groupies (more for their lack thereof), at least in their early stages. Hence, no pictures were taken during the match!&lt;/p&gt;
+
+&lt;p&gt;We’re planning the next edition for the coming weeks, with our brothers from &lt;a href=&quot;http://www.dineyo.com&quot; title=&quot;Dineyo&quot; target=&quot;_blank&quot;&gt;Dineyo&lt;/a&gt;, &lt;a href=&quot;http://www.nektria.com&quot; title=&quot;Nektria&quot; target=&quot;_blank&quot;&gt;Nektria&lt;/a&gt;, &lt;a href=&quot;http://www.lemon8media.com/&quot; title=&quot;Lemon8 website&quot; target=&quot;_blank&quot;&gt; Lemon8&lt;/a&gt; and the rest of the Startup Circle people.&lt;/p&gt;
+
+&lt;p&gt;Wanna join? Shoot an e-mail at &lt;a href=&quot;mailto:hola@marsbased.com&quot; title=&quot;Mailto MarsBased&quot; target=&quot;_blank&quot;&gt;hola@marsbased.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Jul 2014 23:00:00 +0200</pubDate>
+        <link>http://www.marsbased.com/blog/2014/07/21/Sport-on-Rails</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/07/21/Sport-on-Rails</guid>
+      </item>
     
       <item>
         <title>Barcelona Startup Map (part 2)</title>
         <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d585.y35/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3&gt;The Martians attend Startup Grind Barcelona&lt;/h3&gt;
 
 &lt;p&gt;On Friday, 13th we attended the first Startup Grind Barcelona event held in the Mobile World Centre, right in the heart of Barcelona. As you might already know, we’re the technological partner of Startup Grind Barcelona (check out their &lt;a href=&quot;http://startupgrind.cat/&quot; title=&quot;Startup Grind Barcelona&#39;s website&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt;!).&lt;/p&gt;
 
@@ -18,7 +329,7 @@
 
 &lt;!--more--&gt;
 
-&lt;h3&gt;The event&lt;/h3&gt;
+&lt;h3&gt;The Martians attend Startup Grind Barcelona&lt;/h3&gt;
 
 &lt;p&gt;More than 50 people witnessed the presentation of the map. First time entrepreneurs, long running freelancers, investors and a very diverse audience saw the possibilities of this webapp that connects the whole Barcelona Startup Ecosystem.&lt;/p&gt;
 
@@ -48,8 +359,8 @@
 &lt;p&gt;Didn’t get yours? Send an email to &lt;a href=&quot;mailto:hola@marsbased.com&quot; title=&quot;Our email address&quot;&gt;hola@marsbased.com&lt;/a&gt; to request your tickets or just to say hello :)&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jul 2014 12:00:00 +0200</pubDate>
-        <link>http://blog.marsbased.com//blog/2014/07/01/Barcelona-Startup-Map2</link>
-        <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/07/01/Barcelona-Startup-Map2</guid>
+        <link>http://www.marsbased.com/blog/2014/07/01/Barcelona-Startup-Map2</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/07/01/Barcelona-Startup-Map2</guid>
       </item>
     
       <item>
@@ -58,14 +369,16 @@
 
 &lt;p&gt;We are very happy to announce that two days ago we launched our biggest project to date. Together with the Barcelona City Hall and Barcelona Activa - the executive tool of the Economic Development policies of the Barcelona City Council - we launched &lt;a href=&quot;http://bcn.cat/bcnstartupmap&quot; title=&quot;Barcelona Startup Map&quot; target=&quot;_blank&quot;&gt;Barcelona Startup Map&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p&gt;Want to know more about the app? Keep reading!&lt;/p&gt;
+
+&lt;!--more--&gt;
+
 &lt;h3&gt;We support the Barcelona local scene&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/blog/post9a.png&quot; alt=&quot;Barcelona Startup Map&quot; title=&quot;Barcelona Startup Map&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
 &lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Barcelona Startup Map, The entrepreneurial ecosystem of Barcelona&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;Barcelona Startup Map is a web application that displays the current state of the Barcelona entrepreneurial ecosystem in a map. Through Barcelona Startup Map, you will be able to find, geolocate and add start-ups, investors, accelerators/incubators, talent centers and venues providing services to entrepreneurs.&lt;/p&gt;
-
-&lt;!--more--&gt;
 
 &lt;p&gt;Barcelona Startup Map, like &lt;a href=&quot;http://www.spainstartupmap.com/&quot; title=&quot;SpainStartupMap&quot; target=&quot;_blank&quot;&gt;SpainStartupMap&lt;/a&gt;, &lt;a href=&quot;http://techbritain.com/&quot; title=&quot;TechBritain&quot; target=&quot;_blank&quot;&gt;TechBritain&lt;/a&gt;, &lt;a href=&quot;http://www.mappedinisrael.com/&quot; title=&quot;MappedInIsrael&quot; target=&quot;_blank&quot;&gt;MappedInIsrael&lt;/a&gt; and similar initiatives, provides a quick overview of the resources available to entrepreneurs in a certain area or city. Simply, if investors want to know whether the Barcelona start-up scene is solid enough, they will load Barcelona Startup Map to get the picture. To help the visitor understand the mapped data quicker and further, we are adding infographics as more data is brought into the system.&lt;/p&gt;
 
@@ -97,8 +410,8 @@
 &lt;p&gt;Love from Mars!&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Jun 2014 21:00:00 +0200</pubDate>
-        <link>http://blog.marsbased.com//blog/2014/06/09/Barcelona-Startup-Map1</link>
-        <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/06/09/Barcelona-Startup-Map1</guid>
+        <link>http://www.marsbased.com/blog/2014/06/09/Barcelona-Startup-Map1</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/06/09/Barcelona-Startup-Map1</guid>
       </item>
     
       <item>
@@ -107,16 +420,16 @@
 
 &lt;p&gt;This week has been definitely a turning point in the life of MarsBased. Coincidentally, we also celebrated our first MarsBased birthday.&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s been truly memorable: not only did we enjoy a delicious cake commemorating the first year of the Martian family, but we sealed the biggest project to date for MarsBased, too. &lt;/p&gt;
+&lt;p&gt;It&amp;#39;s been truly memorable: not only did we enjoy a delicious cake commemorating the first year of the Martian family, but we sealed the biggest project to date for MarsBased, too.&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/blog/post8a.png&quot; alt=&quot;The Mars Cake&quot; title=&quot;The Mars Cake&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
 &lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;The countdown on the cake is over, time to take-off&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;Most of our first year, we spend it building our portfolio and tools such as Cookin.me, which we are releasing as open source in an alpha phase. The last few months, however, we devoted our time to work for other companies building apps and killer websites for them. Our customers are happy, and so are we.&lt;/p&gt;
 
-&lt;!--more--&gt;
-
-&lt;p&gt;In one year we have sealed projects abroad, attended some big events and, as MarsBased completed some important goals, we&amp;#39;ve learned and had fun along the way. On a funnier side, we&amp;#39;ve received job applications before we had any projects, we got the Nigerian prince scam, and two companies even tried to acquire MarsBased. &lt;/p&gt;
+&lt;p&gt;In one year we have sealed projects abroad, attended some big events and, as MarsBased completed some important goals, we&amp;#39;ve learned and had fun along the way. On a funnier side, we&amp;#39;ve received job applications before we had any projects, we got the Nigerian prince scam, and two companies even tried to acquire MarsBased.&lt;/p&gt;
 
 &lt;p&gt;To celebrate this first anniversary, we want to share some of our best moments with you.&lt;/p&gt;
 
@@ -138,7 +451,7 @@
 
 &lt;h3&gt;And now, onto the second year!&lt;/h3&gt;
 
-&lt;p&gt;So where are we now? As we speak, we&amp;#39;re probably in three different geographical points in Catalonia. That&amp;#39;s how we work: we might not necessarily know where the others are, but we know we&amp;#39;re always there. Work-wise, however, we are 100% sure of where we stand: we&amp;#39;re set to work on our biggest project to date, while putting the final touches to our most recent projects. &lt;/p&gt;
+&lt;p&gt;So where are we now? As we speak, we&amp;#39;re probably in three different geographical points in Catalonia. That&amp;#39;s how we work: we might not necessarily know where the others are, but we know we&amp;#39;re always there. Work-wise, however, we are 100% sure of where we stand: we&amp;#39;re set to work on our biggest project to date, while putting the final touches to our most recent projects.&lt;/p&gt;
 
 &lt;p&gt;In the last few months, we have become a more mature company with clear roles &amp;amp; responsibilities. We have transitioned from being a product company to selling our services and our expertise. Our focus is now set on understanding the customer&amp;#39;s needs and making our vision converge with theirs to get to the heart of the project.&lt;/p&gt;
 
@@ -149,8 +462,8 @@
 &lt;p&gt;We want to make consultancy simple, fun, and down-to-earth.&lt;/p&gt;
 </description>
         <pubDate>Sun, 30 Mar 2014 16:00:00 +0200</pubDate>
-        <link>http://blog.marsbased.com//blog/2014/03/30/Celebrating-the-first-Martian-year</link>
-        <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/03/30/Celebrating-the-first-Martian-year</guid>
+        <link>http://www.marsbased.com/blog/2014/03/30/Celebrating-the-first-Martian-year</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/03/30/Celebrating-the-first-Martian-year</guid>
       </item>
     
       <item>
@@ -161,11 +474,11 @@
 
 &lt;p&gt;In our last entry we wrote about MarsBased&amp;#39;s principles when working for other companies, because we have recently been hired to develop our first projects. In this entry, we are breaking down our tool belt.&lt;/p&gt;
 
+&lt;!--more--&gt;
+
 &lt;h3&gt;Front-end Development&lt;/h3&gt;
 
 &lt;p&gt;MarsBased stands for innovation by using state-of-the-art technologies. HTML5, CSS3 and both Javascript and front-end frameworks - such as &lt;a href=&quot;http://getbootstrap.com/&quot; title=&quot;Bootstrap&quot; target=&quot;_blank&quot;&gt;Bootstrap&lt;/a&gt; or &lt;a href=&quot;http://angularjs.org/&quot; title=&quot;AngularJS&quot; target=&quot;_blank&quot;&gt;AngularJS&lt;/a&gt; - allow us to deliver responsive and highly dynamic websites with an unparalleled User Experience.&lt;/p&gt;
-
-&lt;!--more--&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/blog/post6.png&quot; alt=&quot;The MarsBased Tech Stack&quot; title=&quot;The MarsBased Tech Stack&quot; class=&quot;img-right img-responsive&quot; /&gt;&lt;/p&gt;
 
@@ -189,7 +502,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a title=&quot;ElasticSearch&quot; href=&quot;http://www.elasticsearch.org&quot;&gt;ElasticSearch&lt;/a&gt;: For indexing and searching through our client data without affecting performance.&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Sidekiq&quot; href=&quot;http://sidekiq.org&quot;&gt;Sidekiq&lt;/a&gt;: Handy when there&amp;#39;s a lot of background processing jobs - like image and video transformations, web crawling or big data processing. &lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Sidekiq&quot; href=&quot;http://sidekiq.org&quot;&gt;Sidekiq&lt;/a&gt;: Handy when there&amp;#39;s a lot of background processing jobs - like image and video transformations, web crawling or big data processing.&lt;/li&gt;
 &lt;li&gt;&lt;a title=&quot;Memcached&quot; href=&quot;http://memcached.org&quot;&gt;Memcached&lt;/a&gt;: Caches almost every little part of a web application to achieve blazing fast responses, thus keeping response times low.&lt;/li&gt;
 &lt;li&gt;&lt;a title=&quot;Redis&quot; href=&quot;http://redis.io&quot;&gt;Redis&lt;/a&gt;: Manages big amounts of volatile data faster than any relational database can.&lt;/li&gt;
 &lt;/ul&gt;
@@ -208,15 +521,15 @@
 
 &lt;p&gt;Our servers run very different services that need to be monitored (Nginx, MySQL, Elasticsearch… just to name a few!), so we use &lt;a title=&quot;Monit&quot; href=&quot;http://mmonit.com/monit/&quot;&gt;Monit&lt;/a&gt; to rule them all. Monit sends notifications whenever there is a risk of something failing such as a service being too loaded. It actually allows us to act proactively before any errors arise. But if a service goes down, Monit automatically tries to start it to minimize the downtime as much as possible.&lt;/p&gt;
 
-&lt;p&gt;Although Monit itself is very impressive, we also use another error-tracking tool very known by the Ruby community. Airbrake is an exception reporting service &lt;a title=&quot;Airbrake&quot; href=&quot;https://airbrake.io/&quot;&gt;trusted by over 40k customers&lt;/a&gt;, now seamlessly integrated with our tech stack. Simply put, if anyone using our web applications comes across an error message, we&amp;#39;ll get a notification in our cell phones with the details of the error in less than a minute. &lt;/p&gt;
+&lt;p&gt;Although Monit itself is very impressive, we also use another error-tracking tool very known by the Ruby community. Airbrake is an exception reporting service &lt;a title=&quot;Airbrake&quot; href=&quot;https://airbrake.io/&quot;&gt;trusted by over 40k customers&lt;/a&gt;, now seamlessly integrated with our tech stack. Simply put, if anyone using our web applications comes across an error message, we&amp;#39;ll get a notification in our cell phones with the details of the error in less than a minute.&lt;/p&gt;
 
 &lt;p&gt;Nothing is more satisfying than spotting and solving bugs before users have even time to report them.&lt;/p&gt;
 
 &lt;p&gt;That&amp;#39;s all for today, folks. As you can see, we love talking technologies. Feel free to drop us an e-mail or bring up a conversation on &lt;a title=&quot;MarsBased Twitter Profile&quot; href=&quot;http://twitter.com/MarsBased&quot;&gt;Twitter&lt;/a&gt; anytime.&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Mar 2014 00:59:00 +0100</pubDate>
-        <link>http://blog.marsbased.com//blog/2014/03/25/we-make-the-right-app2</link>
-        <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/03/25/we-make-the-right-app2</guid>
+        <link>http://www.marsbased.com/blog/2014/03/25/we-make-the-right-app2</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/03/25/we-make-the-right-app2</guid>
       </item>
     
       <item>
@@ -225,11 +538,11 @@
 
 &lt;p&gt;We&amp;#39;re often asked &lt;em&gt;&amp;quot;what do you guys do at MarsBased?&amp;quot;&lt;/em&gt; when we&amp;#39;re out there promoting our start-up. While it might get repetitive after a few hundred times, it gets never tiring: it helps us to perfect the answer. And actually, it&amp;#39;s been a good proof that we were not conveying our message clearly enough through our communication channels.&lt;/p&gt;
 
+&lt;!--more--&gt;
+
 &lt;p&gt;The answer to that question is plain simple: &lt;em&gt;We make the right app for you&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Because we wanted to work for other companies as well as developing our own apps, we applied the lean techniques we wrote about in a &lt;a href=&quot;/blog/2013/10/12/continuous-leaning-todo&quot; title=&quot;Blog entry about lean start-ups&quot; target=&quot;_blank&quot;&gt;previous entry&lt;/a&gt;, changed our motto to &amp;quot;we make the right app for you&amp;quot;, and started the search for freelancing projects at MarsBased.&lt;/p&gt;
-
-&lt;!--more--&gt;
 
 &lt;h3&gt;Getting to know each other: The exchange&lt;/h3&gt;
 
@@ -252,243 +565,8 @@
 &lt;p&gt;In the meantime, if you happen to have any good idea for an app and want MarsBased to develop it, drop us an &lt;a href=&quot;mailto:hola@marsbased.com&quot;&gt;e-mail&lt;/a&gt;!&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Mar 2014 02:17:00 +0100</pubDate>
-        <link>http://blog.marsbased.com//blog/2014/03/04/we-make-the-right-app1</link>
-        <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/03/04/we-make-the-right-app1</guid>
-      </item>
-    
-      <item>
-        <title>The Martians conquer the Startup Grind</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d461.y35/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s been two weeks since we attended the famous &lt;a href=&quot;http://startupgrind.com/2014&quot; title=&quot;Startup Grind&quot; target=&quot;_blank&quot;&gt;Startup Grind&lt;/a&gt; Global Summit in Mountain View, California, and we already look forward to next year&amp;#39;s edition!&lt;/p&gt;
-
-&lt;p&gt;If you are not familiar with the &lt;a href=&quot;http://startupgrind.com/&quot; title=&quot;Startup Grind&quot; target=&quot;_blank&quot;&gt;Startup Grind&lt;/a&gt;, it&amp;#39;s a recurring monthly event that aims to educate, inspire and connect entrepreneurs worldwide. The Startup Grind is a growing community in over 70 cities in 30 different countries, powered by &lt;a href=&quot;http://www.google.com/entrepreneurs/&quot; title=&quot;Google for Entrepreneurs&quot; target=&quot;_blank&quot;&gt;Google for Entrepreneurs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;People coming from all over the world travelled all the way to Mountain View to represent their start-ups or businesses. Investors, CEOs, developers, marketers, hackers, and all sorts of entrepreneurs attended the gathered in the &lt;a href=&quot;http://www.computerhistory.org/&quot; title=&quot;Computer History Musem&quot; target=&quot;_blank&quot;&gt;Computer History Musem&lt;/a&gt;, that hosted the event.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;There, we learnt the three Startup Grind principles:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post7a.jpg&quot; alt=&quot;The Startup Grind Values&quot; title=&quot;The Startup Grind Values&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;The Startup Grind Values&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;As Martians, and newcomers, we found these principles to be particularly welcoming. Want to know how do we apply them? Keep reading!&lt;/p&gt;
-
-&lt;h3&gt;How do we help others&lt;/h3&gt;
-
-&lt;p&gt;First and foremost, we offer to be your development company. We are highly specialized in Ruby on Rails and the tech stack we wrote about in &lt;a href=&quot;http://www.marsbased.com/blog/2014/02/01/we-make-the-right-app2/&quot; title=&quot;Our last blog entry&quot; target=&quot;_blank&quot;&gt;our last blog entry&lt;/a&gt;. We guide you from the very birth of your business idea to its launch, by applying our knowledge and experience on the field of web apps.&lt;/p&gt;
-
-&lt;p&gt;We can help your business if you...&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;... have no know-how to develop web applications.&lt;/li&gt;
-&lt;li&gt;... need some guidance/counseling to define what you app need.&lt;/li&gt;
-&lt;li&gt;... want to partner with a trustworthy development company.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For individuals or start-ups, we build your MVPs. MarsBased has the DNA of a start-up and that gives us a deep understanding of what do start-ups need.&lt;/p&gt;
-
-&lt;h3&gt;How do we make friends&lt;/h3&gt;
-
-&lt;p&gt;We met a lot of people. Really. And we remember each and everyone&amp;#39;s faces and names. We enjoyed a good chat with everybody and look forward to meeting them again, wherever they live.&lt;/p&gt;
-
-&lt;p&gt;Because we enjoy keeping track of their endeavours, we connected with them on the social networks. We are always open to meet new people, so feel free to connect with &lt;a href=&quot;http://www.marsbased.com/contact&quot; title=&quot;Our social profiles&quot; target=&quot;_blank&quot;&gt;our social profiles&lt;/a&gt; and let&amp;#39;s start a good conversation!&lt;/p&gt;
-
-&lt;p&gt;But you can also meet us in real life by shooting us an e-mail. If we&amp;#39;re not around your area, we will schedule a video call.&lt;/p&gt;
-
-&lt;p&gt;You know, for being Martians, we are actually very down-to-earth guys ;)&lt;/p&gt;
-
-&lt;h3&gt;Giving before taking&lt;/h3&gt;
-
-&lt;p&gt;Giving before taking is one of the principles of altruism. And what is more altruistic than trying to change the world?&lt;/p&gt;
-
-&lt;p&gt;The Startup Grind guys came with a very nice initiative: the world-changing wall. All the attendees were encouraged to write how is their company changing the world.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post7b.jpg&quot; alt=&quot;How did we change the world&quot; title=&quot;How did we change the world&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;How did we change the world&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;MarsBased is composed by three Martians driven to change the consultancy world for the better. We want to make consultancy friendly, fun, and down-to-earth.&lt;/p&gt;
-
-&lt;p&gt;The usage of lean techniques, agile development methodologies, the &amp;quot;simpler is better&amp;quot; philosophy and our charming presence are giving our consulting services a fresher touch. Our clients are already enjoying this closer approach. &lt;/p&gt;
-
-&lt;p&gt;And you? What are your company values? How do you plan to change the world? Share your opinion in the comments!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 23 Feb 2014 23:00:00 +0100</pubDate>
-        <link>http://blog.marsbased.com//blog/2014/02/23/the-martians-conquer-the-startup-grind</link>
-        <guid isPermaLink="true">http://blog.marsbased.com//blog/2014/02/23/the-martians-conquer-the-startup-grind</guid>
-      </item>
-    
-      <item>
-        <title>Start-up circle in Barcelona</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d356.y35/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;So the start-up circle we&amp;#39;ve been talking about on Twitter is already working! It&amp;#39;s a small step for the start-up community in Barcelona, but a huge step for MarsBased!&lt;/p&gt;
-
-&lt;p&gt;Don&amp;#39;t you know what a start-up circle is? Well, plain and simple: it&amp;#39;s a group of start-ups that collaborate together. Of course, there are be start-ups that share co-working spaces, computers, work on the same project or even share board – just to name a couple of variations. The bottom line is: collaboration at &lt;em&gt;any&lt;/em&gt; level.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;In our case, our start-up circle consists of four start-ups and a start-up-less entrepreneur. They are, in no particular order:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post4.png&quot; alt=&quot;The Sagrada Família, in Barcelona, home of our start-up circle&quot; title=&quot;The Sagrada Família, in Barcelona, home of our start-up circle&quot; class=&quot;img-circle img-right img-responsive&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.fusetic.com/&quot; title=&quot;Fuse TIC&#39;s Website&quot; target=&quot;_blank&quot;&gt;Fuse TIC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://mercurio-platform.com/&quot; title=&quot;Mercurio Platform&#39;s Website&quot; target=&quot;_blank&quot;&gt;Mercurio Platform&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.dineyo.com/&quot; title=&quot;Dineyo&#39;s Website&quot; target=&quot;_blank&quot;&gt;Dineyo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://twitter.com/xeeevi&quot; title=&quot;Xeeevi&#39;s Twitter Profile&quot; target=&quot;_blank&quot;&gt;@xeevi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;… and &lt;a href=&quot;http://www.twitter.com/MarsBased&quot; title=&quot;MarsBased Twitter Profile&quot; target=&quot;_blank&quot;&gt;MarsBased&lt;/a&gt;, of course ;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All of the mentioned above are based in Barcelona!&lt;/p&gt;
-
-&lt;p&gt;The Sagrada Família, in Barcelona, home of our start-up circle.&lt;/p&gt;
-
-&lt;p&gt;The start-up circle has one only goal: to help each start-up to save time, not otherwise. It should allow each start-up to focus on their strengths, rather than wasting time in trying to overcome their weaknesses.&lt;/p&gt;
-
-&lt;p&gt;Each and every member of this start-up circle has identified what are the weak and strong points of their teams. If we had the means, we&amp;#39;d probably delegate them to third parties, but we&amp;#39;re &lt;a href=&quot;http://en.wikipedia.org/wiki/Bootstrapping&quot; title=&quot;Bootstrapping definition from Wikipedia&quot; target=&quot;_blank&quot;&gt;bootstrapping&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Because we&amp;#39;re on a budget, and most start-ups are, we need to get things going using our imagination as a substitute for money. Or else, as a tool to get money and/or resources.&lt;/p&gt;
-
-&lt;p&gt;A start-up circle can help its members in many ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Knowledge sharing:&lt;/strong&gt; Through creation of manuals, exchanging formation (workshops, webinars, etc.) or on-line documentation – such as wikis.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Resource sharing:&lt;/strong&gt; Co-working spaces, shared equipment (cars, computers, servers…), placing orders together, etc.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Exchange of favours:&lt;/strong&gt; A company whose best asset is creating beautiful designs can offer their designs to an other start-up circle member offering legal assistance in return&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Networking:&lt;/strong&gt; Everyone needs to build their own contacts network. But why not doing it while being part of a network? A net&amp;#39;s worth isn&amp;#39;t just the sum of all its members, as stated by the &lt;a href=&quot;http://en.wikipedia.org/wiki/Metcalfe%27s_law&quot; title=&quot;Metcalfe&#39;s law&quot; target=&quot;_blank&quot;&gt;Metcalfe&amp;#39;s law&lt;/a&gt; (and many others), but it grows with the network in a non-linear way.
-Of course, there are more benefits in belonging to a start-up circle, but these are the most important to us right now.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In our case, the start-up circle can help us in the legal area, as well as in the administration and accounting ones. We can rely on some of the other circle members whose strengths are, precisely, these ones.&lt;/p&gt;
-
-&lt;p&gt;Conversely, we offer our expertise in web design, technical knowledge and international capabilities in return. We do believe we&amp;#39;re able to deliver quality products and therefore share our know-how with the rest of the start-up circle members.&lt;/p&gt;
-
-&lt;p&gt;If you want to read more about our start-up circle, follow us in our social profiles and we&amp;#39;ll keep you updated! Else, if you want to be a part of our start-up circle, drop us a line at &lt;a href=&quot;mailto:hola@marsbased.com&quot;&gt;hola@marsbased.com&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 07 Nov 2013 20:40:00 +0100</pubDate>
-        <link>http://blog.marsbased.com//blog/2013/11/07/start-up-circle-barcelona</link>
-        <guid isPermaLink="true">http://blog.marsbased.com//blog/2013/11/07/start-up-circle-barcelona</guid>
-      </item>
-    
-      <item>
-        <title>Fail. Learn. Change. Evolve.</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d330.y35/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Cheers to everybody that has been reading us for a couple of posts as of now. It feels really good to know there&amp;#39;s &lt;em&gt;someone out there&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;We&amp;#39;re a starting company, and we&amp;#39;re still learning how to do things and in which order, so you might expect some changes in the coming months. Hopefully, they&amp;#39;re all for the better.&lt;/p&gt;
-
-&lt;p&gt;That being said, we want to share a few thoughts about how we&amp;#39;ve worked in the first months since MarsBased was created. Yes, in fact, we have been &lt;em&gt;leaning&lt;/em&gt;. &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_Startup&quot; title=&quot;Wikipedia definition of lean startup&quot; target=&quot;_blank&quot;&gt;More info on leaning startups here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post3.png&quot; alt=&quot;Planet Success&quot; title=&quot;Planet Success&quot; class=&quot;img-center img-responsive&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;These changes – model, company name, organization, software, project typology, etc. – shouldn&amp;#39;t be seen as strange in young companies. On the contrary: they&amp;#39;re necessary.&lt;/p&gt;
-
-&lt;p&gt;Our first idea was to create the Next Facebook. The next Big Thing. But we lacked experience and we soon were overwhelmed by how little did we know.&lt;/p&gt;
-
-&lt;p&gt;Brainstorming, and onto another thing: we failed again because we picked a growing market (eco-food) that wasn&amp;#39;t what we wholeheartedly wanted to commit to.&lt;/p&gt;
-
-&lt;p&gt;Rinse and repeat! Without such changes, we would have perhaps insisted in trying the same thing over and over. We have changed how to distribute tasks among us, we&amp;#39;ve used many different tools (more on that in the next blog entries ;)), changed the way we talk to each other and we even changed roles within the team.&lt;/p&gt;
-
-&lt;p&gt;And for now, we have found a way.&lt;/p&gt;
-
-&lt;p&gt;Change must always lead to a better state. Surely, you&amp;#39;ll find thousands of articles of &amp;quot;Top 10 things to do if you&amp;#39;re a startup&amp;quot; or &amp;quot;50 ways to get to the top with a young company&amp;quot; or &amp;quot;DOs and DON&amp;#39;Ts when starting a company&amp;quot;. Google it, it&amp;#39;s very overwhelming. It would take many lifetimes to read all these articles.&lt;/p&gt;
-
-&lt;p&gt;We don&amp;#39;t want to write any of these. Rather, we want to share with you the struggle we&amp;#39;ve gone through. We want to tell you our story in a human way, not from the marketers&amp;#39; point of view.&lt;/p&gt;
-
-&lt;p&gt;These small stories are hard to find, but are the ones that inspired us to build our own thingie. We believed in the real stories the guys from &lt;a href=&quot;http://37signals.com&quot; title=&quot;37signals&quot; target=&quot;_blank&quot;&gt;37signals&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/37signals&quot; title=&quot;37signals on Twitter&quot; target=&quot;_blank&quot;&gt;@37signals&lt;/a&gt;), &lt;a href=&quot;http://www.6wunderkinder.com/&quot; title=&quot;6Wunderkinder&quot; target=&quot;_blank&quot;&gt;6Wunderkinder&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/6Wunderkinder&quot; title=&quot;6Wunderkinder on Twitter&quot; target=&quot;_blank&quot;&gt;@Wunderkinder6&lt;/a&gt;), and many others wrote about.&lt;/p&gt;
-
-&lt;p&gt;They&amp;#39;re our inspiration, and this is our way to thank them.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 Oct 2013 15:08:00 +0200</pubDate>
-        <link>http://blog.marsbased.com//blog/2013/10/12/continuous-leaning-todo</link>
-        <guid isPermaLink="true">http://blog.marsbased.com//blog/2013/10/12/continuous-leaning-todo</guid>
-      </item>
-    
-      <item>
-        <title>Cookin.me: where all your recipes want to be!</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d309.y35/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;So some of you want to know what&amp;#39;s going on in the MarsBased headquarters, right? We can not reveal much, but we can tell you we&amp;#39;re indeed &lt;em&gt;cookin&amp;#39;&lt;/em&gt; something!&lt;/p&gt;
-
-&lt;p&gt;Let us introduce you to &amp;quot;Cookin.me&amp;quot;. Cookin.me is our soon-to-be first product, consisting in a web application for managing cooking recipes.&lt;/p&gt;
-
-&lt;p&gt;Cookin.me features an easy, clean and intuitive user interface that will help you organize your cooking recipes the way you want: create cookbooks and move recipes between them. The smooth transitions provide a pleasant experience when combined with in-line editing. You will breeze through your recipes collection!&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post2.png&quot; alt=&quot;Some of our favourite recipes!&quot; title=&quot;Some of our favourite recipes!&quot; class=&quot;img-center img-responsive&quot; /&gt;
-&lt;small class=&quot;caption&quot;&gt;&lt;em&gt;Some of our favourite recipes!&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;If you want to try Cookin.me, you will need to wait a little longer. We&amp;#39;re currently finishing the development, and completely changing the way it looks. We are adapting to the newest and trendiest &lt;em&gt;look&amp;amp;feels&lt;/em&gt; and opted for a flat design.&lt;/p&gt;
-
-&lt;p&gt;It looks awesome, actually, but if you want to see it, you&amp;#39;ll need to stay alert in the social networks or else subscribe to our newsletter!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&amp;quot;Ok, ok, I got it, but why another recipe app in the market?&amp;quot;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;There are currently heaps of recipe applications in the market: but none of them features such a beautiful user interface. Believe us, after analysing the market, we felt there was something missing in each and every recipe app we&amp;#39;ve tested. Loads of button-bloated toolbars, excessive functionality, old-fashioned look&amp;amp;feels, last-century table-based designs, pixelated logos and imagery, etc.&lt;/p&gt;
-
-&lt;p&gt;Why so complicated?&lt;/p&gt;
-
-&lt;p&gt;We think differently: Simpler is better. We prefer releasing a product that does half the things but works as intended, rather than a half a product working 50% of the time.&lt;/p&gt;
-
-&lt;p&gt;But that&amp;#39;s not all we do: we, at MarsBased, enjoy creating our own products as well as working for others (preferably small businesses) as long as they fit in with the MarsBased philosophy: simpler is better, global products, effective designs, state-of-the-art technologies.&lt;/p&gt;
-
-&lt;p&gt;For the moment, though, we&amp;#39;ve just started building up relationships around the net. As a starting company, we have been walking the initial steps of creating a company: defining strategies, building a splash website, creating a corporate image and learning to work together. As a matter of fact, we&amp;#39;ve launched our website and our social profiles barely two weeks ago!&lt;/p&gt;
-
-&lt;p&gt;But we want more! We&amp;#39;ve already started making some noise &amp;#39;round the net! If you want to be the first to read our messages and keep updated on our endeavours, try following us in the social networks:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://twitter.com/MarsBased&quot; title=&quot;MarsBased Twitter Profile&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://plus.google.com/+Marsbased/&quot; title=&quot;MarsBased on Google+&quot; target=&quot;_blank&quot;&gt;Google+&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://facebook.com/marsbased&quot; title=&quot;MarsBased Facebook Profile&quot; target=&quot;_blank&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.linkedin.com/company/marsbased&quot; title=&quot;MarsBased LinkedIn Profile&quot; target=&quot;_blank&quot;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;PS: Actually, the Cookin.me roadmap is quite clear, but we would definitely love to hear your thoughts on that. Got a nice idea for it? Tell us and we might include it as a feature, and you will be eligible for being a beta tester! Use our social profiles or &lt;a href=&quot;mailto:hola@marsbased.com&quot;&gt;send us an e-mail&lt;/a&gt; like it&amp;#39;s still 1994!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Sep 2013 17:21:00 +0200</pubDate>
-        <link>http://blog.marsbased.com//blog/2013/09/20/cookin-recipes-want</link>
-        <guid isPermaLink="true">http://blog.marsbased.com//blog/2013/09/20/cookin-recipes-want</guid>
-      </item>
-    
-      <item>
-        <title>Take-offs and landings</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d296.y35/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Today is the day. This blog celebrates its first post and after it the whole MarsBased machinery is taking off.&lt;/p&gt;
-
-&lt;p&gt;The MarsBased crew have been eagerly anticipating this moment for some months now and we are raring to go.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post1.png&quot; alt=&quot;Rocket Launch&quot; title=&quot;Rocket Launch&quot; class=&quot;img-circle img-right img-responsive&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Commencing countdown (five), engines on (four). (three) (two) Check ignition (one) and may God&amp;#39;s (blastoff) love be with you.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;With &lt;a href=&quot;https://www.youtube.com/watch?v=xcyuKUtgyZ8&quot; title=&quot;David Bowie - Space Oddity&quot; target=&quot;_blank&quot;&gt;Bowie&amp;#39;s &amp;quot;Space Oddity&lt;/a&gt; on our minds, we packed a few personal belongings and lots of illusion, took our luggages and set off onto a new start.&lt;/p&gt;
-
-&lt;p&gt;And here we are: inside our spaceship, heading towards our new destination. Life&amp;#39;s too good up here. It is, indeed, a promising start for our trip to a brighter future.&lt;/p&gt;
-
-&lt;p&gt;We will keep you updated, but if you want to get to know us a little better, you might want to follow us through our social profiles:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://twitter.com/MarsBased&quot; title=&quot;MarsBased Twitter Profile&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://plus.google.com/+Marsbased/&quot; title=&quot;MarsBased on Google+&quot; target=&quot;_blank&quot;&gt;Google+&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://facebook.com/marsbased&quot; title=&quot;MarsBased Facebook Profile&quot; target=&quot;_blank&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.linkedin.com/company/marsbased&quot; title=&quot;MarsBased LinkedIn Profile&quot; target=&quot;_blank&quot;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Now it&amp;#39;s time for us to choose our travel companions, so you are all welcome on board. Join the MarsBased crew on this adventure!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 07 Sep 2013 18:19:00 +0200</pubDate>
-        <link>http://blog.marsbased.com//blog/2013/09/07/take-offs-and-landings</link>
-        <guid isPermaLink="true">http://blog.marsbased.com//blog/2013/09/07/take-offs-and-landings</guid>
+        <link>http://www.marsbased.com/blog/2014/03/04/we-make-the-right-app1</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/03/04/we-make-the-right-app1</guid>
       </item>
     
   </channel>
