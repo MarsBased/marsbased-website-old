@@ -10,33 +10,33 @@ categories: MarsBased Startup Teambuilding Team Martians Dinner Company Culture
 
 It's been two months since our last status update, and we wanted to let you know we're far from dead.
 
-After a fledging progression that has seen us completing our first projects after the summer, a couple of new big projects have popped up. These projects have kept us swamped with work, but they are also a reason to celebrate.
+After a fledging progression that has seen us completing our first projects after the summer, a couple of new big challenges have popped up. All these projects have kept us swamped with work, but they are also a reason to celebrate.
 
-Indeed, 2014 has brought many good achievements and landmarks. But none of them can compare to being able to celebrate our first Christmas dinner.
+Indeed, 2014 has brought many good achievements and landmarks for our company. But none of them can compare to celebrating our first Christmas dinner.
 
 <!--more-->
 
 ###A year in review###
 
-The MarsBased spaceship has been working at full capacity to complete the ongoing projects we've got, and we have found no time to update the blog. While we can't wait to tell you everything we are undergoing at the moment, we also need to meet the deadlines.
+The MarsBased spaceship has been working at full capacity to complete the ongoing projects we have had thus far, having barely no time to update the blog. While we can't wait to tell you everything we are undergoing at the moment, we also need to meet the deadlines.
 
-Let's do a review of the steps we have taken to reach this point.
+Let's review the steps we have taken to reach this point.
 
-MarsBased as a company was founded in March this year, after I came back from San Francisco. Signing all the required documentation was both relieving and challenging, and definitely has changed our lives for the better.
+MarsBased as a company was founded in March this year, after I came back from San Francisco. Signing all the required documentation to create the company was both relieving and challenging, and definitely has changed our lives for the better.
 
 After doing some minor projects, we got the opportunity of working for Barcelona Activa, in the creation of the <a href="http://bcn.cat/bcnstartupMap" title="BCN Startup Map" target="_blank">Barcelona Startup Map</a>. This project gave us enough propulsion (both economically and visiblity-wise) to start working on other projects. Also, through this project we were contacted by other companies who wanted to hire our services.
 
 During the summer we landed the project of <a href="http://www.eureka-startups.com" title="Eureka Startups" target="_blank">Eureka Startups Experts</a> (still in progress), and a couple of other projects, that allowed both Xavi and I to go full time for the company. As a result of that, we boosted our production capacity, which means we could take on more & bigger projects.
 
-By working full-time, we could also start going to events, thus increasing our visibility in the scene. We participated in numerous events, organizing meetings with the Startup Circle, collaborating with <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona" target="_blank">Startup Grind</a>, mentoring at <a href="http://ironhack.com" title="IronHack" target="_blank">IronHack</a>, giving speeches at congresses, attending Baruco, and meeting fantastic people everywhere.
+By working full-time, we could also start going to events, thus increasing our visibility in the scene. We participated in numerous events, organizing meetings with the Startup Circle, collaborating with <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona" target="_blank">Startup Grind</a>, mentoring at <a href="http://ironhack.com" title="IronHack" target="_blank">IronHack</a>, giving speeches at congresses, attending <a href="http://www.baruco.org" title="Baruco" target="_blank">Baruco</a>, and meeting fantastic people everywhere.
 
-But it was in September-October that we landed a couple of big projects (details to be disclosed soon!) from abroad. These two projects gave us enough stability to hire <a href="http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction/" title="Our blog post of our first hire" target="_blank">Javi</a> to increase our development capacity again. Soon thereafter, we got the opportunity of welcoming our first intern <a href="https://twitter.com/MarsBased/status/538760313836158976" title="MarsBased welcomes Emilio Rios" target="_blank">Emilio</a>.
+But it was in September-October that we landed a couple of big projects from abroad (details to be disclosed soon!). These two projects have given us enough stability to hire <a href="http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction/" title="Our blog post of our first hire" target="_blank">Javi</a> to increase our development capacity again. Soon thereafter, we got the opportunity of welcoming our first intern <a href="https://twitter.com/MarsBased/status/538760313836158976" title="MarsBased welcomes Emilio Rios" target="_blank">Emilio</a>.
 
 ###A Martian Christmas dinner###
 
-Last Wednesday we got together and spent a whole evening together celebrating the first MarsBased Christmas dinner.
+Last Wednesday we got together and spent a whole evening celebrating the first MarsBased Christmas dinner.
 
-As a distributed team, this kind of get-togethers are essential to help bonding with the team at a personal level. They also increase happiness in the company and provide a good way to talk about stuff that's normally not covered in the company chat.
+As a remote working company, this kind of get-togethers are essential to help bonding with the team at a personal level. They also increase happiness in the company and provide a good way to talk about stuff that's normally not covered in the corporate chat.
 
 The evening started at <a href="https://foursquare.com/v/la-cerveseria-clandestina/50447f7de4b072dc97475858" title="La Cervecería Clanestina" target="_blank">Cervecería Clandestina</a> to taste a selection of the finest beers. Barcelona is not famous for its craft beer yet, but it's a growing trend that is getting very popular in the last years.
 
