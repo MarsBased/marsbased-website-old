@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Our New Year's Resolutions for 2015"
-date:   2015-01-12 15:00:00
+date:   2015-01-20 15:00:00
 author: alex
 categories: MarsBased Startup Teamwork CompanyCulture
 ---
