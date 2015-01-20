@@ -7,6 +7,128 @@
     <atom:link href="http://www.marsbased.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Our New Year&#39;s Resolutions for 2015</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d114.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;2014 has been an amazing ride. It has seen us creating MarsBased, getting our first small projects, speaking at conferences, getting big projects, mentoring at IronHack, working for the Barcelona City Council, leading Startup Grind &amp;amp; Startup Circle, welcoming our first hires and many other amazing achievements.&lt;/p&gt;
+
+&lt;p&gt;In fact, we&amp;#39;re preparing a detailed review of 2014 for you all to enjoy and discover what&amp;#39;s been going on in the MarsBased spaceship.&lt;/p&gt;
+
+&lt;p&gt;While the 2014 post is being baked, we&amp;#39;ll share with you our new year resolutions for this promising 2015!&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;In our first meeting of the year, everybody was asked what his resolutions for 2015 were, both personal and professional. Most of the resolutions are strongly related to our first months at MarsBased and/or our previous jobs, so we will be providing a little background to help you understand our resolutions better.&lt;/p&gt;
+
+&lt;p&gt;This does not only help us bonding with each other, but it is also part of our new strategy of publishing more blog content and providing more transparency as a company (inspired in the &lt;a href=&quot;http://buffer.com&quot; title=&quot;Buffer&quot; target=&quot;_blank&quot;&gt;Buffer&lt;/a&gt; guys, who are doing a terrific job at &lt;a href=&quot;https://bufferapp.com/transparency&quot; title=&quot;Buffer&#39;s Transparency policy&quot; target=&quot;_blank&quot;&gt;helping new companies delving into corporate transparency&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;In no particular order, here&amp;#39;s what the Martians pledged to achieve in 2015.&lt;/p&gt;
+
+&lt;h3&gt;Xavier Redó - CTO&lt;/h3&gt;
+
+&lt;p&gt;Xavi started the year joining his previous company, &lt;a href=&quot;http://www.opscaling.com/&quot; title=&quot;GNuine&quot; target=&quot;_blank&quot;&gt;GNuine&lt;/a&gt;, because we didn&amp;#39;t know we&amp;#39;d be able to recruit him so early. Our best guesstimates assumed we&amp;#39;d have to wait until the end of the year to have him working full-time.&lt;/p&gt;
+
+&lt;p&gt;This past year has seen Xavi working hard to cope with all the projects we&amp;#39;ve gotten at MarsBased, therefore his resolutions are:&lt;/p&gt;
+
+&lt;div class=&quot;quote left-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/xavi-squared.jpg&quot; alt=&quot;Xavier Redó&quot; title=&quot;Xavier Redó&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;Xavier Redó&lt;/h4&gt;
+        &lt;p&gt;CTO&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;Technologically speaking, I would like to be able to invest more time in exploring new technologies and frameworks to help us face the constant request of mobile apps.&lt;/p&gt;
+        &lt;p&gt;Secondly, I would like to identify repeating patterns in our development processes in order to extract libraries we can reuse in the forthcoming projects and open source them when possible.&lt;/p&gt;
+        &lt;p&gt;Leaving tech aside, I would like to participate more in events and conferences. I think I can add value in initiatives whose goal is to provide formation to new developers.&lt;/p&gt;
+        &lt;p&gt;Actually, I can also provide interesting content online, so I will be contributing more to the MarsBased blog. We&#39;ve gathered some interesting results in 2014, and I would like to publish them and share them with our followers and the Rails community.&lt;/p&gt;
+        &lt;p&gt;Finally, something I would like to improve is my time allocation skills. I am pretty accurate at guesstimating all the needed resources for each project, but so far I haven&#39;t included all these side-projects into my agenda. Here&#39;s to a 2015 for improvement!&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Emilio Ríos - Developer&lt;/h3&gt;
+
+&lt;p&gt;Emilio joined us barely a month and a half ago. But in our eyes, feels like he&amp;#39;s been with us for all the ride. He is, however, combining his internship at MarsBased with finishing his studies at La Salle.&lt;/p&gt;
+
+&lt;div class=&quot;quote right-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/emilio-squared.jpg&quot; alt=&quot;Emilio Ríos&quot; title=&quot;Emilio Ríos&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;Emilio Ríos&lt;/h4&gt;
+        &lt;p&gt;Developer&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;Since I have not been programming for long - at least not professionally - I would like to commit to improve my programming skills in 2015. Inspired by &lt;a href=&quot;http://ejohn.org/blog/write-code-every-day/&quot; title=&quot;Write Code Every Day&quot; target=&quot;_blank&quot;&gt;John Resig&lt;/a&gt;, my new year resolution is to produce code every day of the year.&lt;/p&gt;
+        &lt;p&gt;Now that my team-mates depend on me, I want to learn as much as possible to be helpful to them!&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Javier Pérez - Developer&lt;/h3&gt;
+
+&lt;p&gt;Javi joined MarsBased at the beginning of Q4, in early October. Having worked at &lt;a href=&quot;http://www.vass.es&quot; title=&quot;VASS&quot; target=&quot;_blank&quot;&gt;VASS&lt;/a&gt; together with Àlex, he transitioned from a full-time corporate J2EE consultant to an AngularJS/Rails developer.&lt;/p&gt;
+
+&lt;p&gt;Same as Emilio, feels like he&amp;#39;s been forever with us!&lt;/p&gt;
+
+&lt;div class=&quot;quote left-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/javi-squared.jpg&quot; alt=&quot;Javier Pérez&quot; title=&quot;Javier Pérez&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;Javier Pérez&lt;/h4&gt;
+        &lt;p&gt;Developer&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;I would like to master Rails in the coming months so that I can be 100% autonomous in the projects I am assigned to. This way, I will also be able to explore new techniques &amp; trends on my own.&lt;/p&gt;
+        &lt;p&gt;By acquiring more knowledge on Rails, I will be able to spot recurring patterns that I can turn into libraries for our projects.&lt;/p&gt;
+        &lt;p&gt;On a personal side, and when I will be more autonomous, I would like to travel more. I want to enjoy this freedom of schedule we&#39;ve got and visit places I haven&#39;t been to!&lt;/p&gt;
+        &lt;p&gt;Last, but not least, I would like to keep my condition of being single :)&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Àlex Rodríguez - CMO&lt;/h3&gt;
+
+&lt;p&gt;I started 2014 in San Francisco, having then recently quit my previous job at VASS, where I worked with Javi - actually, we were in the same project, sitting next to each other.&lt;/p&gt;
+
+&lt;p&gt;After some weeks wandering around the city-cradle of entrepreneurship, I returned to Barcelona and got the Barcelona Startup Map project. That gave us the opportunity of employing me full time at the end of Q1, despite the fact that we were bootstrapping.&lt;/p&gt;
+
+&lt;p&gt;So here are my resolutions:&lt;/p&gt;
+
+&lt;div class=&quot;quote right-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/alex-squared.jpg&quot; alt=&quot;Àlex Rodríguez&quot; title=&quot;Àlex Rodríguez&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;Àlex Rodríguez&lt;/h4&gt;
+        &lt;p&gt;CMO&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;2014 was a year of working hard to meet all the deadlines &amp; cover all the areas of creating a company. I balanced my area&#39;s tasks (sales/marketing) with all sorts of other operational tasks to keep the development team focused.&lt;/p&gt;
+        &lt;p&gt;This year I want to work smarter by focusing on my own areas (sales/marketing), while helping others improve in theirs.&lt;/p&gt;
+        &lt;p&gt;Also, in terms of pushing my marketing skills to the next level, I want to learn graphic edition as well as improve my writing skills, publishing blog entries more often.&lt;/p&gt;
+        &lt;p&gt;In terms of achievements, I would like to land a couple of big projects this year (if possible, from abroad). Also, I will be devoting more time to our presence in events, besides strengthening our relationship with Startup Grind &amp; Startup Circle.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Jordi Vendrell - COO&lt;/h3&gt;
+
+&lt;p&gt;Jordi is the third founding member at MarsBased. However, due to his duties as a Technical Director at Green Data and having a child last year, he couldn&amp;#39;t join MarsBased until now. He&amp;#39;s joining full-time on February, 9th.&lt;/p&gt;
+
+&lt;p&gt;Last year he spent it balancing his position at Green Data, some hours during the weekends for MarsBased and his condition of first-time father.&lt;/p&gt;
+
+&lt;div class=&quot;quote left-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/jordi-squared.jpg&quot; alt=&quot;Jordi Vendrell&quot; title=&quot;Jordi Vendrell&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;Jordi Vendrell&lt;/h4&gt;
+        &lt;p&gt;COO&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;I only ask that on 2015 I will be able to combine professional and personal life better: spend more time with my family, get fit and keep doing a great job.&lt;/p&gt;
+        &lt;p&gt;As for MarsBased, I would like to produce a new version of our corporate website that stands up to our status nowadays. It has to be a kick-ass website! Also, I&#39;m looking forward to being more involved in the operative work of the company.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;... and you? What are your resolutions for this year? Share them in the comments section below!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Jan 2015 16:00:00 +0100</pubDate>
+        <link>http://www.marsbased.com/blog/2015/01/20/Our-New-Years-Resolutions-For-20154</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/01/20/Our-New-Years-Resolutions-For-20154</guid>
+      </item>
+    
+      <item>
         <title>Our First Christmas Dinner</title>
         <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d87.y36/AB&lt;/em&gt;&lt;/p&gt;
 
@@ -530,43 +652,6 @@
         <pubDate>Tue, 25 Mar 2014 00:59:00 +0100</pubDate>
         <link>http://www.marsbased.com/blog/2014/03/25/we-make-the-right-app2</link>
         <guid isPermaLink="true">http://www.marsbased.com/blog/2014/03/25/we-make-the-right-app2</guid>
-      </item>
-    
-      <item>
-        <title>We make the right app for you (part 1)</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d470.y35/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;We&amp;#39;re often asked &lt;em&gt;&amp;quot;what do you guys do at MarsBased?&amp;quot;&lt;/em&gt; when we&amp;#39;re out there promoting our start-up. While it might get repetitive after a few hundred times, it gets never tiring: it helps us to perfect the answer. And actually, it&amp;#39;s been a good proof that we were not conveying our message clearly enough through our communication channels.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;The answer to that question is plain simple: &lt;em&gt;We make the right app for you&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Because we wanted to work for other companies as well as developing our own apps, we applied the lean techniques we wrote about in a &lt;a href=&quot;/blog/2013/10/12/continuous-leaning-todo&quot; title=&quot;Blog entry about lean start-ups&quot; target=&quot;_blank&quot;&gt;previous entry&lt;/a&gt;, changed our motto to &amp;quot;we make the right app for you&amp;quot;, and started the search for freelancing projects at MarsBased.&lt;/p&gt;
-
-&lt;h3&gt;Getting to know each other: The exchange&lt;/h3&gt;
-
-&lt;p&gt;Every MarsBased project begins with a cultural exchange. Learning who the customer is and what values do they want to transmit in their work is a key factor for success. Likewise, we explain who we are at MarsBased and what our core values are.&lt;/p&gt;
-
-&lt;p&gt;At MarsBased we believe in mutual trust and total transparency. To ensure we&amp;#39;re the best option for the customer we can&amp;#39;t only listen to their needs: we have to guide the customer from beginning to end, from the conception of the app, to the project estimation. All throughout the process, MarsBased counsels the customer to ensure both parties are aligned, technologically and functionally speaking.&lt;/p&gt;
-
-&lt;p&gt;This process has to be as perfect as the app we&amp;#39;re going to develop. By knowing and understanding our customers and using our own tech stack we can provide a more detailed and transparent planning and a task-oriented estimate.&lt;/p&gt;
-
-&lt;h3&gt;Our best skills are our principles&lt;/h3&gt;
-
-&lt;p&gt;Everyone should do what they&amp;#39;re best at, and this is one of our core values at MarsBased.&lt;/p&gt;
-
-&lt;p&gt;MarsBased is a development start-up highly specialized on Ruby on Rails, and therefore will always work around this technology. Ruby-based apps allow us to be more creative and efficient, and to work using agile development methodologies and Test-Driven Development.&lt;/p&gt;
-
-&lt;p&gt;MarsBased strives for the usage of the latest technologies in every project. To achieve that, we&amp;#39;re currently doing some testing with Cookin.me, our technology sandbox. This way, when we master a new technology, and we&amp;#39;re sure it&amp;#39;s error-free and 100% integrated with the MarsBased Tech Stack, we integrate it in the rest of the projects. This way we can guarantee innovation while keeping the MarsBased&amp;#39;s quality standards.&lt;/p&gt;
-
-&lt;p&gt;To avoid mixing things up, we won&amp;#39;t describe our technologies here. You&amp;#39;ll have to wait until our next blog entry &amp;quot;We make the right app for you (part 2)&amp;quot; is released to read about them.&lt;/p&gt;
-
-&lt;p&gt;In the meantime, if you happen to have any good idea for an app and want MarsBased to develop it, drop us an &lt;a href=&quot;mailto:hola@marsbased.com&quot;&gt;e-mail&lt;/a&gt;!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 04 Mar 2014 02:17:00 +0100</pubDate>
-        <link>http://www.marsbased.com/blog/2014/03/04/we-make-the-right-app1</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/03/04/we-make-the-right-app1</guid>
       </item>
     
   </channel>
