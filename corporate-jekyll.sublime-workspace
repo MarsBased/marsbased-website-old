@@ -37,114 +37,10 @@
 			}
 		},
 		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 5104,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_assets/javascripts/flip.js",
-			"settings":
-			{
-				"buffer_size": 261,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "",
+			"file": "privacy/index.html",
 			"settings":
 			{
 				"buffer_size": 0,
-				"line_ending": "Unix",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"file": "_assets/stylesheets/variables.less",
-			"settings":
-			{
-				"buffer_size": 907,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_assets/stylesheets/content.less",
-			"settings":
-			{
-				"buffer_size": 9325,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2014-10-25-Dealing-With-Your-First-Hire-In-A-Distributed-Team.markdown",
-			"settings":
-			{
-				"buffer_size": 6290,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2013-09-07-take-offs-and-landings.markdown",
-			"settings":
-			{
-				"buffer_size": 1796,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2014-12-23-Our-First-Christmas-Dinner.markdown",
-			"settings":
-			{
-				"buffer_size": 6197,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "---\nlayout: post\ntitle:  \"Our New Year's Resolutions for 2015\"\ndate:   2015-01-12 15:00:00\nauthor: alex\ncategories: MarsBased Startup Teamwork Company-Culture\n---\n\n*Captain's log, stardate {{page.date | martian_date}}*\n\n2014 has been an amazing ride. It has seen MarsBased being born, getting our first projects, speaking at conferences, getting HUGE projects, mentoring at IronHack, working with the Barcelona City Council, leading Startup Grind & Startup Circle, welcoming our first hires and many other amazing achievements.\n\nIn fact, we're preparing a detailed review of 2014 for you all to enjoy and know more what's been going on in the MarsBased spaceship.\n\nWhile the 2014 post is being baked, we'll share with you our new year resolutions for this promising 2015!\n\n<!--more-->\n\nAll the Martians were asked what their resolutions for 2015 were, both personal and professional. Most of them are strongly related to their first months at MarsBased and/or previous jobs, so we will be providing a little background to help you understand our resolutions better.\n\nThis is also part of our new stategy of publishing more blog content and providing more transparency as part of our company culture (inspired in the <a href=\"http://buffer.com\" title=\"Buffer\" target=\"_blank\">Buffer</a> guys, who are doing a terrific job at <a href=\"https://bufferapp.com/transparency\" title=\"Buffer's Transparency policy\" target=\"_blank\">helping new companies delving into corporate transparency</a>).\n\nIn no particular order, here's what the Martians pledged to achieve in 2015.\n\n###Xavier Redó - CTO###\n\nXavi started the year joining his previous company, GNuine, because we didn't know we'd be able to recruit him so early. Our best guesstimates assumed we'd have to wait until the end of the year to have him working full-time.\n\nThis past year has seen Xavi working hard to cope with all the projects we've gotten at MarsBased, therefore his resolutions are:\n\n<i>Technologically speaking, I would like to be able to invest more time in exploring new technologies and frameworks to help us face the constant request of development of mobile apps.\n\nSecondly, I would like to identify repeating patterns in our development processes in order to extract libraries we can reuse in the forthcoming projects and open source them.\n\nLeaving tech aside, I would like to commit to participate more in events and conferences. I think I can add value in projects whose goal is to provide formation to new developers.\n\nActually, I can also provide interesting content online, so I will be contributing more to the MarsBased blog. We've gathered some interesting results in 2014, and I would like to publish them and share them with like-minded people.\n\nFinally, something I would like to improve is my time allocation skills. I am pretty accurate at guesstimating all the needed resources for each project, but so far I haven't taken all these side-projects into consideration. Here's to a 2015 for improvement!</i>\n\n###Emilio Ríos - Developer###\n\nEmilio joined us barely a month and a half ago. But in our eyes, feels like he's been with us for all the ride. He is, however, combining his internship at MarsBased with finishing his studies at La Salle.\n\n<i>Since I have not been programming for long - at least not professionally - I would like to commit to improve my programming skills in 2015. Inspired by <a href=\"http://ejohn.org/blog/write-code-every-day/\" title=\"Write Code Every Day\" target=\"_blank\">John Resig</a>, my new year resolution is to produce code every day of the year.\n\nNow that my teammates depend on me, I want to learn as much as possible to be helpful to them!</i>\n\n###Javier Pérez - Developer###\n\nJavi joined MarsBased at the beginning of Q4, in early October. Having worked at VASS together with Àlex, he transitioned from a full-time corporate J2EE consultant to an AngularJS/Rails developer.\n\nSame as Emilio, feels like he's been forever with us!\n\n<i>I would like to master Rails in the coming months so that I can be 100% autonomous in the projects I am assigned to. This way, I will also be able to explore new techniques & trends on my own.\n\nBy acquiring more knowledge on Rails, I will be able to spot recurring patterns that I can turn into libraries for our projects.\n\nOn a personal side, and when I will be more autonomous, I would like to travel more. I want to enjoy this freedom of schedule we've got and visit places I haven't been to!\n\nLast, but not least, I would like to keep my condition of being single :)\n</i>\n\n###Àlex Rodríguez - CMO###\n\nI started 2014 in San Francisco, having then recently quit my previous job at VASS, where I worked with Javi - actually, we were in the same project, sitting next to each other.\n\nAfter some weeks wandering around the cradle of entreprenership, I returned to Barcelona and got the Barcelona Startup Map project. That gave us the opportunity of employing me full time at the end of Q1, despite the fact that we were bootstrapping.\n\nSo here are my resolutions:\n\n<i>2014 was a year of working hard to meet all the deadlines & cover all the areas of creating a company. This year I want to work smarter by focusing on my own areas (sales/marketing), while helping others improve in theirs.\n\nAlso, in terms of pushing my marketing skills to the next level, I want to learn graphic edition as well as improve my writing skills, publishing blog entries more often.\n\nIn terms of achievements, I would like to land a couple of big projects this year (if possible, from abroad). Also, I will be devoting more time to our presence in events, besides strenghtening our relationship with Startup Grind & Startup Circle.</i>\n\n###Jordi Vendrell - COO###\n\nJordi is the third founding member at MarsBased. However, due to his duties as a Technical Director at Green Data and having a child last year, he couldn't join MarsBased until now. He's joining full-time on February, 9th.\n\nLast year he spent it balancing his position at Green Data, some hours during the weekends for MarsBased and his condition of first-time father.\n\n<i>I only ask that on 2015 I will be able to combine professional and personal life better.\n\nAs for MarsBased, I would like to produce a new version of our corporate website that stands up to our status nowadays. It has to be a kick-ass website!</i>",
-			"file": "_posts/sdfsdfs.markdown",
-			"file_size": -1,
-			"file_write_time": -1,
-			"settings":
-			{
-				"buffer_size": 6317,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2015-01-12-Our-New-Years-Resolutions-For-20154.markdown",
-			"settings":
-			{
-				"buffer_size": 6767,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2014-03-30-Celebrating-the-first-Martian-year.markdown",
-			"settings":
-			{
-				"buffer_size": 5234,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_site/blog/2014/08/22/Our-New-Years-Resolutions-For-2015/index.html",
-			"settings":
-			{
-				"buffer_size": 14865,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "---\nlayout: post\ntitle:  \"The Martians Conquer the IronHack\"\ndate:   2014-08-22 15:00:00\nauthor: alex\ncategories: MarsBased Startup IronHack Development Bootcamp Entrepreneurship Barcelona Ruby Rails\n---\n\n*Captain's log, stardate {{page.date | martian_date}}*\n\nWhen we created MarsBased, we decided to be a social, outgoing and media-friendly company. We also wanted to help the community, to pay back what the community had helped us in the beginning.\n\nIn the early stages of a company, this is however something hard to achieve. The first priorities should be creating the company, establishing an organized accounting culture and sales, and developing your product.\n\n<!--more-->\n\nOnce the cash comes in, and stabilizes the company, you can take some time to contribute back to the community. While it's not mandatory, it clearly helps developing a friendly attitude as a company.\n\nLately, we have been helping newcomers in the Ruby community.\n\n###Enter the IronHack###\n\nWhen we created the company, we compiled a list of the leading Ruby development shops we wanted to meet and learn from. We threw in a bunch of names such as <a href=\"http://thoughtbot.com/\" title=\"Thoughbot\" target=\"_blank\">Thoughtbot</a>, <a href=\"http://www.codegram.com/\" title=\"Codegram\" target=\"_blank\">Codegram</a>, <a href=\"http://plataformatec.com.br/\" title=\"Plataformatec\" target=\"_blank\">Plataformatec</a> and so on.\n\nLast December, when I embarked in <a href=\"http://startupoddity.ghost.io/meeting-san-francisco/\" title=\"Startup Oddity Blog\" target=\"_blank\">my trip to San Francisco</a>, I reached out to the all of them and got a fair share of replies, hence meeting the guys from <a href=\"http://thoughtbot.com/\" title=\"Thoughbot\" target=\"_blank\">Thoughtbot</a>, <a href=\"http://monterail.com/\" title=\"Monterail\" target=\"_blank\">Monterail</a>, <a href=\"http://prorubyteam.com/\" title=\"ProRuby\" target=\"_blank\">ProRuby</a>, just to name a few. All of them vowed to help us like they had been once helped, and gave us very useful pieces of advice. It was, indeed, a very promising start!\n\nI also added to the list some developer bootcamps, completely ignoring the fact that most of them work exclusively with top-class companies and developers. However, <a href=\"http://ironhack.com/\" title=\"IronHack\" target=\"_blank\">IronHack</a> replied back nonetheless.\n\n###Time Flies###\n\nAfter some months of chatting back and forth, I received an email from them asking for collaborators for their summer edition in Barcelona. We were invited to know them in person, at <a href=\"http://mob-barcelona.com/\" title=\"Makers of Barcelona\" target=\"_blank\">MOB</a>, and introduced to their team assistants and guest teachers: top Ruby and Javascript developers, working for Xing, Spotify and other leading companies.\n\nThe IronHack bootcamp runs for two months with full dedication to learning coding: Rails, AngularJS, Javascript and what it takes to create state-of-the-art webapps. After their daily dose of programming, the session is completed with talks regarding different subjects: branding, accounting, marketing and all kinds of useful stuff. We were asked to provide two talks.\n\n###First Talk: Create your Company NOW###\n\nI was honoured to give the first talk of the current edition.\n\nBecause I know that most people there are passionate about web applications and will end their IronHack program creating an app (because it's their final project), I thought it would be useful to motivate them. What if they didn't only program that app for IronHack? What if they could create a startup around it?\n\nI used Prezi to create a motivational presentation using their fantastic Space template (fits perfectly with our Martian imagery) and rallied the troops to go out and create their startup right NOW.\n\n<img src=\"/images/blog/post12a.jpg\" alt=\"Àlex presenting at IronHack\" title=\"Àlex presenting at IronHack\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Warning! The presentation contains profanity!</small></p>\n\n<a href=\"http://prezi.com/ttqvo8ssl6ew/create-your-company-from-out-of-this-world/\" title=\"Prepare your business to sky-rocket\" target=\"_blank\">Get the presentation here.</a>\n\n###Second Talk: Bulding Large Webapps That Are Easy to Maintain###\n\nTwo weeks later, Xavi provided a largely comprehensive talk on how to build large web applications to be easily maintainable. While the presentation dealt mostly with Rails best practices, it contained a fair share of <a href=\"http://www.urbandictionary.com/define.php?term=lulz&defid=2539255\" title=\"Definition of lulz\" target=\"_blank\">lulz</a>. At MarsBased we enforce the use of meme-driven presentations.\n\n<img src=\"/images/blog/post12b.jpg\" alt=\"Xavi presenting at IronHack\" title=\"Xavi presenting at IronHack\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Meme-driven technical presentation!</small></p>\n\n<a href=\"https://dl.dropboxusercontent.com/u/12625879/MarsBased/Ironhack%20presentation.pdf\" title=\"Bulding Large Webapps That Are Easy to Maintain\" target=\"_blank\">Get the presentation here.</a>\n\n###Future###\nThe feedback we received was so good that we were invited to an afterwork event on the rooftop of Betahaus, where we talked everything: from loving or hating TDD, to everyone's future plans or why Barcelona is the best city in the world.\n\nWe definitely connected with the IronHack community and want to get more involved in the coming editions to make more people love coding and Ruby on Rails. So far, we can say we will be mentoring at the next edition of IronHack in Barcelona!\n\nDid you meet us at IronHack? We would appreciate if you left some feedback in the comments section!\n\nLove from Mars.",
-			"file": "_posts/2015-01-12-Our-New-Years-Resolutions-For-2015bis.markdown",
-			"file_size": -1,
-			"file_write_time": -1,
-			"settings":
-			{
-				"buffer_size": 5739,
 				"line_ending": "Unix"
 			}
 		}
@@ -205,21 +101,25 @@
 	},
 	"expanded_folders":
 	[
-		"/home/alex/project/marsbased-web",
-		"/home/alex/project/marsbased-web/_drafts",
-		"/home/alex/project/marsbased-web/_includes",
-		"/home/alex/project/marsbased-web/_layouts",
-		"/home/alex/project/marsbased-web/_plugins",
-		"/home/alex/project/marsbased-web/_posts",
-		"/home/alex/project/marsbased-web/_site",
-		"/home/alex/project/marsbased-web/_site/blog",
-		"/home/alex/project/marsbased-web/blog"
+		"/home/alex/project/marsbased-web"
 	],
 	"file_history":
 	[
+		"/home/alex/project/marsbased-web/index.html",
+		"/home/alex/project/marsbased-web/_assets/javascripts/flip.js",
+		"/home/alex/project/marsbased-web/_assets/stylesheets/variables.less",
+		"/home/alex/project/marsbased-web/_assets/stylesheets/content.less",
+		"/home/alex/project/marsbased-web/_posts/2014-10-25-Dealing-With-Your-First-Hire-In-A-Distributed-Team.markdown",
+		"/home/alex/project/marsbased-web/_posts/2013-09-07-take-offs-and-landings.markdown",
+		"/home/alex/project/marsbased-web/_includes/newsletter.html",
+		"/home/alex/project/marsbased-web/_posts/2015-01-12-Our-New-Years-Resolutions-For-2015bis.markdown",
+		"/home/alex/project/marsbased-web/_posts/2014-12-23-Our-First-Christmas-Dinner.markdown",
+		"/home/alex/project/marsbased-web/_posts/sdfsdfs.markdown",
+		"/home/alex/project/marsbased-web/_posts/2015-01-20-Our-New-Years-Resolutions-For-20154.markdown",
+		"/home/alex/project/marsbased-web/_layouts/default.html",
+		"/home/alex/project/marsbased-web/_site/blog/2014/08/22/Our-New-Years-Resolutions-For-2015/index.html",
 		"/home/alex/project/marsbased-web/_layouts/post.html",
 		"/home/alex/project/marsbased-web/_plugins/postauthor.rb",
-		"/home/alex/project/marsbased-web/_assets/stylesheets/content.less",
 		"/home/alex/project/marsbased-web/_posts/2014-08-21-The-Martians-conquer-the-IronHack.markdown",
 		"/home/alex/project/marsbased-web/_posts/2014-07-21-Sport-on-Rails.markdown",
 		"/home/alex/project/marsbased-web/_posts/2014-07-01-Barcelona-Startup-Map2.markdown",
@@ -231,7 +131,6 @@
 		"/home/alex/project/marsbased-web/_posts/2013-11-07-start-up-circle-barcelona.markdown",
 		"/home/alex/project/marsbased-web/_posts/2013-10-12-continuous-leaning-todo.markdown",
 		"/home/alex/project/marsbased-web/_posts/2013-09-20-cookin-recipes-want.markdown",
-		"/home/alex/project/marsbased-web/_posts/2013-09-07-take-offs-and-landings.markdown",
 		"/home/alex/project/marsbased-web/_drafts/2014-08-22-What-Have-We-Learnt-From-Our-Recruitment-Process.markdown",
 		"/home/alex/project/marsbased-web/_drafts/2014-08-22-Dealing-With-Your-First-Hire-In-A-Distributed-Team.markdown",
 		"/home/alex/project/marsbased-web/contact/index.html",
@@ -247,8 +146,6 @@
 		"/home/alex/project/marsbased-web/_includes/blog-info.html",
 		"/home/alex/project/marsbased-web/_includes/flip.html",
 		"/home/alex/project/marsbased-web/_includes/shared_navbar.html",
-		"/home/alex/project/marsbased-web/_layouts/default.html",
-		"/home/alex/project/marsbased-web/index.html",
 		"/home/alex/project/marsbased-web/_assets/stylesheets/application.css",
 		"/home/alex/project/marsbased-web/_assets/stylesheets/bootstrap/bootstrap.css",
 		"/home/alex/project/marsbased-web/robots.txt",
@@ -295,6 +192,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"</b",
+			"<b",
 			"flip",
 			"flip.js",
 			"marsdate",
@@ -317,6 +216,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"</strong",
+			"<strong"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -327,7 +228,7 @@
 	"groups":
 	[
 		{
-			"selected": 10,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -355,69 +256,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5104,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_assets/javascripts/flip.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 261,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
+					"file": "privacy/index.html",
 					"semi_transient": false,
 					"settings":
 					{
@@ -434,271 +278,6 @@
 						],
 						"settings":
 						{
-							"detect_indentation": false,
-							"line_numbers": false,
-							"output_tag": 1,
-							"result_base_dir": "",
-							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_assets/stylesheets/variables.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 907,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_assets/stylesheets/content.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9325,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4042.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_posts/2014-10-25-Dealing-With-Your-First-Hire-In-A-Distributed-Team.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6290,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2218,
-								2218
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "_posts/2013-09-07-take-offs-and-landings.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1796,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "_posts/2014-12-23-Our-First-Christmas-Dinner.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6197,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2140,
-								2140
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "_posts/sdfsdfs.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6317,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								784,
-								784
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "_posts/2015-01-12-Our-New-Years-Resolutions-For-20154.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6767,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1534,
-								1534
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 255.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "_posts/2014-03-30-Celebrating-the-first-Martian-year.markdown",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 5234,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "_site/blog/2014/08/22/Our-New-Years-Resolutions-For-2015/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 14865,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -707,36 +286,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "_posts/2015-01-12-Our-New-Years-Resolutions-For-2015bis.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5739,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -780,7 +330,7 @@
 	"project": "corporate-jekyll.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
