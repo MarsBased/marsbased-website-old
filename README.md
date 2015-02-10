@@ -21,3 +21,7 @@ If you want us to develop for you, send us an e-mail with your idea and we will 
 
 ### Copyright
 All rights reserved to MarsBased SL.
+
+## How to deploy?
+
+rake publish
