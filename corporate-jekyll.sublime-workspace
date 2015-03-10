@@ -37,10 +37,40 @@
 			}
 		},
 		{
-			"file": "privacy/index.html",
+			"file": "about/index.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 2842,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5040,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<div class=\"col-xs-12 col-sm-6 col-md-5 col-lg-4\">\n  <!-- Flip version -->\n  <div class=\"flip\">\n    <div class=\"card\">\n      <div class=\"face front futurisme\">\n        <div>\n          <h3>FuTurisme</h3>\n          <h4>New portal for the Barcelona City Council</h4>\n        </div>\n      </div>\n      <div class=\"face back\">\n        <span class=\"glyphicon glyphicon-resize-horizontal\"></span>\n        <p>The Barcelona City Countil & the Gremi d'Hotels de Barcelona created a new program\n        to foster entrepreneurship in the tourism area.</p>\n        <p>This website uses the latest trends in responsive design. The client specifically requested to break away from old-school corporate looks.</p>\n        <p>This project was developed in conjunction with <a href=\"http://www.evilmartians.com\" target=\"_blank\" title=\"Evil Martians\">Evil Martians</a> in a Martian alliance to bring the best results. Awaiting official presentation to be published.</p>\n        <p class=\"text-center\"><button type=\"button\" disabled class=\"btn btn-default disabled\">Coming soon!</button></p>\n      </div>\n    </div>\n  </div>\n  <!-- Modal version -->\n  <div class=\"modal-card futurisme\" data-toggle=\"modal\" data-target=\"#futurisme\">\n    <div>\n      <h3 class=\"text-center\">FuTurisme</h3>\n      <h4 class=\"text-center\">New portal for the Barcelona City Council</h4>\n    </div>\n  </div>\n</div>\n<div class=\"col-xs-12 col-sm-6 col-md-5 col-lg-4\">\n  <!-- Flip version -->\n  <div class=\"flip\">\n    <div class=\"card\">\n      <div class=\"face front pisosbancos\">\n        <div>\n          <h3>PisosBancos</h3>\n          <h4>MVP for new platform</h4>\n        </div>\n      </div>\n      <div class=\"face back\">\n        <span class=\"glyphicon glyphicon-resize-horizontal\"></span>\n        <p>PisosBancos.com contacted us to rewrite their platform from scratch. They had gone\n        through multiple providers and their app had too much legacy.</p>\n        <p>We built an MVP for them to keep up with their business model while building\n        a new architecture to serve both PisosBancos and SubastasDe.</p>\n        <p>We just finished the first part of this project, where a pure Rails app was built to be improved in the coming months.</p>\n        <p class=\"text-center\"><a class=\"btn btn-default\" target=\"_blank\" href=\"http://www.pisosbancos.com\" title=\"PisosBancos\">Visit app!</a></p>\n      </div>\n    </div>\n  </div>\n  <!-- Modal version -->\n  <div class=\"modal-card pisosbancos\" data-toggle=\"modal\" data-target=\"#pisosbancos\">\n    <div>\n      <h3 class=\"text-center\">PisosBancos</h3>\n      <h4 class=\"text-center\">MVP for new platform</h4>\n    </div>\n  </div>\n</div>\n<div class=\"col-xs-12 col-sm-6 col-md-5 col-lg-4\">\n  <!-- Flip version -->\n  <div class=\"flip\">\n    <div class=\"card\">\n      <div class=\"face front subastasde\">\n        <div>\n          <h3>SubastasDe</h3>\n          <h4>MVP for new platform</h4>\n        </div>\n      </div>\n      <div class=\"face back\">\n        <span class=\"glyphicon glyphicon-resize-horizontal\"></span>\n        <p>SubastasDe.com contacted us to redo their platform from scratch. They had gone\n        through multiple providers and their app had too much legacy.</p>\n        <p>We built an MVP for them to keep up with their business model while building\n        a new architecture to serve both PisosBancos and SubastasDe.</p>\n        <p>We just finished the first part of this project, where a pure Rails app was built to be improved in the coming months.</p>\n        <p class=\"text-center\"><a class=\"btn btn-default\" target=\"_blank\" href=\"http://www.subastasde.com\" title=\"SubastasDe\">View app!</a></p>\n      </div>\n    </div>\n  </div>\n  <!-- Modal version -->\n  <div class=\"modal-card subastasde\" data-toggle=\"modal\" data-target=\"#subastasde\">\n    <div>\n      <h3 class=\"text-center\">SubastasDe</h3>\n      <h4 class=\"text-center\">MVP for new platform</h4>\n    </div>\n  </div>\n</div>\n<div class=\"col-xs-12 col-sm-6 col-md-5 col-lg-4\">\n  <!-- Flip version -->\n  <div class=\"flip\">\n    <div class=\"card\">\n      <div class=\"face front eureka-experts\">\n        <div>\n          <h3>Eureka Experts</h3>\n          <h4>Online assessment by experts</h4>\n        </div>\n      </div>\n      <div class=\"face back\">\n        <span class=\"glyphicon glyphicon-resize-horizontal\"></span>\n        <p>Eureka-Startups is evolving again to become the definitive Spanish-speaking platform of choice for online assessment through videocall.</p>\n        <p>This Rails+AngularJS app integrates with Tokbox to bring a scalable solution for the Spanish-speaking community.</p>\n        <p>Currently under development. Request access to the staging server <a href=\"mailto:hola@marsbased.com\">here</a>. Expected launch date: April 2015.</p>\n        <p class=\"text-center\"><button type=\"button\" disabled class=\"btn btn-default disabled\">Coming soon!</button></p>\n      </div>\n    </div>\n  </div>\n  <!-- Modal version -->\n  <div class=\"modal-card eureka-experts\" data-toggle=\"modal\" data-target=\"#eureka-experts\">\n    <div>\n      <h3 class=\"text-center\">Eureka Experts</h3>\n      <h4 class=\"text-center\">Online assessment by experts</h4>\n    </div>\n  </div>\n</div>\n<div class=\"col-xs-12 col-sm-6 col-md-5 col-lg-4\">\n  <!-- Flip version -->\n  <div class=\"flip\">\n    <div class=\"card\">\n      <div class=\"face front bcn-startup-map\">\n        <div>\n          <h3>Barcelona Startup Map</h3>\n          <h4>The entrepreneurial ecosystem of Barcelona</h4>\n        </div>\n      </div>\n      <div class=\"face back\">\n        <span class=\"glyphicon glyphicon-resize-horizontal\"></span>\n        <p>Barcelona has built up a very powerful entrepreneurial ecosystem. The number of startups, investors, accelerators and other players is growing rapidly.</p>\n        <p>Together with the Barcelona City Council & Barcelona Activa, we've developed Barcelona Startup Map, an app that displays the status of the Barcelona entrepreneurial ecosystem. Join the others and sign up to be featured in the map!</p>\n        <p class=\"text-center\"><a class=\"btn btn-default\" target=\"_blank\" href=\"http://www.bcn.cat/bcnstartupmap\" title=\"Barcelona Startup Map\">Join the map!</a></p>\n      </div>\n    </div>\n  </div>\n  <!-- Modal version -->\n  <div class=\"modal-card bcn-startup-map\" data-toggle=\"modal\" data-target=\"#bcn-startup-map\">\n    <div>\n      <h3 class=\"text-center\">Barcelona Startup Map</h3>\n      <h4 class=\"text-center\">The entrepreneurial ecosystem of Barcelona</h4>\n    </div>\n  </div>\n</div>\n<div class=\"col-xs-12 col-sm-6 col-md-5 col-lg-4\">\n  <!-- Flip version -->\n  <div class=\"flip\">\n    <div class=\"card\">\n      <div class=\"face front startupgrind\">\n        <div>\n          <h3>Startup Grind Barcelona</h3>\n          <h4>Website & Technological Partner</h4>\n        </div>\n      </div>\n      <div class=\"face back\">\n        <span class=\"glyphicon glyphicon-resize-horizontal\"></span>\n        <p>MarsBased is the technological partner of Startup Grind Barcelona.</p>\n        <p>We have developed an elegant informational website for Startup Grind Barcelona to help them promote the event and get in touch with the local community.</p>\n        <p>Startup Grind is a monthly event that inspires, educates and connects entrepreneurs worldwide, powered by Google for Entrepreneurs.</p>\n        <p class=\"text-center\"><a class=\"btn btn-default\" target=\"_blank\" href=\"http://www.startupgrind.cat\">Visit Website</a></p>\n      </div>\n    </div>\n  </div>\n  <!-- Modal version -->\n  <div class=\"modal-card startupgrind\" data-toggle=\"modal\" data-target=\"#startupgrind\">\n    <div>\n      <h3 class=\"text-center\">Startup Grind Barcelona</h3>\n      <h4 class=\"text-center\">Website & Technological Partner</h4>\n    </div>\n  </div>\n</div>\n<div class=\"col-xs-12 col-sm-6 col-md-5 col-lg-4\">\n  <!-- Flip version -->\n  <div class=\"flip\">\n    <div class=\"card\">\n      <div class=\"face front paellas-ole\">\n        <div>\n          <h3>Paellas Olé</h3>\n          <h4>The best Spanish catering in the Bay Area</h4>\n        </div>\n      </div>\n      <div class=\"face back\">\n        <span class=\"glyphicon glyphicon-resize-horizontal\"></span>\n        <p>We built this beautiful website using our favourite tool for static websites: <a href=\"http://jekyllrb.com\" title=\"Jekyll\" target=\"_blank\">Jekyll</a>. Jekyll allows us to build static websites with dynamic content and host them seamlessly using <a href=\"http://pages.github.com\" title=\"Github Pages\" target=\"_blank\">Github Pages</a>. Perfect for lightweight projects.</p>\n        <p>This was our first project in San Francisco and it's finished. Awaiting confirmation from the client to publish it. You can take a look at it in our test server.</p>\n        <p class=\"text-center\"><a class=\"btn btn-default\" target=\"_blank\" href=\"http://paellas.marsbased.com\" title=\"Paellas Olé test server\">Visit Website</a></p>\n      </div>\n    </div>\n  </div>\n  <!-- Modal version -->\n  <div class=\"modal-card paellas-ole\" data-toggle=\"modal\" data-target=\"#startup-circle\">\n    <div>\n      <h3 class=\"text-center\">Paellas Olé</h3>\n      <h4 class=\"text-center\">The best Spanish catering in the Bay Area</h4>\n    </div>\n  </div>\n</div>\n<div class=\"col-xs-12 col-sm-6 col-md-5 col-lg-4\">\n  <!-- Flip version -->\n  <div class=\"flip\">\n    <div class=\"card\">\n      <div class=\"face front startup-circle\">\n        <div>\n          <h3>Startup Circle in Barcelona</h3>\n          <h4>Supporting the local scene</h4>\n        </div>\n      </div>\n      <div class=\"face back\">\n        <span class=\"glyphicon glyphicon-resize-horizontal\"></span>\n        <p>We have created a startup circle of trust with a group of local startups and entrepreneurs. The main purpose of this circle is to help one another grow through collaboration and teamwork. The circle allows each member to focus on what they're best at by delegating tasks among the others.</p>\n        <p>If you want to read more about our startup circle, follow our social profiles and stay tuned. If you want to join, drop us a line at <a href=\"mailto:hola@marsbased.com\">hola@marsbased.com</a>.</p>\n      </div>\n    </div>\n  </div>\n  <!-- Modal version -->\n  <div class=\"modal-card startup-circle\" data-toggle=\"modal\" data-target=\"#startup-circle\">\n    <div>\n      <h3 class=\"text-center\">Startup Circle in Barcelona</h3>\n      <h4 class=\"text-center\">Supporting the local scene</h4>\n    </div>\n  </div>\n</div>\n<div class=\"col-xs-12 col-sm-6 col-md-5 col-lg-4\">\n  <!-- Flip version -->\n  <div class=\"flip\" itemscope itemtype =\"http://schema.org/Product\">\n    <div class=\"card\">\n      <div class=\"face front cookinme\">\n        <div>\n          <h3 itemprop=\"name\">Cookin.me</h3>\n          <h4>Where all your recipes want to be</h4>\n        </div>\n      </div>\n      <div class=\"face back\">\n        <span class=\"glyphicon glyphicon-resize-horizontal\"></span>\n        <p>Born to be our first product, Cookin.me will become your favourite cookbook.</p>\n        <p itemprop=\"description\">Are you a professional chef? Have you recently taken up cooking lessons? Want to show off your sushi skills? Cookin.me is a digital cookbook where you can create, edit and organize all of your cooking recipes. Easy as a pie.</p>\n        <p>The Cookin.me project has been discontinued until further notice.</p>\n      </div>\n    </div>\n  </div>\n  <!-- Modal version -->\n  <div class=\"modal-card cookinme\" data-toggle=\"modal\" data-target=\"#cookinme\">\n    <div>\n      <h3 class=\"text-center\" itemprop=\"name\">Cookin.me</h3>\n      <h4 class=\"text-center\">Where all your recipes want to be</h4>\n    </div>\n  </div>\n</div>\n\n<div class=\"modal fade\" id=\"cookinme\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"cookinme\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n        <h4 class=\"modal-title\">Cookin.me</h4>\n      </div>\n      <div class=\"modal-body\">\n        <p>Born to be our first product, Cookin.me will become your favourite cookbook.</p>\n        <p itemprop=\"description\">Are you a professional chef? Have you recently taken up cooking lessons? Want to show off your sushi skills? Cookin.me is a digital cookbook where you can create, edit and organize all of your cooking recipes. Easy as a pie.</p>\n        <p>The Cookin.me project has been discontinued until further notice.</p>\n        <p class=\"text-center\"><a disabled class=\"btn btn-default btn-lg\">Not available!</a></p>\n      </div>\n    </div>\n  </div>\n</div>\n<div class=\"modal fade\" id=\"startup-circle\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"startup-circle\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n        <h4 class=\"modal-title\">Startup Circle in Barcelona</h4>\n      </div>\n      <div class=\"modal-body\">\n        <p>We have created a startup circle of trust with a group of local startups and entrepreneurs. The main purpose of this circle is to help one another grow through collaboration and teamwork. The circle allows each member to focus on what they're best at by delegating tasks among the others.</p>\n        <p>If you want to read more about our startup circle, follow our social profiles and stay tuned. If you want to join, drop us a line at <a href=\"mailto:hola@marsbased.com\">hola@marsbased.com</a>.</p>\n      </div>\n    </div>\n  </div>\n</div>\n<div class=\"modal fade\" id=\"paellas-ole\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"paellas-ole\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n        <h4 class=\"modal-title\">Paellas Olé</h4>\n      </div>\n      <div class=\"modal-body\">\n        <p>We built this beautiful website using our favourite tool for static websites: <a href=\"http://jekyllrb.com\" title=\"Jekyll\" target=\"_blank\">Jekyll</a>. Jekyll allows us to build static websites with dynamic content and host them seamlessly using <a href=\"http://pages.github.com\" title=\"Github Pages\" target=\"_blank\">Github Pages</a>. Perfect for lightweight projects.</p>\n        <p>This was our first project in San Francisco and it's finished. Awaiting confirmation from the client to publish it. You can take a look at it in our test server.</p>\n        <p class=\"text-center\"><a class=\"btn btn-default\" target=\"_blank\" href=\"http://paellas.marsbased.com\" title=\"Paellas Olé test server\">Visit Website</a></p>\n      </div>\n    </div>\n  </div>\n</div>\n<div class=\"modal fade\" id=\"startupgrind\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"startupgrind\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n        <h4 class=\"modal-title\">Startup Grind Barcelona</h4>\n      </div>\n      <div class=\"modal-body\">\n        <p>MarsBased is the technological partner of Startup Grind Barcelona.</p>\n        <p>We have developed an elegant informational website for Startup Grind Barcelona to help them promote the event and get in touch with the local community.</p>\n        <p>Startup Grind is a monthly event that inspires, educates and connects entrepreneurs worldwide, powered by Google for Entrepreneurs.</p>\n        <p class=\"text-center\"><a class=\"btn btn-default\" target=\"_blank\" href=\"http://www.startupgrind.cat\">Visit Website</a></p>\n      </div>\n    </div>\n  </div>\n</div>\n<div class=\"modal fade\" id=\"bcn-startup-map\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"bcn-startup-map\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n        <h4 class=\"modal-title\">Barcelona Startup Map</h4>\n      </div>\n      <div class=\"modal-body\">\n        <p>Barcelona has built up a very powerful entrepreneurial ecosystem. The number of startups, investors, accelerators and other players is growing rapidly.</p>\n        <p>Together with the Barcelona City Council & Barcelona Activa, we've developed Barcelona Startup Map, an app that displays the status of the Barcelona entrepreneurial ecosystem. Join the others and sign up to be featured in the map!</p>\n        <p class=\"text-center\"><a class=\"btn btn-default\" target=\"_blank\" href=\"http://www.bcn.cat/bcnstartupmap\" title=\"Barcelona Startup Map\">Join the map!</a></p>\n      </div>\n    </div>\n  </div>\n</div>\n<div class=\"modal fade\" id=\"futurisme\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"futurisme\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n        <h4 class=\"modal-title\">FuTurisme</h4>\n      </div>\n      <div class=\"modal-body\">\n        <p>The Barcelona City Countil & the Gremi d'Hotels de Barcelona created a new program\n        to foster entrepreneurship in the tourism area.</p>\n        <p>This website uses the latest trends in responsive design. The client specifically requested to break away from old-school corporate looks.</p>\n        <p>This project was developed in conjunction with <a href=\"http://www.evilmartians.com\" target=\"_blank\" title=\"Evil Martians\">Evil Martians</a> in a Martian alliance to bring the best results. Awaiting official presentation to be published.</p>\n        <p class=\"text-center\"><button type=\"button\" disabled class=\"btn btn-default disabled\">Coming soon!</button></p>\n      </div>\n    </div>\n  </div>\n</div>\n<div class=\"modal fade\" id=\"pisosbancos\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"pisosbancos\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n        <h4 class=\"modal-title\">PisosBancos</h4>\n      </div>\n      <div class=\"modal-body\">\n        <p>PisosBancos.com contacted us to rewrite their platform from scratch. They had gone\n        through multiple providers and their app had too much legacy.</p>\n        <p>We built an MVP for them to keep up with their business model while building\n        a new architecture to serve both PisosBancos and SubastasDe.</p>\n        <p>We just finished the first part of this project, where a pure Rails app was built to be improved in the coming months.</p>\n        <p class=\"text-center\"><button type=\"button\" disabled class=\"btn btn-default disabled\">Coming soon!</button></p>\n      </div>\n    </div>\n  </div>\n</div>\n<div class=\"modal fade\" id=\"subastasde\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"subastasde\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n        <h4 class=\"modal-title\">SubastasDe</h4>\n      </div>\n      <div class=\"modal-body\">\n        <p>SubastasDe.com contacted us to redo their platform from scratch. They had gone\n        through multiple providers and their app had too much legacy.</p>\n        <p>We built an MVP for them to keep up with their business model while building\n        a new architecture to serve both PisosBancos and SubastasDe.</p>\n        <p>We just finished the first part of this project, where a pure Rails app was built to be improved in the coming months.</p>\n        <p class=\"text-center\"><button type=\"button\" disabled class=\"btn btn-default disabled\">Coming soon!</button></p>\n      </div>\n    </div>\n  </div>\n</div>\n<div class=\"modal fade\" id=\"eureka-experts\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"eureka-experts\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-hidden=\"true\">&times;</button>\n        <h4 class=\"modal-title\">Eureka Experts</h4>\n      </div>\n      <div class=\"modal-body\">\n        <p>Eureka-Startups is evolving again to become the definitive Spanish-speaking platform of choice for online assessment through videocall.</p>\n        <p>This Rails+AngularJS app integrates with Tokbox to bring a scalable solution for the Spanish-speaking community.</p>\n        <p>Currently under development. Request access to the staging server <a href=\"mailto:hola@marsbased.com\">here</a>. Expected launch date: April 2015.</p>\n        <p class=\"text-center\"><button type=\"button\" disabled class=\"btn btn-default disabled\">Coming soon!</button></p>\n      </div>\n    </div>\n  </div>\n</div>",
+			"file": "_includes/flip.html",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 20874,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/* CONTENT TYPES */\n\n/* Bullet Points */\n\n.bullet-points .bullet {\n  margin-bottom: 40px;\n}\n\n.bullet-points p {\n  font-size: 1em;\n}\n\n.bullet-points img {\n  height: 140px;\n  margin: 0 auto;\n  .border-radius (100px);\n}\n\n.bullet-points a:hover img {\n  opacity: 0.85;\n}\n\n.bullet-points .bullet-link {\n  display: block;\n  margin: -10px 0 10px 0;\n  font-size: 1.2em;\n  color: #333;\n  text-decoration: none;\n  cursor: pointer;\n}\n\n/* Black Bullet Points */\n\n.bullet-points-black-bg {\n  height: 39px;\n  background: image-url('black-bullets-bg.png') no-repeat;\n  background-position: center 0px;\n  position: relative;\n  top: 2px;\n}\n\n.bullet-points-black {\n  background: black;\n  color: @mars-grey;\n  padding: 0px 0px;\n  margin-bottom: 40px;\n}\n\n@media all and (min-width: @screen-sm) {\n\n  .bullet-points-black {\n    .border-radius (12px);\n  }\n\n}\n\n.bullet-points-black img {\n  margin: 0 auto;\n  display: block;\n  width: 200px;\n}\n\n.bullet-points-black h3 {\n  padding: 0px 20px;\n  margin-top: 30px;\n}\n\n.bullet-points-black h3 span {\n  margin-right: 5px;\n}\n\n.bullet-points-black p {\n  font-size: 1em;\n  padding: 0px 20px;\n  margin-bottom: 35px;\n}\n\n/* Success Stories */\n\n@media all and (max-width: 240px) {\n\n  .success-stories {\n    display: none;\n  }\n\n}\n\n.success-stories .col-xs-12 {\n  overflow: hidden;\n}\n\n.flip {\n  -webkit-perspective: 800px;\n  -moz-perspective: 800px;\n  -ms-perspective: 800px;\n  -o-perspective: 800px;\n  perspective: 800px;\n  height: 290px;\n  position: relative;\n  margin: 0px auto 30px;\n  max-width: 350px;\n}\n\n.flip .card {\n  width: 100%;\n  height: 100%;\n  -webkit-transform-style: preserve-3d;\n  -o-transform-style: preserve-3d;\n  transform-style: preserve-3d;\n  .transition (0.5s);\n}\n\n.flip .card.flipped {\n  -webkit-transform: rotatex(-180deg);\n  -moz-transform: rotatex(-180deg);\n  -ms-transform: rotatex(-180deg);\n  transform: rotatex(-180deg);\n}\n\n.flip .card .face {\n  width: 100%;\n  height: 100%;\n  position: absolute;\n  -webkit-backface-visibility: hidden;\n  -ms-backface-visibility: hidden;\n  backface-visibility: hidden;\n  .border-radius (8px);\n  .box-shadow(0 1px 4px rgba(34, 25, 25, 0.2));\n}\n\n.flip .card .front {\n  position: absolute;\n  z-index: 1;\n  background: white;\n  color: #333;\n  cursor: pointer;\n  text-align: center;\n  padding: 0px;\n}\n\n.flip .card .front.cookinme {\n  background: image-url('story1.png') no-repeat;\n}\n\n.flip .card .front.startup-circle {\n  background: image-url('story2.png') no-repeat;\n}\n\n.flip .card .front.paellas-ole {\n  background: image-url('storypaellas.png') no-repeat;\n}\n\n.flip .card .front.startupgrind {\n  background: image-url('story3.png') no-repeat;\n}\n\n.flip .card .front.bcn-startup-map {\n  background: image-url('story4.png') no-repeat;\n}\n\n.flip .card .front.wuaki-tv {\n  background: image-url('storywuaki.png') no-repeat;\n}\n\n.flip .card .front.futurisme {\n  background: image-url('storyfuturisme.png') no-repeat;\n}\n\n.flip .card .front.pisosbancos {\n  background: image-url('storypisosbancos.png') no-repeat;\n}\n\n.flip .card .front.subastasde {\n  background: image-url('storysubastasde.png') no-repeat;\n}\n\n.flip .card .front.list71 {\n  background: image-url('storylist71.png') no-repeat;\n}\n\n.flip .card .front.skindler {\n  background: image-url('storyskindler.png') no-repeat;\n}\n\n.flip .card .front.eureka-experts {\n  background: image-url('storyeureka.png') no-repeat;\n}\n\n.flip .card .front div {\n  background: rgba(0, 0, 0, 0.84);\n  color: white;\n  position: relative;\n  top: 200px;\n  height: 90px;\n  padding: 15px;\n  .border-radius (0px 0px 8px 8px);\n}\n\n.flip .card .front h3 {\n  font-size: 1.6em;\n  line-height: 1.4em;\n  padding: 0px;\n  margin: 0px 0px 0px;\n}\n\n.flip .card .front h4 {\n  font-size: 1.1em;\n  line-height: 1.4em;\n  padding: 0px;\n  margin: 0px 0px 0px;\n}\n\n@media all and (max-width: 320px) {\n\n  .flip .card .front h3 {\n    font-size: 1.4em;\n    margin-top: 3px;\n  }\n\n  .flip .card .front h4 {\n    font-size: 1.1em;\n  }\n\n}\n\n.flip .card .back {\n  -webkit-transform: rotatex(-180deg);\n  -moz-transform: rotatex(-180deg);\n  -ms-transform: rotatex(-180deg);\n  transform: rotatex(-180deg);\n  background: white;\n  color: #333;\n  font-size: 0.8em;\n  padding: 10px 14px;\n  z-index: 10;\n}\n\n.flip .card .back .glyphicon {\n  cursor: pointer;\n  padding: 6px 0px 0px 21px;\n  color: #C5C5C5;\n  width: 40px;\n  height: 40px;\n  float: right;\n  border-radius: 0px;\n  font-size: 1.2em;\n  position: relative;\n  top: -10px;\n  right: -14px;\n  background: image-url('flip-button.png');\n}\n\n.flip .card .back p {\n  margin-bottom: 15px;\n}\n\n.flip .card .back .btn {\n  margin-top: 5px;\n}\n\n.modal-card {\n  height: 290px;\n  margin: 0px auto 30px;\n  max-width: 350px;\n  cursor: pointer;\n  .border-radius (8px);\n  .box-shadow(0 1px 4px rgba(34, 25, 25, 0.2));\n  display: none;\n}\n\n.modal-card.cookinme {\n  background: image-url('story1.png') no-repeat;\n}\n\n.modal-card.startup-circle {\n  background: image-url('story2.png') no-repeat;\n}\n\n.modal-card.startupgrind {\n  background: image-url('story3.png') no-repeat;\n}\n\n.modal-card.bcn-startup-map {\n  background: image-url('story4.png') no-repeat;\n}\n\n.modal-card div {\n  background: rgba(0, 0, 0, 0.84);\n  color: white;\n  position: relative;\n  top: 200px;\n  height: 90px;\n  padding: 15px;\n  .border-radius (0px 0px 8px 8px);\n}\n\n.modal-card h3 {\n  font-size: 1.6em;\n  line-height: 1.4em;\n  font-weight: 200;\n  padding: 0px;\n  margin: 0px 0px 0px;\n}\n\n.modal-card h4 {\n  font-size: 1.1em;\n  line-height: 1.4em;\n  font-weight: 200;\n  padding: 0px;\n  margin: 0px 0px 0px;\n}\n\n@media all and (max-width: 320px) {\n\n  .modal-card h3 {\n    font-size: 1.4em;\n    margin-top: 3px;\n  }\n\n  .modal-card h4 {\n    font-size: 1.2em;\n  }\n\n}\n\n.next-project {\n  border: 3px dashed #D6D6D6;\n  height: 290px;\n  .border-radius (4px);\n  max-width: 350px;\n  margin: 0px auto 30px;\n}\n\n.next-project h3 {\n  color: #000;\n  font-size: 2em;\n  margin: 40px 10px 0px 10px;\n  font-weight: 200;\n}\n\n.next-project h4 {\n  color: #000;\n  font-size: 1.6em;\n  font-weight: 200;\n}\n\n.next-project p a {\n  text-decoration: none;\n  font-size: 1.6em;\n  margin-top: 20px;\n}\n\n@media all and (min-width: @screen-md) and (max-width: @screen-lg) {\n\n  .modal-card {\n    margin-bottom: 50px;\n  }\n\n  .flip {\n    margin-bottom: 50px;\n  }\n\n}\n\n/* Hide Modal or Flip based on browser support */\n\n.no-transformstylepreserve3d .flip {\n  display: none;\n}\n\n.no-transformstylepreserve3d .modal-card {\n  display: block;\n}\n\n/* PAGES */\n\n/* Home */\n\n.home img {\n  margin: 0 auto 40px auto;\n  width: 390px;\n}\n\n@media all and (min-width: @screen-lg) {\n\n  .home p {\n    margin-right: 40px;\n  }\n\n}\n\n/* About Us */\n\nh2.text-center b {\n  font-weight: 300;\n}\n\n.about {\n  margin-bottom: 30px;\n}\n\n.about img {\n  margin: 0 auto 40px auto;\n  width: 320px;\n}\n\n.about .oops {\n  font-size: 1em;\n  font-style: italic;\n  text-align: center;\n  margin: 20px 0px 40px 0px;\n  padding: 0px 40px;\n}\n\n@media all and (min-width: @screen-lg) {\n\n  .about p {\n    margin-right: 40px;\n  }\n\n}\n\n/* Privacy Policy */\n\n.privacy_title, .privacy_lastupdated {\n  margin-bottom: 15px;\n  margin-top: 30px;\n  display: block;\n  font-size: 1.1em;\n  font-weight: bold;\n}\n\n.privacy_title:first-child {\n  margin-top: 0px;\n}\n\n/* 404 */\n\n.error-404 img {\n  margin: 0 auto 40px auto;\n  width: 390px;\n}\n\n/* Newsletter */\n\n.newsletter .col-xs-12 {\n  overflow: hidden;\n}\n\n.newsletter h1 {\n  font-size: 1.6em;\n}\n\n.newsletter h2 {\n  font-size: 1.5em;\n  margin-bottom: 30px;\n}\n\n.newsletter p {\n  text-align: center;\n  opacity: 0.6;\n  font-size: 1.1em;\n  margin-top: 0px;\n  margin-bottom: -23px;\n}\n\n.newsletter .mc-field-group input {\n  margin-bottom: 20px;\n}\n\n@media all and (min-width: @screen-sm) {\n\n  .newsletter .mc-field-group input {\n    margin-bottom: 0px;\n  }\n\n}\n\n/* Contact */\n\n.contact a {\n  display: block;\n  width: 250px;\n  height: 150px;\n  padding-top: 42px;\n  margin: 0 auto 40px auto;\n  .border-radius(30px);\n  color: white;\n}\n\n.contact a:hover {\n  text-decoration: none;\n  opacity: 0.8;\n}\n\n.contact a.twitter {\n  background: @twitter;\n}\n\n.contact a.googleplus {\n  background: @googleplus;\n}\n\n.contact a.linkedin {\n  background: @linkedin;\n}\n\n.contact a.facebook {\n  background: @facebook;\n}\n\n.contact a.mars {\n  background: black;\n}\n\n.contact h3 {\n  font-size: 1.8em;\n  margin: 0px 0px 0px 0px;\n}\n\n/* Blog */\n\n.post {\n  margin-bottom: 40px;\n}\n\n.post h1 a {\n  color: #333;\n  text-decoration: none;\n}\n\n.post h3 {\n  font-weight: 700;\n}\n\n.post ul {\n  margin-bottom: 20px;\n}\n\n.post ul li {\n  font-size: 1.2em;\n  margin-bottom: 5px;\n}\n\n.post .img-center {\n  display: block;\n  margin: 30px auto;\n}\n\n.post .img-right {\n  display: block;\n  margin: 30px auto;\n}\n\n.post .keep-reading {\n  margin-top: 40px;\n}\n\n.author-info {\n  width: 100%;\n  margin: 0 0px 30px 0px;\n  text-align: center;\n}\n\n.author-info .author-by {\n  line-height: 30px;\n  display: inline-block;\n  font-size: 14px;\n  margin-right: 10px;\n}\n\n.author-info .avatar {\n  display: inline-block;\n}\n\n.author-info .avatar img {\n  width: 30px;\n}\n\n@media all and (min-width: @screen-md) {\n\n  .post .img-right {\n    float: right;\n    margin: 20px;\n  }\n\n}\n\n@media all and (min-width: @screen-sm) {\n\n  .author-info {\n    width: 100%;\n    margin: 0 0px 60px 0px;\n  }\n\n  .author-info .author-by {\n    line-height: 60px;\n    font-size: 18px;\n    margin-right: 20px;\n  }\n\n  .author-info .avatar img {\n    width: 60px;\n  }\n\n}\n\n.post .caption {\n  display: block;\n  text-align: center;\n  margin: -10px 0 30px 0;\n}\n\n.blog-info {\n  margin-top: 40px;\n  margin-bottom: 40px;\n}\n\n.blog-info div div {\n  border: 1px solid #e7e7e7;\n  border-bottom: 1px solid #e7e7e7;\n  padding: 10px 40px 40px 40px;\n  .border-radius (8px);\n}\n\n.blog-info p {\n  font-size: 1em;\n}\n\n.blog-info .twitter-link {\n  color: #333;\n  text-decoration: underline;\n}\n\n.page-links {\n  text-align: center;\n}\n\n.pagination li a {\n  color: black;\n}\n\n.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {\n  background-color: black;\n  border-color: black;\n}\n\n.post .img-footer {\n  margin-top: -20px;\n}\n\n.quote {\n  overflow: hidden;\n  margin: 30px 0px 50px;\n}\n\n.quote .avatar {\n  text-align: left;\n  overflow: hidden;\n  margin-bottom: 15px;\n}\n\n.quote.right-sided .avatar {\n  text-align: right;\n}\n\n.quote .avatar img {\n  max-width: 62px;\n}\n\n.quote.left-sided .avatar img {\n  float: left;\n  margin-right: 15px;\n  margin-left: 30px;\n}\n\n.quote.right-sided .avatar img {\n  float: right;\n  margin-left: 15px;\n  margin-right: 30px;\n}\n\n@media all and (min-width: @screen-sm) {\n\n  .quote .avatar {\n    text-align: center;\n    float: left;\n    width: 20%;\n    margin-bottom: 0px;\n  }\n\n  .quote .avatar img {\n    margin-bottom: 15px;\n    display: block;\n    max-width: 100%;\n  }\n\n  .quote.right-sided .avatar {\n    text-align: center;\n    float: right;\n  }\n\n  .quote.left-sided .avatar img {\n    float: none;\n    margin-right: 0px;\n    margin-left: 0px;\n  }\n\n  .quote.right-sided .avatar img {\n    float: none;\n    margin-left: 0px;\n    margin-right: 0px;\n  }\n\n}\n\n.quote .avatar h4 {\n  margin-bottom: 5px;\n}\n\n.quote .text {\n  background: #fff;\n  .border-radius (20px);\n  padding: 20px;\n  position: relative;\n}\n\n@media all and (min-width: @screen-sm) {\n\n  .quote .text {\n    float: right;\n    width: 75%;\n    margin-left: 5%;\n    min-height: 150px;\n  }\n\n  .quote.right-sided .text {\n    float: left;\n    margin-left: 0px;\n    margin-right: 5%;\n  }\n\n}\n\n.quote .text:before {\n  content: image-url('white-bullets-bg.png');\n  position: absolute;\n  top: -35px;\n  .transform (rotate(90deg));\n}\n\n.quote.left-sided .text:before {\n  left: 50px;\n}\n\n.quote.right-sided .text:before {\n  right: 50px;\n}\n\n@media all and (min-width: @screen-sm) {\n\n  .quote .text:before {\n    top: 40px;\n  }\n\n  .quote.left-sided .text:before {\n    left: -18px;\n    .transform (rotate(0deg));\n  }\n\n  .quote.right-sided .text:before {\n    right: -18px;\n    .transform (rotate(180deg));\n  }\n\n}\n\n.quote .text p {\n  font-size: 1em;\n  margin-bottom: 0.8em;\n}\n\n.quote .text p:first-child {\n  margin-top: 0px;\n}\n\n.quote .text p:last-child {\n  margin-bottom: 0px;\n}\n\n/* Modals */\n\n.modal-content {\n  background-color: #fafafb;\n}\n\n",
+			"file": "_assets/stylesheets/content.less",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 12073,
 				"line_ending": "Unix"
 			}
 		}
@@ -101,10 +131,14 @@
 	},
 	"expanded_folders":
 	[
-		"/home/alex/project/marsbased-web"
+		"/home/alex/project/marsbased-web",
+		"/home/alex/project/marsbased-web/about",
+		"/home/alex/project/marsbased-web/blog"
 	],
 	"file_history":
 	[
+		"/home/alex/project/marsbased-web/_layouts/default.html",
+		"/home/alex/project/marsbased-web/privacy/index.html",
 		"/home/alex/project/marsbased-web/index.html",
 		"/home/alex/project/marsbased-web/_assets/javascripts/flip.js",
 		"/home/alex/project/marsbased-web/_assets/stylesheets/variables.less",
@@ -116,7 +150,6 @@
 		"/home/alex/project/marsbased-web/_posts/2014-12-23-Our-First-Christmas-Dinner.markdown",
 		"/home/alex/project/marsbased-web/_posts/sdfsdfs.markdown",
 		"/home/alex/project/marsbased-web/_posts/2015-01-20-Our-New-Years-Resolutions-For-20154.markdown",
-		"/home/alex/project/marsbased-web/_layouts/default.html",
 		"/home/alex/project/marsbased-web/_site/blog/2014/08/22/Our-New-Years-Resolutions-For-2015/index.html",
 		"/home/alex/project/marsbased-web/_layouts/post.html",
 		"/home/alex/project/marsbased-web/_plugins/postauthor.rb",
@@ -192,6 +225,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"support",
+			"technologies.png",
+			"technologies.pnh",
+			"flip",
+			"startup-circle",
 			"</b",
 			"<b",
 			"flip",
@@ -256,24 +294,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "privacy/index.html",
+					"file": "about/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 2842,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								450,
+								453
 							]
 						],
 						"settings":
@@ -287,6 +325,96 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3897,
+								3897
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/flip.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2313,
+								2313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_assets/stylesheets/content.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4144,
+								4144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3706.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
