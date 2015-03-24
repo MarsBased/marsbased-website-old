@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An Internship out of This World"
-date:   2015-03-17 15:00:00
+date:   2015-03-24 15:00:00
 author: emilio
 categories: MarsBased Startup Teamwork CompanyCulture Team Internship
 ---
@@ -24,7 +24,9 @@ I also found a company with a very solid company culture and clear goals. Everyb
 
 For what I have seen, everyone brings in experiences from their previous jobs, so we all can follow best practices and avoid common mistakes. It's all about the lessons learnt in the past. Sometimes you win, others you learn.
 
+<!--
 Or simply put, using Rails, this is the <strong>MarsBased formula</strong>:
+
 
 <pre>
 <code>[1] pry(main)> positive_experiences - negative_experiences + ideal_company
@@ -32,6 +34,7 @@ Or simply put, using Rails, this is the <strong>MarsBased formula</strong>:
     [0] "marsbased"
 ]</code>
 </pre>
+!-->
 
 In this company, <strong>Martians are Martians</strong>, not resources. We hold on this belief: however hard we may work, comradery is ever-present and there is always time for joking and laughing.
 
