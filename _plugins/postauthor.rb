@@ -24,8 +24,8 @@ module Jekyll
           title="Javier Pérez twitter handle">@_iamjavi_</a>)'
         img ["author"] = "javi"
       elsif input == 'emilio'
-        html_line << 'Emilio Rios (<a href="http://twitter.com/emiIo_rios" target="_blank"
-          title="Emilio Rios twitter handle">@emiIo_rios</a>)'
+        html_line << 'Emilio Rios (<a href="http://twitter.com/emiIio_rios" target="_blank"
+          title="Emilio Rios twitter handle">@emiIio_rios</a>)'
         img ["author"] = "emilio"
       elsif input == 'xavier'
         html_line << 'Xavier Simó (<a href="http://twitter.com/xsimov" target="_blank"
