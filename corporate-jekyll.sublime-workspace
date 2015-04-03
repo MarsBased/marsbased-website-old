@@ -57,10 +57,7 @@
 			}
 		},
 		{
-			"contents": "---\nlayout: post\ntitle:  \"An Internship out of This World\"\ndate:   2015-03-24 15:00:00\nauthor: emilio\ncategories: MarsBased Startup Teamwork CompanyCulture Team Internship\n---\n\n*Captain's log, stardate {{page.date | martian_date}}*\n\nLast year I completed my degree in Software Development, to begin my career in web development, I opted to go for an internship. Turns out, a good friend of mine had attended the <a href=\"http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/\" title=\"The Martians Conquer the IronHack\" target=\"_blank\">first Ironhack edition in Barcelona</a>, where he met a couple of MarsBased members, and suggested that I applied for an internship there.\n\nAnd this is how I met MarsBased. Let me tell you how did it go!\n\n<!--more-->\n\n###Landing on the red planet###\n\nOn my first day at MarsBased, they welcomed me as if we had known each other for a long time. That felt definitely relieving and took pressure off me, allowing me to learn much, work hard and make the most out of this experience.\n\nWorking at MarsBased has definitely been radically different from what I had done in the past. For example, MarsBased is a remote working company, so we have no offices and work as a distributed team. I had no prior experience in working from home, but after trying it, I am now captivated.\n\nI also found a company with a very solid company culture and clear goals. Everybody knows what these goals are, and what is the best way to accomplish them.\n\nFor what I have seen, everyone brings in experiences from their previous jobs, so we all can follow best practices and avoid common mistakes. It's all about the lessons learnt in the past. Sometimes you win, others you learn.\n\n<!--\nOr simply put, using Rails, this is the <strong>MarsBased formula</strong>:\n\n\n<pre>\n<code>[1] pry(main)> positive_experiences - negative_experiences + ideal_company\n[\n    [0] \"marsbased\"\n]</code>\n</pre>\n!-->\n\nIn this company, <strong>Martians are Martians</strong>, not resources. We hold on this belief: however hard we may work, comradery is ever-present and there is always time for joking and laughing.\n\n###The Martian crew###\n\nOutwardly, MarsBased looks like a big company because of the huge workload we can cope with. In this case, however, size does <i>not</i> matter. It is the Martians' ability to organize and communicate that's <i>from another galaxy</i>.\n\nThis is for sure one of the most important lessons I will take with me. Organization and communication are key in a remote working company. Both skills play a key role when dealing with client work.\n\nThere are not a lot of rules in MarsBased, as strange as it might be. And the few of them we've got, they are really easy to follow, such as no emails, the weekly summary Basecamp post on Monday, simpler is better, and so on.\n\nAnother thing I wanted to highlight is the diversity among the team members. Despite being such a small team, there is a very diverse set of strenghts and weaknesses that work like a charm.\n\nAs a result of all the previous points, we are a very friendly, transparent, responsible and social company, while being very powerful - technologically speaking.\n\n###Adapting to the environment###\n\nOn Mars, Ruby on Rails is spoken. Yet I came into the company with no prior knowledge of this framework.\n\nEvery beginning is hard - they say - and mine was not an exception! Learning everything about routes, controllers, presenters, views, models and the rest of the jargon was not easy. It was all Greek to me. I came from a very different background, and although I could describe how to solve a problem, I wasn't able to figure out how to do it.\n\nBut that was not the worst. The red screen appearing after application errors, with a rather cryptographic error message scared the hell out of me more than once.\n\nAfter a few days learning prototyping using mockups and some layout from <a href=\"http://www.twitter.com/lexrodba\" title=\"Àlex Rodríguez Bacardit Twitter Handle\" target=\"_blank\">Àlex</a> and <a href=\"http://www.twitter.com/jordi_vendrell\" title=\"Jordi Vendrell Farreny Twitter Handle\" target=\"_blank\">Jordi</a>, I have been working shoulder by shoulder with <a href=\"http://www.twitter.com/xavier_redo\" title=\"Xavier Redó Cano Twitter Handle\" target=\"_blank\">Xavi</a> most of my time in the company. He has been my guide in this journey.\n\nXavi is a natural born teacher. He is very good at explaining why things happen the way they do. Not only that: he's extraordinarily gifted in keeping a clear discourse when he's explaining technical concepts. Talking to Xavi feels like talking to an encyclopedia.\n\nIn my opinion, Xavi has been more than a teacher: he's also taught me how to avoid burnout, praised my progress and cheered me up in those hard days when you can't tell an Array from a Hash.\n\n###Back to Earth###\n\nOn Mars there is no oxygen, and my reserves are now depleted. I have to keep learning how to survive in such an environment, and that will happen somewhere else.\n\n... or it might just be that I have not overcome my addiction to nachos with guacamole. You can't find them on Mars, so I am coming back to the blue planet to refill my reserves.\n\nThis is not a farewell. It is more like a \"see you later\".\n\nThank you very much for the ride!\n\n\\- Emilio\n\n<img src=\"/images/blog/post17.jpg\" alt=\"The MarsBased team during Christmas Dinner 2014\" title=\"The MarsBased team during Christmas Dinner 2014\" class=\"img-center img-rounded img-responsive\" />\n<p class=\"text-center img-footer\"><small>Good luck with your new endeavour, Emilio! We'll miss you!</small></p>",
 			"file": "_posts/2015-03-17-An-Internship-Out-of-This-World.markdown",
-			"file_size": 5592,
-			"file_write_time": 130717093288016092,
 			"settings":
 			{
 				"buffer_size": 5588,
@@ -76,13 +73,13 @@
 			}
 		},
 		{
-			"contents": "# encoding: UTF-8\n\nmodule Jekyll\n  module PostAuthorFilter\n    def post_author(input)\n\n      img = '<div class=\"avatar\"><img class=\"img-circle\" src=\"/images/blog/author.png\"/></div>'\n      html_line = '<div class=\"author-by\">Written by '\n\n      if input == 'alex'\n        html_line << 'Àlex Rodríguez (<a href=\"http://twitter.com/lexrodba\" target=\"_blank\"\n          title=\"Àlex Rodríguez twitter handle\">@lexrodba</a>)'\n        img [\"author\"] = \"alex\"\n      elsif input == 'xavi'\n        html_line << 'Xavier Redó (<a href=\"http://twitter.com/xavier_redo\" target=\"_blank\"\n          title=\"Xavier Redó twitter handle\">@xavier_redo</a>)'\n        img [\"author\"] = \"xavi\"\n      elsif input == 'jordi'\n        html_line << 'Jordi Vendrell (<a href=\"http://twitter.com/jordi_vendrell\"\n          target=\"_blank\" title=\"Jordi Vendrell twitter handle\">@jordi_vendrell</a>)'\n        img [\"author\"] = \"jordi\"\n      elsif input == 'javi'\n        html_line << 'Javier Pérez (<a href=\"http://twitter.com/_iamjavi_\" target=\"_blank\"\n          title=\"Javier Pérez twitter handle\">@_iamjavi_</a>)'\n        img [\"author\"] = \"javi\"\n      elsif input == 'emilio'\n        html_line << 'Emilio Rios (<a href=\"http://twitter.com/emiIo_rios\" target=\"_blank\"\n          title=\"Emilio Rios twitter handle\">@emiIo_rios</a>)'\n        img [\"author\"] = \"emilio\"\n      elsif input == 'xavier'\n        html_line << 'Xavier Simó (<a href=\"http://twitter.com/xsimov\" target=\"_blank\"\n          title=\"Xavier Simó twitter handle\">@xsimov</a>)'\n        img [\"author\"] = \"xavier\"\n      end\n\n      html_line << '</div>'\n\n     \"#{html_line} #{img}\"\n\n    end\n  end\nend\n\nLiquid::Template.register_filter(Jekyll::PostAuthorFilter)",
+			"contents": "# encoding: UTF-8\n\nmodule Jekyll\n  module PostAuthorFilter\n    def post_author(input)\n\n      img = '<div class=\"avatar\"><img class=\"img-circle\" src=\"/images/blog/author.png\"/></div>'\n      html_line = '<div class=\"author-by\">Written by '\n\n      if input == 'alex'\n        html_line << 'Àlex Rodríguez (<a href=\"http://twitter.com/lexrodba\" target=\"_blank\"\n          title=\"Àlex Rodríguez twitter handle\">@lexrodba</a>)'\n        img [\"author\"] = \"alex\"\n      elsif input == 'xavi'\n        html_line << 'Xavier Redó (<a href=\"http://twitter.com/xavier_redo\" target=\"_blank\"\n          title=\"Xavier Redó twitter handle\">@xavier_redo</a>)'\n        img [\"author\"] = \"xavi\"\n      elsif input == 'jordi'\n        html_line << 'Jordi Vendrell (<a href=\"http://twitter.com/jordi_vendrell\"\n          target=\"_blank\" title=\"Jordi Vendrell twitter handle\">@jordi_vendrell</a>)'\n        img [\"author\"] = \"jordi\"\n      elsif input == 'javi'\n        html_line << 'Javier Pérez (<a href=\"http://twitter.com/_iamjavi_\" target=\"_blank\"\n          title=\"Javier Pérez twitter handle\">@_iamjavi_</a>)'\n        img [\"author\"] = \"javi\"\n      elsif input == 'emilio'\n        html_line << 'Emilio Rios (<a href=\"http://twitter.com/emiIio_rios\" target=\"_blank\"\n          title=\"Emilio Rios twitter handle\">@emiIio_rios</a>)'\n        img [\"author\"] = \"emilio\"\n      elsif input == 'xavier'\n        html_line << 'Xavier Simó (<a href=\"http://twitter.com/xsimov\" target=\"_blank\"\n          title=\"Xavier Simó twitter handle\">@xsimov</a>)'\n        img [\"author\"] = \"xavier\"\n      end\n\n      html_line << '</div>'\n\n     \"#{html_line} #{img}\"\n\n    end\n  end\nend\n\nLiquid::Template.register_filter(Jekyll::PostAuthorFilter)",
 			"file": "_plugins/postauthor.rb",
-			"file_size": -1,
-			"file_write_time": -1,
+			"file_size": 1697,
+			"file_write_time": 130717124813056762,
 			"settings":
 			{
-				"buffer_size": 1685,
+				"buffer_size": 1687,
 				"line_ending": "Unix"
 			}
 		}
@@ -279,7 +276,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -367,7 +364,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -398,7 +395,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -428,7 +425,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -437,15 +434,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1685,
+						"buffer_size": 1687,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1140,
-								1140
+								925,
+								925
 							]
 						],
 						"settings":
@@ -458,7 +455,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
