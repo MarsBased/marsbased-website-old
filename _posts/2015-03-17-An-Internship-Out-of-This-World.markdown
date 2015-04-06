@@ -46,7 +46,7 @@ This is for sure one of the most important lessons I will take with me. Organiza
 
 There are not a lot of rules in MarsBased, as strange as it might be. And the few of them we've got, they are really easy to follow, such as no emails, the weekly summary Basecamp post on Monday, simpler is better, and so on.
 
-Another thing I wanted to highlight is the diversity among the team members. Despite being such a small team, there is a very diverse set of strenghts and weaknesses that work like a charm.
+Another thing I wanted to highlight is the diversity among the team members. Despite being such a small team, there is a very diverse set of strengths and weaknesses that work like a charm.
 
 As a result of all the previous points, we are a very friendly, transparent, responsible and social company, while being very powerful - technologically speaking.
 
