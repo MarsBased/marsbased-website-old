@@ -75,7 +75,7 @@ We have consistently identified workflows we incur in on a daily basis (or frequ
 
 For instance, our sales process was a bottleneck. Every time we needed to send an offer for a new project, the document had to undergo a revision by the whole team. More often than not, this revision was pushed back for over two weeks, potentially risking losing a customer.
 
-We identified this problem, analysed it and found some solutions to this blocking issue. After the document is ready, the whole team has two days to do their revision. If no feedback is given, we assume everything’s OK and deliver the document. This way, if somebody needs to actually work on the document, he just needs to ask for for some extra time.
+We identified this problem, analysed it and found some solutions to this blocking issue. After the document is ready, the whole team has two days to do their revision. If no feedback is given, we assume everything’s OK and deliver the document. This way, if somebody needs to actually work on the document, he just needs to ask for some extra time.
 
 <strong>Lesson learned</strong>: Find one day a month to step back and revise all your workflows. Identify issues and work on them. Rinse and repeat.
 
@@ -83,7 +83,7 @@ We identified this problem, analysed it and found some solutions to this blockin
 
 One year ago we did not expect to hire anybody before 2014 ended. At best, we could only hope there’d be enough work to sustain the three founding members.
 
-Turns out we had enough work to hire <a href="http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction" target="_blank" title="Blog post about hiring Javi">Javi</a> in September, <a href="http://marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World/" target="_blank" title="Post about Emilio's internship">Emilio</a> in December and <a href="https://twitter.com/MarsBased/status/577401842105192448" target="_blank" title="Xavier abduction into MarsBased">Xavier</a> in March, while outsourcing an additional 33% of our workload to companies like <a href="http://www.evilmartians" target="_blank" title="Evil Martians website">Evil Martians</a> or <a href="http://mortensen.co/" target="_blank" title="Mortensen">Mortensen</a>.
+Turns out we had enough work to hire <a href="http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction" target="_blank" title="Blog post about hiring Javi">Javi</a> in September, <a href="http://marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World/" target="_blank" title="Post about Emilio's internship">Emilio</a> in December and <a href="https://twitter.com/MarsBased/status/577401842105192448" target="_blank" title="Xavier abduction into MarsBased">Xavier</a> in March, while outsourcing an additional 33% of our workload to companies like <a href="http://www.evilmartians.com" target="_blank" title="Evil Martians website">Evil Martians</a> or <a href="http://mortensen.co/" target="_blank" title="Mortensen">Mortensen</a>.
 
 However, hiring is not easy. As a consultancy, you need to focus on delivering results to your clients. There’s little to no time to do HR. We actually wrote a <a href="http://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team/" target="_blank" title="Blog post about hiring">blog post where we spoke about this</a>.
 
