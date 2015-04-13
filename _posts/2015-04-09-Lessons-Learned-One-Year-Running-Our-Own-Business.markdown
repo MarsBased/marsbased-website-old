@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Lesson Learned: One Year Running Our Own Business"
-date:   2015-04-09 15:00:00
+date:   2015-04-13 15:00:00
 author: alex
-categories: MarsBased Startup Teamwork CompanyCulture Business Hiring Rails
+categories: MarsBased Startup Teamwork CompanyCulture Business Hiring Rails Consulting Consultancy
 ---
 
 *Captain's log, stardate {{page.date | martian_date}}*
@@ -59,7 +59,7 @@ This year we have raised our fee. We need to filter out the number of opportunit
 
 This. Is. Key.
 
-Probably because we look up to companies like <a href="http://www.thoughtbot.com" target="_blank" title="Thoughtbot website">Thoughtbot</a> or <a href="http://37signals.com/" target="_blank" title="37Signals website">37Signals</a>, we always wanted to define a company culture for MarsBased right from the get-go.
+Probably because we look up to companies like <a href="http://www.thoughtbot.com" target="_blank" title="Thoughtbot website">Thoughtbot</a> or <a href="http://37signals.com/" target="_blank" title="37Signals website">37Signals (now Basecamp)</a>, we always wanted to define a company culture for MarsBased right from the get-go.
 
 Company culture is one of the things we always review at our board meetings, or while talking to our employees. Most of all, we try to keep the Martian culture as present as possible in our daily grind.
 
@@ -156,7 +156,7 @@ Here’s some other tips we have learned but do not deserve an own section:
 
 - Always meet your deadlines. Clients will often not meet theirs, but that does not spare you from doing your homework. Be always ready for unexpected changes and to help your client.
 - Previous experience in consulting and management have proved useful, specially when reporting to clients and managing expectations.
-- Treat your employees responsibly and they will behave responsibly (37Signals’ Jason Fried <a href="http://www.inc.com/magazine/20091101/the-way-i-work-jason-fried-of-37signals.html" target="_blank" title="Jason Friend's How I Work">wrote about this first</a>).
+- Treat your employees responsibly and they will behave responsibly (Basecamp's Jason Fried <a href="http://www.inc.com/magazine/20091101/the-way-i-work-jason-fried-of-37signals.html" target="_blank" title="Jason Friend's How I Work">wrote about this first</a>).
 - Define a minimum budget for projects. You don’t want to waste your client’s time, so tell them what that price is upfront.
 - Clients that don't fit your company might be a right fit for others. Offer them to pass their contact onto companies/freelancers you trust. They will be very grateful for that.
 
