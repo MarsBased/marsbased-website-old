@@ -75,7 +75,7 @@ We have consistently identified workflows we incur in on a daily basis (or frequ
 
 For instance, our sales process was a bottleneck. Every time we needed to send an offer for a new project, the document had to undergo a revision by the whole team. More often than not, this revision was pushed back for over two weeks, potentially risking losing a customer.
 
-We identified this problem, analysed it and found some solutions to this blocking issue. After the document is ready, the whole team has two days to do their revision. If no feedback is given, we assume everything’s OK and deliver the document. This way, if somebody needs to actually work on the document, he just needs to ask for some extra time.
+We identified this problem, analyzed it and found some solutions to this blocking issue. After the document is ready, the whole team has two days to do their revision. If no feedback is given, we assume everything’s OK and deliver the document. This way, if somebody needs to actually work on the document, he just needs to ask for some extra time.
 
 <strong>Lesson learned</strong>: Find one day a month to step back and revise all your workflows. Identify issues and work on them. Rinse and repeat.
 
@@ -115,7 +115,7 @@ Remember, stretching your working shift today will have an impact tomorrow. It�
 
 One of the things we have had to learn so far is business development. Since none of us had a full sales background, we decided to have one person dedicated 100% to this area.
 
-Having a full-time member focused on business development is something most early-stage development shops do not have. For us, it has allowed us to build a consistent image on the social networks, a blog, a good ranking on the search engines and a frequent offline presence (organising <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona website" target="_blank">Startup Grind Barcelona</a>, building the <a href="http://marsbased.com/blog/2013/11/07/start-up-circle-barcelona/" title="Blog post about Startup Circle" target="_blank">Startup Circle</a> community and attending an average of two events per week).
+Having a full-time member focused on business development is something most early-stage development shops do not have. For us, it has allowed us to build a consistent image on the social networks, a blog, a good ranking on the search engines and a frequent offline presence (organizing <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona website" target="_blank">Startup Grind Barcelona</a>, building the <a href="http://marsbased.com/blog/2013/11/07/start-up-circle-barcelona/" title="Blog post about Startup Circle" target="_blank">Startup Circle</a> community and attending an average of two events per week).
 
 <strong>Lesson learned</strong>: Sales are a service company’s fuel. Invest big time in this.
 
@@ -135,10 +135,10 @@ On the other hand, our clients from abroad prefer to work on a more agile way: w
 
 In order of relevance:
 
-- Organising Startup Grind BCN and other events.
+- Organizing Startup Grind BCN and other events.
 - Developing the <a href="http://w153.bcn.cat/" title="Barcelona Startup Map" target="_blank">Barcelona Startup Map</a>.
 - Happy clients referring us to their contacts.
-- Belonging to Ecommerce & Tech BCN.
+- Belonging to <a href="http://www.ecommercetechbcn.com/" target="_blank" title="Ecommerce & Tech BCN">Ecommerce & Tech BCN</a>.
 - Our referral agreement program.
 
 ###What has not helped us getting clients###
