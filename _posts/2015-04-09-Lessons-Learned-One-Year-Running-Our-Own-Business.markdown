@@ -21,7 +21,7 @@ Here’s what we have learned in this first year of operating full-time as servi
 
 ###Market share###
 
-One of the first fears we had when we created the company, was that there would be no demand for customized web apps in Ruby on Rails. Ruby does not have a big market share in Spain, so we had to create it.
+One of the first fears we had when we created the company was that there would be no demand for customized web apps in Ruby on Rails. Ruby does not have a big market share in Spain, so we had to create it.
 
 Truth is, we have been overwhelmed by the incessant demand of Ruby development. Apparently, there’s not enough developers, nor specialized companies. We've also done a lot of technology-agnostic projects where we chose the tech stack. That means, we have contributed to increase the number of clients using Rails. You’re welcome!
 
