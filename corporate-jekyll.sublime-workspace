@@ -31,96 +31,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "about us -> team\ncanviar títol i metas\n\ntreure:\n-    <p>We develop software for a living: web and mobile apps, mostly based on Ruby on Rails, AngularJS and HTML5. We love it, and therefore we do it with a passion.</p>\n-    <p>As an offshore development start-up, you can hire us to create apps that meet your needs from every corner of this world. Coming soon to other planets!</p>\n-    <p>We haven't been around for long. In fact, it's been a few months since MarsBased was created, but we have a big expertise on app development because our previous work experiences.</p>\n-    <p>But enough talking about us! We want to hear your story, because everyone has one. We deeply believe that everyone should work on what they are passionate about! Focus on what you do best, and let us develop the perfect app for you.</p>\n\nficar:\n+    <p>We haven't been around for long, so you might want to get to know us. This is our team!</p>\n+    <div class=\"team-members\">\n+      <div class=\"faces\">\n+        <img class=\"img-circle about-img img-responsive\" src=\"/images/xavi.jpg\" title=\"Xavier Redó Cano\" alt=\"Xavier Redó Cano\" />\n+        <img class=\"img-circle about-img img-responsive\" src=\"/images/alex.png\" title=\"Àlex Rodríguez Bacardit\" alt=\"Àlex Rodríguez Bacardit\" />\n+        <img class=\"img-circle about-img img-responsive\" src=\"/images/alien.png\" title=\"Locked team member\" alt=\"Locked team member\" />\n+      </div>\n+      <div class=\"bios\">\n+\n+      </div>\n+\n+    </div>\n\n",
-			"settings":
-			{
-				"buffer_size": 1472,
-				"line_ending": "Unix",
-				"name": "about us -> team"
-			}
-		},
-		{
-			"file": "about/index.html",
-			"settings":
-			{
-				"buffer_size": 2892,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 5113,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2015-03-17-An-Internship-Out-of-This-World.markdown",
-			"settings":
-			{
-				"buffer_size": 5588,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2015-04-09-Lessons-Learned-One-Year-Running-Our-Own-Business.markdown",
-			"settings":
-			{
-				"buffer_size": 13965,
-				"line_ending": "Unix",
-				"name": "jdifdoij"
-			}
-		},
-		{
-			"file": "_assets/stylesheets/style.less",
-			"settings":
-			{
-				"buffer_size": 1211,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/post.html",
-			"settings":
-			{
-				"buffer_size": 1602,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "privacy/index.html",
-			"settings":
-			{
-				"buffer_size": 2517,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_plugins/postauthor.rb",
-			"settings":
-			{
-				"buffer_size": 1687,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "contact/index.html",
-			"settings":
-			{
-				"buffer_size": 3316,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/flip.html",
-			"settings":
-			{
-				"buffer_size": 20841,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -129,10 +39,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 369.0,
-		"last_filter": "new",
+		"height": 222.0,
+		"last_filter": "git stah",
 		"selected_items":
 		[
+			[
+				"git stah",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git pu",
+				"Git: Pull Using Rebase"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
 			[
 				"new",
 				"Jekyll: New post"
@@ -191,25 +113,25 @@
 	},
 	"expanded_folders":
 	[
-		"/home/alex/project/marsbased-web",
-		"/home/alex/project/marsbased-web/_assets",
-		"/home/alex/project/marsbased-web/_assets/stylesheets",
-		"/home/alex/project/marsbased-web/_layouts",
-		"/home/alex/project/marsbased-web/_plugins",
-		"/home/alex/project/marsbased-web/_posts",
-		"/home/alex/project/marsbased-web/about"
+		"/home/alex/project/marsbased-web"
 	],
 	"file_history":
 	[
-		"/home/alex/project/marsbased-web/_assets/stylesheets/content.less",
+		"/home/alex/project/marsbased-web/_assets/stylesheets/style.less",
+		"/home/alex/project/marsbased-web/privacy/index.html",
+		"/home/alex/project/marsbased-web/_plugins/postauthor.rb",
+		"/home/alex/project/marsbased-web/contact/index.html",
 		"/home/alex/project/marsbased-web/_includes/flip.html",
+		"/home/alex/project/marsbased-web/_posts/2015-04-09-Lessons-Learned-One-Year-Running-Our-Own-Business.markdown",
+		"/home/alex/project/marsbased-web/index.html",
+		"/home/alex/project/marsbased-web/_posts/2015-03-17-An-Internship-Out-of-This-World.markdown",
+		"/home/alex/project/marsbased-web/about/index.html",
+		"/home/alex/project/marsbased-web/corporate-jekyll.sublime-",
+		"/home/alex/project/marsbased-web/_assets/stylesheets/content.less",
 		"/home/alex/project/marsbased-web/.gitignore",
 		"/home/alex/project/marsbased-web/_posts/2014-10-18-The-MarsBased-Team-Grows-Bigger-The-Abduction.markdown",
-		"/home/alex/project/marsbased-web/_plugins/postauthor.rb",
 		"/home/alex/project/marsbased-web/Gemfile",
 		"/home/alex/project/marsbased-web/_layouts/default.html",
-		"/home/alex/project/marsbased-web/privacy/index.html",
-		"/home/alex/project/marsbased-web/index.html",
 		"/home/alex/project/marsbased-web/_assets/javascripts/flip.js",
 		"/home/alex/project/marsbased-web/_assets/stylesheets/variables.less",
 		"/home/alex/project/marsbased-web/_posts/2014-10-25-Dealing-With-Your-First-Hire-In-A-Distributed-Team.markdown",
@@ -234,12 +156,9 @@
 		"/home/alex/project/marsbased-web/_posts/2013-09-20-cookin-recipes-want.markdown",
 		"/home/alex/project/marsbased-web/_drafts/2014-08-22-What-Have-We-Learnt-From-Our-Recruitment-Process.markdown",
 		"/home/alex/project/marsbased-web/_drafts/2014-08-22-Dealing-With-Your-First-Hire-In-A-Distributed-Team.markdown",
-		"/home/alex/project/marsbased-web/contact/index.html",
-		"/home/alex/project/marsbased-web/about/index.html",
 		"/home/alex/project/paellas-ol/paellas-ole.sublime-",
 		"/home/alex/project/marsbased-web/_posts/2014-10-09-The-MarsBased-Team-Grows-Bigger-The-Abduction.markdown",
 		"/home/alex/Desktop/August is a tough month to plan events, they said.",
-		"/home/alex/project/marsbased-web/_assets/stylesheets/style.less",
 		"/home/alex/project/marsbased-web/blog/index.html",
 		"/home/alex/project/marsbased-web/_config.yml",
 		"/home/alex/project/marsbased-web/README.md",
@@ -335,337 +254,8 @@
 	"groups":
 	[
 		{
-			"selected": 4,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1472,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1472,
-								1472
-							]
-						],
-						"settings":
-						{
-							"auto_name": "about us -> team",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "about/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2892,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5113,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2326,
-								2326
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_posts/2015-03-17-An-Internship-Out-of-This-World.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5588,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5588,
-								5588
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 918.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_posts/2015-04-09-Lessons-Learned-One-Year-Running-Our-Own-Business.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13965,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								12769,
-								12769
-							]
-						],
-						"settings":
-						{
-							"auto_name": "jdifdoij",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 4331.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_assets/stylesheets/style.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1211,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								492,
-								492
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 51.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_layouts/post.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1602,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "privacy/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2517,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2452,
-								2452
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "_plugins/postauthor.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1687,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								925,
-								925
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "contact/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3316,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2783,
-								2783
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 486.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "_includes/flip.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 20841,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2988,
-								2988
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 867.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -703,6 +293,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
 	},
 	"pinned_build_system": "",
 	"project": "corporate-jekyll.sublime-project",

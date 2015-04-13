@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lesson Learned: One Year Running Our Own Business"
+title:  "Lessons Learned: One Year Running Our Own Business"
 date:   2015-04-13 15:00:00
 author: alex
 categories: MarsBased Startup Teamwork CompanyCulture Business Hiring Rails Consulting Consultancy
