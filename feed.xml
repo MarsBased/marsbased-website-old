@@ -7,6 +7,175 @@
     <atom:link href="http://www.marsbased.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Lesson Learned: One Year Running Our Own Business</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d195.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Time flies. We have been so busy this year, that we have barely had time to look back to all the things we have accomplished thus far. Actually, it’s been a year and a month since we legally founded MarsBased.&lt;/p&gt;
+
+&lt;p&gt;One of the companies we look up to is &lt;a href=&quot;http://www.dockyard.com&quot; target=&quot;_blank&quot; title=&quot;Dockyard&quot;&gt;Dockyard&lt;/a&gt;. They run a very inspirational blog, where they publish their experiences. This is a small homage to them and to &lt;a href=&quot;http://reefpoints.dockyard.com/opinion/2012/06/21/lessons-learned-six-month-of-running-dockyard.html&quot; target=&quot;_blank&quot; title=&quot;Dockyard Blog&quot;&gt;this&lt;/a&gt; post, where they described the difficulties they faced during the first six months running a consultancy.&lt;/p&gt;
+
+&lt;p&gt;Here’s what we have learned in this first year of operating full-time as service providers.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post18.png&quot; alt=&quot;Keep Calm And Trust MarsBased&quot; title=&quot;Keep Calm And Trust MarsBased&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Keep Calm and Trust the Martians&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h3&gt;Market share&lt;/h3&gt;
+
+&lt;p&gt;One of the first fears we had when we created the company, was that there would be no demand for customized web apps in Ruby on Rails. Ruby does not have a big market share in Spain, so we had to create it.&lt;/p&gt;
+
+&lt;p&gt;Truth is, we have been overwhelmed by the incessant demand of Ruby development. Apparently, there’s not enough developers, nor specialized companies. We&amp;#39;ve also done a lot of technology-agnostic projects where we chose the tech stack. That means, we have contributed to increase the number of clients using Rails. You’re welcome!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lesson learned&lt;/strong&gt;: Identify the companies you want to work for and contact them or ask for an introduction. Most of them will want to hear your story. &lt;/p&gt;
+
+&lt;p&gt;To keep this section short, we will publish a dedicated post about each project we have completed throughout the year.&lt;/p&gt;
+
+&lt;h3&gt;Clients&lt;/h3&gt;
+
+&lt;p&gt;Clients are the essence of all consulting businesses. The difference between a successful company and a failed one often times boils down to choosing your clients right.&lt;/p&gt;
+
+&lt;p&gt;A good client can be your best asset: they talk about you, recommend you to other potential clients, give you more projects, promote your stuff, and offer better conditions over time. Actually, a happy client rarely ever changes providers.&lt;/p&gt;
+
+&lt;p&gt;Conversely, a bad customer can bring your business down. People that force you to work without contract, on abusive conditions or not paying customers pose a real threat to your company.&lt;/p&gt;
+
+&lt;p&gt;Once you have defined your business model, and your company culture, you should also define what kind of clients do you want to have and stick to them.&lt;/p&gt;
+
+&lt;p&gt;Accepting bad conditions now might seem a good idea if there are complicated months ahead for finding new contracts — such as summer, or Christmas time -, but it’ll prevent you from potentially finding a better client a little later in time (this is the so-called &lt;i&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Opportunity_cost&quot; target=&quot;_blank&quot; title=&quot;Opportunity cost&quot;&gt;Opportunity cost&lt;/a&gt;&lt;/i&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lesson learned&lt;/strong&gt;: Before committing to any contract, find out what the opportunity cost is.&lt;/p&gt;
+
+&lt;h3&gt;Price&lt;/h3&gt;
+
+&lt;p&gt;The most important advise we can give here is: do not undervalue yourself. Not only because you will lose the opportunity cost (see above), but also because you are what you repeatedly do. That is, if your hourly rate is 70 euro, but you always offer friendly prices and end up working for 30 euro/hour, then you are a 30 euro/hour company.&lt;/p&gt;
+
+&lt;p&gt;If your strategy is competing with price, skip this section: we’re not a good example. But if you compete with quality, your high rates are more justified. Specialized companies/individuals charge more per hour.&lt;/p&gt;
+
+&lt;p&gt;We, for one, started off at 50 euro/hour, which is actually cheap for a specialized company, but we wanted to build our portfolio. The market welcomed us with open arms with that price.&lt;/p&gt;
+
+&lt;p&gt;This year we have raised our fee. We need to filter out the number of opportunities we get each month and we have a larger team now. Strange as it might seem, our ideal clients might not want to hire us if they perceive we are “too cheap”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lesson learned&lt;/strong&gt;: do not start with a lower fee than you’d normally charge. Once you have got a client, it’s not easy to increase your rate.&lt;/p&gt;
+
+&lt;h3&gt;Company culture&lt;/h3&gt;
+
+&lt;p&gt;This. Is. Key.&lt;/p&gt;
+
+&lt;p&gt;Probably because we look up to companies like &lt;a href=&quot;http://www.thoughtbot.com&quot; target=&quot;_blank&quot; title=&quot;Thoughtbot website&quot;&gt;Thoughtbot&lt;/a&gt; or &lt;a href=&quot;http://37signals.com/&quot; target=&quot;_blank&quot; title=&quot;37Signals website&quot;&gt;37Signals (now Basecamp)&lt;/a&gt;, we always wanted to define a company culture for MarsBased right from the get-go.&lt;/p&gt;
+
+&lt;p&gt;Company culture is one of the things we always review at our board meetings, or while talking to our employees. Most of all, we try to keep the Martian culture as present as possible in our daily grind.&lt;/p&gt;
+
+&lt;p&gt;A strong and well defined company culture will help you take strategic decisions, for instance, when choosing projects or clients &amp;quot;is this client aligned with my vision?&amp;quot; or when hiring &amp;quot;will this person adapt to our company environment?&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lesson learned&lt;/strong&gt;: Defining your company culture should be the first thing you do when creating a business. Then, make it evolve naturally.&lt;/p&gt;
+
+&lt;h3&gt;Methodologies&lt;/h3&gt;
+
+&lt;p&gt;One of the best things we have done, and feel more proud of, is having defined our own working methodology.&lt;/p&gt;
+
+&lt;p&gt;We have consistently identified workflows we incur in on a daily basis (or frequently enough) and turned them into a working methodology by identifying its bottlenecks and documenting where it was possible.&lt;/p&gt;
+
+&lt;p&gt;For instance, our sales process was a bottleneck. Every time we needed to send an offer for a new project, the document had to undergo a revision by the whole team. More often than not, this revision was pushed back for over two weeks, potentially risking losing a customer.&lt;/p&gt;
+
+&lt;p&gt;We identified this problem, analysed it and found some solutions to this blocking issue. After the document is ready, the whole team has two days to do their revision. If no feedback is given, we assume everything’s OK and deliver the document. This way, if somebody needs to actually work on the document, he just needs to ask for some extra time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lesson learned&lt;/strong&gt;: Find one day a month to step back and revise all your workflows. Identify issues and work on them. Rinse and repeat.&lt;/p&gt;
+
+&lt;h3&gt;Hiring&lt;/h3&gt;
+
+&lt;p&gt;One year ago we did not expect to hire anybody before 2014 ended. At best, we could only hope there’d be enough work to sustain the three founding members.&lt;/p&gt;
+
+&lt;p&gt;Turns out we had enough work to hire &lt;a href=&quot;http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction&quot; target=&quot;_blank&quot; title=&quot;Blog post about hiring Javi&quot;&gt;Javi&lt;/a&gt; in September, &lt;a href=&quot;http://marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World/&quot; target=&quot;_blank&quot; title=&quot;Post about Emilio&#39;s internship&quot;&gt;Emilio&lt;/a&gt; in December and &lt;a href=&quot;https://twitter.com/MarsBased/status/577401842105192448&quot; target=&quot;_blank&quot; title=&quot;Xavier abduction into MarsBased&quot;&gt;Xavier&lt;/a&gt; in March, while outsourcing an additional 33% of our workload to companies like &lt;a href=&quot;http://www.evilmartians.com&quot; target=&quot;_blank&quot; title=&quot;Evil Martians website&quot;&gt;Evil Martians&lt;/a&gt; or &lt;a href=&quot;http://mortensen.co/&quot; target=&quot;_blank&quot; title=&quot;Mortensen&quot;&gt;Mortensen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, hiring is not easy. As a consultancy, you need to focus on delivering results to your clients. There’s little to no time to do HR. We actually wrote a &lt;a href=&quot;http://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team/&quot; target=&quot;_blank&quot; title=&quot;Blog post about hiring&quot;&gt;blog post where we spoke about this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Luckily enough, we have friends and colleagues that have recommended potential employees to us, and everyone we have hired so far turned out to be a really good asset to the company.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lesson learned&lt;/strong&gt;: Hire only people you have worked with in the past or that you know very well. They will work harder to avoid disappointing you, and the risk of them being a flop is therefore minimized.&lt;/p&gt;
+
+&lt;h3&gt;Delegate wisely&lt;/h3&gt;
+
+&lt;p&gt;One of the principles we have built our company around is bootstrapping. We did not want to risk a lot of money in this, as it is our first company. So we decided to spend every penny wisely.&lt;/p&gt;
+
+&lt;p&gt;This is great at first, when you have enough time to deal with chores, while working on small projects (or even none of them). But as a specialized company, we needed to focus on what we do best: developing apps with Ruby on Rails.&lt;/p&gt;
+
+&lt;p&gt;As we started growing, we found out that our workload increased as well. Thus, we began delegating some tasks to external companies. Bookkeeping was the first one, then legal stuff, and now we even delegate part of our development or some of our designs to companies of trust.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lesson learned&lt;/strong&gt;: Always delegate stuff that is not imperative you keep in house. It might save you time, and time is ultimately money.&lt;/p&gt;
+
+&lt;h3&gt;Burnout&lt;/h3&gt;
+
+&lt;p&gt;As first-time entrepreneurs, this is tricky to handle. The founding members entrance to the company was by working part-time on weekends and spare hours until we accumulated enough cash to employ all of us. It was a slow but safe process.&lt;/p&gt;
+
+&lt;p&gt;In hindsight, we would probably do it differently now. When half of your company is working full time, and the other half only on weekends and spare hours, working schedules might not overlap. Therefore, the part-timers drag the full-timers to work longer shifts (till late night) or even on weekends, when they’re not supposed to.&lt;/p&gt;
+
+&lt;p&gt;Remember, stretching your working shift today will have an impact tomorrow. It’s easier to avoid burnout if you stick to your 40 hours work week.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lesson learned&lt;/strong&gt;: Define a clear roadmap for the incorporations and stick to it. Try to avoid the aforementioned situation by adjusting your schedules accordingly.&lt;/p&gt;
+
+&lt;h3&gt;Sales&lt;/h3&gt;
+
+&lt;p&gt;One of the things we have had to learn so far is business development. Since none of us had a full sales background, we decided to have one person dedicated 100% to this area.&lt;/p&gt;
+
+&lt;p&gt;Having a full-time member focused on business development is something most early-stage development shops do not have. For us, it has allowed us to build a consistent image on the social networks, a blog, a good ranking on the search engines and a frequent offline presence (organising &lt;a href=&quot;http://www.startupgrind.cat&quot; title=&quot;Startup Grind Barcelona website&quot; target=&quot;_blank&quot;&gt;Startup Grind Barcelona&lt;/a&gt;, building the &lt;a href=&quot;http://marsbased.com/blog/2013/11/07/start-up-circle-barcelona/&quot; title=&quot;Blog post about Startup Circle&quot; target=&quot;_blank&quot;&gt;Startup Circle&lt;/a&gt; community and attending an average of two events per week).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lesson learned&lt;/strong&gt;: Sales are a service company’s fuel. Invest big time in this.&lt;/p&gt;
+
+&lt;h3&gt;Estimates, guesstimates and project planning&lt;/h3&gt;
+
+&lt;p&gt;Throughout this first year we have learned the cultural difference of working with Spanish clients and clients from outside of Spain.&lt;/p&gt;
+
+&lt;p&gt;Spanish clients prefer to work on a closed estimate of time and budget. A rather exhaustive document justifying how long will it take us to complete the project and a guesstimate in price.&lt;/p&gt;
+
+&lt;p&gt;Truth is, project plannings change following users’ or investors’ opinions &amp;amp; needs, so this method is only fit for projects with a very clear and fixed scope.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, our clients from abroad prefer to work on a more agile way: we fix a price per hour and a number of hours per week and we start working. The project roadmap is built and rearranged every now and then during the length of the project, making it less of a hassle to change a functionality for another that was not in the original planning, thus allowing developers to focus on developing rather than doing estimates.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lessons learned&lt;/strong&gt;: So far, we have learned to work using both methodologies, but we don’t have a dog in the fight.&lt;/p&gt;
+
+&lt;h3&gt;What has helped us getting clients&lt;/h3&gt;
+
+&lt;p&gt;In order of relevance:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Organising Startup Grind BCN and other events.&lt;/li&gt;
+&lt;li&gt;Developing the &lt;a href=&quot;http://w153.bcn.cat/&quot; title=&quot;Barcelona Startup Map&quot; target=&quot;_blank&quot;&gt;Barcelona Startup Map&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Happy clients referring us to their contacts.&lt;/li&gt;
+&lt;li&gt;Belonging to Ecommerce &amp;amp; Tech BCN.&lt;/li&gt;
+&lt;li&gt;Our referral agreement program.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;What has not helped us getting clients&lt;/h3&gt;
+
+&lt;p&gt;The following haven’t proved 100% useful yet when looking for new clients. Probably because we haven’t devoted enough time to them or because the timing or the execution were not right.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Our website.&lt;/li&gt;
+&lt;li&gt;Cold emailing.&lt;/li&gt;
+&lt;li&gt;Posting on LinkedIn groups.&lt;/li&gt;
+&lt;li&gt;Using freelancing platforms (Workana, Elance, Freelancer.com…)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Other small lessons&lt;/h3&gt;
+
+&lt;p&gt;Here’s some other tips we have learned but do not deserve an own section:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Always meet your deadlines. Clients will often not meet theirs, but that does not spare you from doing your homework. Be always ready for unexpected changes and to help your client.&lt;/li&gt;
+&lt;li&gt;Previous experience in consulting and management have proved useful, specially when reporting to clients and managing expectations.&lt;/li&gt;
+&lt;li&gt;Treat your employees responsibly and they will behave responsibly (Basecamp&amp;#39;s Jason Fried &lt;a href=&quot;http://www.inc.com/magazine/20091101/the-way-i-work-jason-fried-of-37signals.html&quot; target=&quot;_blank&quot; title=&quot;Jason Friend&#39;s How I Work&quot;&gt;wrote about this first&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Define a minimum budget for projects. You don’t want to waste your client’s time, so tell them what that price is upfront.&lt;/li&gt;
+&lt;li&gt;Clients that don&amp;#39;t fit your company might be a right fit for others. Offer them to pass their contact onto companies/freelancers you trust. They will be very grateful for that.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Do you also run a company? Want to share some advise? Do it using the comments section below!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Apr 2015 17:00:00 +0200</pubDate>
+        <link>http://www.marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business</guid>
+      </item>
+    
+      <item>
         <title>An Internship out of This World</title>
         <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d176.y36/AB&lt;/em&gt;&lt;/p&gt;
 
@@ -48,7 +217,7 @@ Or simply put, using Rails, this is the &lt;strong&gt;MarsBased formula&lt;/stro
 
 &lt;p&gt;There are not a lot of rules in MarsBased, as strange as it might be. And the few of them we&amp;#39;ve got, they are really easy to follow, such as no emails, the weekly summary Basecamp post on Monday, simpler is better, and so on.&lt;/p&gt;
 
-&lt;p&gt;Another thing I wanted to highlight is the diversity among the team members. Despite being such a small team, there is a very diverse set of strenghts and weaknesses that work like a charm.&lt;/p&gt;
+&lt;p&gt;Another thing I wanted to highlight is the diversity among the team members. Despite being such a small team, there is a very diverse set of strengths and weaknesses that work like a charm.&lt;/p&gt;
 
 &lt;p&gt;As a result of all the previous points, we are a very friendly, transparent, responsible and social company, while being very powerful - technologically speaking.&lt;/p&gt;
 
@@ -614,58 +783,6 @@ Or simply put, using Rails, this is the &lt;strong&gt;MarsBased formula&lt;/stro
         <pubDate>Mon, 09 Jun 2014 21:00:00 +0200</pubDate>
         <link>http://www.marsbased.com/blog/2014/06/09/Barcelona-Startup-Map1</link>
         <guid isPermaLink="true">http://www.marsbased.com/blog/2014/06/09/Barcelona-Startup-Map1</guid>
-      </item>
-    
-      <item>
-        <title>Celebrating the first Martian year</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d495.y35/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This week has been definitely a turning point in the life of MarsBased. Coincidentally, we also celebrated our first MarsBased birthday.&lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s been truly memorable: not only did we enjoy a delicious cake commemorating the first year of the Martian family, but we sealed the biggest project to date for MarsBased, too.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post8a.png&quot; alt=&quot;The Mars Cake&quot; title=&quot;The Mars Cake&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;The countdown on the cake is over, time to take-off&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;Most of our first year, we spend it building our portfolio and tools such as Cookin.me, which we are releasing as open source in an alpha phase. The last few months, however, we devoted our time to work for other companies building apps and killer websites for them. Our customers are happy, and so are we.&lt;/p&gt;
-
-&lt;p&gt;In one year we have sealed projects abroad, attended some big events and, as MarsBased completed some important goals, we&amp;#39;ve learned and had fun along the way. On a funnier side, we&amp;#39;ve received job applications before we had any projects, we got the Nigerian prince scam, and two companies even tried to acquire MarsBased.&lt;/p&gt;
-
-&lt;p&gt;To celebrate this first anniversary, we want to share some of our best moments with you.&lt;/p&gt;
-
-&lt;h3&gt;Learn by doing&lt;/h3&gt;
-
-&lt;p&gt;Perhaps the best decision we have adopted at MarsBased was to always keep busy. Without a doubt, we learn by doing. In just one year we&amp;#39;ve learnt more than what we would have learnt by reading expensive publications or in an MBA.&lt;/p&gt;
-
-&lt;p&gt;We have also refined our company culture by applying our values in our daily routine. We like to make better stuff by simplifying it, so we simplified our communication workflows and tool belt. Every week we devote some time to improve our routines and working methods to increase our productivity.&lt;/p&gt;
-
-&lt;p&gt;At MarsBased we also like to adopt new technologies. Our latest adoptions have been &lt;a href=&quot;http://jekyllrb.com/&quot; title=&quot;Jekyll&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;, &lt;a href=&quot;http://coffeescript.org/&quot; title=&quot;Coffeescript&quot; target=&quot;_blank&quot;&gt;Coffeescript&lt;/a&gt; for our developments. We&amp;#39;ve as well cut down on communication channels by adopting &lt;a href=&quot;https://slack.com/&quot; title=&quot;Slack&quot; target=&quot;_blank&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Community giveback&lt;/h3&gt;
-
-&lt;p&gt;MarsBased are fully committed to contribute to the entrepreneurial scene that saw us grow. More than half a year ago we created the start-up circle with some friends, and now has grown to over 7 start-ups and more than 15 participants. Sooner rather than later we will build a website for the circle where you&amp;#39;ll be able to find more information about us all.&lt;/p&gt;
-
-&lt;p&gt;MarsBased has also lately become the technological partner of &lt;a href=&quot;http://www.startupgrind.cat&quot; title=&quot;Startup Grind Barcelona&quot; target=&quot;_blank&quot;&gt;Startup Grind Barcelona&lt;/a&gt;, for which we are building a killer website at &lt;a href=&quot;http://www.startupgrind.cat&quot; title=&quot;Startup Grind Barcelona&quot; target=&quot;_blank&quot;&gt;www.startupgrind.cat&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In these months, we&amp;#39;ve gotten to know amazing companies such as &lt;a href=&quot;http://www.thesocialcoin.org/&quot; title=&quot;The Social Coin&quot; target=&quot;_blank&quot;&gt;The Social Coin&lt;/a&gt;, &lt;a href=&quot;http://www.nektria.com/&quot; title=&quot;Nektria&quot; target=&quot;_blank&quot;&gt;Nektria&lt;/a&gt;, &lt;a href=&quot;http://thoughtbot.com/&quot; title=&quot;Thoughtbot&quot; target=&quot;_blank&quot;&gt;Thoughtbot&lt;/a&gt;, &lt;a href=&quot;http://monterail.com/&quot; title=&quot;Monterail&quot; target=&quot;_blank&quot;&gt;Monterail&lt;/a&gt;, &lt;a href=&quot;http://prorubyteam.com/&quot; title=&quot;ProRuby&quot; target=&quot;_blank&quot;&gt;ProRuby&lt;/a&gt;, &lt;a href=&quot;https://docsend.com/&quot; title=&quot;DocSend&quot; target=&quot;_blank&quot;&gt;DocSend&lt;/a&gt;, &lt;a href=&quot;http://www.typeform.com/&quot; title=&quot;TypeForm&quot; target=&quot;_blank&quot;&gt;TypeForm&lt;/a&gt;, etc. As we&amp;#39;re in this together, we&amp;#39;ve always sought to help one another. Think global, act local.&lt;/p&gt;
-
-&lt;h3&gt;And now, onto the second year!&lt;/h3&gt;
-
-&lt;p&gt;So where are we now? As we speak, we&amp;#39;re probably in three different geographical points in Catalonia. That&amp;#39;s how we work: we might not necessarily know where the others are, but we know we&amp;#39;re always there. Work-wise, however, we are 100% sure of where we stand: we&amp;#39;re set to work on our biggest project to date, while putting the final touches to our most recent projects.&lt;/p&gt;
-
-&lt;p&gt;In the last few months, we have become a more mature company with clear roles &amp;amp; responsibilities. We have transitioned from being a product company to selling our services and our expertise. Our focus is now set on understanding the customer&amp;#39;s needs and making our vision converge with theirs to get to the heart of the project.&lt;/p&gt;
-
-&lt;p&gt;Our plan for the year ahead is to work with more and more diverse customers. Deliver to each and every one of them an entirely breathtaking product that we will later break down in our blog, describing the process we&amp;#39;ve been through from the very inception to its final delivery. And what&amp;#39;s more: we want to keep having fun while working, because it&amp;#39;s intrinsically rooted in the MarsBased DNA.&lt;/p&gt;
-
-&lt;p&gt;And we want our customers to enjoy the ride with us. We grow, if they grow. We learn, if they learn. And we&amp;#39;re satisfied, if they are too.&lt;/p&gt;
-
-&lt;p&gt;We want to make consultancy simple, fun, and down-to-earth.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 30 Mar 2014 16:00:00 +0200</pubDate>
-        <link>http://www.marsbased.com/blog/2014/03/30/Celebrating-the-first-Martian-year</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/03/30/Celebrating-the-first-Martian-year</guid>
       </item>
     
   </channel>
