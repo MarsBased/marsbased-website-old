@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "The MarsBased Blogging Guide (Part 1)"
-date:   2015-05-07 15:00:00
+date:   2015-05-13 15:00:00
 author: alex
-categories: MarsBased Startup Blogging CompanyCulture Business Blog Writing
+categories: MarsBased Startup Blogging CompanyCulture Business Blog Writing SocialMedia
 ---
 
 *Captain's log, stardate {{page.date | martian_date}}*
@@ -24,7 +24,7 @@ Therefore, if you're writing a guide on how to craft good blog posts you might w
 
 Titles should be meaningful, just like the first sentence of the post. <a href="https://blog.bufferapp.com/headline-formulas?utm_content=buffer144c3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" title="Buffer blog" target="_blank">Readers absorb the first and last three words of a sentence</a>, so make them count. Also, avoid clickbait titles ("<i>I Unboxed My iPhone and I Couldn't Believe What Happened Next</i>") where possible. They're not worth it: they might earn you a thousand followers today, but all will be gone tomorrow if you don't deliver what's promised.
 
-Last, but not least, titles should include your keywords. If you're blogging about gadgets, include the words <i>wearables</i>, <i>tech</i>, <i>smartphones</i>, <i>gadgets</i>, etc. This will help SEO and thus increase your blog's visibility.
+Last, but not least, titles should include your keywords. If you're blogging about gadgets, include the words <i>wearables</i>, <i>tech</i>, <i>smartphones</i>, <i>gadgets</i>, etc. This will help SEO and thus increase your blog's visibility. Ideally, post titles <a href="http://www.orbitmedia.com/blog/ideal-blog-post-length/" title="Marketing tips" target="_blank">shouldn't exceed 60 characters</a>.
 
 ###Catch your reader's attention###
 
@@ -44,6 +44,8 @@ Nowadays, the definition of good content is, as Guy Kawasaki put it, "<a href="h
 We can't emphasize enough how important a blog is for SEO. A blog allows you to have original content (yay!), on a regular basis (double yay!) that can be commented and shared, and therefore spread through the web (triple yay!).
 
 As a result, your company name will be spread throughout the web if you do it right. Choose your keywords wisely (don't overbloat it, though!) and make it worth sharing. Then, your readers will do the work for you.
+
+One interesting tip: if you talk about companies or individuals in your post, it's a good idea to link to their website. For the extra points, you can mention them in the social networks and maybe earn some extra retweets/likes/shares.
 
 ###Links###
 
@@ -94,7 +96,7 @@ It is a good idea to re-read the post 3 o 4 times prior to publish, and it's eve
 
 Finally, the post should have a <i>raison d'être</i>: it can be an informative post, a how-to guide, an opinion to give food for thought, or an invitation to the new beta version of your product.
 
-Whatever the aim of the post is, it should conclude with a call to action. A call to action (often referred to as CTA) is an instruction to the audience to provoke an immediate response, usually using an imperative verb such as "call now", "find out more" or "visit a store today" (<a href="http://homebusiness.about.com/od/homebusinessglossar1/g/Call-To-Action-Definition.htm" title="Definition of call to action" target="_blank">souce</a>). If you don't know what call to action do, the message of your post might not be clear enough, yet you can always ask the audience to share the post around.
+Whatever the aim of the post is, it should conclude with a call to action. A call to action (often referred to as CTA) is an instruction to the audience to provoke an immediate response, usually using an imperative verb such as "call now", "find out more" or "visit a store today" (<a href="http://homebusiness.about.com/od/homebusinessglossar1/g/Call-To-Action-Definition.htm" title="Definition of call to action" target="_blank">source</a>). If you don't know what call to action do, the message of your post might not be clear enough, yet you can always ask the audience to share the post around.
 
 Want an example of call to action? We'll wrap up the post with one!
 
