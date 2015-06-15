@@ -42,7 +42,6 @@ GEM
     kramdown (1.4.0)
     less (2.3.3)
       commonjs (~> 0.2.6)
-    libv8 (3.16.14.3)
     liquid (2.5.5)
     listen (2.7.9)
       celluloid (>= 0.15.2)
@@ -61,7 +60,6 @@ GEM
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
     redcarpet (3.1.2)
-    ref (1.0.5)
     safe_yaml (1.0.3)
     sass (3.3.8)
     sprockets (2.12.1)
@@ -72,9 +70,6 @@ GEM
     sprockets-less (0.5.3)
       less (~> 2.3.0)
       tilt (~> 1.1)
-    therubyracer (0.12.0)
-      libv8 (~> 3.16.14.0)
-      ref
     tilt (1.4.1)
     timers (1.1.0)
     toml (0.1.1)
@@ -92,6 +87,8 @@ DEPENDENCIES
   directory_watcher (= 1.4)
   jekyll-assets
   sprockets-less
-  therubyracer
   uglifier
   yui-compressor
+
+BUNDLED WITH
+   1.10.3
