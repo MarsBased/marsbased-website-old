@@ -58,7 +58,7 @@ After over a year of working remotely from awesome places like Munich or Berlin 
     </div>
 </div>
 
-<div class="quote left-sided">
+<div class="quote right-sided">
     <div class="avatar">
         <img src="/images/xavier.png" alt="Xavier Simó" title="Xavier Simó" class="img-responsive img-circle" />
         <h4>Xavier Simó</h4>
@@ -84,7 +84,7 @@ After over a year of working remotely from awesome places like Munich or Berlin 
     </div>
 </div>
 
-<div class="quote left-sided">
+<div class="quote right-sided">
     <div class="avatar">
         <img src="/images/fotografía.jpg" alt="David Gómez" title="David Gómez" class="img-responsive img-circle" />
         <h4>David Gómez</h4>
@@ -109,7 +109,7 @@ After over a year of working remotely from awesome places like Munich or Berlin 
     </div>
 </div>
 
-<div class="quote left-sided">
+<div class="quote right-sided">
     <div class="avatar">
         <img src="/images/alex-squared.jpg" alt="Àlex Rodríguez" title="Àlex Rodríguez" class="img-responsive img-circle" />
         <h4>Àlex Rodríguez</h4>
