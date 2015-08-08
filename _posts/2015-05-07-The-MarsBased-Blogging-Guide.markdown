@@ -39,7 +39,7 @@ However, just like titles, the first sentences must be an open invite to click o
 
 ###Content###
 
-Nowadays, the definition of good content is, as Guy Kawasaki put it, "<a href="http://startupgrind.com/guy-kawasaki-2015/" title="Startup Grind hosts Guy Kawasaki" target="_blank">content worth sharing</a>".
+Nowadays, the definition of good content is, as Guy Kawasaki put it, "<a href="https://www.startupgrind.com/events/details/startup-grind-london-hosted-guy-kawasaki-canvaex-apple#/" title="Startup Grind hosts Guy Kawasaki" target="_blank">content worth sharing</a>".
 
 We can't emphasize enough how important a blog is for SEO. A blog allows you to have original content (yay!), on a regular basis (double yay!) that can be commented and shared, and therefore spread through the web (triple yay!).
 
