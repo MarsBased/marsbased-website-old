@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Create a Blogging Strategy for Your Company"
-date:   2015-08-10 15:00:00
+date:   2015-08-16 15:00:00
 author: alex
 categories: MarsBased Startup Blogging CompanyCulture Business Blog Writing SocialMedia
 ---
