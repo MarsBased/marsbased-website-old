@@ -3,12 +3,12 @@ layout: post
 title:  "Dealing With Your First Hire in a Distributed Team"
 date:   2014-10-25 15:00:00
 author: alex
-categories: MarsBased Startup HR Entrepreneurship Hiring Remote-Work
+categories: MarsBased Developers HR Entrepreneurship Hiring RemoteWork
 ---
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-In the last blog entry we described our first day with our new hire, Javi. Two weeks in, and the whole team has felt the boost of having a new employee at MarsBased: the company is producing more, he's learning while having fun, and so are we.
+In <a href="http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction/" title="First Hire at MarsBased" target="_blank">our last blog entry</a> we described our first day with our new hire, Javi. Two weeks in, and the whole team has felt the boost of having a new employee at MarsBased: the company is producing more, he's learning while having fun, and so are we.
 
 However, a new employee brings in a whole set of risks that need to be adressed when running your own company. One of them is the integration in the team, and this is what this entry is about.
 
@@ -53,7 +53,7 @@ We hardly ever email each other save for communications with third parties.
 In conclusion, it is very important to present all the tools to the new hire, as well as the frequency of use and some rules that need to be met to ensure a fluid & correct communication.
 
 ###Get-togethers###
-Secondly, get-togethers, for work or leisure, are necessary in all remote working companies.
+Get-togethers, for work or leisure, are necessary in all remote working companies.
 
 Imagine a team that never sees each other's faces save for videocalls. As hard as they might try, there's a great chance they will not bond as much as a normal company due to the lack of physical connection.
 

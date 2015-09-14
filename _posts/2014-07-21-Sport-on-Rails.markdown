@@ -3,12 +3,14 @@ layout: post
 title:  "Sport on Rails - How Do We Keep Fit At MarsBased"
 date:   2014-07-21 21:00:00
 author: alex
-categories: MarsBased Startup Sport Health Fitness Entrepreneurship StartupCircle
+categories: CompanyCulture Startup Sport Health Fitness Entrepreneurship StartupCircle
 ---
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-People coming from IT backgrounds mostly suffer from the same ailments as executives: back aches, migraine, circulation problems, eye dryness, stress. Luckily enough, we’ve got our own methods to fight these ailments back.
+People coming from IT backgrounds mostly suffer from the same ailments as executives: back aches, migraine, circulation problems, eye dryness or stress.
+
+Luckily enough, we’ve got our own methods to fight these ailments back.
 
 <!--more-->
 
@@ -16,7 +18,7 @@ People coming from IT backgrounds mostly suffer from the same ailments as execut
 
 In the last years we have seen some innovation in the offices. Companies are bringing in new hardware such as standing desks, ergonomical mouses & pointing devices or having rotational seats. Also, standing up every now and then to stretch your legs is now allowed and encouraged, contrary to the strictness of the 80s, mostly thanks to wireless communications and devices.
 
-However healthier that might sound, these perks are not yet an established practice in Spanish companies yet, and they seem to be adopted only by start-ups and like-minded companies.
+However healthier that might sound, these perks are not yet an established practice in Spanish companies yet, and they seem to be adopted only by startups and like-minded companies.
 
 While we can’t really tell you what to do to reduce the negative effects of sitting for too long, we will explain how we’re battling sedentarism at MarsBased. Of course, you can also follow some well-known tips like commuting to work on foot, answering phone calls while standing or even installing software that dims the screen’s brightness naturally to reduce eye dryness such as <a href="https://justgetflux.com/" title="Get F.lux" target="_blank">f.lux</a>.
 
@@ -26,7 +28,7 @@ We are a remote working company. Therefore, we get to move around our own homes/
 
 We move around freely, sitting, standing or leaning wherever we want, changing position and seat multiple times a day. Having an own office also allows to customize it further than most offices, which are sometimes shared with other people or don’t allow much freedom to bring new appliances or hardware.
 
-###Sport within the company###
+###Sport inside the company###
 
 Because we wanted to encourage a healthier lifestyle within the company, last month we started the MarsBased Running Competition. The three Martians embarked in a running competition with different goals every fifteen days.
 
@@ -41,7 +43,7 @@ The winner doesn’t get rewarded and the loser doesn’t get punished or mocked
 
 This year we were invited to take part in the <a href="http://www.startupdodgeball.net/bcn.html" title="Startup Dodgeball" target="_blank">Startup Dodgeball</a>. We could not attend because we were putting the final touches to the <a href="http://bcn.cat/bcnstartupmap" title="Barcelona Startup Map" target="_blank">Barcelona Startup Map</a>, so we decided to create our own event.
 
-In one of our first entries we told you about the <a href="http://marsbased.com/blog/2013/11/07/start-up-circle-barcelona/" title="Startup Circle in Barcelona" target="_blank">Startup Circle</a> we’re leading in Barcelona. Two weeks ago we decided to end the serious business-oriented meetings we were having and met for a football match and dinner. A good way to unwind from the daily grind.
+In one of our first entries we told you about the <a href="http://marsbased.com/blog/2013/11/07/startup-circle-barcelona/" title="Startup Circle in Barcelona" target="_blank">Startup Circle</a> we’re leading in Barcelona. Two weeks ago we decided to end the serious business-oriented meetings we were having and met for a football match and dinner. A good way to unwind from the daily grind.
 
 The event was well received within the community and we’re planning to do it again. We garnered ten members of this small community to play a game of indoors football that saw the birth of a very powerful interplanetary alliance between <a href="http://mercurio-platform.com" title="Mercurio Platform" target="_blank">Mercurio</a> and MarsBased on the winning team.
 

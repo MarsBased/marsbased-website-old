@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Take-offs and landings"
+title:  "Take-offs and Landings"
 date:   2013-09-07 16:19:00
 author: alex
-categories: MarsBased Startup
+categories: MarsBased Startups CompanyCulture SocialNetworks Entrepreneurship
 ---
 
 *Captain's log, stardate {{page.date | martian_date}}*
@@ -18,7 +18,7 @@ The MarsBased crew have been eagerly anticipating this moment for some months no
 
 *Commencing countdown (five), engines on (four). (three) (two) Check ignition (one) and may God's (blastoff) love be with you.*
 
-With <a href="https://www.youtube.com/watch?v=xcyuKUtgyZ8" title="David Bowie - Space Oddity" target="_blank">Bowie's "Space Oddity</a> on our minds, we packed a few personal belongings and lots of illusion, took our luggages and set off onto a new start.
+With <a href="https://www.youtube.com/watch?v=xcyuKUtgyZ8" title="David Bowie - Space Oddity" target="_blank">Bowie's "Space Oddity"</a> in our minds, we packed a few personal belongings and lots of illusion, took our luggages and set off onto a new start.
 
 And here we are: inside our spaceship, heading towards our new destination. Life's too good up here. It is, indeed, a promising start for our trip to a brighter future.
 

@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Cookin.me: where all your recipes want to be!"
+title:  "Cookin.me: Where All Your Recipes Want to Be!"
 date:   2013-09-20 15:21:00
 author: alex
-categories: MarsBased Startup Blog Cookin.me
+categories: MarsBased Startup Blog Cookin.me ProductDevelopment Startups
 ---
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-So some of you want to know what's going on in the MarsBased headquarters, right? We can not reveal much, but we can tell you we're indeed *cookin'* something!
+Some of you want to know what's going on in the MarsBased headquarters, right? We can not reveal much, but we can tell you we're indeed *cookin'* something!
 
 Let us introduce you to "Cookin.me". Cookin.me is our soon-to-be first product, consisting in a web application for managing cooking recipes.
 
@@ -31,7 +31,7 @@ Why so complicated?
 
 We think differently: Simpler is better. We prefer releasing a product that does half the things but works as intended, rather than a half a product working 50% of the time.
 
-But that's not all we do: we, at MarsBased, enjoy creating our own products as well as working for others (preferably small businesses) as long as they fit in with the MarsBased philosophy: simpler is better, global products, effective designs, state-of-the-art technologies.
+But that's not all we do: we, at MarsBased, enjoy creating our own products as well as working for others as long as they fit in with the MarsBased philosophy: simpler is better, global products, effective designs, state-of-the-art technologies.
 
 For the moment, though, we've just started building up relationships around the net. As a starting company, we have been walking the initial steps of creating a company: defining strategies, building a splash website, creating a corporate image and learning to work together. As a matter of fact, we've launched our website and our social profiles barely two weeks ago!
 

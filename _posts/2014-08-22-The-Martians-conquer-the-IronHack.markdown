@@ -8,13 +8,15 @@ categories: MarsBased Startup IronHack Development Bootcamp Entrepreneurship Bar
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-When we created MarsBased, we decided to be a social, outgoing and media-friendly company. We also wanted to help the community, to pay back what the community had helped us in the beginning.
+When we created MarsBased, we decided to be a social, outgoing and media-friendly company. We also wanted to help the community, to pay back what the community had given us when we started.
 
-In the early stages of a company, this is however something hard to achieve. The first priorities should be creating the company, establishing an organized accounting culture and sales, and developing your product.
+In this entry you will learn about our relationship with the Ironhack.
 
 <!--more-->
 
-Once the cash comes in, and stabilizes the company, you can take some time to contribute back to the community. While it's not mandatory, it clearly helps developing a friendly attitude as a company.
+In the early stages of a company being social and media-friendly is however something hard to achieve. The first priorities should be creating the company, establishing an organized accounting culture and sales, and developing your product.
+
+Once the cash comes in, and stabilizes the company, you can take some time to contribute back to the community. While it's not mandatory, it feels really fair from our point of view.
 
 Lately, we have been helping newcomers in the Ruby community.
 
@@ -30,7 +32,7 @@ I also added to the list some developer bootcamps, completely ignoring the fact 
 
 After some months of chatting back and forth, I received an email from them asking for collaborators for their summer edition in Barcelona. We were invited to know them in person, at <a href="http://mob-barcelona.com/" title="Makers of Barcelona" target="_blank">MOB</a>, and introduced to their team assistants and guest teachers: top Ruby and Javascript developers, working for Xing, Spotify and other leading companies.
 
-The IronHack bootcamp runs for two months with full dedication to learning coding: Rails, AngularJS, Javascript and what it takes to create state-of-the-art webapps. After their daily dose of programming, the session is completed with talks regarding different subjects: branding, accounting, marketing and all kinds of useful stuff. We were asked to provide two talks.
+The IronHack bootcamp runs for two months with full dedication to learning coding: Ruby on Rails, AngularJS, Javascript and what it takes to create state-of-the-art webapps. After their daily dose of programming, the session is completed with talks regarding different subjects: branding, accounting, marketing and all kinds of useful stuff. We were asked to provide two talks.
 
 ###First Talk: Create your Company NOW###
 
@@ -47,7 +49,7 @@ I used Prezi to create a motivational presentation using their fantastic Space t
 
 ###Second Talk: Bulding Large Webapps That Are Easy to Maintain###
 
-Two weeks later, Xavi provided a largely comprehensive talk on how to build large web applications to be easily maintainable. While the presentation dealt mostly with Rails best practices, it contained a fair share of <a href="http://www.urbandictionary.com/define.php?term=lulz&defid=2539255" title="Definition of lulz" target="_blank">lulz</a>. At MarsBased we enforce the use of meme-driven presentations.
+Two weeks later, Xavi provided a talk on how to build large web applications to be easily maintainable. While the presentation dealt mostly with Rails best practices, it contained a fair share of <a href="http://www.urbandictionary.com/define.php?term=lulz&defid=2539255" title="Definition of lulz" target="_blank">lulz</a>. At MarsBased we enforce the use of meme-driven presentations.
 
 <img src="/images/blog/post12b.jpg" alt="Xavi presenting at IronHack" title="Xavi presenting at IronHack" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>Meme-driven technical presentation!</small></p>

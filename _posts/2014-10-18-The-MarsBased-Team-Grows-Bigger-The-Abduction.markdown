@@ -20,7 +20,7 @@ Here's what we did in our first day with him.
 
 During the summer we have been working non-stop to make MarsBased grow bigger, looking for larger projects that would allow an organic and sustainable growth of the company.
 
-Turns out, one of the first contacts we ever made as MarsBased reached out and hired us for a very ambitious project we hope to disclose very soon.
+Turns out, one of the first contacts we ever made as MarsBased reached out and hired us for a very ambitious project.
 
 The project is big. So big that <a href="http://twitter.com/xavier_redo" target="_blank" title="Xavier Redó Twitter handle">Xavi</a>, our CTO, could not complete it on his own in the given dates. So we hired a new Martian called <a href="http://www.twitter.com/_iamjavi_" target="_blank" title="Javi's Twitter handle">Javier Pérez</a>, who has an extensive background in IT consulting and webapps development. Plus he's got a beard.
 
@@ -37,7 +37,7 @@ He showed up with his new & shiny Macbook Pro and after having read the Martian 
 
 The session kicked off with a formal presentation of the company: who we are, what are our working methods and what do we offer as a company.
 
-We then reviewed the MarsBased Playbook to emphasize the importance of communication and mutual understanding in distributed teams.
+We then reviewed the MarsBased Playbook to emphasize the importance of communication and mutual understanding in distributed teams. It is important for new hires to interiorise the playbook in order to get them started with our company culture.
 
 Finally, the first half of the coworking session ended with a review of the company history, project by project, to help understand our progress as a company up until now.
 

@@ -3,12 +3,12 @@ layout: post
 title:  "Our New Year's Resolutions for 2015"
 date:   2015-01-20 15:00:00
 author: alex
-categories: MarsBased Startup Teamwork CompanyCulture
+categories: MarsBased Startup Teamwork CompanyCulture Resolutions
 ---
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-2014 has been an amazing ride. It has seen us creating MarsBased, getting our first small projects, speaking at conferences, getting big projects, mentoring at IronHack, working for the Barcelona City Council, leading Startup Grind & Startup Circle, welcoming our first hires and many other amazing achievements.
+2014 has been an amazing ride. It has seen us <a href="http://marsbased.com/blog/2013/09/07/take-offs-and-landings" title="Take-offs and Landings" target="_blank">creating MarsBased</a>, getting our first small projects, speaking at conferences, getting big projects, <a href="http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack" title="The Martians Conquer the Ironhack" target="_blank">mentoring at IronHack</a>, <a href="http://marsbased.com/blog/2014/06/09/Barcelona-Startup-Map1" title="Barcelona Startup Map" target="_blank">working for the Barcelona City Council</a>, <a href="http://marsbased.com/blog/2014/02/24/the-martians-conquer-the-startup-grind" title="Startup Grind and MarsBased" target="_blank">leading Startup Grind</a> & <a href="http://marsbased.com/blog/2013/11/07/startup-circle-barcelona" title="Startup Circle in Barcelona" target="_blank">Startup Circle</a>, welcoming our first hires and many other amazing achievements.
 
 In fact, we're preparing a detailed review of 2014 for you all to enjoy and discover what's been going on in the MarsBased spaceship.
 
@@ -45,7 +45,7 @@ This past year has seen Xavi working hard to cope with all the projects we've go
 
 ###Emilio Ríos - Developer###
 
-Emilio joined us barely a month and a half ago. But in our eyes, feels like he's been with us for all the ride. He is, however, combining his internship at MarsBased with finishing his studies at La Salle.
+Emilio joined us barely a month and a half ago. But in our eyes, feels like he's been with us for all the ride. He is combining his internship at MarsBased with finishing his studies at La Salle.
 
 <div class="quote right-sided">
     <div class="avatar">
@@ -61,7 +61,7 @@ Emilio joined us barely a month and a half ago. But in our eyes, feels like he's
 
 ###Javier Pérez - Developer###
 
-Javi joined MarsBased at the beginning of Q4, in early October. Having worked at <a href="http://www.vass.es" title="VASS" target="_blank">VASS</a> together with Àlex, he transitioned from a full-time corporate J2EE consultant to an AngularJS/Rails developer.
+Javi joined MarsBased at the beginning of Q4, in early October. Having worked at <a href="http://www.vass.es" title="VASS" target="_blank">VASS</a> together with Àlex, he transitioned from a full-time corporate J2EE consultant to an AngularJS & Rails developer.
 
 Same as Emilio, feels like he's been forever with us!
 
@@ -96,7 +96,7 @@ So here are my resolutions:
     <div class="text">
         <p>2014 was a year of working hard to meet all the deadlines & cover all the areas of creating a company. I balanced my area's tasks (sales/marketing) with all sorts of other operational tasks to keep the development team focused.</p>
         <p>This year I want to work smarter by focusing on my own areas (sales/marketing), while helping others improve in theirs.</p>
-        <p>Also, in terms of pushing my marketing skills to the next level, I want to learn graphic edition as well as improve my writing skills, publishing blog entries more often.</p>
+        <p>Also, in terms of pushing my marketing skills to the next level, I want to learn graphic editing as well as improve my writing skills, publishing blog entries more often.</p>
         <p>In terms of achievements, I would like to land a couple of big projects this year (if possible, from abroad). Also, I will be devoting more time to our presence in events, besides strengthening our relationship with Startup Grind & Startup Circle.</p>
     </div>
 </div>

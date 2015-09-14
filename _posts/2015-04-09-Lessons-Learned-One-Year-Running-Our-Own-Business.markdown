@@ -8,7 +8,7 @@ categories: MarsBased Startup Teamwork CompanyCulture Business Hiring Rails Cons
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-Time flies. We have been so busy this year, that we have barely had time to look back to all the things we have accomplished thus far. Actually, it’s been a year and a month since we legally founded MarsBased.
+Time flies. We have been so busy this year, that we have barely had time to look back to all the things we have accomplished thus far. Actually, it’s been a year and a month since <a href="http://marsbased.com/blog/2014/03/30/Celebrating-the-first-Martian-year/" title="Celebrating the First Martian Year" target="_blank">we legally founded MarsBased</a>.
 
 One of the companies we look up to is <a href="http://www.dockyard.com" target="_blank" title="Dockyard">Dockyard</a>. They run a very inspirational blog, where they publish their experiences. This is a small homage to them and to <a href="http://reefpoints.dockyard.com/opinion/2012/06/21/lessons-learned-six-month-of-running-dockyard.html" target="_blank" title="Dockyard Blog">this</a> post, where they described the difficulties they faced during the first six months running a consultancy.
 
@@ -21,7 +21,7 @@ Here’s what we have learned in this first year of operating full-time as servi
 
 ###Market share###
 
-One of the first fears we had when we created the company was that there would be no demand for customized web apps in Ruby on Rails. Ruby does not have a big market share in Spain, so we had to create it.
+One of the first fears we had when we created the company was that there would be no demand for customized webapps in Ruby on Rails. Ruby does not have a big market share in Spain, so we had to create it.
 
 Truth is, we have been overwhelmed by the incessant demand of Ruby development. Apparently, there’s not enough developers, nor specialized companies. We've also done a lot of technology-agnostic projects where we chose the tech stack. That means, we have contributed to increase the number of clients using Rails. You’re welcome!
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The MarsBased Blogging Guide (Part 1)"
+title:  "How to Create a Damn Good Blog Post"
 date:   2015-05-13 15:00:00
 author: alex
 categories: MarsBased Startup Blogging CompanyCulture Business Blog Writing SocialMedia
@@ -8,11 +8,11 @@ categories: MarsBased Startup Blogging CompanyCulture Business Blog Writing Soci
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-This post is the first part of the MarsBased Blogging Guide, where we will cover how to craft a good blog post, according to our standards. In the second part we will describe how to create a good blogging strategy for your company.
+At MarsBased we're always learning new stuff. Running your own company means being constantly in the loop of learning things you could have never predicted you would ever need. Among other stuff, we have learnt how to run a blog.
+
+Here's a thing or two we have learnt along the way.
 
 <!--more-->
-
-At MarsBased we're always learning new stuff. Running your own company means being constantly in the loop of learning things you could have never predicted you would ever need. Among other stuff, we have learnt how to run a blog.
 
 After over a year of blogging for MarsBased and other sites, such as <a href="http://www.startupgrind.com/barcelona" title="Startup Grind Barcelona" target="_blank">Startup Grind</a>, <a href="http://barcelonaventures.com/blog/" title="Barcelona Ventures blog" target="_blank">Barcelona Ventures</a> or <a href="https://medium.com/@lexrodba" title="@Lexrodba Medium" target="_blank">my personal Medium</a>, I've learned a thing or two that I wanted to share with all of you.
 

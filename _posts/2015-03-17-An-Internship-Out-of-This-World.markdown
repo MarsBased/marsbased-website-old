@@ -8,9 +8,9 @@ categories: MarsBased Startup Teamwork CompanyCulture Team Internship
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-Last year I completed my degree in Software Development, to begin my career in web development, I opted to go for an internship. Turns out, a good friend of mine had attended the <a href="http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/" title="The Martians Conquer the IronHack" target="_blank">first Ironhack edition in Barcelona</a>, where he met a couple of MarsBased members, and suggested that I applied for an internship there.
+Last year I completed my degree in Software Development, to begin my career in web development, I opted to go for an internship. Turns out, a good friend of mine had attended the <a href="http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/" title="The Martians Conquer the IronHack" target="_blank">first Ironhack edition in Barcelona</a>, where he met a couple of MarsBased members, and suggested that I applied for an internship here.
 
-And this is how I met MarsBased. Let me tell you how did it go!
+And this is how I met MarsBased. Let me tell you how it went!
 
 <!--more-->
 
@@ -23,18 +23,6 @@ Working at MarsBased has definitely been radically different from what I had don
 I also found a company with a very solid company culture and clear goals. Everybody knows what these goals are, and what is the best way to accomplish them.
 
 For what I have seen, everyone brings in experiences from their previous jobs, so we all can follow best practices and avoid common mistakes. It's all about the lessons learnt in the past. Sometimes you win, others you learn.
-
-<!--
-Or simply put, using Rails, this is the <strong>MarsBased formula</strong>:
-
-
-<pre>
-<code>[1] pry(main)> positive_experiences - negative_experiences + ideal_company
-[
-    [0] "marsbased"
-]</code>
-</pre>
-!-->
 
 In this company, <strong>Martians are Martians</strong>, not resources. We hold on this belief: however hard we may work, comradery is ever-present and there is always time for joking and laughing.
 
