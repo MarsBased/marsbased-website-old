@@ -25,15 +25,15 @@ To celebrate this first anniversary, we want to share some of our best moments w
 
 ###Learn by doing###
 
-Perhaps the best decision we have adopted at MarsBased was to always keep busy. Without a doubt, we learn by doing. In just one year we've learnt more than what we would have learnt by reading expensive publications or in an MBA.
+Perhaps the best decision we have adopted at MarsBased was to always keep busy. Without a doubt, we learn by doing. In just one year, we've learnt more than what we would have learnt by reading expensive publications or in an MBA.
 
 We have also refined our company culture by applying our values in our daily routine. We like to make better stuff by simplifying it, so we simplified our communication workflows and tool belt. Every week we devote some time to improve our routines and working methods to increase our productivity.
 
-At MarsBased we also like to adopt new technologies. Our latest adoptions have been <a href="http://jekyllrb.com/" title="Jekyll" target="_blank">Jekyll</a>, <a href="http://coffeescript.org/" title="Coffeescript" target="_blank">Coffeescript</a> for our developments. We've as well cut down on communication channels by adopting <a href="https://slack.com/" title="Slack" target="_blank">Slack</a>.
+At MarsBased, we also like to adopt new technologies. Our latest adoptions have been <a href="http://jekyllrb.com/" title="Jekyll" target="_blank">Jekyll</a>, <a href="http://coffeescript.org/" title="Coffeescript" target="_blank">Coffeescript</a> for our developments. We've as well cut down on communication channels by adopting <a href="https://slack.com/" title="Slack" target="_blank">Slack</a>.
 
 ###Community giveback###
 
-MarsBased are fully committed to contribute to the entrepreneurial scene that saw us grow. More than half a year ago we created <a href="http://marsbased.com/blog/2013/11/07/startup-circle-barcelona/" title="Startup Circle" target="_blank">Startup Circle</a> with some friends, and now has grown to over 7 startups and more than 15 participants. Startup Circle helps new companies getting real by helping one another.
+MarsBased are fully committed to contributing to the entrepreneurial scene that saw us grow. More than half a year ago we created <a href="http://marsbased.com/blog/2013/11/07/startup-circle-barcelona/" title="Startup Circle" target="_blank">Startup Circle</a> with some friends, and now has grown to over 7 startups and more than 15 participants. Startup Circle helps new companies getting real by helping one another.
 
 MarsBased has also lately become the technological partner of <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona" target="_blank">Startup Grind Barcelona</a>, for which we are building a killer website at <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona" target="_blank">www.startupgrind.cat</a>.
 
@@ -41,13 +41,13 @@ In these months, we've gotten to know amazing companies such as <a href="http://
 
 ###And now, onto the second year!###
 
-So where are we now? As we speak, we're probably in three different geographical points in Catalonia. That's how we work: we might not necessarily know where the others are, but we know we're always there. Work-wise we are 100% sure of where we stand: we're set to work on our biggest projects to date, built on simplicity, quality and elegance.
+So where are we now? As we speak, we're probably in three different geographical points in Catalonia. That's how we work: we might not necessarily know where the others are, but we know we're always there. Work-wise we are 100% sure of where we stand: we're set to work on our biggest projects to date, built on simplicity, quality, and elegance.
 
 In the last few months, we have become a more mature company with clear roles & responsibilities. We have transitioned from being a product company to selling our end-to-end services and our expertise in web application development. Our focus is now set on understanding the customer's needs and making our vision converge with theirs to build the best apps in the market.
 
-Our plan for the year ahead is to work with more and more diverse customers. Deliver to each and every one of them an entirely breathtaking app that we will later break down in our blog, describing the process we've been through from the very inception to its final delivery. And what's more: we want to keep having fun while developing, because it's intrinsically rooted in the MarsBased DNA.
+Our plan for the year ahead is to work with more and more diverse customers. Deliver to each and every one of them an entirely breathtaking app that we will later break down in our blog, describing the process we've been through from the very inception to its final delivery. And what's more: we want to keep having fun while developing because it's intrinsically rooted in the MarsBased DNA.
 
-We want our customers to enjoy the ride with us. We are successful if they are successful. We learn, if they learn. And we're satisfied, if they are too.
+We want our customers to enjoy the ride with us. We are successful if they are successful. We learn if they learn. And we're satisfied if they are too.
 
 We want to make consultancy simple, fun, and down-to-earth.
 

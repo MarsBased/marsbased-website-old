@@ -10,13 +10,13 @@ categories: Barcelona Events Startups Entrepreneurship Apps BCNStartupMap
 
 On Friday, 13th we attended the first Startup Grind Barcelona event held in the Mobile World Centre, right in the heart of Barcelona. As you might already know, we’re the technological partner of Startup Grind Barcelona (check out the <a href="http://startupgrind.cat/" title="Startup Grind Barcelona's website" target="_blank">website</a>!).
 
-Our CTO, Xavi, presented our latest project: <a href="http://bcn.cat/bcnstartupmap" title="Barcelona Startup Map" target="_blank">Barcelona Startup Map</a>. Here’s some impressions!
+Our CTO, Xavi, presented our latest project: <a href="http://bcn.cat/bcnstartupmap" title="Barcelona Startup Map" target="_blank">Barcelona Startup Map</a>. Here you will find some impressions!
 
 <!--more-->
 
 ###The Martians attend Startup Grind Barcelona###
 
-More than 50 people witnessed the presentation of the map. First time entrepreneurs, long running freelancers, investors and a very diverse audience saw the possibilities of this webapp that connects the whole Barcelona Startup Ecosystem.
+More than 50 people witnessed the presentation of the map. First-time entrepreneurs, long running freelancers, investors and a very diverse audience saw the possibilities of this web app that connects the whole Barcelona Startup Ecosystem.
 
 We did this tour of the app amidst other very interesting presentations about entrepreneurship in sport. We presented after Oriol Serra (Nektria) and Guillermo Llibre (Gymforless).
 

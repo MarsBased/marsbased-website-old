@@ -46,9 +46,11 @@ Startup Circle helps its members in many ways:
 * **Networking:** Everyone needs to build their own contacts network. But why not doing it while being part of a network? A net's worth isn't just the sum of all its members, as stated by the <a href="http://en.wikipedia.org/wiki/Metcalfe%27s_law" title="Metcalfe's law" target="_blank">Metcalfe's law</a> (and many others), but it grows with the network in a non-linear way.
 Of course, there are more benefits in belonging to Startup Circle, but these are the most important to us right now.
 
-In our case, Startup Cirlce can help us in the legal, administrative and bookkeeping areas. We can rely on some of the other members whose strengths are precisely these.
+In our case, Startup Circle can help us in the legal, administrative and bookkeeping areas. We can rely on some of the other members whose strengths are precisely these.
 
 Conversely, we offer our expertise in web design, app development, strategic consulting and expertise in our technologies (Ruby on Rails, AngularJS, AWS, HTML5/CSS3, ...) in return. We believe in our technological expertise as a specialised dev shop and want to share it with the rest of Startup Circle members.
+
+<hr/>
 
 If you want to read more about Startup Circle, follow us in our social profiles and we'll keep you updated! Else, if you want to join, drop us a line at <a href="mailto:hola@marsbased.com">hola@marsbased.com</a>.
 

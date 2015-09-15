@@ -27,7 +27,7 @@ As Martians, and newcomers, we found these principles to be particularly welcomi
 
 ###How do we help others###
 
-First and foremost, we offer our expertise as a remote working dev shop. We are highly specialized in Ruby on Rails and the tech stack we wrote about in <a href="http://www.marsbased.com/blog/2014/02/01/we-make-the-right-app2/" title="Our last blog entry" target="_blank">this blog entry</a>. We guide you from the very birth of your business idea to its launch, by offering our end-to-end solutions based on our expertise and experience in webapp development.
+First and foremost, we offer our expertise as a remote working dev shop. We are highly specialized in Ruby on Rails and the tech stack we wrote about in <a href="http://www.marsbased.com/blog/2014/02/01/we-make-the-right-app2/" title="Our last blog entry" target="_blank">this blog entry</a>. We guide you from the very birth of your business idea to its launch, by offering our end-to-end solutions based on our expertise and experience in web app development.
 
 We can help your business if you...
 
@@ -60,6 +60,8 @@ The Startup Grind guys came with a very nice initiative: the world-changing wall
 MarsBased is composed by three Martians driven to change the consultancy world for the better. We want to make consultancy friendly, fun, and down-to-Earth.
 
 The usage of lean techniques, agile development methodologies, the "simpler is better" philosophy and our communication & collaboration tools are giving our consulting services a fresher touch. Our clients are already enjoying this closer approach.
+
+<hr/>
 
 And you? What are your company values? How do you plan to change the world? Share your opinion in the comments!
 

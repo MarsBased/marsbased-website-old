@@ -18,7 +18,7 @@ The MarsBased crew have been eagerly anticipating this moment for some months no
 
 *Commencing countdown (five), engines on (four). (three) (two) Check ignition (one) and may God's (blastoff) love be with you.*
 
-With <a href="https://www.youtube.com/watch?v=xcyuKUtgyZ8" title="David Bowie - Space Oddity" target="_blank">Bowie's "Space Oddity"</a> in our minds, we packed a few personal belongings and lots of illusion, took our luggages and set off onto a new start.
+With <a href="https://www.youtube.com/watch?v=xcyuKUtgyZ8" title="David Bowie - Space Oddity" target="_blank">Bowie's "Space Oddity"</a> in our minds, we packed a few personal belongings and lots of illusion, took our luggage and set off onto a new start.
 
 And here we are: inside our spaceship, heading towards our new destination. Life's too good up here. It is, indeed, a promising start for our trip to a brighter future.
 

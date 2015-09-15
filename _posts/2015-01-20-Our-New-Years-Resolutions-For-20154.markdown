@@ -54,8 +54,8 @@ Emilio joined us barely a month and a half ago. But in our eyes, feels like he's
         <p>Developer</p>
     </div>
     <div class="text">
-        <p>Since I have not been programming for long - at least not professionally - I would like to commit to improve my programming skills in 2015. Inspired by <a href="http://ejohn.org/blog/write-code-every-day/" title="Write Code Every Day" target="_blank">John Resig</a>, my new year resolution is to produce code every day of the year.</p>
-        <p>Now that my team-mates depend on me, I want to learn as much as possible to be helpful to them!</p>
+        <p>Since I have not been programming for long - at least not professionally - I would like to commit to improving my programming skills in 2015. Inspired by <a href="http://ejohn.org/blog/write-code-every-day/" title="Write Code Every Day" target="_blank">John Resig</a>, my new year resolution is to produce code every day of the year.</p>
+        <p>Now that my teammates depend on me, I want to learn as much as possible to be helpful to them!</p>
     </div>
 </div>
 
@@ -105,7 +105,7 @@ So here are my resolutions:
 
 Jordi is the third founding member at MarsBased. However, due to his duties as a Technical Director at Green Data and having a child last year, he couldn't join MarsBased until now. He's joining full-time on February, 9th.
 
-Last year he spent it balancing his position at Green Data, some hours during the weekends for MarsBased and his condition of first-time father.
+Last year, he spent it balancing his position at Green Data, some hours during the weekends for MarsBased and his condition of first-time father.
 
 <div class="quote left-sided">
     <div class="avatar">
@@ -118,5 +118,7 @@ Last year he spent it balancing his position at Green Data, some hours during th
         <p>As for MarsBased, I would like to produce a new version of our corporate website that stands up to our status nowadays. It has to be a kick-ass website! Also, I'm looking forward to being more involved in the operative work of the company.</p>
     </div>
 </div>
+
+<hr/>
 
 ... and you? What are your resolutions for this year? Share them in the comments section below!

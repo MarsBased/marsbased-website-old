@@ -8,7 +8,7 @@ categories: MarsBased Startup Blogging CompanyCulture Business Blog Writing Soci
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-At MarsBased we're always learning new stuff. Running your own company means being constantly in the loop of learning things you could have never predicted you would ever need. Among other stuff, we have learnt how to run a blog.
+At MarsBased, we are always learning new stuff. Running your own company means being constantly in the loop of learning things you could have never predicted you would ever need. Among other stuff, we have learnt how to run a blog.
 
 Here's a thing or two we have learnt along the way.
 
@@ -49,7 +49,7 @@ One interesting tip: if you talk about companies or individuals in your post, it
 
 ###Links###
 
-When we got started in the Internet, backlinking was a good idea. Back then, blogs and sites alike paid one another to have a link to their site, whatever the content was, just to pass onto one another visitors and pagerank.
+Back in the early days of the Internet, backlinking was a good idea. Back then, blogs and sites alike paid one another to have a link to their site, whatever the content was, just to pass onto one another visitors and page rank.
 
 Nowadays, the reality is very different. <a href="http://white.net/blog/high-risk-seo-33-ways-to-get-penalised-by-google/" title="Google Penalises Backlinks" target="_blank">Google penalises that</a>.
 
@@ -78,7 +78,7 @@ On the tech side, images need to have their <i>alt</i> and <i>title</i> attribut
 
 ###Readability###
 
-Use subtitles to distribute the reading rhythm along the post. One long post with no subtitles is harder to follow; whereas a well-structured blog post with evenly-divided sub-sections will help maintaining the reader's focus.
+Use subtitles to distribute the reading rhythm along the post. One long post with no subtitles is harder to follow; whereas a well-structured blog post with evenly-divided sub-sections will help to maintain the reader's focus.
 
 Subtitles, when correctly marked using <code>&lt;h2&gt;</code> and <code>&lt;h3&gt;</code> tags, help crawlers index the page's content much better.
 
@@ -90,13 +90,13 @@ It is very important that you double-check your post thoroughly for typos, broke
 
 In this last case, remember what was the last blog post you read and thought "I'm going to share this one". Why did you do it? Was it the pictures? Was it funny? Was it because someone important wrote it? No. Most of the time you share it because you feel like more people should read it, and you either send it to specific people or you spread it on the web by sharing it through Twitter, Facebook or your social networks of choice.
 
-It is a good idea to re-read the post 3 o 4 times prior to publish, and it's even more advisable to ask your team or another person to read it. What's obvious to you, it might not be for everyone. A concept might need further explanation, some typos go unnoticed by spell-checkers (<i>your</i> vs. <i>you're</i>, <i>then</i> vs <i>than</i>) or you might have left a sentence unfinished (these things happen, but at MarsBased we alwa
+It is a good idea to re-read the post 3 o 4 times prior to publishing, and it's even more advisable to ask your team or another person to read it. What's obvious to you, it might not be for everyone. A concept might need further explanation, some typos go unnoticed by spell-checkers (<i>your</i> vs. <i>you're</i>, <i>then</i> vs <i>than</i>) or you might have left a sentence unfinished (these things happen, but at MarsBased we alwa
 
 ###Call to action###
 
 Finally, the post should have a <i>raison d'être</i>: it can be an informative post, a how-to guide, an opinion to give food for thought, or an invitation to the new beta version of your product.
 
-Whatever the aim of the post is, it should conclude with a call to action. A call to action (often referred to as CTA) is an instruction to the audience to provoke an immediate response, usually using an imperative verb such as "call now", "find out more" or "visit a store today" (<a href="http://homebusiness.about.com/od/homebusinessglossar1/g/Call-To-Action-Definition.htm" title="Definition of call to action" target="_blank">source</a>). If you don't know what call to action do, the message of your post might not be clear enough, yet you can always ask the audience to share the post around.
+Whatever the aim of the post is, it should conclude with a call to action. A call to action (often referred to as CTA) is an instruction to the audience to provoke an immediate response, usually using an imperative verb such as "call now", "find out more" or "visit a store today" (<a href="http://homebusiness.about.com/od/homebusinessglossar1/g/Call-To-Action-Definition.htm" title="Definition of call to action" target="_blank">source</a>). If you don't know what call to action you should do, the message of your post might not be clear enough, yet you can always ask the audience to share the post around.
 
 Want an example of call to action? We'll wrap up the post with one!
 

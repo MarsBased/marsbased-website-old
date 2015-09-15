@@ -10,7 +10,7 @@ categories: Development Devshop RubyOnRails Ruby Rails AngularJS Capybara Airbra
 
 *Disclaimer: long (and nerdy) post ahead.*
 
-In <a href="http://marsbased.com/blog/2014/03/04/how-we-make-the-right-app1" title="How We Make the Right App For You Pt.1" target="_blank">our last entry</a> we wrote about MarsBased's principles when working for other companies, because we have recently been hired to develop our first client apps. 
+In <a href="http://marsbased.com/blog/2014/03/04/how-we-make-the-right-app1" title="How We Make the Right App For You Pt.1" target="_blank">our last entry</a>, we wrote about MarsBased's principles when working for other companies, because we have recently been hired to develop our first client apps.
 
 In this entry, we are breaking down our tool belt.
 
@@ -28,20 +28,20 @@ Another technology we use is <a href="http://www.lesscss.org/" title="LESS" targ
 
 As for the Javascript side, we use <a href="http://angularjs.org/" title="AngularJS" target="_blank">AngularJS</a>. AngularJS is a Javascript framework designed to build single-page web applications as if they were native by removing all the Javascript boilerplate. By doing that, AngularJS gives the browser the power it needs to transform our ideas into apps.
 
-The most recent addition to the MarsBased tech stack has been <a href="http://coffeescript.org/" title="Coffeescript" target="_blank">Coffeescript</a>. Coffeescript allows rewriting Javascript code with simplicity and elegance. After some research and testing, we integrated both Coffeescript and AngularJS with Cookin.me and fell in love with it.
+The most recent addition to the MarsBased tech stack has been <a href="http://coffeescript.org/" title="CoffeeScript" target="_blank">CoffeeScript</a>. CoffeeScript allows rewriting Javascript code with simplicity and elegance. After some research and testing, we integrated both CoffeeScript and AngularJS with Cookin.me and fell in love with it.
 
 ###Server Side Development###
 
-We are Rubyists! We love Ruby on Rails simplicity, elegance and cleanliness. While we believe that methodologies are language-agnostic, <a title="Ruby" href="https://www.ruby-lang.org/" target="_blank">Ruby</a> and <a title="Ruby on Rails" href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a> help us follow Agile Development practices. That's the reason why we have chosen tools that let us move quickly through each development stage: building, integrating, testing & releasing.
+We are Rubyists! We love Ruby on Rails simplicity, elegance, and cleanliness. While we believe that methodologies are language-agnostic, <a title="Ruby" href="https://www.ruby-lang.org/" target="_blank">Ruby</a> and <a title="Ruby on Rails" href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a> help us follow Agile Development practices. That's the reason why we have chosen tools that let us move quickly through each development stage: building, integrating, testing & releasing.
 
-At MarsBased we take testing *very seriously*. We know that our clients might require changes over time, and introduce improvements to their apps. The only way we can ensure delivering these changes without breaking the entire codebase of the project is through testing. Test, test, test and then some.
+At MarsBased, we take testing *very seriously*. We know that our clients might require changes over time, and introduce improvements to their apps. The only way we can ensure delivering these changes without breaking the entire codebase of the project is through testing. Test, test, test and then some.
 
-We have adopted two popular Ruby frameworks for testing. With <a title="RSpec" href="http://rspec.info" target="_blank">RSpec</a> and <a title="Capybara" href="https://github.com/jnicklas/capybara" target="_blank">Capybara</a> we feel very comfortable applying a test driven development approach from unit testing to building acceptance tests.
+We have adopted two popular Ruby frameworks for testing. With <a title="RSpec" href="http://rspec.info" target="_blank">RSpec</a> and <a title="Capybara" href="https://github.com/jnicklas/capybara" target="_blank">Capybara</a>, we feel very comfortable applying a test-driven development approach from unit testing to building acceptance tests.
 
 For more specific projects, we have a flexible tool belt. According to every project's needs, we've got a broad set of technologies at hand to give our clients exactly what they need:
 
 * <a title="ElasticSearch" href="http://www.elasticsearch.org" target="_blank">ElasticSearch</a>: For indexing and searching through our client data without affecting performance.
-* <a title="Sidekiq" href="http://sidekiq.org" target="_blank">Sidekiq</a>: Handy when there's a lot of background processing jobs - like image and video transformations, web crawling or big data processing.
+* <a title="Sidekiq" href="http://sidekiq.org" target="_blank">Sidekiq</a>: Handy when there are a lot of background processing jobs - like image and video transformations, web crawling or big data processing.
 * <a title="Memcached" href="http://memcached.org" target="_blank">Memcached</a>: Caches almost every little part of a web application to achieve blazing fast responses, thus keeping response times low.
 * <a title="Redis" href="http://redis.io" target="_blank">Redis</a>: Manages big amounts of volatile data faster than any relational database can.
 
@@ -55,12 +55,14 @@ For deployments, we use <a title="Capistrano" href="https://github.com/capistran
 
 ###Maintenance###
 
-At MarsBased we know that sometimes things might go wrong. Most of the times, the real cause of a general failure is an error that goes unnoticed for too long.
+At MarsBased, we know that sometimes things might go wrong. Most of the times, the real cause of a general failure is an error that goes unnoticed for too long.
 
 Our servers run very different services that need to be monitored (Nginx, MySQL or Elasticsearch just to name a few!), so we use <a title="Monit" href="http://mmonit.com/monit/" target="_blank">Monit</a> to rule them all. Monit sends notifications whenever there is a risk of something failing such as a service being too loaded. It actually allows us to act proactively before any errors arise. But if a service goes down, Monit automatically tries to start it to minimize the downtime as much as possible.
 
 Although Monit itself is very impressive, we also use another error-tracking tool very known by the Ruby community. Airbrake is an exception reporting service <a title="Airbrake" href="https://airbrake.io/" target="_blank">trusted by over 40k customers</a>, now seamlessly integrated with our tech stack. Simply put, if anyone using our web applications comes across an error message, we'll get a notification in our cell phones with the details of the error in less than a minute.
 
 Nothing is more satisfying than spotting and solving bugs before users have even time to report them.
+
+<hr/>
 
 That's all for today, folks. As you can see, we love talking technologies. Feel free to drop us an e-mail or bring up a conversation on <a title="MarsBased Twitter Profile" href="http://twitter.com/MarsBased" target="_blank">Twitter</a> anytime.

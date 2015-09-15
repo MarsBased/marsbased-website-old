@@ -18,7 +18,7 @@ That being said, we want to share a few thoughts about how we've worked in the f
 
 <img src="/images/blog/post3.png" alt="Planet Success" title="Planet Success" class="img-center img-responsive" />
 
-These changes – model, company name, organization, software, project typology, etc. – shouldn't be seen as strange in young companies. On the contrary: they're necessary. You might have read these two words somewhere: <i>pivoting</i> or <i>leaning</i>. Both explain how companies change their strategy by adopting another market approach after having tried something else without sucess before.
+These changes – model, company name, organization, software, project typology, etc. – shouldn't be seen as strange in young companies. On the contrary: they're necessary. You might have read these two words somewhere: <i>pivoting</i> or <i>leaning</i>. Both explain how companies change their strategy by adopting another market approach after having tried something else without success before.
 
 Our first idea was to create the Next Facebook. The next Big Thing. We wanted to take on the world with a social network that connected producers and consumers of ecological food. But we lacked experience and we soon were overwhelmed by how little we knew.
 
@@ -26,13 +26,13 @@ Brainstorming, and onto another thing: we failed again because we picked a growi
 
 Rinse and repeat! Without such changes, we would have perhaps insisted in trying the same thing over and over. We have changed how to distribute tasks among us, we've used many different tools (Basecamp, Teambox, Evernote, Wunderlist, Trello, ...), changed the way we talk to each other and we even changed roles within the team.
 
-And for now, we have found a way. In this blog we will be detailing it.
+And for now, we have found a way. In this entry we will be detailing it.
 
 Change must always lead to a better state. Surely, you'll find thousands of articles of "Top 10 things to do if you're a startup" or "50 ways to get to the top with a young company" or "DOs and DON'Ts when starting a company". Google it, it's very overwhelming. It would take many lifetimes to read all these articles.
 
 We want to share with you the struggle we've gone through. We want to tell you our story in a human way, not from the marketers' point of view.
 
-These small stories are hard to find, but are the ones that inspired us to build our own thingie. We believed in the real stories the guys from <a href="http://37signals.com" title="37signals" target="_blank">37signals</a> (<a href="https://twitter.com/37signals" title="37signals on Twitter" target="_blank">@37signals</a>), <a href="http://www.6wunderkinder.com/" title="6Wunderkinder" target="_blank">6Wunderkinder</a> (<a href="https://twitter.com/6Wunderkinder" title="6Wunderkinder on Twitter" target="_blank">@Wunderkinder6</a>), and many others wrote about.
+These small stories are hard to find but are the ones that inspired us to build our own company. We believed in the real stories the guys from <a href="http://37signals.com" title="37signals" target="_blank">37signals</a> (<a href="https://twitter.com/37signals" title="37signals on Twitter" target="_blank">@37signals</a>), <a href="http://www.6wunderkinder.com/" title="6Wunderkinder" target="_blank">6Wunderkinder</a> (<a href="https://twitter.com/6Wunderkinder" title="6Wunderkinder on Twitter" target="_blank">@Wunderkinder6</a>), and many others wrote about.
 
 They're our inspiration, and this is our way to thank them.
 

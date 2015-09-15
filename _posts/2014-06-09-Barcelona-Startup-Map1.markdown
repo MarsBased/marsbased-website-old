@@ -36,7 +36,7 @@ Because both <a href="http://www.dailymail.co.uk/sciencetech/article-2162027/Mic
 <img src="/images/blog/post9c.png" alt="Barcelona Startup Map" title="Barcelona Startup Map" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>Itziar Blasco (head of new incubation models at Barcelona Activa), doing a demo of the app</small></p>
 
-After the demo, our co-founder Àlex Rodríguez directed a round table discussing the Barcelona entrepreneurial ecosystem. The guests were chosen to have one person representing each resource type: Gloria Molins (CEO @ <a href="http://www.trip4real.com/" title="Trip4Real" target="_blank">Trip4Real</a>), Daniel Sánchez (Founder @ <a href="http://www.nautacapital.com/" title="NautaCapital" target="_blank">NautaCapital</a>), Juan Pérez (Director at <a href="http://technovabarcelona.org" title="Innovator Park La Salle" target="_blank">Innovator Park La Salle</a>), Iolanda Triviño (CEO @ <a href="http://www.valkiriahubspace.com" title="Valkiria Hub Space" target="_blank">Valkiria Hub Space</a>) and Andrés Mansó (CEO @ <a href="http://www.incubio.com" title="Incubio" target="_blank">Incubio</a>). Each one shared in turns their opinion on the evolution of their sector in the last years, the current state and a prediction of where is the situation going. All of them had a common vision: the city had been nurturing its entrepreneurial tissue for some years, and is now ready for something big.
+After the demo, our co-founder Àlex Rodríguez directed a round table discussing the Barcelona entrepreneurial ecosystem. The guests were chosen to have one person representing each resource type: Gloria Molins (CEO @ <a href="http://www.trip4real.com/" title="Trip4Real" target="_blank">Trip4Real</a>), Daniel Sánchez (Founder @ <a href="http://www.nautacapital.com/" title="NautaCapital" target="_blank">NautaCapital</a>), Juan Pérez (Director at <a href="http://technovabarcelona.org" title="Innovator Park La Salle" target="_blank">Innovator Park La Salle</a>), Iolanda Triviño (CEO @ <a href="http://www.valkiriahubspace.com" title="Valkiria Hub Space" target="_blank">Valkiria Hub Space</a>) and Andrés Mansó (CEO @ <a href="http://www.incubio.com" title="Incubio" target="_blank">Incubio</a>). Each one shared in turns their opinion on the evolution of their sector in the last years, the current state and a prediction of where is the situation going. All of them had a common vision: the city had been nurturing its entrepreneurial tissue for some years and is now ready for something big.
 
 In the last years, Barcelona has been building up a very competitive entrepreneurial ecosystem. The number of new startups, acceleration and incubation programs, investors and coworking spaces, has grown very rapidly. All these actors are nowadays teaming up to create innovative, solid and disrupting projects.
 
@@ -44,9 +44,11 @@ In the last years, Barcelona has been building up a very competitive entrepreneu
 
 Our work here is not over. This is just the beginning of our collaboration with the Barcelona startup scene.
 
+<hr/>
+
 If you want to know more about the map, such as the technical details or what did we take from this project, stay tuned. We are currently preparing a second part to this post.
 
-In the meantime, we will keep making apps out of this world.
+In the meantime, we will keep developing apps out of this world.
 
 Love from Mars!
 

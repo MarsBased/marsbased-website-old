@@ -20,7 +20,7 @@ While you wait for the second part of our blogging guide (read the first part <a
 
 Companies that are 100% digital and do not require a big physical infrastructure such as storage, a lab, servers, or other machinery, can perfectly exist without having an office.
 
-An office requires maintenance, paying more bills, hiring basic services (phone, internet, water, A/C, etc.) and generally increases the number of chores that most small companies cannot afford spending nor their money neither their time in.
+An office requires maintenance, paying more bills, hiring basic services (phone, internet, water, A/C, etc.) and generally increases the number of chores that most small companies cannot afford to spend nor their money neither their time in.
 
 While some companies have adopted this lifestyle and work from home, some others have become digital nomads, such as <a href="http://www.8fit.com" title="8fit" target="_blank">8fit</a>, that travel together around the world, building their product from awesome places such as Bali, Berlin or the Canary Islands.
 
@@ -103,7 +103,7 @@ After over a year of working remotely from awesome places like Munich or Berlin 
         <p>Developer</p>
     </div>
     <div class="text">
-        <p>When choosing my workplace, I need to make sure there's direct sunlight and streetview. Both things make it a more pleasant environment for me, and they make me feel more energized.</p>
+        <p>When choosing my workplace, I need to make sure there's direct sunlight and street view. Both things make it a more pleasant environment for me, and they make me feel more energized.</p>
         <p>Actually, being able to see what's happening in the street allows me to change focus and stop staring at the screen for a while. As a developer, I get a high amount of screen-time, so I need to rest my eyes every now and then.</p>
         <p>My ideal workplace does definitely not look like an office. The farther from an office it looks, the more I like it, so coffee shops and libraries are where you will find me.</p>
     </div>
@@ -121,5 +121,7 @@ After over a year of working remotely from awesome places like Munich or Berlin 
         <p>Moreover, I spend most of the day meeting clients or going to events, so sometimes I can't go back home between meetings. I always browse <a href="http://www.foursquare.com" title="Foursquare" target="_blank">Foursquare</a> to find good working places nearby.</p>
     </div>
 </div>
+
+<hr/>
 
 Are you also a remote working company? What tips have you got to share with us? Feel free to post them using the comments section below!

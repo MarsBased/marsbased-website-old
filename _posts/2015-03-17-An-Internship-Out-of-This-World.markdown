@@ -8,7 +8,7 @@ categories: MarsBased Startup Teamwork CompanyCulture Team Internship
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-Last year I completed my degree in Software Development, to begin my career in web development, I opted to go for an internship. Turns out, a good friend of mine had attended the <a href="http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/" title="The Martians Conquer the IronHack" target="_blank">first Ironhack edition in Barcelona</a>, where he met a couple of MarsBased members, and suggested that I applied for an internship here.
+Last year, I completed my degree in Software Development, to begin my career in web development, I opted to go for an internship. Turns out, a good friend of mine had attended the <a href="http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/" title="The Martians Conquer the IronHack" target="_blank">first Ironhack edition in Barcelona</a>, where he met a couple of MarsBased members and suggested that I applied for an internship here.
 
 And this is how I met MarsBased. Let me tell you how it went!
 
@@ -46,7 +46,7 @@ Every beginning is hard - they say - and mine was not an exception! Learning eve
 
 But that was not the worst. The red screen appearing after application errors, with a rather cryptographic error message scared the hell out of me more than once.
 
-After a few days learning prototyping using mockups and some layout from <a href="http://www.twitter.com/lexrodba" title="Àlex Rodríguez Bacardit Twitter Handle" target="_blank">Àlex</a> and <a href="http://www.twitter.com/jordi_vendrell" title="Jordi Vendrell Farreny Twitter Handle" target="_blank">Jordi</a>, I have been working shoulder by shoulder with <a href="http://www.twitter.com/xavier_redo" title="Xavier Redó Cano Twitter Handle" target="_blank">Xavi</a> most of my time in the company. He has been my guide in this journey.
+After a few days learning to prototype using mockups and some layout from <a href="http://www.twitter.com/lexrodba" title="Àlex Rodríguez Bacardit Twitter Handle" target="_blank">Àlex</a> and <a href="http://www.twitter.com/jordi_vendrell" title="Jordi Vendrell Farreny Twitter Handle" target="_blank">Jordi</a>, I have been working shoulder by shoulder with <a href="http://www.twitter.com/xavier_redo" title="Xavier Redó Cano Twitter Handle" target="_blank">Xavi</a> most of my time in the company. He has been my guide in this journey.
 
 Xavi is a natural born teacher. He is very good at explaining why things happen the way they do. Not only that: he's extraordinarily gifted in keeping a clear discourse when he's explaining technical concepts. Talking to Xavi feels like talking to an encyclopedia.
 
@@ -54,7 +54,7 @@ In my opinion, Xavi has been more than a teacher: he's also taught me how to avo
 
 ###Back to Earth###
 
-On Mars there is no oxygen, and my reserves are now depleted. I have to keep learning how to survive in such an environment, and that will happen somewhere else.
+On Mars, there is no oxygen, and my reserves are now depleted. I have to keep learning how to survive in such an environment, and that will happen somewhere else.
 
 ... or it might just be that I have not overcome my addiction to nachos with guacamole. You can't find them on Mars, so I am coming back to the blue planet to refill my reserves.
 

@@ -8,9 +8,9 @@ categories: MarsBased Startup DigitalNomads Remote RemoteWorking NoOffice Distri
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-In our previous blog entry (<a href="http://marsbased.com/blog/2015/06/15/Six-Tips-for-Remote-Working/" title="Our Six Tips for Remote Working" target="_blank">Our Six Tips for Remote Working</a>) we mentioned how much we identify ourselves with the culture of remote working. It is actually one of the main pillars of our company culture, and our methodologies clearly reflect the need to be able to work from wherever we want.
+In our previous blog entry (<a href="http://marsbased.com/blog/2015/06/15/Six-Tips-for-Remote-Working/" title="Our Six Tips for Remote Working" target="_blank">Our Six Tips for Remote Working</a>), we mentioned how much we identify ourselves with the culture of remote working. It is actually one of the main pillars of our company culture, and our methodologies clearly reflect the need to be able to work from wherever we want.
 
-Actually, before that, we also wrote about <a href="http://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team/" title="Hiring in a distributed team" target="_blank">hiring in a distributed team</a> and even in our <a href="http://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business/" title="Lessons Learned at MarsBased in our first year" target="_blank">Lessons Learned</a> post from a couple of months back.
+Actually, before that, we also wrote about <a href="http://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team/" title="Hiring in a distributed team" target="_blank">hiring in a distributed team</a> and even in our <a href="http://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business/" title="Lessons Learnt at MarsBased in our first year" target="_blank">Lessons Learnt</a> post from a couple of months back.
 
 Two of us spent a good ten days in Berlin, the capital of Germany, and this has been our experience.
 
@@ -42,7 +42,7 @@ That being said, most places had an average wifi, but stable enough to work. Som
 
 We tried a fair share of different places during our ten days there. Some we found from an extensive Google search, others from wandering around and browsing Foursquare.
 
-During our stay we actually required a good and stable connection to test & launch our latest project <a href="http://www.eureka-experts.com" title="Eureka Startups Experts" target="_blank">Eureka Startups Experts</a>. Eureka Startups Experts is a platform to hire experts online through videocall, who will assess you on your business. Therefore, we needed to test videocalls every now and then, and a good & stable wifi was required.
+During our stay, we actually required a good and stable connection to test & launch our latest project <a href="http://www.eureka-experts.com" title="Eureka Startups Experts" target="_blank">Eureka Startups Experts</a>. Eureka Startups Experts is a platform to hire experts online through video call, who will assess you on your business. Therefore, we needed to test video calls every now and then, and a good & stable wifi was required.
 
 These are the best three we have found (and wholeheartedly recommend) in order of preference.
 
@@ -64,7 +64,7 @@ The place is huge, and has got plenty of outlets and very comfortable seats and 
 
 We spent only an afternoon there but the general impression was lovely: the bartenders were super gentle, the music was awesome (they were binging on The Smiths that afternoon) and both the coffee and the food were really tasty.
 
-The real winner here is the wifi connection. It was the fastest we found in the whole city. Probably one of the best kept secrets in Berlin, and it's good that it stays like this.
+The real winner here is the wifi connection. It was the fastest we found in the whole city. Probably one of the best-kept secrets in Berlin, and it's good that it stays like this.
 
 <h4>Schiller Bar</h4>
 In our last day in Berlin, we dropped by our buddies <a href="http://www.8fit.com" title="8fit" target="_blank">8fit</a>'s offices in Neukolln, so we had to look for something around that area. Luckily enough, after 5 minutes wandering around, we came across the best place we found in Berlin: <a href="http://www.schillerbar.com/" title="Schiller Bar" target="_blank">Schiller Bar</a> in <a href="Herrfurthstraße 7" title="Schiller Bar" target="_blank">Herrfurthstraße 7</a>. No Google, no Foursquare, just chance.
@@ -79,5 +79,7 @@ There were quite a few outlets here and there, plus a really fast wifi (port 22 
 But the real highlight here is their crew and the food. The waitresses were really attentive and courteous to the only people working there (us two), and cooked the most delicious food. The Schnitzel Wiener Art was really tasty, and so were the sandwiches and coffees we had for breakfast. Schiller became our favourite place in Berlin to work remotely.
 
 Actually, a week and a half was not enough to check all the places, but we are glad to have found so many outstanding places that confirm Berlin as one of the best destinations for digital nomads and remote workers.
+
+<hr/>
 
 Have you found any other cool place that isn't listed here? Feel free to share it using the comments section below!

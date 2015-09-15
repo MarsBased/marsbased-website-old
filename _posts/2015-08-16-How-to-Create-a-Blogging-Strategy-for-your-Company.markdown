@@ -10,17 +10,17 @@ categories: MarsBased Startup Blogging CompanyCulture Business Blog Writing Soci
 
 We’ve been blogging for some time now, and we’ve learnt a thing or two. Because we’ve adopted transparency as an integral part of the company culture, we like sharing what we learn with you. It’s a genuine way to give back to the community that has helped so much become what we are now.
 
-In this entry we will cover how to create a blogging strategy for your company.
+In this entry, we will cover how to create a blogging strategy for your company.
 
 <!--more-->
 
-We’re really proud of how we blog and what we blog, because it helps us keeping track of our evolution as a global development shop, and feel like this could prove useful to many others that come after us. Exactly the same way we learnt from others like <a href="www.buffer.com" title="Buffer" target="_blank">Buffer</a>, <a href="dockyard.com" title="Dockyard" target="_blank">Dockyard</a>, <a href="thoughtbot.com" title="Thoughtbot" target="_blank">Thoughtbot</a> or other blogs we follow.
+We’re really proud of how and what we blog, because it helps us keeping track of our evolution as a global development shop, and feel like this could prove useful to many others that come after us. Exactly the same way we learnt from others like <a href="www.buffer.com" title="Buffer" target="_blank">Buffer</a>, <a href="dockyard.com" title="Dockyard" target="_blank">Dockyard</a>, <a href="thoughtbot.com" title="Thoughtbot" target="_blank">Thoughtbot</a> or other blogs we follow.
 
 A few weeks ago we published the <a href="http://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide/" title="The MarsBased Blogging Guide pt.1" target="_blank">first part of our blogging guide</a>. In the first part, we described how to craft a good blog post, by choosing a good title, the appropriate keywords, a fitting image, and other important criteria bloggers follow.
 
 Blogging is nowadays a very important element in growing your company: it is one of the cheapest methods to create <a href="https://en.wikipedia.org/wiki/Inbound_marketing" title="Definition of Inbound Marketing" target="_blank">inbound marketing</a>, provides SEO, and helps you demonstrate your expertise to a very large audience.
 
-In this second part we’re going to describe how to choose a blogging strategy for your company.
+In this second part, we’re going to describe how to choose a blogging strategy for your company.
 
 ###Choose a goal###
 
@@ -32,7 +32,7 @@ At MarsBased we use it to drive qualified traffic to our website, so we made it 
 
 When we created the company, we didn’t have that much of a strategy, so we wrote posts about our company evolution: what we did and why we did it. However, some of these posts helped us rank high enough in search engines because they contained the right keywords. For instance, our most visited blog entry is <a href="http://marsbased.com/blog/2014/03/25/we-make-the-right-app2/" title="MarsBased tech stack" target="_blank">this one we wrote about our tech stack</a>.
 
-We have received a couple of project requests because of our post about technologies. In that post, we didn’t only show our expertise on the listed tools, but the content also made us rank higher on Google, specially in high-demanded technologies like AngularJS or Sidekiq because they’re specific enough to be very visible to the few people that google them.
+We have received a couple of project requests because of our post about technologies. In that post, we didn’t only show our expertise on the listed tools, but the content also made us rank higher on Google, especially in high-demanded technologies like AngularJS or Sidekiq because they’re specific enough to be very visible to the few people that google them.
 
 And that brings us onto the next section.
 
@@ -74,11 +74,11 @@ The bottom line here is that choosing the right topics attracts like-minded peop
 
 It is a common mistake to start writing a blog with nothing to publish. Most people build up a few posts before launching the blog so that they can publish stacked posts for the first weeks, without having to worry about running out of content.
 
-But even if you’re really committed to write frequently, chances are, in your first blog you’ll write very effusively for some time and then will stop after a few weeks. That is why you should include the posting frequency in your strategy.
+But even if you’re really committed to writing frequently, chances are, in your first blog you’ll write very effusively for some time and then will stop after a few weeks. That is why you should include the posting frequency in your strategy.
 
 It is better to define a frequency and follow it strictly. For instance, at MarsBased we decided to post once a month a while back ago, and since earlier this year we’ve achieved it. Now we plan to blog twice a month to include a technical post, and a non-technical post to cater our different targets.
 
-A good advise is to define a minimum, never a fixed number. It is better to say “I will post at least once every fortnight” than “I will publish 3 posts a month”. This way, if you're really prolific one month, you can go over your goal.
+A good advice is to define a minimum, never a fixed number. It is better to say “I will post at least once every fortnight” than “I will publish 3 posts a month”. This way, if you're really prolific one month, you can go over your goal.
 
 As you grow your company, you will also want to grow your content team. Likewise, depending on how important is the blog to your goals, you will increase the number of posts per month/week/day at a sustainable pace.
 
@@ -100,15 +100,15 @@ Test, measure, repeat. <a href="http://www.google.com/analytics/" title="Google 
 
 ###Produce content worth sharing###
 
-We don’t really know a lot about how to monetise a blog, so this tip goes to bloggers than want to get exposure organically.
+We don’t really know a lot about how to monetise a blog, so this tip goes to bloggers that want to get exposure organically.
 
-One of our favourite social media gurus, Guy Kawasaki, explained what is the most effective tactic to be noticed on social networks. His advise is to <a href="https://www.startupgrind.com/events/details/startup-grind-london-hosted-guy-kawasaki-canvaex-apple#/" title="Guy Kawasaki at Startup Grind" target="_blank">create content worth sharing</a>. Your content can be inspiring, educational, fun, viral, give free content or what have you, but it should really get your audience to spread the word for you.
+One of our favourite social media gurus, Guy Kawasaki, explained what is the most effective tactic to be noticed on social networks. His advice is to <a href="https://www.startupgrind.com/events/details/startup-grind-london-hosted-guy-kawasaki-canvaex-apple#/" title="Guy Kawasaki at Startup Grind" target="_blank">create content worth sharing</a>. Your content can be inspiring, educational, fun, viral, give free content or what have you, but it should really get your audience to spread the word for you.
 
 Social media is your friend and can really boost your number of views and shares: aim for retweets or shareable content. Not only will the entry be good, but you can also test stuff outside of the content. For instance, <a href="https://blog.bufferapp.com/a-scientific-guide-to-writing-great-headlines-on-twitter-facebook-and-your-blog" title="Buffer Blog" target="_blank">Buffer test their blog posts titles using the social networks</a>. They share each blog entry with three or four different titles and perform A/B testing. The tweet that gets more visits, retweets, likes and favourites is the best title for the blog. This is only a way to A/B test it, but there are millions of ideas out there! Be creative!
 
 Social networks also offer a great chance to engage with your community. For those old enough to have used internet forums back when they were the thing - in the pre-Google or pre-Myspace days - we saw people posting stuff in forums to get like-minded people’s opinion and interesting discussions. You can do the same here, by wrapping up the post with a call to action, as we said in the first part of our blogging guide.
 
-We can also learn a lot from Instagram, where famous instagrammers ask to “tag a friend” when that photo relates to them in any way. Hence, we can ask our friends or colleagues to comment on a post we wrote if we think it applies to them.
+We can also learn a lot from Instagram, where famous Instagrammers ask to “tag a friend” when that photo relates to them in any way. Hence, we can ask our friends or colleagues to comment on a post we wrote if we think it applies to them.
 
 <strong>Key question:</strong> if you read this blog entry somewhere else, would you share it?
 
@@ -123,7 +123,7 @@ For instance, CartoDB’s entry of <a href="https://medium.com/@saleiva/how-we-h
 
 These posts were inspirational: not only do they make me want to write something similar for MarsBased, but they might also inspire us to adopt some new tools, strategies or techniques in our daily routines.
 
-On the other side, the content needs to be also useful and teach you something new. It must educate. This is specially so for companies like ours that want to prove their technical skills before they get hired.
+On the other side, the content needs to be also useful and teach you something new. It must educate. This is especially so for companies like ours that want to prove their technical skills before they get hired.
 
 Good examples of educational blog posts are <a href="https://robots.thoughtbot.com/a-case-study-in-multiple-time-zones" title="Thoughtbot blog" target="_blank">this one</a>, <a href="https://dockyard.com/blog/2015/07/31/taking-advantage-of-time-limitations-in-design" title="Dockyard blog" target="_blank">this one</a> and <a href="http://chopdawg.com/managing-company-remotely/" title="Chopdawg blog" target="_blank">this one</a>, and we’re pretty sure they have helped those companies to earn a few more leads by demonstrating their expertise.
 
@@ -131,7 +131,7 @@ Good examples of educational blog posts are <a href="https://robots.thoughtbot.c
 
 ###Make it visible###
 
-One of the most tremendous mistakes bloggers make is not letting the world know they have a blog.
+One tremendous mistake bloggers make is not letting the world know they have a blog.
 
 Come on, you’ve spent time setting up a blog, creating a brand for it - if not company -, researching, writing content, picking nice images, tweaking its look & feel, selecting the keywords and all these chores, yet you don’t tell every soul about it.
 
@@ -148,6 +148,8 @@ Things you can do:
 </ul>
 
 <strong>Key question:</strong> Where do you want your blog to get noticed?
+
+<hr/>
 
 Congratulations if you have made it this far. Now it's time to define your strategy and blog your way to success!
 
