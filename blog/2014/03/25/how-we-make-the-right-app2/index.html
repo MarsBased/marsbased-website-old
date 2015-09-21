@@ -83,7 +83,7 @@
 
 <p><em>Disclaimer: long (and nerdy) post ahead.</em></p>
 
-<p>In <a href="http://marsbased.com/blog/2014/03/04/how-we-make-the-right-app1" title="How We Make the Right App For You Pt.1" target="_blank">our last entry</a> we wrote about MarsBased&#39;s principles when working for other companies, because we have recently been hired to develop our first client apps. </p>
+<p>In <a href="http://marsbased.com/blog/2014/03/04/how-we-make-the-right-app1" title="How We Make the Right App For You Pt.1" target="_blank">our last entry</a>, we wrote about MarsBased&#39;s principles when working for other companies, because we have recently been hired to develop our first client apps.</p>
 
 <p>In this entry, we are breaking down our tool belt.</p>
 
@@ -101,21 +101,21 @@
 
 <p>As for the Javascript side, we use <a href="http://angularjs.org/" title="AngularJS" target="_blank">AngularJS</a>. AngularJS is a Javascript framework designed to build single-page web applications as if they were native by removing all the Javascript boilerplate. By doing that, AngularJS gives the browser the power it needs to transform our ideas into apps.</p>
 
-<p>The most recent addition to the MarsBased tech stack has been <a href="http://coffeescript.org/" title="Coffeescript" target="_blank">Coffeescript</a>. Coffeescript allows rewriting Javascript code with simplicity and elegance. After some research and testing, we integrated both Coffeescript and AngularJS with Cookin.me and fell in love with it.</p>
+<p>The most recent addition to the MarsBased tech stack has been <a href="http://coffeescript.org/" title="CoffeeScript" target="_blank">CoffeeScript</a>. CoffeeScript allows rewriting Javascript code with simplicity and elegance. After some research and testing, we integrated both CoffeeScript and AngularJS with Cookin.me and fell in love with it.</p>
 
 <h3>Server Side Development</h3>
 
-<p>We are Rubyists! We love Ruby on Rails simplicity, elegance and cleanliness. While we believe that methodologies are language-agnostic, <a title="Ruby" href="https://www.ruby-lang.org/" target="_blank">Ruby</a> and <a title="Ruby on Rails" href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a> help us follow Agile Development practices. That&#39;s the reason why we have chosen tools that let us move quickly through each development stage: building, integrating, testing &amp; releasing.</p>
+<p>We are Rubyists! We love Ruby on Rails simplicity, elegance, and cleanliness. While we believe that methodologies are language-agnostic, <a title="Ruby" href="https://www.ruby-lang.org/" target="_blank">Ruby</a> and <a title="Ruby on Rails" href="http://rubyonrails.org/" target="_blank">Ruby on Rails</a> help us follow Agile Development practices. That&#39;s the reason why we have chosen tools that let us move quickly through each development stage: building, integrating, testing &amp; releasing.</p>
 
-<p>At MarsBased we take testing <em>very seriously</em>. We know that our clients might require changes over time, and introduce improvements to their apps. The only way we can ensure delivering these changes without breaking the entire codebase of the project is through testing. Test, test, test and then some.</p>
+<p>At MarsBased, we take testing <em>very seriously</em>. We know that our clients might require changes over time, and introduce improvements to their apps. The only way we can ensure delivering these changes without breaking the entire codebase of the project is through testing. Test, test, test and then some.</p>
 
-<p>We have adopted two popular Ruby frameworks for testing. With <a title="RSpec" href="http://rspec.info" target="_blank">RSpec</a> and <a title="Capybara" href="https://github.com/jnicklas/capybara" target="_blank">Capybara</a> we feel very comfortable applying a test driven development approach from unit testing to building acceptance tests.</p>
+<p>We have adopted two popular Ruby frameworks for testing. With <a title="RSpec" href="http://rspec.info" target="_blank">RSpec</a> and <a title="Capybara" href="https://github.com/jnicklas/capybara" target="_blank">Capybara</a>, we feel very comfortable applying a test-driven development approach from unit testing to building acceptance tests.</p>
 
 <p>For more specific projects, we have a flexible tool belt. According to every project&#39;s needs, we&#39;ve got a broad set of technologies at hand to give our clients exactly what they need:</p>
 
 <ul>
 <li><a title="ElasticSearch" href="http://www.elasticsearch.org" target="_blank">ElasticSearch</a>: For indexing and searching through our client data without affecting performance.</li>
-<li><a title="Sidekiq" href="http://sidekiq.org" target="_blank">Sidekiq</a>: Handy when there&#39;s a lot of background processing jobs - like image and video transformations, web crawling or big data processing.</li>
+<li><a title="Sidekiq" href="http://sidekiq.org" target="_blank">Sidekiq</a>: Handy when there are a lot of background processing jobs - like image and video transformations, web crawling or big data processing.</li>
 <li><a title="Memcached" href="http://memcached.org" target="_blank">Memcached</a>: Caches almost every little part of a web application to achieve blazing fast responses, thus keeping response times low.</li>
 <li><a title="Redis" href="http://redis.io" target="_blank">Redis</a>: Manages big amounts of volatile data faster than any relational database can.</li>
 </ul>
@@ -130,13 +130,15 @@
 
 <h3>Maintenance</h3>
 
-<p>At MarsBased we know that sometimes things might go wrong. Most of the times, the real cause of a general failure is an error that goes unnoticed for too long.</p>
+<p>At MarsBased, we know that sometimes things might go wrong. Most of the times, the real cause of a general failure is an error that goes unnoticed for too long.</p>
 
 <p>Our servers run very different services that need to be monitored (Nginx, MySQL or Elasticsearch just to name a few!), so we use <a title="Monit" href="http://mmonit.com/monit/" target="_blank">Monit</a> to rule them all. Monit sends notifications whenever there is a risk of something failing such as a service being too loaded. It actually allows us to act proactively before any errors arise. But if a service goes down, Monit automatically tries to start it to minimize the downtime as much as possible.</p>
 
 <p>Although Monit itself is very impressive, we also use another error-tracking tool very known by the Ruby community. Airbrake is an exception reporting service <a title="Airbrake" href="https://airbrake.io/" target="_blank">trusted by over 40k customers</a>, now seamlessly integrated with our tech stack. Simply put, if anyone using our web applications comes across an error message, we&#39;ll get a notification in our cell phones with the details of the error in less than a minute.</p>
 
 <p>Nothing is more satisfying than spotting and solving bugs before users have even time to report them.</p>
+
+<hr/>
 
 <p>That&#39;s all for today, folks. As you can see, we love talking technologies. Feel free to drop us an e-mail or bring up a conversation on <a title="MarsBased Twitter Profile" href="http://twitter.com/MarsBased" target="_blank">Twitter</a> anytime.</p>
 
@@ -167,13 +169,14 @@
   <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
     <div>
       <h3>You're reading the MarsBased blog</h3>
-      <p>MarsBased is an application development company highly specialized in Ruby on Rails, based in Barcelona.</p>
+      <p>MarsBased is an application development company highly specialised in Ruby on Rails, based in Barcelona.</p>
       <p>We are a development company with the DNA of a startup. We are publishing all our experiences as a company in this blog, because there might be somebody out there willing to read it! And someday, we will compile all of this in an ebook, available in the best Martian libraries.</p>
       <a class="btn btn-default" href="/feed.xml"><i class="fa fa-rss"></i> Subscribe to our RSS feed</a>
       <a class="btn btn-default" href="https://twitter.com/MarsBased" target="_blank">Or follow us on Twitter!</a>
     </div>
   </div>
 </div>
+
 
 
       </div>
