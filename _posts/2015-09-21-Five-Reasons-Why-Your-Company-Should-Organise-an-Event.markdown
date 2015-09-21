@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Five Reasons Why Your Company Should Organise an Event"
-date:   2015-09-16 15:00:00
+date:   2015-09-21 15:00:00
 author: alex
 categories: MarsBased Events Community Marketing Networking StartupCircle
 ---
@@ -26,7 +26,7 @@ Depending on what kind of event you're planning, you might also need good speake
 Make sure you bring value to all the new contacts you make, and all else will follow.
 
 <img src="/images/blog/post23a.png" alt="Thanking sponsors at Startup Grind Barcelona" title="Thanking sponsors at Startup Grind Barcelona" class="img-center img-rounded img-responsive" />
-<p class="text-center img-footer"><small>At Startup Grind Barcelona first anniversary, we had 180 people to see our sponsors' logos. Who doesn't want that?</small></p>
+<p class="text-center img-footer"><small>At Startup Grind Barcelona first anniversary, we had our sponsors' logos in front of 180 people. Who doesn't want that?</small></p>
 
 ###2. It gives you media exposure###
 Even though there are lots of events going on, events are like startups: most of them fail. Therefore, we recommend waiting before you pitch the press too early. Instead, try building a solid event before marketing it.
