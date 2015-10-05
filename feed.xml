@@ -7,6 +7,90 @@
     <atom:link href="http://www.marsbased.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Code Refactoring: When, Why and Who</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d365.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The rise of tech companies has caused a higher adoption of technology among new generations. People are learning how to code in order to keep up with the times, or to reinvent themselves professionally to unlock new paths in their career.&lt;/p&gt;
+
+&lt;p&gt;The more we code, the more we need to make it a sustainable practice. Quantity almost never implies quality.&lt;/p&gt;
+
+&lt;p&gt;Enter code refactoring. Everyone talks about &lt;i&gt;what&lt;/i&gt; refactoring is, and &lt;i&gt;how&lt;/i&gt; to do it, but we want to talk about the other three dimensions: when to do it, why, and who should do it.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;According to &lt;a target=&quot;https://en.wikipedia.org/wiki/Code_refactoring&quot; title=&quot;Code refactoring&quot; target=&quot;_blank&quot;&gt;Wikipedia&lt;/a&gt;, &amp;quot;&lt;i&gt;Code refactoring is the process of restructuring existing computer code – changing the factoring – without changing its external behavior. Refactoring improves nonfunctional attributes of the software&lt;/i&gt;&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;Imagine you are the CTO of a recently-founded dev shop: sitting in front of your laptop, fingers ready to code, while waiting for your salesman to bring in the contract for the next Facebook. However, the first project happens to come with legacy. That is, a client hires your company to fix an already existing project, which unsurprisingly is broken. The first five words that come to mind are: &amp;quot;&lt;i&gt;I can do this better!&lt;/i&gt;&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;In fact, at MarsBased, a very large proportion of our existing clients had a different provider in the past, but they decided to change for different reasons. This is something we learnt during &lt;a href=&quot;http://www.marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business/&quot;&gt;our first year operating&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While you being able to rewrite better code may actually be true, you should also consider the client&amp;#39;s needs. Why did this project end up on your table? Maybe the quality of the deliverables was insufficient, or maybe because the client perceived the development team&amp;#39;s pace was very low and he was running out of patience (and cash).&lt;/p&gt;
+
+&lt;p&gt;Having that in mind, it will probably take longer to start from scratch, and rebuild everything instead of replacing the existing code.&lt;/p&gt;
+
+&lt;p&gt;How do we decide? We do it case by case.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post24.jpg&quot; alt=&quot;Coding by the fireplace&quot; title=&quot;Coding by the fireplace&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;In this entry, we&amp;#39;re talking about code refactoring: when, why and who. If we were to talk about the where, it would probably be here.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h3&gt;The When&lt;/h3&gt;
+
+&lt;p&gt;If the application is too big, a whole refactor can take ages. It will also be impossible to rebuild it while maintaining the strict deadlines the market or the investors dictate. On the other hand, if the application is small enough, you might also get distracted by too much refactoring instead of adding new features.&lt;/p&gt;
+
+&lt;p&gt;Our customers hire us to give answers. If the code we find in legacy projects is not good, we tell them. We can also audit the code and provide a report with the cost of rebuilding everything or opting for a complete refactor. Most of the times, though, the clients want to keep up with the ongoing development while adopting a progressive refactoring.&lt;/p&gt;
+
+&lt;p&gt;For us, &lt;i&gt;progressive refactoring&lt;/i&gt; is sticking to the development roadmap and its new features, while improving the existing code with each release. When we need to touch legacy code, our commitment is to &lt;i&gt;leave it better than before&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;By applying this, you will find that the application progressively looks and feels way better, without affecting the releases roadmap and the product evolution. This is extremely important in projects that have already launched.&lt;/p&gt;
+
+&lt;p&gt;But there&amp;#39;s more than that. The fight for the &lt;i&gt;Greater Code&lt;/i&gt; is better fought with tests. The quality of tests (or lack thereof) in legacy projects is a game-changer. Refactoring the tests is as important as refactoring the code. But again, you will have to agree with the client the deadlines &amp;amp; deliverables, and the time devoted to refactoring and testing.&lt;/p&gt;
+
+&lt;p&gt;Refactoring is a time investment: you devote time now to make it easier to work on it in the future.&lt;/p&gt;
+
+&lt;h3&gt;The Why&lt;/h3&gt;
+
+&lt;p&gt;Having explained when we should refactor, now it is the time to say the reason why.&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;&lt;i&gt;New is always better&lt;/i&gt;&amp;quot; may sound great, but old code can save you time. While it may be outdated, or even not work, it is the result of somebody else&amp;#39;s effort to solve a specific problem, and their approach could be really different from yours. So you can still learn a lot from other people&amp;#39;s code before throwing it away.&lt;/p&gt;
+
+&lt;p&gt;Since our approach is to leave code better than we found it, we always try to understand the existing code in order to improve it. It might even contain a solution you would have never come across!&lt;/p&gt;
+
+&lt;p&gt;Further, bad code tends to replicate itself.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#39;s be honest: we &lt;i&gt;all&lt;/i&gt; copy and paste code. Although we ought not to do it, we borrow code often to either save time or solve complexities beyond our skills.&lt;/p&gt;
+
+&lt;p&gt;That is why we should replace bad code when we find it. By eliminating bad code, we eliminate the chance of somebody borrowing those parts for other projects. This is even more so important when introducing new hires or less-experienced programmers to the project: they might think that code is yours or, worse, perceive it as a reference and replicate it somewhere else.&lt;/p&gt;
+
+&lt;p&gt;Our CTO, Xavi, &lt;a href=&quot;http://www.marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/&quot;&gt; gave a talk at Ironhack a year ago&lt;/a&gt; where he talked about the maintainability of the code.&lt;/p&gt;
+
+&lt;p&gt;To sum up, we need to refactor code to improve code quality, maintainability and legibility, while making it easier for other teammates to become familiar with the project.&lt;/p&gt;
+
+&lt;h3&gt;The Who&lt;/h3&gt;
+
+&lt;p&gt;We strongly believe refactoring is good for everybody, but &lt;i&gt;who&lt;/i&gt; should do it?&lt;/p&gt;
+
+&lt;p&gt;Refactoring forces you to think over a piece of code that somebody else wrote trying to solve a difficulty. It might as well be code you wrote in another company or even years ago.&lt;/p&gt;
+
+&lt;p&gt;At MarsBased, all of us refactor code from the very first day. We&amp;#39;re given the style guide and instructed to produce quality code right away.&lt;/p&gt;
+
+&lt;p&gt;When introducing a new team member to a project, it is a good practice to make him refactor the code. This way, he does not only become familiar with the project, but we&amp;#39;re weaseling in some good practices we seldom might find time for. By touching code here and there, we&amp;#39;re forced to swim through the different layers &amp;amp; components until we get the whole picture.&lt;/p&gt;
+
+&lt;p&gt;Junior developers have more room to learn, and sharing your refactoring tools with them will make them grow as developers in the right direction. They are also less prone to have any bad habits acquired throughout the years, and tend to write code the way they read it. They may also need a senior developer to guide them through the process in the beginning, but soon enough they develop the habit of writing healthy code. Once again, time invested in mentoring a junior developer will pay off threefold in the future.&lt;/p&gt;
+
+&lt;p&gt;As time goes by, the initiated developers will feel more confident in their coding skills, and they will start suggesting changes and improvements on other people&amp;#39;s code. A self-confident developer will be far more independent taking decisions that will benefit the project. All thanks to a good learning process through guidance and demanding quality from the get-go.&lt;/p&gt;
+
+&lt;p&gt;Not only have we got a commitment towards the clients to deliver quality code, but with the established deadlines and the product roadmap. These are a couple of ways how we align with our clients&amp;#39; business model.&lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;What&amp;#39;s your experience on refactoring from day zero? Have you ever tried it? Would you add other Whys Whens or Whos? If you have any thoughts on the subject feel free to share them using the comments section below!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Oct 2015 17:00:00 +0200</pubDate>
+        <link>http://www.marsbased.com/blog/2015/10/05/Code-Refactoring-When-Why-And-Who</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/10/05/Code-Refactoring-When-Why-And-Who</guid>
+      </item>
+    
+      <item>
         <title>Five Reasons Why Your Company Should Organise an Event</title>
         <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d352.y36/AB&lt;/em&gt;&lt;/p&gt;
 
@@ -981,82 +1065,6 @@
         <pubDate>Tue, 23 Dec 2014 16:00:00 +0100</pubDate>
         <link>http://www.marsbased.com/blog/2014/12/23/Our-First-Christmas-Dinner</link>
         <guid isPermaLink="true">http://www.marsbased.com/blog/2014/12/23/Our-First-Christmas-Dinner</guid>
-      </item>
-    
-      <item>
-        <title>Dealing With Your First Hire in a Distributed Team</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d30.y36/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In &lt;a href=&quot;http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction/&quot; title=&quot;First Hire at MarsBased&quot; target=&quot;_blank&quot;&gt;our last blog entry&lt;/a&gt;, we described our first day with our new hire, Javi. Two weeks in, and the whole team has felt the boost of having a new employee at MarsBased: the company is producing more, he&amp;#39;s learning while having fun, and so are we.&lt;/p&gt;
-
-&lt;p&gt;However, a new employee brings in a whole set of risks that need to be addressed when running your own company. One of them is the integration in the team, and this is what this entry is about.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;We&amp;#39;re talking about our first employee here. &lt;i&gt;Serious business&lt;/i&gt;.&lt;/p&gt;
-
-&lt;p&gt;After having read a lot of literature on how to deal with this situation, we found these tips worth sharing:&lt;/p&gt;
-
-&lt;h3&gt;Day to day&lt;/h3&gt;
-
-&lt;p&gt;When introducing a new hire to your company, you need to make sure he feels integrated as soon as possible, especially in small companies. And even more so if he/she is your very first hire.&lt;/p&gt;
-
-&lt;p&gt;The most valuable piece of advice here is &lt;i&gt;work naturally&lt;/i&gt;. 37Signals&amp;#39; book &lt;a href=&quot;http://37signals.com/remote/&quot; target=&quot;_blank&quot; title=&quot;Remote: No Office Required&quot;&gt;Remote: No Office Required&lt;/a&gt; strongly advises companies to continue working like they did before the employee was hired. Changing your behaviour will look like unnatural and will create awkward situations.&lt;/p&gt;
-
-&lt;p&gt;Be yourselves while making him part of team decisions, not leaving him out of meetings, and showing him everything is there to learn. Obviously, you&amp;#39;ll be spending some time teaching him all that stuff, but consider this as an investment.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, terms like &amp;quot;family&amp;quot; or &amp;quot;friends&amp;quot; should be avoided. After all, this is a business relationship. Experts tend to favour the usage of expressions such as &amp;quot;we&amp;#39;re a team&amp;quot;, instead. Or else, no mentioning of this at all. &lt;a href=&quot;http://blogs.hbr.org/2014/06/your-company-is-not-a-family/&quot; target=&quot;_blank&quot; title=&quot;Your Business Is Not A Family&quot;&gt;This blog post&lt;/a&gt; explains the situation very well.&lt;/p&gt;
-
-&lt;p&gt;The bottom line here is: show, don&amp;#39;t tell. Your actions will be more valuable than your words.&lt;/p&gt;
-
-&lt;h3&gt;Roles&lt;/h3&gt;
-
-&lt;p&gt;Distributed teams meet seldom. In these companies, the limits of your duties and/or responsibilities are sometimes unclear. Especially if the introduction to the company isn&amp;#39;t done right.&lt;/p&gt;
-
-&lt;p&gt;This issue can be avoided by introducing the team accordingly, and telling the new hire clearly what you expect from him or her.&lt;/p&gt;
-
-&lt;p&gt;For instance, when hiring a new programmer, do not send him into coding without explaining what&amp;#39;s your coding style, which methodologies do you use, whether you do pair programming or not, which technologies do you expect him to know, the frequency of your commits, what additional tasks will he have to handle (devops, code refactoring, QA, performance tests, etc.) and so on.&lt;/p&gt;
-
-&lt;p&gt;In these situations, it is better to tell them what they are expected to do according to their role, but that they set the limits to their involvement with the company. That is: programmers deal with the development of the apps, but they have the option of getting involved with social media, writing in the blog, participating in the sales processes, improving internal organizational processes, preparing workshops for events, etc.&lt;/p&gt;
-
-&lt;p&gt;Besides that, in small teams, the figure of the leader - bosses who work by your side - is enforced, instead of the classical boss enclosed in his own office. An almost-flat hierarchy helps to ease this process.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post14.png&quot; alt=&quot;Remote: No office required&quot; title=&quot;Remote: No office required&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;&lt;a href=&quot;http://37signals.com/remote/&quot; target=&quot;_blank&quot; title=&quot;Remote: No Office Required&quot;&gt;Remote: No Office Required&lt;/a&gt; is one of our favourite books and a mandatory read for distributed teams.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;h3&gt;Communication is key&lt;/h3&gt;
-
-&lt;p&gt;Spending half a day listing all the communication tools you use as a team, and how to use them, is never a waste of time. On the contrary: set the rules now, and forget about it.&lt;/p&gt;
-
-&lt;p&gt;At MarsBased we use &lt;a href=&quot;http://basecamp.com&quot; target=&quot;_blank&quot; title=&quot;Basecamp&quot;&gt;Basecamp&lt;/a&gt; for internal discussion that needs to be recorded. Then we use &lt;a href=&quot;http://slack.com&quot; target=&quot;_blank&quot; title=&quot;Slack&quot;&gt;Slack&lt;/a&gt; for real-time communication and having the water-cooler effect of always having someone to talk to.&lt;/p&gt;
-
-&lt;p&gt;We hardly ever email each other save for communications with third parties.&lt;/p&gt;
-
-&lt;p&gt;In conclusion, it is very important to present all the tools to the new hire, as well as the frequency of use and some rules that need to be met to ensure a fluid &amp;amp; correct communication.&lt;/p&gt;
-
-&lt;h3&gt;Get-togethers&lt;/h3&gt;
-
-&lt;p&gt;Get-togethers, for work or leisure, are necessary for all remote working companies.&lt;/p&gt;
-
-&lt;p&gt;Imagine a team that never sees each other&amp;#39;s faces save for video calls. As hard as they might try, there&amp;#39;s a great chance they will not bond as much as a normal company due to the lack of physical connection.&lt;/p&gt;
-
-&lt;p&gt;In distributed teams, not everybody lives in the same city. In some cases, you might even have an employee in the other side of the globe, that might probably feel a little left out if not dealt with properly.&lt;/p&gt;
-
-&lt;p&gt;Get-togethers help to bridge that gap. They create a sense of bonding that should be enforced regularly, depending on the maturity and budget of the company.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, get-togethers for working will also boost productivity for a day. Instead of everyone working separately, try getting the team together in the same room for a day. This will boost creativity and create an exciting vibe to get more stuff done before the session ends.&lt;/p&gt;
-
-&lt;p&gt;Lastly, get-togethers on the new employee&amp;#39;s first day are also critical to help to ease the introduction to the rest of the crew. He or she will want to meet the bosses &amp;amp; co-workers on the first day.&lt;/p&gt;
-
-&lt;p&gt;From the company side, that shows appreciation and interest in the new employee. Not only will this help him/her gelling in with the rest of the crew, but they can all get to know one another in a more natural way.&lt;/p&gt;
-
-&lt;hr/&gt;
-
-&lt;p&gt;Is your company a distributed team as well? Feel free to share your tips and experiences with us in the comments below!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 25 Oct 2014 17:00:00 +0200</pubDate>
-        <link>http://www.marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team</guid>
       </item>
     
   </channel>
