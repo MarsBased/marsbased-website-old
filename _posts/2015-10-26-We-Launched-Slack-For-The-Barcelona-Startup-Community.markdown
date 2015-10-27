@@ -43,12 +43,12 @@ We will start rolling out to the Startup Grind members today and like-minded com
 
 With Slack, we are able to bring the communication between community members to another level. For instance, at <a href="http://www.startupgrind.com/barcelona" title="Startup Grind Barcelona" target="_blank">Startup Grind Barcelona</a> we offer the first hour of the event to our attendees, and we call it the <i>Community Hour</i>. In our Open Mic session, between 15 and 20 entrepreneurs per event come on stage to ask help for their projects and offer their services in return.
 
-Our attendees have asked/offered very different things during the Open Mic: a cofounder, a CTO, investment, some growthhacking ideas, mentoring and even translators.
+Our attendees have asked/offered very different things during the Open Mic: a cofounder, a CTO, investment, some growth hacking ideas, mentoring and even translators.
 
 <img src="/images/blog/post25b.png" alt="Open Mic at Startup Grind Barcelona" title="Open Mic at Startup Grind Barcelona" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>Our friend Michael from Miniguide.es rocking the stage during our Open Mic!</small></p>
 
-Therefore, we created a channel to move this interesting exchange online, so you don't have to wait for the next event! You will never miss that interesting person who spoke at the Open Mic but you didn't get to talk to. You can find them in our Slack community!
+Therefore, we created a channel to move this interesting exchange online, so you don't have to wait for the next event! You will never miss that interesting person who spoke at the Open Mic, but you didn't get to talk to. You can find them in our Slack community!
 
 Another example: our attendees can also send questions in real time to the speaker during the fireside chat, or live-comment the interview and/or the event.
 
@@ -56,7 +56,7 @@ As we will grow the number of users, we will listen to what they want, and adapt
 
 ###How can you use it?###
 
-There are many ways to benefit with this online Startup community. We're bringing immediate solutions to startupers and freelancers alike, who way too often require immediate ideas or resources to complete the tasks at hand.
+There are many ways to benefit with this online Startup community. We're bringing immediate solutions to startups and freelancers alike, who way too often require immediate ideas or resources to complete the tasks at hand.
 
 You're a couple of clicks away of asking for help in the general channel, comment an event on its corresponding channel, send a private message to that designer freelancer to hire him or just to chat a lazy Sunday away.
 
@@ -68,9 +68,9 @@ Share your blog posts, your startup's job openings, your events or your latest l
 
 At MarsBased, we feel very attached to the Barcelona entrepreneurial community. Not only did we run for almost two years the <a href="http://marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event/" title="Startup Circle, by MarsBased" target="_blank">Startup Circle</a> (<a href="https://twitter.com/MarsBased/status/391521920858214400" title="MarsBased Tweet about Startup Circle" target="_blank">here's our tweet announcing it back then!</a>) but we're also behind Startup Grind Barcelona.
 
-With Startup Circle we brought together a community of 50 individuals & companies that met once or twice a month to help one another and socialise. That was our door to entrepreneurship, and we hope it has helped other people as well.
+With Startup Circle, we brought together a community of 50 individuals & companies that met once or twice a month to help one another and socialise. That was our door to entrepreneurship, and we hope it has helped other people as well.
 
-Since March 2014 we're also running Startup Grind in Barcelona, with the help of some brilliant people such as <a href="http://startupgrind.cat/contact/" title="Startup Grind team" target="_blank">Carlos Cruz, Alex Gonzalez and a team of volunteers</a>.
+Since March 2014, we're also running Startup Grind in Barcelona, with the help of some brilliant people such as <a href="http://startupgrind.cat/contact/" title="Startup Grind team" target="_blank">Carlos Cruz, Alex Gonzalez and a team of volunteers</a>.
 
 With this Slack community, we want to give back to the community that helped us grow when we started. This is especially important for global companies like ours that want to help foster business opportunities in their area. At MarsBased, we like to contribute back to the Barcelona startup scene.
 
