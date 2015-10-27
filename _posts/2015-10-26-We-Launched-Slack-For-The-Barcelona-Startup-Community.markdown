@@ -8,40 +8,61 @@ categories: Slack Community Startups Barcelona
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-Slack is the new trend in online communications. Given its free-for-all policy, all kinds of companies adopted it as their de facto communication platform. Slack is <a href="http://www.fastcompany.com/3042326/tech-forecast/with-500000-users-slack-says-its-the-fastest-growing-business-app-ever" title="Fast Company article about Slack" target="_blank">quickly becoming a communication standard</a>.
-
-In fact, after companies, now is the turn for communities to use it to engage with their current members and attract new ones. Communities such as <a href="https://nomadlist.com/" title="Nomad List" target="_blank">Nomad List</a>, <a href="http://www.rubyonrails.link/" title="Ruby on Rails community" target="_blank">Ruby on Rails</a>, Ebay employees and many others are some of the best examples of online Slack communities. There are some great individuals compiling lists of Slack communities, such as this <a href="https://medium.com/@angiecois/an-incomplete-list-of-communities-on-slack-1b1b6f157bda" title="An incomplete list of communities on Slack" target="_blank">almost exhaustive one</a>, created by Angela Cois.
+Slack is the new trend in online communications. Given its free-for-all policy, all kinds of companies adopted this popular communication app as their <i>de facto</i> communication platform. Slack is <a href="http://www.fastcompany.com/3042326/tech-forecast/with-500000-users-slack-says-its-the-fastest-growing-business-app-ever" title="Fast Company article about Slack" target="_blank">quickly becoming a communication standard</a> among companies and communities.
 
 We're excited to announce the launch of a Slack Community for <strong>all</strong> Barcelona startups and entrepreneurs.
 
 <!--more-->
 
+Click <a href="https://bcnstartup.typeform.com/to/YV0pu1" title="Barcelona Startup Slack Community" target="_blank">here</a> to join the Barcelona Startup community!
+
+Following the success Slack found in companies, communities are now embracing Slack as a tool to engage with their current members and attract new ones. Communities such as <a href="https://nomadlist.com/" title="Nomad List" target="_blank">Nomad List</a> and <a href="http://www.rubyonrails.link/" title="Ruby on Rails community" target="_blank">Ruby on Rails</a> are some of the best examples of online Slack communities. There are some great individuals compiling lists of Slack communities, such as <a href="https://medium.com/@angiecois/an-incomplete-list-of-communities-on-slack-1b1b6f157bda" title="An incomplete list of communities on Slack" target="_blank">this one created by Angela Cois</a>.
+
 ###Why Slack?###
 
-Buffer wrote <a href="https://blog.bufferapp.com/slack-community" title="Buffer's guide to Slack" target="_blank">a very useful guide about it</a>, so we don't have to.
+Buffer wrote <a href="https://blog.bufferapp.com/slack-community" title="Buffer's guide to Slack" target="_blank">a very useful guide about how to create a Slack community</a>, highlighting the advantages of bringing everyone together. This way, purely offline communities can now become online, while other online-based communities, can use Slack to offer a new level of interaction among their members.
 
-There are many reasons why we chose Slack, but the main one is the market share it has already got, so the cost of changing is little to none. Slack supports multi-team sign-in, therefore making it easy to switch from one team to another. In the following picture you can see my Slack (notice the left bar, where each icon is a Slack team):
+For us, Slack's market share is the main reason why we chose it as our app of choice, thus minimising the cost of adopting a new tool.
+
+Slack also supports multi-team sign-in. So if you are using Slack with your team, you can quickly switch to another one with a keyboard shortcut. In the following picture you can see my Slack (notice the left bar, where each icon is a Slack team):
 
 <img src="/images/blog/post25a.png" alt="Slack's multi-team support" title="Slack's multi-team support" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>I'm on 9 teams! Nine interesting teams just a keyboard shortcut away!</small></p>
 
-Furthermore, Slack has got really cool mobile apps. You can chat from your phone or tablet, from wherever you are, irrespective of the device you're using. This is a fundamental feature for a distributed team like ours.
+Furthermore, Slack has got really cool mobile apps. You can chat from your phone or tablet, from wherever you are, irrespective of the device you're using. This is a fundamental feature for a distributed team like MarsBased.
 
 Slack also offers a huge flexibility on how to use it. Pinned documents, search, mentions, file sharing, integrations with dozens of interesting services and other killer features make Slack a safe bet.
+
+Our community can grow to have hundreds (or even thousands!) of members without having to worry about the scalability of this platform.
 
 ###How will we use it?###
 
 Our main goal is to become the largest Slack community in Barcelona for entrepreneurs & startups. We will connect entrepreneurs that want to help each other and share relevant content <strong>in real time</strong> with the different communities in Barcelona.
 
-At <a href="http://www.startupgrind.com/barcelona" title="Startup Grind Barcelona" target="_blank">Startup Grind Barcelona</a> we offer the first hour of the event to our attendees, and we call it the <i>Community Hour</i>. The best example for that is our Open Mic session, where 10-15 entrepreneurs per event come on stage to ask help for their project and offer something in return.
+We will start rolling out to the Startup Grind members today and like-minded companies & individuals. We want to open it up to the whole Barcelona startup community shortly afterwards.
 
-Our attendees have asked for very different things: a cofounder, a CTO, investment, some growthhacking ideas, mentoring and even translators. In return, they have offered consulting, free services, promotional items and all sorts of cool stuff.
+With Slack, we are able to bring the communication between community members to another level. For instance, at <a href="http://www.startupgrind.com/barcelona" title="Startup Grind Barcelona" target="_blank">Startup Grind Barcelona</a> we offer the first hour of the event to our attendees, and we call it the <i>Community Hour</i>. In our Open Mic session, between 15 and 20 entrepreneurs per event come on stage to ask help for their projects and offer their services in return.
 
-Therefore, we created a give/take channel to move this interesting exchange online, so you don't have to wait for the next event. You will never miss that interesting person who spoke at the Open Mic but you didn't get to talk to. You can find them in our Slack community!
+Our attendees have asked/offered very different things during the Open Mic: a cofounder, a CTO, investment, some growthhacking ideas, mentoring and even translators.
 
-Not only that, our attendees can also send questions in real time to the speaker during the fireside chat, or live-comment the interview and/or the event.
+<img src="/images/blog/post25b.png" alt="Open Mic at Startup Grind Barcelona" title="Open Mic at Startup Grind Barcelona" class="img-center img-rounded img-responsive" />
+<p class="text-center img-footer"><small>Our friend Michael from Miniguide.es rocking the stage during our Open Mic!</small></p>
+
+Therefore, we created a channel to move this interesting exchange online, so you don't have to wait for the next event! You will never miss that interesting person who spoke at the Open Mic but you didn't get to talk to. You can find them in our Slack community!
+
+Another example: our attendees can also send questions in real time to the speaker during the fireside chat, or live-comment the interview and/or the event.
 
 As we will grow the number of users, we will listen to what they want, and adapt the Slack community to them. If they want a channel to offer jobs, or to bring in a new community, or engage with influencers, or any other need, we will try to meet their needs.
+
+###How can you use it?###
+
+There are many ways to benefit with this online Startup community. We're bringing immediate solutions to startupers and freelancers alike, who way too often require immediate ideas or resources to complete the tasks at hand.
+
+You're a couple of clicks away of asking for help in the general channel, comment an event on its corresponding channel, send a private message to that designer freelancer to hire him or just to chat a lazy Sunday away.
+
+You will also use this Slack community to promote your cool stuff. Oftentimes, too many projects go unnoticed, so a good way to give your stuff more visibility is by being among the early adopters of a new tool.
+
+Share your blog posts, your startup's job openings, your events or your latest logo design through this platform. There are endless possibilities.
 
 ###Community Giveback###
 
@@ -51,21 +72,7 @@ With Startup Circle we brought together a community of 50 individuals & companie
 
 Since March 2014 we're also running Startup Grind in Barcelona, with the help of some brilliant people such as <a href="http://startupgrind.cat/contact/" title="Startup Grind team" target="_blank">Carlos Cruz, Alex Gonzalez and a team of volunteers</a>.
 
-This is part of our program to give back to the community that helped us grow when we started. This is often known as <i>Community Giveback.</i>
-
-###Embracing all communities###
-
-However, this is not a tool just for Startup Grind members. We want to open it up to the whole Barcelona startup community.
-
-We believe that the Barcelona startup community needs more interaction among its members. After all, active communities must become ecosystems. But an ecosystem, <a href="https://en.wikipedia.org/wiki/Ecosystem" title="Wikipedia definition of Ecosystem" target="_blank">according to Wikipedia</a>, is
-<i> a community of living organisms in conjunction with the nonliving components of their environment (things like air, water and mineral soil), interacting as a system</i>.
-
-If all the actors in the Barcelona startup scene are to interact with one another, they need a common comunication channel. We are happy to provide it.
-
-<img src="/images/blog/post25.jpeg" alt="We are not alone out there" title="We are not alone out there" class="img-center img-rounded img-responsive" />
-<p class="text-center img-footer"><small>You're not alone out there. Join other startups and entrepreneurs in our Slack community!</small></p>
-
-
+With this Slack community, we want to give back to the community that helped us grow when we started. This is especially important for global companies like ours that want to help foster business opportunities in their area. At MarsBased, we like to contribute back to the Barcelona startup scene.
 
 <hr/>
 
