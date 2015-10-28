@@ -7,6 +7,85 @@
     <atom:link href="http://www.marsbased.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Presenting the Barcelona Startups Community on Slack</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d386.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Slack is the new trend in online communications. Given its free-for-all policy, all kinds of companies adopted this popular communication app as their &lt;i&gt;de facto&lt;/i&gt; communication platform. Slack is &lt;a href=&quot;http://www.fastcompany.com/3042326/tech-forecast/with-500000-users-slack-says-its-the-fastest-growing-business-app-ever&quot; title=&quot;Fast Company article about Slack&quot; target=&quot;_blank&quot;&gt;quickly becoming a communication standard&lt;/a&gt; among companies and communities.&lt;/p&gt;
+
+&lt;p&gt;We&amp;#39;re excited to announce the launch of a Slack Community for &lt;strong&gt;all&lt;/strong&gt; Barcelona startups and entrepreneurs.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Click &lt;a href=&quot;https://bcnstartup.typeform.com/to/YV0pu1&quot; title=&quot;Barcelona Startup Slack Community&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; to join the Barcelona Startup community!&lt;/p&gt;
+
+&lt;p&gt;Following the success Slack found in companies, communities are now embracing Slack as a tool to engage with their current members and attract new ones. Communities such as &lt;a href=&quot;https://nomadlist.com/&quot; title=&quot;Nomad List&quot; target=&quot;_blank&quot;&gt;Nomad List&lt;/a&gt; and &lt;a href=&quot;http://www.rubyonrails.link/&quot; title=&quot;Ruby on Rails community&quot; target=&quot;_blank&quot;&gt;Ruby on Rails&lt;/a&gt; are some of the best examples of online Slack communities. There are some great individuals compiling lists of Slack communities, such as &lt;a href=&quot;https://medium.com/@angiecois/an-incomplete-list-of-communities-on-slack-1b1b6f157bda&quot; title=&quot;An incomplete list of communities on Slack&quot; target=&quot;_blank&quot;&gt;this one created by Angela Cois&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Why Slack?&lt;/h3&gt;
+
+&lt;p&gt;Buffer wrote &lt;a href=&quot;https://blog.bufferapp.com/slack-community&quot; title=&quot;Buffer&#39;s guide to Slack&quot; target=&quot;_blank&quot;&gt;a very useful guide about how to create a Slack community&lt;/a&gt;, highlighting the advantages of bringing everyone together. This way, purely offline communities can now become online, while other online-based communities, can use Slack to offer a new level of interaction among their members.&lt;/p&gt;
+
+&lt;p&gt;For us, Slack&amp;#39;s market share is the main reason why we chose it as our app of choice, thus minimising the cost of adopting a new tool.&lt;/p&gt;
+
+&lt;p&gt;Slack also supports multi-team sign-in. So if you are using Slack with your team, you can quickly switch to another one with a keyboard shortcut. In the following picture you can see my Slack (notice the left bar, where each icon is a Slack team):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post25a.png&quot; alt=&quot;Slack&#39;s multi-team support&quot; title=&quot;Slack&#39;s multi-team support&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;I&amp;#39;m on 9 teams! Nine interesting teams just a keyboard shortcut away!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Furthermore, Slack has got really cool mobile apps. You can chat from your phone or tablet, from wherever you are, irrespective of the device you&amp;#39;re using. This is a fundamental feature for a distributed team like MarsBased.&lt;/p&gt;
+
+&lt;p&gt;Slack also offers a huge flexibility on how to use it. Pinned documents, search, mentions, file sharing, integrations with dozens of interesting services and other killer features make Slack a safe bet.&lt;/p&gt;
+
+&lt;p&gt;Our community can grow to have hundreds (or even thousands!) of members without having to worry about the scalability of this platform.&lt;/p&gt;
+
+&lt;h3&gt;How will we use it?&lt;/h3&gt;
+
+&lt;p&gt;Our main goal is to become the largest Slack community in Barcelona for entrepreneurs &amp;amp; startups. We will connect entrepreneurs that want to help each other and share relevant content &lt;strong&gt;in real time&lt;/strong&gt; with the different communities in Barcelona.&lt;/p&gt;
+
+&lt;p&gt;We will start rolling out to the Startup Grind members today and like-minded companies &amp;amp; individuals. We want to open it up to the whole Barcelona startup community shortly afterwards.&lt;/p&gt;
+
+&lt;p&gt;With Slack, we are able to bring the communication between community members to another level. For instance, at &lt;a href=&quot;http://www.startupgrind.com/barcelona&quot; title=&quot;Startup Grind Barcelona&quot; target=&quot;_blank&quot;&gt;Startup Grind Barcelona&lt;/a&gt; we offer the first hour of the event to our attendees, and we call it the &lt;i&gt;Community Hour&lt;/i&gt;. In our Open Mic session, between 15 and 20 entrepreneurs per event come on stage to ask help for their projects and offer their services in return.&lt;/p&gt;
+
+&lt;p&gt;Our attendees have asked/offered very different things during the Open Mic: a cofounder, a CTO, investment, some growth hacking ideas, mentoring and even translators.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post25b.png&quot; alt=&quot;Open Mic at Startup Grind Barcelona&quot; title=&quot;Open Mic at Startup Grind Barcelona&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Our friend Michael from Miniguide.es rocking the stage during our Open Mic!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Therefore, we created a channel to move this interesting exchange online, so you don&amp;#39;t have to wait for the next event! You will never miss that interesting person who spoke at the Open Mic, but you didn&amp;#39;t get to talk to. You can find them in our Slack community!&lt;/p&gt;
+
+&lt;p&gt;Another example: our attendees can also send questions in real time to the speaker during the fireside chat, or live-comment the interview and/or the event.&lt;/p&gt;
+
+&lt;p&gt;As we will grow the number of users, we will listen to what they want, and adapt the Slack community to them. If they want a channel to offer jobs, or to bring in a new community, or engage with influencers, or any other need, we will try to meet their needs.&lt;/p&gt;
+
+&lt;h3&gt;How can you use it?&lt;/h3&gt;
+
+&lt;p&gt;There are many ways to benefit with this online Startup community. We&amp;#39;re bringing immediate solutions to startups and freelancers alike, who way too often require immediate ideas or resources to complete the tasks at hand.&lt;/p&gt;
+
+&lt;p&gt;You&amp;#39;re a couple of clicks away of asking for help in the general channel, comment an event on its corresponding channel, send a private message to that designer freelancer to hire him or just to chat a lazy Sunday away.&lt;/p&gt;
+
+&lt;p&gt;You will also use this Slack community to promote your cool stuff. Oftentimes, too many projects go unnoticed, so a good way to give your stuff more visibility is by being among the early adopters of a new tool.&lt;/p&gt;
+
+&lt;p&gt;Share your blog posts, your startup&amp;#39;s job openings, your events or your latest logo design through this platform. There are endless possibilities.&lt;/p&gt;
+
+&lt;h3&gt;Community Giveback&lt;/h3&gt;
+
+&lt;p&gt;At MarsBased, we feel very attached to the Barcelona entrepreneurial community. Not only did we run for almost two years the &lt;a href=&quot;http://marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event/&quot; title=&quot;Startup Circle, by MarsBased&quot; target=&quot;_blank&quot;&gt;Startup Circle&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/MarsBased/status/391521920858214400&quot; title=&quot;MarsBased Tweet about Startup Circle&quot; target=&quot;_blank&quot;&gt;here&amp;#39;s our tweet announcing it back then!&lt;/a&gt;) but we&amp;#39;re also behind Startup Grind Barcelona.&lt;/p&gt;
+
+&lt;p&gt;With Startup Circle, we brought together a community of 50 individuals &amp;amp; companies that met once or twice a month to help one another and socialise. That was our door to entrepreneurship, and we hope it has helped other people as well.&lt;/p&gt;
+
+&lt;p&gt;Since March 2014, we&amp;#39;re also running Startup Grind in Barcelona, with the help of some brilliant people such as &lt;a href=&quot;http://startupgrind.cat/contact/&quot; title=&quot;Startup Grind team&quot; target=&quot;_blank&quot;&gt;Carlos Cruz, Alex Gonzalez and a team of volunteers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;With this Slack community, we want to give back to the community that helped us grow when we started. This is especially important for global companies like ours that want to help foster business opportunities in their area. At MarsBased, we like to contribute back to the Barcelona startup scene.&lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;Are you interested in joining the Barcelona Startup Slack community? You can do it by clicking &lt;a href=&quot;https://bcnstartup.typeform.com/to/YV0pu1&quot; title=&quot;Barcelona Startup Slack Community&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Oct 2015 16:00:00 +0100</pubDate>
+        <link>http://www.marsbased.com/blog/2015/10/26/We-Launched-Slack-For-The-Barcelona-Startup-Community</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/10/26/We-Launched-Slack-For-The-Barcelona-Startup-Community</guid>
+      </item>
+    
+      <item>
         <title>Code Refactoring: When, Why and Who</title>
         <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d365.y36/AB&lt;/em&gt;&lt;/p&gt;
 
@@ -1002,69 +1081,6 @@
         <pubDate>Tue, 20 Jan 2015 16:00:00 +0100</pubDate>
         <link>http://www.marsbased.com/blog/2015/01/20/Our-New-Years-Resolutions-For-20154</link>
         <guid isPermaLink="true">http://www.marsbased.com/blog/2015/01/20/Our-New-Years-Resolutions-For-20154</guid>
-      </item>
-    
-      <item>
-        <title>Our First Christmas Dinner</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d87.y36/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s been two months since &lt;a href=&quot;http://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team&quot; title=&quot;Dealing With Your First Hire in a Distributed Team&quot; target=&quot;_blank&quot;&gt;our last status update&lt;/a&gt;, and we wanted to let you know we&amp;#39;re far from dead.&lt;/p&gt;
-
-&lt;p&gt;After a fledging progression that has seen us completing our first projects after the summer, a couple of new big challenges have popped up. All these projects have kept us swamped with work, but they are also a reason to celebrate.&lt;/p&gt;
-
-&lt;p&gt;Indeed, 2014 has brought many good achievements and landmarks for our company. But none of them can compare to celebrating our first Christmas dinner.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h3&gt;A year in review&lt;/h3&gt;
-
-&lt;p&gt;The MarsBased spaceship has been working at full capacity to complete the ongoing projects we have had thus far, having barely no time to update the blog. While we can&amp;#39;t wait to tell you everything we are undergoing at the moment, we also need to meet the deadlines.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;#39;s review the steps we have taken to reach this point.&lt;/p&gt;
-
-&lt;p&gt;MarsBased as a company was founded in March this year, after I came back from San Francisco. Signing all the required documentation to create the company was both relieving and challenging, and definitely has changed our lives for the better.&lt;/p&gt;
-
-&lt;p&gt;After doing some minor projects, we got the opportunity of working for Barcelona Activa, in the creation of the &lt;a href=&quot;http://bcn.cat/bcnstartupMap&quot; title=&quot;BCN Startup Map&quot; target=&quot;_blank&quot;&gt;Barcelona Startup Map&lt;/a&gt;. This project gave us enough propulsion (both economically and visibility-wise) to start working on other apps. Also, through this project we were contacted by other companies who wanted to hire our services.&lt;/p&gt;
-
-&lt;p&gt;During the summer, we landed the project of &lt;a href=&quot;http://www.eureka-startups.com&quot; title=&quot;Eureka Startups&quot; target=&quot;_blank&quot;&gt;Eureka Startups Experts&lt;/a&gt; (still in progress), and a couple of other projects, that allowed both Xavi and I to go full time for the company. As a result of that, we boosted our production capacity, which means we could take on more &amp;amp; bigger projects.&lt;/p&gt;
-
-&lt;p&gt;By working full-time, we could also start going to events, thus increasing our visibility in the scene. We participated in numerous events, organizing meetings with the Startup Circle, collaborating with &lt;a href=&quot;http://www.startupgrind.cat&quot; title=&quot;Startup Grind Barcelona&quot; target=&quot;_blank&quot;&gt;Startup Grind&lt;/a&gt;, mentoring at &lt;a href=&quot;http://ironhack.com&quot; title=&quot;IronHack&quot; target=&quot;_blank&quot;&gt;IronHack&lt;/a&gt;, giving speeches at congresses, attending &lt;a href=&quot;http://www.baruco.org&quot; title=&quot;Baruco&quot; target=&quot;_blank&quot;&gt;Baruco&lt;/a&gt;, and meeting fantastic people everywhere.&lt;/p&gt;
-
-&lt;p&gt;But it was in September-October that we landed a couple of big projects from abroad. These two projects have given us enough stability to hire &lt;a href=&quot;http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction/&quot; title=&quot;Our blog post of our first hire&quot; target=&quot;_blank&quot;&gt;Javi&lt;/a&gt; to increase our development capacity again. Soon thereafter, we got the opportunity of welcoming our first intern &lt;a href=&quot;https://twitter.com/MarsBased/status/538760313836158976&quot; title=&quot;MarsBased welcomes Emilio Rios&quot; target=&quot;_blank&quot;&gt;Emilio&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;A Martian Christmas dinner&lt;/h3&gt;
-
-&lt;p&gt;Last Wednesday, we got together and spent a whole evening celebrating the first MarsBased Christmas dinner.&lt;/p&gt;
-
-&lt;p&gt;As a remote working company, this kind of get-togethers is essential to help to bond with the team at a personal level. They also increase happiness in the company and provide a good way to talk about stuff that&amp;#39;s normally not covered in the corporate chat.&lt;/p&gt;
-
-&lt;p&gt;The evening started at &lt;a href=&quot;https://foursquare.com/v/la-cerveseria-clandestina/50447f7de4b072dc97475858&quot; title=&quot;La Cervecería Clanestina&quot; target=&quot;_blank&quot;&gt;Cervecería Clandestina&lt;/a&gt; to taste a selection of the finest beers. Barcelona is not famous for its craft beer yet, but it&amp;#39;s a growing trend that is getting very popular in the last years.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post15a.jpg&quot; alt=&quot;The MarsBased team at Cervecería Clandestina&quot; title=&quot;The MarsBased team at Cervecería Clandestina&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Beer makes people more proficient in foreign languages such as Martian!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;Dinner took place in the &lt;a href=&quot;https://foursquare.com/v/lomb%C3%BA/4c0ab162009a0f475fe1e9bf&quot;title=&quot;Restaurant L&#39;Ombú&quot; target=&quot;_blank&quot;&gt;Restaurant L&amp;#39;Ombú&lt;/a&gt;. A very cozy restaurant hidden between the Gracia and Horta districts in Barcelona. A well-kept secret for fusion cuisine mixing traditional Catalan recipes with the latest trends.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post15c.jpg&quot; alt=&quot;Enjoying tasty Earth food at Restaurant L&#39;Ombú&quot; title=&quot;Enjoying tasty Earth food at Restaurant L&#39;Ombú&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Enjoying tasty Earth food at Restaurant L&amp;#39;Ombú.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post15d.jpg&quot; alt=&quot;The MarsBased team at Restaurant L&#39;Ombú&quot; title=&quot;The MarsBased team at Restaurant L&#39;Ombú&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;The MarsBased team at Restaurant L&amp;#39;Ombú.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;In the restaurant, we spent hours talking about the company and its future, and we toasted to our success in 2015.&lt;/p&gt;
-
-&lt;p&gt;The evening came to a close at the famous &lt;a href=&quot;https://foursquare.com/v/elephanta/4b510121f964a5201a3d27e3&quot; title=&quot;L&#39;Elephanta&quot; target=&quot;_blank&quot;&gt;L&amp;#39;Elephanta&lt;/a&gt;, one of the best gin&amp;amp;tonic places in Barcelona. The conversation drifted to off-topic mode and provided an excellent ending to a lovely evening out enjoying a good share of teambuilding.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post15e.jpg&quot; alt=&quot;The MarsBased team at L&#39;Elephanta&quot; title=&quot;The MarsBased team at L&#39;Elephanta&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Martian advise: Don&amp;#39;t drink &amp;amp; drive spaceships.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;We are ecstatic to have been able to celebrate such a landmark in our career and looking forward to kicking off 2015 stronger than ever.&lt;/p&gt;
-
-&lt;p&gt;Happy &lt;code&gt;I18n.translate :local_winter_celebration&lt;/code&gt; everyone!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 23 Dec 2014 16:00:00 +0100</pubDate>
-        <link>http://www.marsbased.com/blog/2014/12/23/Our-First-Christmas-Dinner</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2014/12/23/Our-First-Christmas-Dinner</guid>
       </item>
     
   </channel>
