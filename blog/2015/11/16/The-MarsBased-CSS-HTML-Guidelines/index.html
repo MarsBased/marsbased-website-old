@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8">
+    <title>MarsBased | Application development from Barcelona | The MarsBased CSS & HTML Guidelines</title>
+    <meta name="description" content="MarsBased is an application development company in Barcelona, highly specialized in Ruby on Rails - The MarsBased CSS & HTML Guidelines">
+    <meta property="og:image" content="http://marsbased.com/images/marsbased_logo.png"/>
+    <META name="author" content="www.marsbased.com">
+    <META name="copyright" content="2014 MarsBased">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Favicon -->
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <!-- Viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Feed -->
+    <link rel="alternate" type="application/atom+xml" title="MarsBased" href="http://www.marsbased.com/feed.xml" />
+    <!-- Style -->
+    <link rel="stylesheet" href="/assets/application-a94047021f85938dffb5b6cce6a8faf3.css">
+    <!-- jQuery JS -->
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="/assets/application-bc820551228698831fb61f47397220d8.js"></script>
+    <!-- IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <nav class="navbar navbar-default" role="navigation" itemscope itemtype="http://schema.org/Brand">
+      <div class="logo">
+        <a itemprop="url" href="/" title="MarsBased homepage">
+          <img itemprop="logo" src="/images/marsbased_logo.png" title="MarsBased logo" alt="MarsBased logo" />
+        </a>
+      </div>
+      <div class="missing-space">
+        <div data-spy="affix" data-offset-top="210">
+          <div class="sections">
+            <div class="menu">
+              <div class="menu-nav">
+                <ul class="navbar-nav">
+                  <li class="">
+  <a href="/" title="Work">Work</a>
+</li>
+<li class="">
+  <a href="/about" title="About Us">About Us</a>
+</li>
+<li class="">
+  <a href="/blog" title="Blog">Blog</a>
+</li>
+<li class="">
+  <a href="/contact" title="Contact">Contact</a>
+</li>
+                </ul>
+              </div>
+              <div class="menu-logo">
+                <a href="/" title="MarsBased homepage">
+                  <img src="/images/marsbased_logo_wide.png" title="MarsBased logo horitzontal" alt="MarsBased logo horitzontal" />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div class="content">
+      <div class="container">
+        <div class="row post">
+  <div class="col-xs-12 col-lg-10 col-lg-offset-1">
+    <h1 class="text-center">The MarsBased CSS & HTML Guidelines</h1>
+    <h2 class="text-center">Posted on November 16, 2015</h2>
+    
+      <div class="author-info">
+        <div class="author-by">Written by Jordi Vendrell (<a href="http://twitter.com/jordi_vendrell"
+          target="_blank" title="Jordi Vendrell twitter handle">@jordi_vendrell</a>)</div> <div class="avatar"><img class="img-circle" src="/images/blog/jordi.png"/></div>
+      </div>
+    
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52f52c19120c835c"></script>
+
+  </div>
+  <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
+    <p><em>Captain&#39;s log, stardate d406.y36/AB</em></p>
+
+<p>Since we started MarsBased, we&#39;ve completed a good share of projects. From all of them we&#39;ve learnt something useful. But all this knowledge should be stored somewhere for further use, for instance, to train new developers.</p>
+
+<p>Pretty much like we did with the release of the MarsBased blogging guide (<a href="http://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide" title="How to Create a Damn Good Blog Post" target="_blank">part 1</a>, <a href="http://marsbased.com/blog/2015/08/16/How-to-Create-a-Blogging-Strategy-for-your-Company" title="How to Create a Blogging Strategy for Your Company" target="_blank">part 2</a>), we want to share what we have learnt about HTML5 &amp; CSS3 with you all.</p>
+
+<p>Things should not only work well. They can also look good.</p>
+
+<p>Frontend developers, this one is for you.</p>
+
+<!--more-->
+
+<h3>Workflows</h3>
+
+<p>Before we delve into the technologies we use, we will introduce our working methodologies here:</p>
+
+<h4>Task management</h4>
+
+<p><a href="www.trello.com" title="Trello" target="_blank">Trello</a> is our tool of choice for managing tasks and weekly sprints.</p>
+
+<p>We have one board for each project. Inside the project&#39;s board, you&#39;ll find columns for the present and coming weeks, along with <i>Done, Review Pending, Bugs, Features,</i> and <i>Backlog</i>. In projects that have been already rolled out, you will see some columns for the deploys management, too.</p>
+
+<p>The Project Manager is in charge of assigning the layout &amp; design tasks. You will see the cards assigned to you in the present week column. Once you have finished a task, you must add a new comment indicating the relevant pull request link, and move the card to the <i>Review</i> Pending column.</p>
+
+<p>The Project Manager will review the implementations and move the card to <i>Done</i>, send it back to you (if there is something to fix) or forward it to the Development Team.</p>
+
+<p>The weekly sprints are defined on Mondays, in an online meeting between you and the Project Manager. However, don&#39;t hesitate to get in touch with the Project Manager at any time, if you need to discuss anything or have any question.</p>
+
+<h4>Commits & Branches</h4>
+
+<p>We work with both <a href="github.com" title="Github" target="_blank">Github</a> and <a href="bitbucket.org" title="Bitbucket" target="_blank">Bitbucket</a> and we always have separate repositories for the layout implementation and the development, so you don&#39;t have to worry about breaking stuff or learning Ruby on Rails. In other words, you will have to deal with HTML, CSS, and JS, only.</p>
+
+<p>Furthermore, we never work on the <i>master</i> branch, as it only contains reviewed and finished stuff. Usually, we create a new branch for each task. However, we sometimes group small and related tasks to use only one branch for them. Apply common sense and branch wisely!</p>
+
+<p>The Project Manager will merge those branches into <i>master</i> after making the relevant reviews.</p>
+
+<p>Finally, when we make commits, we always include the type of change we have made between brackets.</p>
+
+<p>For example, if you&#39;ve changed only the CSS code, you indicate:</p>
+
+<p><code>[CSS] Replaced the body background color.</code></p>
+
+<p>If you have changed the HTML and you have replaced some images, you will write:</p>
+
+<p><code>[HTML+IMG] Replaced the default avatar.</code></p>
+
+<p>You might want to include other indications like <i>JS, README, CONFIG,</i> etc. This way, our developers will be able to identify very quickly what they have to change in the development to replicate our work.</p>
+
+<h4>Testing</h4>
+
+<p>Quality is one of the founding values of MarsBased. A while back ago, we defined quality as &quot;<i>meeting and exceeding clients expectations while maintaining our own methodologies</i>&quot;. For that reason, exhaustive and successful testing is critical in our day to day.</p>
+
+<p>As a front end developer, you’re in charge of testing how the applications look in all the required browsers and devices.</p>
+
+<p>Our testing workflow is plain and simple:</p>
+
+<ul>
+<li>In new projects where we start the development from scratch, we leave the testing tasks for the end and we do them all at once.</li>
+<li>In projects under maintenance (live products), we test each new feature or bug fix before sending the pull request to the development team.</li>
+</ul>
+
+<p>Keep this in mind all the time: an excellent developer is not just someone who creates good code, but is also a good tester.</p>
+
+<h3>Tech Stack and Guidelines</h3>
+
+<h4>Middleman</h4>
+
+<p><a href="middlemanapp.com" title="Middleman" target="_blank">Middleman</a> is a static websites generator built with Ruby on Rails. It integrates all the state-of-the-art frameworks and tools for frontend development (like SASS, Modernizr, Compass, Autoprefixer...) and allows you to use templating languages such as ERB or Liquid.</p>
+
+<p>All our new projects are developed using Middleman, but before that, we used <a href="jekyllrb.com" title="Jekyll" target="_blank">Jekyll</a>. Jekyll is very similar to Middleman, with only a few differences between them. While we used Liquid as the templating language in Jekyll, now we switched to ERB in Middleman.</p>
+
+<p>In the project&#39;s README file, you will find instructions about how to install the required packages and run any of those tools.</p>
+
+<h5>MIDDLEMAN TOOLS</h5>
+
+<ul>
+<li>Middleman lets you organize your code in layouts and partials. Do it wisely, we don&#39;t want to have to deal with tons of files. Use partials only for stuff that will appear in several pages, or to split the code of very long pages, but always remember that <i>simpler is better</i>.</li>
+<li>We have developed our own Middleman template called MarsMan. We use it as a model to create new projects. It contains all the folders, SASS mixins, frameworks and libraries that we use in our projects. Marsman is an open source project, so you can use it for your personal stuff or even send it to other people. You can download the code from <a href="https://github.com/MarsBased/marsman-template" title="MarsBased Github profile" target="_blank">our Github profile</a>.</li>
+<li>We use the Middleman helper <i>page_classes</i> to define <i>page-specific</i> classes in the body tag of the HTML. Use them carefully, we don&#39;t want to create too many page dependencies in our CSS code.</li>
+<li>Middleman has a very useful set of helpers that let you add random Lorem Ipsum content and image placeholders.</li>
+<li>Middleman allows you to add Markdown content to a website by simply including a markdown file as a partial inside any other HTML file. We use Markdown files for text-only pages like Terms &amp; Conditions, Privacy Policy or blog posts.</li>
+</ul>
+
+<p>You can find more information about Middleman and Jekyll in their official websites.</p>
+
+<p>Also, if you never had the chance to use ERB, you can find some examples in <a href="http://benfrain.com/understanding-middleman-the-static-site-generator-for-faster-prototyping/" title="Middleman" target="_blank">this blog post</a>.</p>
+
+<h4>Bootstrap</h4>
+
+<p>Most of our works are based on <a href="http://getbootstrap.com/" title="Bootstrap" target="_blank">Bootstrap</a>. It&#39;s a very well-known markup framework and it offers good compatibility with browsers and other components. Also, our developers are familiar with it and can reuse a lot of code.</p>
+
+<p>We tend to use always the last stable version of Bootstrap, in their SASS distribution. Since we also use SASS as our CSS framework of choice, you will be able to replace the Bootstrap variables and adapt them to each project. Do it whenever possible, instead of overwriting the Bootstrap properties. You can find the complete list of variables in the <a href="https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss" title="Bootstrap SASS Github page" target="_blank">Bootstrap SASS Github page</a>.</p>
+
+<p>Finally, Bootstrap has a very powerful grid system. It can be used by simply including classes in the HTML markup, such as <i>.row</i> or <i>.col-xs-6</i>. However, instead of using those classes to define rows and columns, we prefer to use the Bootstrap mixins. They also allow you to define rows and columns, but you can do it directly in the SASS files, without dirtying the HTML code. Following this approach, we can completely separate the markup of a website from its styles and we make the application easier to maintain.</p>
+
+<p>In other words, instead of doing:
+<pre>
+ <code>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;results row&quot;&gt;
+    &lt;div class=&quot;item col-xs-12 col-sm-6 col-md-4&quot;&gt;
+      The Martian
+    &lt;/div&gt;
+  &lt;/div&gt;
+ &lt;/div&gt;</code>
+</pre></p>
+
+<p>We prefer to do:
+<pre>
+ <code>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;results&quot;&gt;
+    &lt;div class=&quot;item&quot;&gt;
+      The Martian
+    &lt;/div&gt;
+  &lt;/div&gt;
+ &lt;/div&gt;</code>
+</pre></p>
+
+<p>And:
+<pre>
+.results
+  +make-row()
+.item
+  +make-xs-column(12)
+  +make-sm-column(6)
+  +make-md-column(4)
+</pre></p>
+
+<p>You can see the <a href="https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/mixins/_grid.scss" title="Mixins used in the grid system" target="_blank">mixins used in the grid system</a> also in Github.</p>
+
+<h4>SASS</h4>
+
+<p>SASS is a CSS preprocessor that lets you use variables, functions, operations, and other useful stuff inside your CSS stylesheets. You can learn how to use SASS in their <a href="http://sass-lang.com/" title="SASS official website" target="_blank">official website</a>. We&#39;re sure you&#39;ll find it very easy!</p>
+
+<h5>PARTIALS</h5>
+
+<p>We organize our SASS code in partials that we later import in a single file called <i>application.sass</i>.</p>
+
+<p>These partials are organized in folders. Take a look at this example:</p>
+
+<pre>
+/stylesheets
+
+  /utils
+    _mixins.sass
+    _variables.sass
+    _helpers.sass
+    _keyframes.sass
+
+  /modules
+    _navbar.sass
+    _footer.sass
+    _items.sass
+    _filters.sass
+
+  /layouts
+    _home.sass
+    _results.sass
+
+  application.sass
+
+</pre>
+
+<p>The <i>/utils</i> folder is where we store our helpers, mixins and keyframes - coding tools that we use in our HTML and SASS files. We also have a file called <i>_variables.sass</i> that contains generic variables like color or typography definitions. However, page- or module-specific variables are not stored here but inside the corresponding layout or module file (you can find an example a couple of paragraphs from here).</p>
+
+<p>The <i>/modules</i> folder contains the styles of the differents components that compose each page. And finally, we use the <i>/layouts</i> folder to include styles we need to apply to specific pages.</p>
+
+<p>If the difference between layouts and modules is still not clear for you, have a look at the following example.</p>
+
+<p>Let&#39;s say that we have to develop a marketplace with a results page, where each result is an item. Some of these items will also appear in the Home page.</p>
+
+<p>We would create a <i>_items.sass</i> file inside <i>/modules</i> and we would put there all the styles that apply to the items.</p>
+
+<pre>
+// modules/_item.sass
+
+.item
+
+  $item-primary-color: #000000 // Variable specific to this module!
+
+  padding: 20px
+  background-color: #f4f4f4
+
+  .title
+    color: $item-primary-color
+</pre>
+
+<p>Now consider that these items have to look differently in the Homepage than in the Results view. In that case, we would create a <i>_home.sass</i> file inside <i>/layouts</i> with the following styles:</p>
+
+<pre>
+// modules/_home.sass
+
+.home
+  .item
+    background-color: inherit
+</pre>
+
+<h5>NAMING CONVENTIONS</h5>
+
+<p>In order to name our elements and classes, we follow the modular approach explained in <a href="http://thesassway.com/advanced/modular-css-naming-conventions" title="Modular CSS naming conventions" target="_blank">this article</a> from <a href="http://thesassway.com/" title="The SASS Way" target="_blank">The SASS Way</a>. However, we don&#39;t apply the <i>parent-child</i> rules, as we prefer to use nesting for such cases. In any case, if you ever have to define parent-child relations, use a dash (-) as a separator instead of an underscore (_) or any other symbol.</p>
+
+<p>Finally, in order to differentiate keyframes (animations) from classes or IDs, we name them without dashes or underscores:</p>
+
+<pre>
+// Keyframes
+
+@keyframes fadeIn
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+
+@keyframes fadeOut
+  0%
+    opacity: 1
+  100%
+    opacity: 0
+</pre>
+
+<h5>OTHER GUIDELINES</h5>
+
+<ul>
+<li>You can create your own mixins, but do it only when they will save you a lot of time, without adding too much complexity to the project. We don&#39;t want to increase the application complexity because other less experienced coders might have to work on it at some point.</li>
+<li>Nesting is one of the most powerful tools of SASS. However, it can be counterproductive if not used wisely. We follow the <a href="http://thesassway.com/beginner/the-inception-rule" title="The Inception Rule" target="_blank">Inception Rule</a> defined in The SASS Way. It says that you can&#39;t go more than four levels deep. It also explains how to organize the different selectors and properties in site-wide rules, page specific rules and objects.</li>
+<li>In projects where we don&#39;t have to support IE8 or lower, we use REM units to define font sizes, margins, heights, widths, etc. REM units work in a similar way than EMs, but they are proportional to the HTML tag <i>font-size</i>. Bootstrap defines the HTML <i>font-size</i> to 10px, so using REM units is very easy: 1rem will always be equal to 10px, 1.4rem will be equal to 14px, 0.8rem will be equal to 8px, and so on.</li>
+</ul>
+
+<h4>Autoprefixer, Modernizr, and Compass</h4>
+
+<p><a href="https://github.com/middleman/middleman-autoprefixer" title="Autoprefixer" target="_blank">Autoprefixer</a> is a plugin that parses the CSS files and adds browser specific prefixes to the properties that require them. This means that you don&#39;t have to worry about adding prefixes such as -webkit-, -moz- or -ms- because Autoprefixer does it for you.</p>
+
+<p><a href="http://modernizr.com/" title="Modernizr" target="_blank">Modernizr</a> is a JavaScript library that detects if the user&#39;s browser supports HTML5 and CSS3 features or not. You can use it to build fallbacks for modern features that old browsers might not support.</p>
+
+<p><a href="http://compass-style.org/" title="Compass" target="_blank">Compass</a> is another CSS framework included in our Middleman projects. We prefer to use Autoprefixer to add browser specific prefixes, but you might want to use Compass for other things, like its vast library of reliable mixins.</p>
+
+<h4>Images and icons</h4>
+
+<h5>VECTORIAL IMAGES</h5>
+
+<p>For logos, icons and small images we prefer to use SVG files instead of PNGs or JPGs because SVGs are made from vectors and can be resized without losing quality.</p>
+
+<p>To include SVG files in the HTML code, drop the SVG files in the <i>shapes</i> directory. All SVG files are formatted in XML. Make sure that they don&#39;t have more data than the necessary (some apps like Adobe Illustrator include irrelevant information inside the SVG files that can produce errors).</p>
+
+<p>Afterwards, you will have to execute a job that will take all the SVG files from the <i>shapes</i> directory and produce a file called <i>shapes.html</i>:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">grunt svg
+</code></pre></div>
+<p>This file should be included in all the app&#39;s pages as a partial:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text"> &lt;body class=&quot;&lt;%= page_classes %&gt;&quot;&gt;
+  &lt;%= partial &quot;partials/shapes&quot; %&gt;
+  &lt;%= yield %&gt;
+  &lt;%= javascript_include_tag  :application %&gt;
+ &lt;/body&gt;
+</code></pre></div>
+<p>Now you can include any SVG image in your HTML by simply calling it. Use this markup to do it so:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;svg class=&quot;shape shape-filename&quot;&gt;
+  &lt;use xlink:href=&quot;#shape-filename&quot;&gt;&lt;/use&gt;
+&lt;/svg&gt;
+</code></pre></div>
+<h5>BOOTSTRAP GLYPHICONS AND FONT AWESOME</h5>
+
+<p>If the design doesn&#39;t come with its own icons, we like to use the ones provided by Bootstrap and Font Awesome. If you don&#39;t find any suitable icon, try looking in websites like <a href="iconfinder.com" title="Iconfinder.com" target="_blank">iconfinder.com</a>.</p>
+
+<h5>IMAGE HELPERS</h5>
+
+<p>In some cases, we will have to deal with normal images like PNGs or JPGs. In that case, we use the image-url helper in the CSS files to point to files stored in the images folder:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">.navbar
+  background: image-url(&#39;navbar-background.png&#39;)
+</code></pre></div>
+<p>In the HTML markup, however, we use another helper called <i>image_tag</i>:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;%= image_tag &#39;padrino.png&#39;, width: &#39;35&#39;, class: &#39;logo pull-right&#39; %&gt;
+</code></pre></div>
+<p>You can find more examples of the <i>image_tag</i> helper in the <a href="http://api.rubyonrails.org/classes/ActionView/Helpers/AssetTagHelper.html#method-i-image_tag" title="Ruby on Rails API documentation" target="_blank">Ruby on Rails API documentation</a>.</p>
+
+<h4>JS libraries</h4>
+
+<p>Not all the JS libraries work well with Rails and AngularJS. For that reason, and also because we like to standardize the code of our projects, we have created a list of preferred libraries. If you ever have to use another library, consult our Development Team first.</p>
+
+<ul>
+<li><b>Modals:</b> ng-dialog (only in AngularJS projects) and Bootstrap.</li>
+<li><b>Dropdown menus:</b> Bootstrap.</li>
+<li><b>Selects:</b> Select2.</li>
+<li><b>Tabs:</b> Bootstrap.</li>
+<li><b>Carousels:</b> Slick.</li>
+<li><b>Checkbox and radio buttons:</b> Pure CSS (label after the input technique).</li>
+<li><b>Charts:</b> C3 &amp; D3.</li>
+<li><b>Autocomplete:</b> Select2.</li>
+<li><b>Range sliders:</b> bootstrap-slider.</li>
+<li><b>Scroll:</b> Just the browser scrollbar (avoid using JS scrollbars like Perfect Scrollbar if possible).</li>
+<li><b>Affix &amp; Scrollspy:</b> Bootstrap.</li>
+<li><b>Tooltips &amp; popovers:</b> Bootstrap.</li>
+<li><b>Alerts:</b> Bootstrap + simple fade in with JS.</li>
+<li><b>Text editors:</b> TinyMCE.</li>
+<li><b>Date management:</b> MomentJS.</li>
+<li><b>Datepickers:</b> Pickadate.</li>
+<li><b>Animations:</b> Pure CSS. Velocity if more complex animations are needed.</li>
+<li><b>Progress Bars:</b> Pure CSS.</li>
+<li><b>Maps:</b> Leaflet or Google Maps.</li>
+<li><b>Parallax:</b> Pure CSS.</li>
+<li><b>Image galleries:</b> Slick.js inside a modal.</li>
+<li><b>Chat mentions:</b> AT.js.</li>
+</ul>
+
+<h4>Code spacing and formatting guidelines</h4>
+
+<h5>80 CHARACTERS PER LINE</h5>
+
+<p>It&#39;s not always possible, but in order to improve code legibility we try to make lines no longer than 80 characters (this applies to HTML, JS, and SASS too).</p>
+
+<p>If you have to split an HTML tag, do it between attributes and indent the second line:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;a class=&quot;item-link&quot; href=&quot;http://www.marsbased.com&quot;
+  target=&quot;_blank&quot;&gt;
+  MarsBased Website
+&lt;/a&gt;
+</code></pre></div>
+<p>Advanced text editors like Sublime Text allow you to add a ruler on your screen that mark where the 80 characters per line are reached.</p>
+
+<h5>HTML FILES</h5>
+
+<p>We don’t include any extra line-breaks between <i>divs</i> and other elements. Also, we avoid using HTML comments unless they are completely necessary to explain how something is supposed to work.</p>
+
+<p>For example, instead of doing:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;div class=&quot;results&quot;&gt;
+
+  &lt;div class=&quot;item&quot;&gt;
+    &lt;h2&gt;MarsBased website&lt;/h2&gt;
+  &lt;/div&gt;&lt;!-- .item --&gt;
+
+&lt;/div&gt;&lt;!-- .results --&gt;
+</code></pre></div>
+<p>We prefer to do:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;div class=&quot;results&quot;&gt;
+  &lt;div class=&quot;item&quot;&gt;
+    &lt;h2&gt;MarsBased website&lt;/h2&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre></div>
+<p><b>Bonus:</b> there is a Sublime Text plugin called <a href="https://github.com/SublimeText/TrailingSpaces" title="TrailingSpaces" target="_blank">TrailingSpaces</a> that detects unnecessary blank spaces in your code and deletes them all at once with a keyboard shortcut!</p>
+
+<h5>SASS FILES</h5>
+
+<p>If a CSS selector doesn’t have any property inside it, we leave no space between the selector and the selector that comes next:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">.results
+  .item
+    border: 1px solid purple
+</code></pre></div>
+<p>On the other hand, if a selector has some properties, we add an extra line break between the last property and the next selector:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">.results
+padding: 10px 20px
+
+.item
+border: 1px solid purple
+</code></pre></div>
+<h5>SEO</h5>
+
+<p>We follow the SEO best practices of naming all the elements with HTML5 semantic tags, when possible, like <i>header, aside, section, nav, footer, article,</i> etc.</p>
+
+<p>Inside each of these tags, we try to respect a hierarchic structure of headings. It sounds obvious, but <i>h1</i> elements must contain <i>h2</i> and not the other way around.</p>
+
+<p>Finally, we always add the <i>title</i> attribute to all the links and <i>title</i> and <i>alt</i> to all the images.</p>
+
+<p>Have a look at <a href="https://developer.mozilla.org/en/docs/Sections_and_Outlines_of_an_HTML5_document" title="HTML5 elements" target="_blank">this website</a> for a complete guide of HTML5 elements.</p>
+
+<h5>LINKS BETWEEN PAGES</h5>
+
+<p>Our layouts are used by our programmers to understand how they have to develop an application. However, our clients use them too to review the status of a project and to show the user interface to other people like investors or partners.</p>
+
+<p>For that reason, we create navigational layouts linking all the pages and our projects can be used as a normal application (although the content is completely static). For example, if someone clicks the “Sign up” link of the navigation bar, we take him to the Sign Up page, where he will be able to check how it looks like.</p>
+
+<p><hr></p>
+
+<p>That was a long read, indeed! Have you learnt something useful? Do you want to add something? Let us know in the comments section below!</p>
+
+  </div>
+</div>
+
+<div class="row disqus">
+  <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'marsbased'; // required: replace example with your forum shortname
+        var disqus_identifier = '/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines';
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+
+<div class="row blog-info">
+  <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
+    <div>
+      <h3>You're reading the MarsBased blog</h3>
+      <p>MarsBased is an application development company highly specialised in Ruby on Rails, based in Barcelona.</p>
+      <p>We are a development company with the DNA of a startup. We are publishing all our experiences as a company in this blog, because there might be somebody out there willing to read it! And someday, we will compile all of this in an ebook, available in the best Martian libraries.</p>
+      <a class="btn btn-default" href="/feed.xml"><i class="fa fa-rss"></i> Subscribe to our RSS feed</a>
+      <a class="btn btn-default" href="https://twitter.com/MarsBased" target="_blank">Or follow us on Twitter!</a>
+    </div>
+  </div>
+</div>
+
+
+
+      </div>
+    </div>
+    <footer>
+      <div class="footer">
+        <div class="navbar">
+          <ul class="navbar-nav">
+            <li class="">
+  <a href="/" title="Work">Work</a>
+</li>
+<li class="">
+  <a href="/about" title="About Us">About Us</a>
+</li>
+<li class="">
+  <a href="/blog" title="Blog">Blog</a>
+</li>
+<li class="">
+  <a href="/contact" title="Contact">Contact</a>
+</li>
+            <li class=""><a href="/privacy" title="Privacy">Privacy</a></li>
+          </ul>
+        </div>
+        <p>© 2014 MarsBased. <img class="img_pin" alt="Pin" src="/assets/pin-7ef94b6df7d9e98db64eb67c6b378218.png" /> Created between Barcelona and Mars.</p>
+      </div>
+    </footer>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42421489-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  </body>
+</html>

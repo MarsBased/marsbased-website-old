@@ -7,6 +7,384 @@
     <atom:link href="http://www.marsbased.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>The MarsBased CSS &amp; HTML Guidelines</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d406.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Since we started MarsBased, we&amp;#39;ve completed a good share of projects. From all of them we&amp;#39;ve learnt something useful. But all this knowledge should be stored somewhere for further use, for instance, to train new developers.&lt;/p&gt;
+
+&lt;p&gt;Pretty much like we did with the release of the MarsBased blogging guide (&lt;a href=&quot;http://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide&quot; title=&quot;How to Create a Damn Good Blog Post&quot; target=&quot;_blank&quot;&gt;part 1&lt;/a&gt;, &lt;a href=&quot;http://marsbased.com/blog/2015/08/16/How-to-Create-a-Blogging-Strategy-for-your-Company&quot; title=&quot;How to Create a Blogging Strategy for Your Company&quot; target=&quot;_blank&quot;&gt;part 2&lt;/a&gt;), we want to share what we have learnt about HTML5 &amp;amp; CSS3 with you all.&lt;/p&gt;
+
+&lt;p&gt;Things should not only work well. They can also look good.&lt;/p&gt;
+
+&lt;p&gt;Frontend developers, this one is for you.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3&gt;Workflows&lt;/h3&gt;
+
+&lt;p&gt;Before we delve into the technologies we use, we will introduce our working methodologies here:&lt;/p&gt;
+
+&lt;h4&gt;Task management&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.trello.com&quot; title=&quot;Trello&quot; target=&quot;_blank&quot;&gt;Trello&lt;/a&gt; is our tool of choice for managing tasks and weekly sprints.&lt;/p&gt;
+
+&lt;p&gt;We have one board for each project. Inside the project&amp;#39;s board, you&amp;#39;ll find columns for the present and coming weeks, along with &lt;i&gt;Done, Review Pending, Bugs, Features,&lt;/i&gt; and &lt;i&gt;Backlog&lt;/i&gt;. In projects that have been already rolled out, you will see some columns for the deploys management, too.&lt;/p&gt;
+
+&lt;p&gt;The Project Manager is in charge of assigning the layout &amp;amp; design tasks. You will see the cards assigned to you in the present week column. Once you have finished a task, you must add a new comment indicating the relevant pull request link, and move the card to the &lt;i&gt;Review&lt;/i&gt; Pending column.&lt;/p&gt;
+
+&lt;p&gt;The Project Manager will review the implementations and move the card to &lt;i&gt;Done&lt;/i&gt;, send it back to you (if there is something to fix) or forward it to the Development Team.&lt;/p&gt;
+
+&lt;p&gt;The weekly sprints are defined on Mondays, in an online meeting between you and the Project Manager. However, don&amp;#39;t hesitate to get in touch with the Project Manager at any time, if you need to discuss anything or have any question.&lt;/p&gt;
+
+&lt;h4&gt;Commits &amp; Branches&lt;/h4&gt;
+
+&lt;p&gt;We work with both &lt;a href=&quot;github.com&quot; title=&quot;Github&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt; and &lt;a href=&quot;bitbucket.org&quot; title=&quot;Bitbucket&quot; target=&quot;_blank&quot;&gt;Bitbucket&lt;/a&gt; and we always have separate repositories for the layout implementation and the development, so you don&amp;#39;t have to worry about breaking stuff or learning Ruby on Rails. In other words, you will have to deal with HTML, CSS, and JS, only.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we never work on the &lt;i&gt;master&lt;/i&gt; branch, as it only contains reviewed and finished stuff. Usually, we create a new branch for each task. However, we sometimes group small and related tasks to use only one branch for them. Apply common sense and branch wisely!&lt;/p&gt;
+
+&lt;p&gt;The Project Manager will merge those branches into &lt;i&gt;master&lt;/i&gt; after making the relevant reviews.&lt;/p&gt;
+
+&lt;p&gt;Finally, when we make commits, we always include the type of change we have made between brackets.&lt;/p&gt;
+
+&lt;p&gt;For example, if you&amp;#39;ve changed only the CSS code, you indicate:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;[CSS] Replaced the body background color.&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have changed the HTML and you have replaced some images, you will write:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;[HTML+IMG] Replaced the default avatar.&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;You might want to include other indications like &lt;i&gt;JS, README, CONFIG,&lt;/i&gt; etc. This way, our developers will be able to identify very quickly what they have to change in the development to replicate our work.&lt;/p&gt;
+
+&lt;h4&gt;Testing&lt;/h4&gt;
+
+&lt;p&gt;Quality is one of the founding values of MarsBased. A while back ago, we defined quality as &amp;quot;&lt;i&gt;meeting and exceeding clients expectations while maintaining our own methodologies&lt;/i&gt;&amp;quot;. For that reason, exhaustive and successful testing is critical in our day to day.&lt;/p&gt;
+
+&lt;p&gt;As a front end developer, you’re in charge of testing how the applications look in all the required browsers and devices.&lt;/p&gt;
+
+&lt;p&gt;Our testing workflow is plain and simple:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In new projects where we start the development from scratch, we leave the testing tasks for the end and we do them all at once.&lt;/li&gt;
+&lt;li&gt;In projects under maintenance (live products), we test each new feature or bug fix before sending the pull request to the development team.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Keep this in mind all the time: an excellent developer is not just someone who creates good code, but is also a good tester.&lt;/p&gt;
+
+&lt;h3&gt;Tech Stack and Guidelines&lt;/h3&gt;
+
+&lt;h4&gt;Middleman&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;middlemanapp.com&quot; title=&quot;Middleman&quot; target=&quot;_blank&quot;&gt;Middleman&lt;/a&gt; is a static websites generator built with Ruby on Rails. It integrates all the state-of-the-art frameworks and tools for frontend development (like SASS, Modernizr, Compass, Autoprefixer...) and allows you to use templating languages such as ERB or Liquid.&lt;/p&gt;
+
+&lt;p&gt;All our new projects are developed using Middleman, but before that, we used &lt;a href=&quot;jekyllrb.com&quot; title=&quot;Jekyll&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;. Jekyll is very similar to Middleman, with only a few differences between them. While we used Liquid as the templating language in Jekyll, now we switched to ERB in Middleman.&lt;/p&gt;
+
+&lt;p&gt;In the project&amp;#39;s README file, you will find instructions about how to install the required packages and run any of those tools.&lt;/p&gt;
+
+&lt;h5&gt;MIDDLEMAN TOOLS&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Middleman lets you organize your code in layouts and partials. Do it wisely, we don&amp;#39;t want to have to deal with tons of files. Use partials only for stuff that will appear in several pages, or to split the code of very long pages, but always remember that &lt;i&gt;simpler is better&lt;/i&gt;.&lt;/li&gt;
+&lt;li&gt;We have developed our own Middleman template called MarsMan. We use it as a model to create new projects. It contains all the folders, SASS mixins, frameworks and libraries that we use in our projects. Marsman is an open source project, so you can use it for your personal stuff or even send it to other people. You can download the code from &lt;a href=&quot;https://github.com/MarsBased/marsman-template&quot; title=&quot;MarsBased Github profile&quot; target=&quot;_blank&quot;&gt;our Github profile&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;We use the Middleman helper &lt;i&gt;page_classes&lt;/i&gt; to define &lt;i&gt;page-specific&lt;/i&gt; classes in the body tag of the HTML. Use them carefully, we don&amp;#39;t want to create too many page dependencies in our CSS code.&lt;/li&gt;
+&lt;li&gt;Middleman has a very useful set of helpers that let you add random Lorem Ipsum content and image placeholders.&lt;/li&gt;
+&lt;li&gt;Middleman allows you to add Markdown content to a website by simply including a markdown file as a partial inside any other HTML file. We use Markdown files for text-only pages like Terms &amp;amp; Conditions, Privacy Policy or blog posts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can find more information about Middleman and Jekyll in their official websites.&lt;/p&gt;
+
+&lt;p&gt;Also, if you never had the chance to use ERB, you can find some examples in &lt;a href=&quot;http://benfrain.com/understanding-middleman-the-static-site-generator-for-faster-prototyping/&quot; title=&quot;Middleman&quot; target=&quot;_blank&quot;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;Bootstrap&lt;/h4&gt;
+
+&lt;p&gt;Most of our works are based on &lt;a href=&quot;http://getbootstrap.com/&quot; title=&quot;Bootstrap&quot; target=&quot;_blank&quot;&gt;Bootstrap&lt;/a&gt;. It&amp;#39;s a very well-known markup framework and it offers good compatibility with browsers and other components. Also, our developers are familiar with it and can reuse a lot of code.&lt;/p&gt;
+
+&lt;p&gt;We tend to use always the last stable version of Bootstrap, in their SASS distribution. Since we also use SASS as our CSS framework of choice, you will be able to replace the Bootstrap variables and adapt them to each project. Do it whenever possible, instead of overwriting the Bootstrap properties. You can find the complete list of variables in the &lt;a href=&quot;https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss&quot; title=&quot;Bootstrap SASS Github page&quot; target=&quot;_blank&quot;&gt;Bootstrap SASS Github page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, Bootstrap has a very powerful grid system. It can be used by simply including classes in the HTML markup, such as &lt;i&gt;.row&lt;/i&gt; or &lt;i&gt;.col-xs-6&lt;/i&gt;. However, instead of using those classes to define rows and columns, we prefer to use the Bootstrap mixins. They also allow you to define rows and columns, but you can do it directly in the SASS files, without dirtying the HTML code. Following this approach, we can completely separate the markup of a website from its styles and we make the application easier to maintain.&lt;/p&gt;
+
+&lt;p&gt;In other words, instead of doing:
+&lt;pre&gt;
+ &lt;code&gt;&amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+  &amp;lt;div class=&amp;quot;results row&amp;quot;&amp;gt;
+    &amp;lt;div class=&amp;quot;item col-xs-12 col-sm-6 col-md-4&amp;quot;&amp;gt;
+      The Martian
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;&lt;/code&gt;
+&lt;/pre&gt;&lt;/p&gt;
+
+&lt;p&gt;We prefer to do:
+&lt;pre&gt;
+ &lt;code&gt;&amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+  &amp;lt;div class=&amp;quot;results&amp;quot;&amp;gt;
+    &amp;lt;div class=&amp;quot;item&amp;quot;&amp;gt;
+      The Martian
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;&lt;/code&gt;
+&lt;/pre&gt;&lt;/p&gt;
+
+&lt;p&gt;And:
+&lt;pre&gt;
+.results
+  +make-row()
+.item
+  +make-xs-column(12)
+  +make-sm-column(6)
+  +make-md-column(4)
+&lt;/pre&gt;&lt;/p&gt;
+
+&lt;p&gt;You can see the &lt;a href=&quot;https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/mixins/_grid.scss&quot; title=&quot;Mixins used in the grid system&quot; target=&quot;_blank&quot;&gt;mixins used in the grid system&lt;/a&gt; also in Github.&lt;/p&gt;
+
+&lt;h4&gt;SASS&lt;/h4&gt;
+
+&lt;p&gt;SASS is a CSS preprocessor that lets you use variables, functions, operations, and other useful stuff inside your CSS stylesheets. You can learn how to use SASS in their &lt;a href=&quot;http://sass-lang.com/&quot; title=&quot;SASS official website&quot; target=&quot;_blank&quot;&gt;official website&lt;/a&gt;. We&amp;#39;re sure you&amp;#39;ll find it very easy!&lt;/p&gt;
+
+&lt;h5&gt;PARTIALS&lt;/h5&gt;
+
+&lt;p&gt;We organize our SASS code in partials that we later import in a single file called &lt;i&gt;application.sass&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;These partials are organized in folders. Take a look at this example:&lt;/p&gt;
+
+&lt;pre&gt;
+/stylesheets
+
+  /utils
+    _mixins.sass
+    _variables.sass
+    _helpers.sass
+    _keyframes.sass
+
+  /modules
+    _navbar.sass
+    _footer.sass
+    _items.sass
+    _filters.sass
+
+  /layouts
+    _home.sass
+    _results.sass
+
+  application.sass
+
+&lt;/pre&gt;
+
+&lt;p&gt;The &lt;i&gt;/utils&lt;/i&gt; folder is where we store our helpers, mixins and keyframes - coding tools that we use in our HTML and SASS files. We also have a file called &lt;i&gt;_variables.sass&lt;/i&gt; that contains generic variables like color or typography definitions. However, page- or module-specific variables are not stored here but inside the corresponding layout or module file (you can find an example a couple of paragraphs from here).&lt;/p&gt;
+
+&lt;p&gt;The &lt;i&gt;/modules&lt;/i&gt; folder contains the styles of the differents components that compose each page. And finally, we use the &lt;i&gt;/layouts&lt;/i&gt; folder to include styles we need to apply to specific pages.&lt;/p&gt;
+
+&lt;p&gt;If the difference between layouts and modules is still not clear for you, have a look at the following example.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#39;s say that we have to develop a marketplace with a results page, where each result is an item. Some of these items will also appear in the Home page.&lt;/p&gt;
+
+&lt;p&gt;We would create a &lt;i&gt;_items.sass&lt;/i&gt; file inside &lt;i&gt;/modules&lt;/i&gt; and we would put there all the styles that apply to the items.&lt;/p&gt;
+
+&lt;pre&gt;
+// modules/_item.sass
+
+.item
+
+  $item-primary-color: #000000 // Variable specific to this module!
+
+  padding: 20px
+  background-color: #f4f4f4
+
+  .title
+    color: $item-primary-color
+&lt;/pre&gt;
+
+&lt;p&gt;Now consider that these items have to look differently in the Homepage than in the Results view. In that case, we would create a &lt;i&gt;_home.sass&lt;/i&gt; file inside &lt;i&gt;/layouts&lt;/i&gt; with the following styles:&lt;/p&gt;
+
+&lt;pre&gt;
+// modules/_home.sass
+
+.home
+  .item
+    background-color: inherit
+&lt;/pre&gt;
+
+&lt;h5&gt;NAMING CONVENTIONS&lt;/h5&gt;
+
+&lt;p&gt;In order to name our elements and classes, we follow the modular approach explained in &lt;a href=&quot;http://thesassway.com/advanced/modular-css-naming-conventions&quot; title=&quot;Modular CSS naming conventions&quot; target=&quot;_blank&quot;&gt;this article&lt;/a&gt; from &lt;a href=&quot;http://thesassway.com/&quot; title=&quot;The SASS Way&quot; target=&quot;_blank&quot;&gt;The SASS Way&lt;/a&gt;. However, we don&amp;#39;t apply the &lt;i&gt;parent-child&lt;/i&gt; rules, as we prefer to use nesting for such cases. In any case, if you ever have to define parent-child relations, use a dash (-) as a separator instead of an underscore (_) or any other symbol.&lt;/p&gt;
+
+&lt;p&gt;Finally, in order to differentiate keyframes (animations) from classes or IDs, we name them without dashes or underscores:&lt;/p&gt;
+
+&lt;pre&gt;
+// Keyframes
+
+@keyframes fadeIn
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+
+@keyframes fadeOut
+  0%
+    opacity: 1
+  100%
+    opacity: 0
+&lt;/pre&gt;
+
+&lt;h5&gt;OTHER GUIDELINES&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can create your own mixins, but do it only when they will save you a lot of time, without adding too much complexity to the project. We don&amp;#39;t want to increase the application complexity because other less experienced coders might have to work on it at some point.&lt;/li&gt;
+&lt;li&gt;Nesting is one of the most powerful tools of SASS. However, it can be counterproductive if not used wisely. We follow the &lt;a href=&quot;http://thesassway.com/beginner/the-inception-rule&quot; title=&quot;The Inception Rule&quot; target=&quot;_blank&quot;&gt;Inception Rule&lt;/a&gt; defined in The SASS Way. It says that you can&amp;#39;t go more than four levels deep. It also explains how to organize the different selectors and properties in site-wide rules, page specific rules and objects.&lt;/li&gt;
+&lt;li&gt;In projects where we don&amp;#39;t have to support IE8 or lower, we use REM units to define font sizes, margins, heights, widths, etc. REM units work in a similar way than EMs, but they are proportional to the HTML tag &lt;i&gt;font-size&lt;/i&gt;. Bootstrap defines the HTML &lt;i&gt;font-size&lt;/i&gt; to 10px, so using REM units is very easy: 1rem will always be equal to 10px, 1.4rem will be equal to 14px, 0.8rem will be equal to 8px, and so on.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Autoprefixer, Modernizr, and Compass&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/middleman/middleman-autoprefixer&quot; title=&quot;Autoprefixer&quot; target=&quot;_blank&quot;&gt;Autoprefixer&lt;/a&gt; is a plugin that parses the CSS files and adds browser specific prefixes to the properties that require them. This means that you don&amp;#39;t have to worry about adding prefixes such as -webkit-, -moz- or -ms- because Autoprefixer does it for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://modernizr.com/&quot; title=&quot;Modernizr&quot; target=&quot;_blank&quot;&gt;Modernizr&lt;/a&gt; is a JavaScript library that detects if the user&amp;#39;s browser supports HTML5 and CSS3 features or not. You can use it to build fallbacks for modern features that old browsers might not support.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://compass-style.org/&quot; title=&quot;Compass&quot; target=&quot;_blank&quot;&gt;Compass&lt;/a&gt; is another CSS framework included in our Middleman projects. We prefer to use Autoprefixer to add browser specific prefixes, but you might want to use Compass for other things, like its vast library of reliable mixins.&lt;/p&gt;
+
+&lt;h4&gt;Images and icons&lt;/h4&gt;
+
+&lt;h5&gt;VECTORIAL IMAGES&lt;/h5&gt;
+
+&lt;p&gt;For logos, icons and small images we prefer to use SVG files instead of PNGs or JPGs because SVGs are made from vectors and can be resized without losing quality.&lt;/p&gt;
+
+&lt;p&gt;To include SVG files in the HTML code, drop the SVG files in the &lt;i&gt;shapes&lt;/i&gt; directory. All SVG files are formatted in XML. Make sure that they don&amp;#39;t have more data than the necessary (some apps like Adobe Illustrator include irrelevant information inside the SVG files that can produce errors).&lt;/p&gt;
+
+&lt;p&gt;Afterwards, you will have to execute a job that will take all the SVG files from the &lt;i&gt;shapes&lt;/i&gt; directory and produce a file called &lt;i&gt;shapes.html&lt;/i&gt;:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;grunt svg
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This file should be included in all the app&amp;#39;s pages as a partial:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt; &amp;lt;body class=&amp;quot;&amp;lt;%= page_classes %&amp;gt;&amp;quot;&amp;gt;
+  &amp;lt;%= partial &amp;quot;partials/shapes&amp;quot; %&amp;gt;
+  &amp;lt;%= yield %&amp;gt;
+  &amp;lt;%= javascript_include_tag  :application %&amp;gt;
+ &amp;lt;/body&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Now you can include any SVG image in your HTML by simply calling it. Use this markup to do it so:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&amp;lt;svg class=&amp;quot;shape shape-filename&amp;quot;&amp;gt;
+  &amp;lt;use xlink:href=&amp;quot;#shape-filename&amp;quot;&amp;gt;&amp;lt;/use&amp;gt;
+&amp;lt;/svg&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h5&gt;BOOTSTRAP GLYPHICONS AND FONT AWESOME&lt;/h5&gt;
+
+&lt;p&gt;If the design doesn&amp;#39;t come with its own icons, we like to use the ones provided by Bootstrap and Font Awesome. If you don&amp;#39;t find any suitable icon, try looking in websites like &lt;a href=&quot;iconfinder.com&quot; title=&quot;Iconfinder.com&quot; target=&quot;_blank&quot;&gt;iconfinder.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h5&gt;IMAGE HELPERS&lt;/h5&gt;
+
+&lt;p&gt;In some cases, we will have to deal with normal images like PNGs or JPGs. In that case, we use the image-url helper in the CSS files to point to files stored in the images folder:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;.navbar
+  background: image-url(&amp;#39;navbar-background.png&amp;#39;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the HTML markup, however, we use another helper called &lt;i&gt;image_tag&lt;/i&gt;:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&amp;lt;%= image_tag &amp;#39;padrino.png&amp;#39;, width: &amp;#39;35&amp;#39;, class: &amp;#39;logo pull-right&amp;#39; %&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;You can find more examples of the &lt;i&gt;image_tag&lt;/i&gt; helper in the &lt;a href=&quot;http://api.rubyonrails.org/classes/ActionView/Helpers/AssetTagHelper.html#method-i-image_tag&quot; title=&quot;Ruby on Rails API documentation&quot; target=&quot;_blank&quot;&gt;Ruby on Rails API documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;JS libraries&lt;/h4&gt;
+
+&lt;p&gt;Not all the JS libraries work well with Rails and AngularJS. For that reason, and also because we like to standardize the code of our projects, we have created a list of preferred libraries. If you ever have to use another library, consult our Development Team first.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Modals:&lt;/b&gt; ng-dialog (only in AngularJS projects) and Bootstrap.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Dropdown menus:&lt;/b&gt; Bootstrap.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Selects:&lt;/b&gt; Select2.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Tabs:&lt;/b&gt; Bootstrap.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Carousels:&lt;/b&gt; Slick.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Checkbox and radio buttons:&lt;/b&gt; Pure CSS (label after the input technique).&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Charts:&lt;/b&gt; C3 &amp;amp; D3.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Autocomplete:&lt;/b&gt; Select2.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Range sliders:&lt;/b&gt; bootstrap-slider.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Scroll:&lt;/b&gt; Just the browser scrollbar (avoid using JS scrollbars like Perfect Scrollbar if possible).&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Affix &amp;amp; Scrollspy:&lt;/b&gt; Bootstrap.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Tooltips &amp;amp; popovers:&lt;/b&gt; Bootstrap.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Alerts:&lt;/b&gt; Bootstrap + simple fade in with JS.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Text editors:&lt;/b&gt; TinyMCE.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Date management:&lt;/b&gt; MomentJS.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Datepickers:&lt;/b&gt; Pickadate.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Animations:&lt;/b&gt; Pure CSS. Velocity if more complex animations are needed.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Progress Bars:&lt;/b&gt; Pure CSS.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Maps:&lt;/b&gt; Leaflet or Google Maps.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Parallax:&lt;/b&gt; Pure CSS.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Image galleries:&lt;/b&gt; Slick.js inside a modal.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Chat mentions:&lt;/b&gt; AT.js.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Code spacing and formatting guidelines&lt;/h4&gt;
+
+&lt;h5&gt;80 CHARACTERS PER LINE&lt;/h5&gt;
+
+&lt;p&gt;It&amp;#39;s not always possible, but in order to improve code legibility we try to make lines no longer than 80 characters (this applies to HTML, JS, and SASS too).&lt;/p&gt;
+
+&lt;p&gt;If you have to split an HTML tag, do it between attributes and indent the second line:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&amp;lt;a class=&amp;quot;item-link&amp;quot; href=&amp;quot;http://www.marsbased.com&amp;quot;
+  target=&amp;quot;_blank&amp;quot;&amp;gt;
+  MarsBased Website
+&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Advanced text editors like Sublime Text allow you to add a ruler on your screen that mark where the 80 characters per line are reached.&lt;/p&gt;
+
+&lt;h5&gt;HTML FILES&lt;/h5&gt;
+
+&lt;p&gt;We don’t include any extra line-breaks between &lt;i&gt;divs&lt;/i&gt; and other elements. Also, we avoid using HTML comments unless they are completely necessary to explain how something is supposed to work.&lt;/p&gt;
+
+&lt;p&gt;For example, instead of doing:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&amp;lt;div class=&amp;quot;results&amp;quot;&amp;gt;
+
+  &amp;lt;div class=&amp;quot;item&amp;quot;&amp;gt;
+    &amp;lt;h2&amp;gt;MarsBased website&amp;lt;/h2&amp;gt;
+  &amp;lt;/div&amp;gt;&amp;lt;!-- .item --&amp;gt;
+
+&amp;lt;/div&amp;gt;&amp;lt;!-- .results --&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;We prefer to do:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&amp;lt;div class=&amp;quot;results&amp;quot;&amp;gt;
+  &amp;lt;div class=&amp;quot;item&amp;quot;&amp;gt;
+    &amp;lt;h2&amp;gt;MarsBased website&amp;lt;/h2&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;b&gt;Bonus:&lt;/b&gt; there is a Sublime Text plugin called &lt;a href=&quot;https://github.com/SublimeText/TrailingSpaces&quot; title=&quot;TrailingSpaces&quot; target=&quot;_blank&quot;&gt;TrailingSpaces&lt;/a&gt; that detects unnecessary blank spaces in your code and deletes them all at once with a keyboard shortcut!&lt;/p&gt;
+
+&lt;h5&gt;SASS FILES&lt;/h5&gt;
+
+&lt;p&gt;If a CSS selector doesn’t have any property inside it, we leave no space between the selector and the selector that comes next:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;.results
+  .item
+    border: 1px solid purple
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;On the other hand, if a selector has some properties, we add an extra line break between the last property and the next selector:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;.results
+padding: 10px 20px
+
+.item
+border: 1px solid purple
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h5&gt;SEO&lt;/h5&gt;
+
+&lt;p&gt;We follow the SEO best practices of naming all the elements with HTML5 semantic tags, when possible, like &lt;i&gt;header, aside, section, nav, footer, article,&lt;/i&gt; etc.&lt;/p&gt;
+
+&lt;p&gt;Inside each of these tags, we try to respect a hierarchic structure of headings. It sounds obvious, but &lt;i&gt;h1&lt;/i&gt; elements must contain &lt;i&gt;h2&lt;/i&gt; and not the other way around.&lt;/p&gt;
+
+&lt;p&gt;Finally, we always add the &lt;i&gt;title&lt;/i&gt; attribute to all the links and &lt;i&gt;title&lt;/i&gt; and &lt;i&gt;alt&lt;/i&gt; to all the images.&lt;/p&gt;
+
+&lt;p&gt;Have a look at &lt;a href=&quot;https://developer.mozilla.org/en/docs/Sections_and_Outlines_of_an_HTML5_document&quot; title=&quot;HTML5 elements&quot; target=&quot;_blank&quot;&gt;this website&lt;/a&gt; for a complete guide of HTML5 elements.&lt;/p&gt;
+
+&lt;h5&gt;LINKS BETWEEN PAGES&lt;/h5&gt;
+
+&lt;p&gt;Our layouts are used by our programmers to understand how they have to develop an application. However, our clients use them too to review the status of a project and to show the user interface to other people like investors or partners.&lt;/p&gt;
+
+&lt;p&gt;For that reason, we create navigational layouts linking all the pages and our projects can be used as a normal application (although the content is completely static). For example, if someone clicks the “Sign up” link of the navigation bar, we take him to the Sign Up page, where he will be able to check how it looks like.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;That was a long read, indeed! Have you learnt something useful? Do you want to add something? Let us know in the comments section below!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Nov 2015 16:00:00 +0100</pubDate>
+        <link>http://www.marsbased.com/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines</link>
+        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines</guid>
+      </item>
+    
+      <item>
         <title>Presenting the Barcelona Startups Community on Slack</title>
         <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d386.y36/AB&lt;/em&gt;&lt;/p&gt;
 
@@ -957,130 +1335,6 @@
         <pubDate>Tue, 24 Mar 2015 16:00:00 +0100</pubDate>
         <link>http://www.marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World</link>
         <guid isPermaLink="true">http://www.marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World</guid>
-      </item>
-    
-      <item>
-        <title>Our New Year&#39;s Resolutions for 2015</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d114.y36/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;2014 has been an amazing ride. It has seen us &lt;a href=&quot;http://marsbased.com/blog/2013/09/07/take-offs-and-landings&quot; title=&quot;Take-offs and Landings&quot; target=&quot;_blank&quot;&gt;creating MarsBased&lt;/a&gt;, getting our first small projects, speaking at conferences, getting big projects, &lt;a href=&quot;http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack&quot; title=&quot;The Martians Conquer the Ironhack&quot; target=&quot;_blank&quot;&gt;mentoring at IronHack&lt;/a&gt;, &lt;a href=&quot;http://marsbased.com/blog/2014/06/09/Barcelona-Startup-Map1&quot; title=&quot;Barcelona Startup Map&quot; target=&quot;_blank&quot;&gt;working for the Barcelona City Council&lt;/a&gt;, &lt;a href=&quot;http://marsbased.com/blog/2014/02/24/the-martians-conquer-the-startup-grind&quot; title=&quot;Startup Grind and MarsBased&quot; target=&quot;_blank&quot;&gt;leading Startup Grind&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://marsbased.com/blog/2013/11/07/startup-circle-barcelona&quot; title=&quot;Startup Circle in Barcelona&quot; target=&quot;_blank&quot;&gt;Startup Circle&lt;/a&gt;, welcoming our first hires and many other amazing achievements.&lt;/p&gt;
-
-&lt;p&gt;In fact, we&amp;#39;re preparing a detailed review of 2014 for you all to enjoy and discover what&amp;#39;s been going on in the MarsBased spaceship.&lt;/p&gt;
-
-&lt;p&gt;While the 2014 post is being baked, we&amp;#39;ll share with you our new year resolutions for this promising 2015!&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;In our first meeting of the year, everybody was asked what his resolutions for 2015 were, both personal and professional. Most of the resolutions are strongly related to our first months at MarsBased and/or our previous jobs, so we will be providing a little background to help you understand our resolutions better.&lt;/p&gt;
-
-&lt;p&gt;This does not only help us bonding with each other, but it is also part of our new strategy of publishing more blog content and providing more transparency as a company (inspired in the &lt;a href=&quot;http://buffer.com&quot; title=&quot;Buffer&quot; target=&quot;_blank&quot;&gt;Buffer&lt;/a&gt; guys, who are doing a terrific job at &lt;a href=&quot;https://bufferapp.com/transparency&quot; title=&quot;Buffer&#39;s Transparency policy&quot; target=&quot;_blank&quot;&gt;helping new companies delving into corporate transparency&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;In no particular order, here&amp;#39;s what the Martians pledged to achieve in 2015.&lt;/p&gt;
-
-&lt;h3&gt;Xavier Redó - CTO&lt;/h3&gt;
-
-&lt;p&gt;Xavi started the year joining his previous company, &lt;a href=&quot;http://www.opscaling.com/&quot; title=&quot;GNuine&quot; target=&quot;_blank&quot;&gt;GNuine&lt;/a&gt;, because we didn&amp;#39;t know we&amp;#39;d be able to recruit him so early. Our best guesstimates assumed we&amp;#39;d have to wait until the end of the year to have him working full-time.&lt;/p&gt;
-
-&lt;p&gt;This past year has seen Xavi working hard to cope with all the projects we&amp;#39;ve gotten at MarsBased, therefore his resolutions are:&lt;/p&gt;
-
-&lt;div class=&quot;quote left-sided&quot;&gt;
-    &lt;div class=&quot;avatar&quot;&gt;
-        &lt;img src=&quot;/images/xavi-squared.jpg&quot; alt=&quot;Xavier Redó&quot; title=&quot;Xavier Redó&quot; class=&quot;img-responsive img-circle&quot; /&gt;
-        &lt;h4&gt;Xavier Redó&lt;/h4&gt;
-        &lt;p&gt;CTO&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;text&quot;&gt;
-        &lt;p&gt;Technologically speaking, I would like to be able to invest more time in exploring new technologies and frameworks to help us face the constant request of mobile apps.&lt;/p&gt;
-        &lt;p&gt;Secondly, I would like to identify repeating patterns in our development processes in order to extract libraries we can reuse in the forthcoming projects and open source them when possible.&lt;/p&gt;
-        &lt;p&gt;Leaving tech aside, I would like to participate more in events and conferences. I think I can add value in initiatives whose goal is to provide formation to new developers.&lt;/p&gt;
-        &lt;p&gt;Actually, I can also provide interesting content online, so I will be contributing more to the MarsBased blog. We&#39;ve gathered some interesting results in 2014, and I would like to publish them and share them with our followers and the Rails community.&lt;/p&gt;
-        &lt;p&gt;Finally, something I would like to improve is my time allocation skills. I am pretty accurate at guesstimating all the needed resources for each project, but so far I haven&#39;t included all these side-projects into my agenda. Here&#39;s to a 2015 for improvement!&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;Emilio Ríos - Developer&lt;/h3&gt;
-
-&lt;p&gt;Emilio joined us barely a month and a half ago. But in our eyes, feels like he&amp;#39;s been with us for all the ride. He is combining his internship at MarsBased with finishing his studies at La Salle.&lt;/p&gt;
-
-&lt;div class=&quot;quote right-sided&quot;&gt;
-    &lt;div class=&quot;avatar&quot;&gt;
-        &lt;img src=&quot;/images/emilio-squared.jpg&quot; alt=&quot;Emilio Ríos&quot; title=&quot;Emilio Ríos&quot; class=&quot;img-responsive img-circle&quot; /&gt;
-        &lt;h4&gt;Emilio Ríos&lt;/h4&gt;
-        &lt;p&gt;Developer&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;text&quot;&gt;
-        &lt;p&gt;Since I have not been programming for long - at least not professionally - I would like to commit to improving my programming skills in 2015. Inspired by &lt;a href=&quot;http://ejohn.org/blog/write-code-every-day/&quot; title=&quot;Write Code Every Day&quot; target=&quot;_blank&quot;&gt;John Resig&lt;/a&gt;, my new year resolution is to produce code every day of the year.&lt;/p&gt;
-        &lt;p&gt;Now that my teammates depend on me, I want to learn as much as possible to be helpful to them!&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;Javier Pérez - Developer&lt;/h3&gt;
-
-&lt;p&gt;Javi joined MarsBased at the beginning of Q4, in early October. Having worked at &lt;a href=&quot;http://www.vass.es&quot; title=&quot;VASS&quot; target=&quot;_blank&quot;&gt;VASS&lt;/a&gt; together with Àlex, he transitioned from a full-time corporate J2EE consultant to an AngularJS &amp;amp; Rails developer.&lt;/p&gt;
-
-&lt;p&gt;Same as Emilio, feels like he&amp;#39;s been forever with us!&lt;/p&gt;
-
-&lt;div class=&quot;quote left-sided&quot;&gt;
-    &lt;div class=&quot;avatar&quot;&gt;
-        &lt;img src=&quot;/images/javi-squared.jpg&quot; alt=&quot;Javier Pérez&quot; title=&quot;Javier Pérez&quot; class=&quot;img-responsive img-circle&quot; /&gt;
-        &lt;h4&gt;Javier Pérez&lt;/h4&gt;
-        &lt;p&gt;Developer&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;text&quot;&gt;
-        &lt;p&gt;I would like to master Rails in the coming months so that I can be 100% autonomous in the projects I am assigned to. This way, I will also be able to explore new techniques &amp; trends on my own.&lt;/p&gt;
-        &lt;p&gt;By acquiring more knowledge on Rails, I will be able to spot recurring patterns that I can turn into libraries for our projects.&lt;/p&gt;
-        &lt;p&gt;On a personal side, and when I will be more autonomous, I would like to travel more. I want to enjoy this freedom of schedule we&#39;ve got and visit places I haven&#39;t been to!&lt;/p&gt;
-        &lt;p&gt;Last, but not least, I would like to keep my condition of being single :)&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;Àlex Rodríguez - CMO&lt;/h3&gt;
-
-&lt;p&gt;I started 2014 in San Francisco, having then recently quit my previous job at VASS, where I worked with Javi - actually, we were in the same project, sitting next to each other.&lt;/p&gt;
-
-&lt;p&gt;After some weeks wandering around the city-cradle of entrepreneurship, I returned to Barcelona and got the Barcelona Startup Map project. That gave us the opportunity of employing me full time at the end of Q1, despite the fact that we were bootstrapping.&lt;/p&gt;
-
-&lt;p&gt;So here are my resolutions:&lt;/p&gt;
-
-&lt;div class=&quot;quote right-sided&quot;&gt;
-    &lt;div class=&quot;avatar&quot;&gt;
-        &lt;img src=&quot;/images/alex-squared.jpg&quot; alt=&quot;Àlex Rodríguez&quot; title=&quot;Àlex Rodríguez&quot; class=&quot;img-responsive img-circle&quot; /&gt;
-        &lt;h4&gt;Àlex Rodríguez&lt;/h4&gt;
-        &lt;p&gt;CMO&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;text&quot;&gt;
-        &lt;p&gt;2014 was a year of working hard to meet all the deadlines &amp; cover all the areas of creating a company. I balanced my area&#39;s tasks (sales/marketing) with all sorts of other operational tasks to keep the development team focused.&lt;/p&gt;
-        &lt;p&gt;This year I want to work smarter by focusing on my own areas (sales/marketing), while helping others improve in theirs.&lt;/p&gt;
-        &lt;p&gt;Also, in terms of pushing my marketing skills to the next level, I want to learn graphic editing as well as improve my writing skills, publishing blog entries more often.&lt;/p&gt;
-        &lt;p&gt;In terms of achievements, I would like to land a couple of big projects this year (if possible, from abroad). Also, I will be devoting more time to our presence in events, besides strengthening our relationship with Startup Grind &amp; Startup Circle.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;Jordi Vendrell - COO&lt;/h3&gt;
-
-&lt;p&gt;Jordi is the third founding member at MarsBased. However, due to his duties as a Technical Director at Green Data and having a child last year, he couldn&amp;#39;t join MarsBased until now. He&amp;#39;s joining full-time on February, 9th.&lt;/p&gt;
-
-&lt;p&gt;Last year, he spent it balancing his position at Green Data, some hours during the weekends for MarsBased and his condition of first-time father.&lt;/p&gt;
-
-&lt;div class=&quot;quote left-sided&quot;&gt;
-    &lt;div class=&quot;avatar&quot;&gt;
-        &lt;img src=&quot;/images/jordi-squared.jpg&quot; alt=&quot;Jordi Vendrell&quot; title=&quot;Jordi Vendrell&quot; class=&quot;img-responsive img-circle&quot; /&gt;
-        &lt;h4&gt;Jordi Vendrell&lt;/h4&gt;
-        &lt;p&gt;COO&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;text&quot;&gt;
-        &lt;p&gt;I only ask that on 2015 I will be able to combine professional and personal life better: spend more time with my family, get fit and keep doing a great job.&lt;/p&gt;
-        &lt;p&gt;As for MarsBased, I would like to produce a new version of our corporate website that stands up to our status nowadays. It has to be a kick-ass website! Also, I&#39;m looking forward to being more involved in the operative work of the company.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr/&gt;
-
-&lt;p&gt;... and you? What are your resolutions for this year? Share them in the comments section below!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Jan 2015 16:00:00 +0100</pubDate>
-        <link>http://www.marsbased.com/blog/2015/01/20/Our-New-Years-Resolutions-For-20154</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/01/20/Our-New-Years-Resolutions-For-20154</guid>
       </item>
     
   </channel>
