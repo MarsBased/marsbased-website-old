@@ -7,6 +7,24 @@ code: sitemap
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://marsbased.com/blog</loc>
+    <lastmod>{{ site.time | date:"%F" }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% for post in site.posts %}
+  <url>
+    <loc>http://marsbased.com{{ post.url }}</loc>
+    {% if post.lastmod == null %}
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% endfor %}
+  <url>
     <loc>http://www.marsbased.com</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>weekly</changefreq>
@@ -29,12 +47,6 @@ code: sitemap
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.1</priority>
-  </url>
-  <url>
-    <loc>http://blog.marsbased.com</loc>
-    <lastmod>{{ site.time | date:"%F" }}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
   </url>
   <url>
     <loc>http://www.marsbased.com/startups</loc>
