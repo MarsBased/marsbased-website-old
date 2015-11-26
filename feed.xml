@@ -75,7 +75,7 @@
 
 &lt;h4&gt;Middleman&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;middlemanapp.com&quot; title=&quot;Middleman&quot; target=&quot;_blank&quot;&gt;Middleman&lt;/a&gt; is a static websites generator built with Ruby. It integrates all the state-of-the-art frameworks and tools for frontend development (like SASS, Modernizr, Compass, Autoprefixer...) and allows you to use templating languages such as ERB or Liquid.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;middlemanapp.com&quot; title=&quot;Middleman&quot; target=&quot;_blank&quot;&gt;Middleman&lt;/a&gt; is a static websites generator built with Ruby on Rails. It integrates all the state-of-the-art frameworks and tools for frontend development (like SASS, Modernizr, Compass, Autoprefixer...) and allows you to use templating languages such as ERB or Liquid.&lt;/p&gt;
 
 &lt;p&gt;All our new projects are developed using Middleman, but before that, we used &lt;a href=&quot;jekyllrb.com&quot; title=&quot;Jekyll&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;. Jekyll is very similar to Middleman, with only a few differences between them. While we used Liquid as the templating language in Jekyll, now we switched to ERB in Middleman.&lt;/p&gt;
 
@@ -197,7 +197,7 @@
 &lt;p&gt;Now consider that these items have to look differently in the Homepage than in the Results view. In that case, we would create a &lt;i&gt;_home.sass&lt;/i&gt; file inside &lt;i&gt;/layouts&lt;/i&gt; with the following styles:&lt;/p&gt;
 
 &lt;pre&gt;
-// layouts/_home.sass
+// modules/_home.sass
 
 .home
   .item
