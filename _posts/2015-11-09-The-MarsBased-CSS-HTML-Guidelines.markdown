@@ -165,7 +165,7 @@ These partials are organized in folders. Take a look at this example:
 
 The <i>/utils</i> folder is where we store our helpers, mixins and keyframes - coding tools that we use in our HTML and SASS files. We also have a file called <i>_variables.sass</i> that contains generic variables like color or typography definitions. However, page- or module-specific variables are not stored here but inside the corresponding layout or module file (you can find an example a couple of paragraphs from here).
 
-The <i>/modules</i> folder contains the styles of the differents components that compose each page. And finally, we use the <i>/layouts</i> folder to include styles we need to apply to specific pages.
+The <i>/modules</i> folder contains the styles of the different components that compose each page. And finally, we use the <i>/layouts</i> folder to include styles we need to apply to specific pages.
 
 If the difference between layouts and modules is still not clear for you, have a look at the following example.
 
