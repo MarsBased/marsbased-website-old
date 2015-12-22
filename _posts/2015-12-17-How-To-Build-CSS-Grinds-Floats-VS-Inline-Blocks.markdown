@@ -10,7 +10,7 @@ categories: Frontend Webdesign MarsBased
 
 When you're building anything in CSS (a header, a form, a grid) the first thing you need to consider is how elements will react with each other, that's how the flow of the document works: you put elements next to each other and you tell them how to behave. Some properties you attach to an element have influence on the elements beside it.
 
-## Floating elements
+## Floated elements
 
 So let's say you want to build a simple 3 column layout like this:
 <img src="/images/blog/post28a.png" alt="Simple 3 column layout" title="Simple 3 column layout" class="img-center img-responsive" />
