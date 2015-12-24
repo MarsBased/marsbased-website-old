@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /assets/
 Sitemap: http://www.marsbased.com/sitemap.xml
