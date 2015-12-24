@@ -29,7 +29,7 @@ Perhaps the best decision we have adopted at MarsBased was to always keep busy. 
 
 We have also refined our company culture by applying our values in our daily routine. We like to make better stuff by simplifying it, so we simplified our communication workflows and tool belt. Every week we devote some time to improve our routines and working methods to increase our productivity.
 
-At MarsBased, we also like to adopt new technologies. Our latest adoptions have been <a href="http://jekyllrb.com/" title="Jekyll" target="_blank">Jekyll</a>, <a href="http://coffeescript.org/" title="Coffeescript" target="_blank">Coffeescript</a> for our developments. We've as well cut down on communication channels by adopting <a href="https://slack.com/" title="Slack" target="_blank">Slack</a>.
+At MarsBased, we also like to adopt new technologies. Our latest adoptions have been <a href="http://jekyllrb.com/" title="Jekyll" target="_blank">Jekyll</a>, <a href="http://coffeescript.org/" title="Coffeescript" target="_blank" rel="nofollow">Coffeescript</a> for our developments. We've as well cut down on communication channels by adopting <a href="https://slack.com/" title="Slack" target="_blank">Slack</a>.
 
 ###Community giveback###
 

@@ -22,7 +22,7 @@ Companies that are 100% digital and do not require a big physical infrastructure
 
 An office requires maintenance, paying more bills, hiring basic services (phone, internet, water, A/C, etc.) and generally increases the number of chores that most small companies cannot afford to spend nor their money neither their time in.
 
-While some companies have adopted this lifestyle and work from home, some others have become digital nomads, such as <a href="http://www.8fit.com" title="8fit" target="_blank">8fit</a>, that travel together around the world, building their product from awesome places such as Bali, Berlin or the Canary Islands.
+While some companies have adopted this lifestyle and work from home, some others have become digital nomads, such as <a href="http://www.8fit.com" title="8fit" target="_blank" rel="nofollow">8fit</a>, that travel together around the world, building their product from awesome places such as Bali, Berlin or the Canary Islands.
 
 <img src="/images/blog/post20.jpg" alt="Javi working from a plane" title="Javi working from a plane" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>Javi working from a plane. Sky-high quality code!</small></p>
@@ -37,7 +37,7 @@ Some companies might prefer it the other way, but we were adamant that our compa
 
 As a service provider, working mostly with SaaS and cloud-based solutions, we do not require anything more than a laptop and an Internet connection (all of which we can have at home). Moreover, we like traveling, so coding from San Francisco, Barcelona or Germany makes no difference at all.
 
-For instance, last week we launched <a href="http://www.eureka-experts.com" title="Eureka Startups Experts" target="_blank">Eureka Startups Experts</a> from Berlin. Javi and I were in the capital of Germany for 10 days of remote working.
+For instance, last week we launched <a href="http://www.eureka-experts.com" title="Eureka Startups Experts" target="_blank" rel="nofollow">Eureka Startups Experts</a> from Berlin. Javi and I were in the capital of Germany for 10 days of remote working.
 
 We were actually the only two people directly involved in the project. So working together remotely brought a different kind of focus that isolated us from other distractions. We could round off a very safe launch for this complex project and not being in Barcelona didn't make any difference whatsoever.
 

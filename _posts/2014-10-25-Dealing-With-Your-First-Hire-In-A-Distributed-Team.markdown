@@ -25,7 +25,7 @@ The most valuable piece of advice here is <i>work naturally</i>. 37Signals' book
 
 Be yourselves while making him part of team decisions, not leaving him out of meetings, and showing him everything is there to learn. Obviously, you'll be spending some time teaching him all that stuff, but consider this as an investment.
 
-On the other hand, terms like "family" or "friends" should be avoided. After all, this is a business relationship. Experts tend to favour the usage of expressions such as "we're a team", instead. Or else, no mentioning of this at all. <a href="http://blogs.hbr.org/2014/06/your-company-is-not-a-family/" target="_blank" title="Your Business Is Not A Family">This blog post</a> explains the situation very well.
+On the other hand, terms like "family" or "friends" should be avoided. After all, this is a business relationship. Experts tend to favour the usage of expressions such as "we're a team", instead. Or else, no mentioning of this at all. <a href="http://blogs.hbr.org/2014/06/your-company-is-not-a-family/" rel="nofollow" target="_blank" title="Your Business Is Not A Family">This blog post</a> explains the situation very well.
 
 The bottom line here is: show, don't tell. Your actions will be more valuable than your words.
 
@@ -46,7 +46,7 @@ Besides that, in small teams, the figure of the leader - bosses who work by your
 ###Communication is key###
 Spending half a day listing all the communication tools you use as a team, and how to use them, is never a waste of time. On the contrary: set the rules now, and forget about it.
 
-At MarsBased we use <a href="http://basecamp.com" target="_blank" title="Basecamp">Basecamp</a> for internal discussion that needs to be recorded. Then we use <a href="http://slack.com" target="_blank" title="Slack">Slack</a> for real-time communication and having the water-cooler effect of always having someone to talk to.
+At MarsBased we use <a href="http://basecamp.com" rel="nofollow" target="_blank" title="Basecamp">Basecamp</a> for internal discussion that needs to be recorded. Then we use <a href="http://slack.com" target="_blank" title="Slack" rel="nofollow">Slack</a> for real-time communication and having the water-cooler effect of always having someone to talk to.
 
 We hardly ever email each other save for communications with third parties.
 

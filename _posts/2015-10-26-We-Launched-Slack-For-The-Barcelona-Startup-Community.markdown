@@ -8,7 +8,7 @@ categories: Slack Community Startups Barcelona
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-Slack is the new trend in online communications. Given its free-for-all policy, all kinds of companies adopted this popular communication app as their <i>de facto</i> communication platform. Slack is <a href="http://www.fastcompany.com/3042326/tech-forecast/with-500000-users-slack-says-its-the-fastest-growing-business-app-ever" title="Fast Company article about Slack" target="_blank">quickly becoming a communication standard</a> among companies and communities.
+Slack is the new trend in online communications. Given its free-for-all policy, all kinds of companies adopted this popular communication app as their <i>de facto</i> communication platform. Slack is <a href="http://www.fastcompany.com/3042326/tech-forecast/with-500000-users-slack-says-its-the-fastest-growing-business-app-ever" title="Fast Company article about Slack" target="_blank" rel="nofollow">quickly becoming a communication standard</a> among companies and communities.
 
 We're excited to announce the launch of a Slack Community for <strong>all</strong> Barcelona startups and entrepreneurs.
 
@@ -16,11 +16,11 @@ We're excited to announce the launch of a Slack Community for <strong>all</stron
 
 Click <a href="https://bcnstartup.typeform.com/to/YV0pu1" title="Barcelona Startup Slack Community" target="_blank">here</a> to join the Barcelona Startup community!
 
-Following the success Slack found in companies, communities are now embracing Slack as a tool to engage with their current members and attract new ones. Communities such as <a href="https://nomadlist.com/" title="Nomad List" target="_blank">Nomad List</a> and <a href="http://www.rubyonrails.link/" title="Ruby on Rails community" target="_blank">Ruby on Rails</a> are some of the best examples of online Slack communities. There are some great individuals compiling lists of Slack communities, such as <a href="https://medium.com/@angiecois/an-incomplete-list-of-communities-on-slack-1b1b6f157bda" title="An incomplete list of communities on Slack" target="_blank">this one created by Angela Cois</a>.
+Following the success Slack found in companies, communities are now embracing Slack as a tool to engage with their current members and attract new ones. Communities such as <a href="https://nomadlist.com/" title="Nomad List" target="_blank" rel="nofollow">Nomad List</a> and <a href="http://www.rubyonrails.link/" title="Ruby on Rails community" target="_blank" rel="nofollow">Ruby on Rails</a> are some of the best examples of online Slack communities. There are some great individuals compiling lists of Slack communities, such as <a href="https://medium.com/@angiecois/an-incomplete-list-of-communities-on-slack-1b1b6f157bda" title="An incomplete list of communities on Slack" target="_blank">this one created by Angela Cois</a>.
 
 ###Why Slack?###
 
-Buffer wrote <a href="https://blog.bufferapp.com/slack-community" title="Buffer's guide to Slack" target="_blank">a very useful guide about how to create a Slack community</a>, highlighting the advantages of bringing everyone together. This way, purely offline communities can now become online, while other online-based communities, can use Slack to offer a new level of interaction among their members.
+Buffer wrote <a href="https://blog.bufferapp.com/slack-community" title="Buffer's guide to Slack" target="_blank" rel="nofollow">a very useful guide about how to create a Slack community</a>, highlighting the advantages of bringing everyone together. This way, purely offline communities can now become online, while other online-based communities, can use Slack to offer a new level of interaction among their members.
 
 For us, Slack's market share is the main reason why we chose it as our app of choice, thus minimising the cost of adopting a new tool.
 

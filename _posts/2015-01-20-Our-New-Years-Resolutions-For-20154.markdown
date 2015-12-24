@@ -8,7 +8,7 @@ categories: MarsBased Startup Teamwork CompanyCulture Resolutions
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-2014 has been an amazing ride. It has seen us <a href="http://marsbased.com/blog/2013/09/07/take-offs-and-landings" title="Take-offs and Landings" target="_blank">creating MarsBased</a>, getting our first small projects, speaking at conferences, getting big projects, <a href="http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack" title="The Martians Conquer the Ironhack" target="_blank">mentoring at IronHack</a>, <a href="http://marsbased.com/blog/2014/06/09/Barcelona-Startup-Map1" title="Barcelona Startup Map" target="_blank">working for the Barcelona City Council</a>, <a href="http://marsbased.com/blog/2014/02/24/the-martians-conquer-the-startup-grind" title="Startup Grind and MarsBased" target="_blank">leading Startup Grind</a> & <a href="http://marsbased.com/blog/2013/11/07/startup-circle-barcelona" title="Startup Circle in Barcelona" target="_blank">Startup Circle</a>, welcoming our first hires and many other amazing achievements.
+2014 has been an amazing ride. It has seen us <a href="http://marsbased.com/blog/2013/09/07/take-offs-and-landings" title="Take-offs and Landings" target="_blank">creating MarsBased</a>, getting our first small projects, speaking at conferences, getting big projects, <a href="http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack" title="The Martians Conquer the Ironhack" target="_blank">mentoring at IronHack</a>, <a href="http://marsbased.com/blog/2014/06/09/Barcelona-Startup-Map1" title="Barcelona Startup Map" target="_blank">working for the Barcelona City Council</a>, <a href="http://marsbased.com/blog/2014/02/24/MarsBased-conquered-the-startup-grind" title="Startup Grind and MarsBased" target="_blank">leading Startup Grind</a> & <a href="http://marsbased.com/blog/2013/11/07/startup-circle-barcelona" title="Startup Circle in Barcelona" target="_blank">Startup Circle</a>, welcoming our first hires and many other amazing achievements.
 
 In fact, we're preparing a detailed review of 2014 for you all to enjoy and discover what's been going on in the MarsBased spaceship.
 
@@ -24,7 +24,7 @@ In no particular order, here's what the Martians pledged to achieve in 2015.
 
 ###Xavier Redó - CTO###
 
-Xavi started the year joining his previous company, <a href="http://www.opscaling.com/" title="GNuine" target="_blank">GNuine</a>, because we didn't know we'd be able to recruit him so early. Our best guesstimates assumed we'd have to wait until the end of the year to have him working full-time.
+Xavi started the year joining his previous company, <a href="http://www.opscaling.com/" title="GNuine" target="_blank" rel="nofollow">GNuine</a>, because we didn't know we'd be able to recruit him so early. Our best guesstimates assumed we'd have to wait until the end of the year to have him working full-time.
 
 This past year has seen Xavi working hard to cope with all the projects we've gotten at MarsBased, therefore his resolutions are:
 
@@ -54,14 +54,14 @@ Emilio joined us barely a month and a half ago. But in our eyes, feels like he's
         <p>Developer</p>
     </div>
     <div class="text">
-        <p>Since I have not been programming for long - at least not professionally - I would like to commit to improving my programming skills in 2015. Inspired by <a href="http://ejohn.org/blog/write-code-every-day/" title="Write Code Every Day" target="_blank">John Resig</a>, my new year resolution is to produce code every day of the year.</p>
+        <p>Since I have not been programming for long - at least not professionally - I would like to commit to improving my programming skills in 2015. Inspired by <a href="http://ejohn.org/blog/write-code-every-day/" title="Write Code Every Day" rel="nofollow" target="_blank">John Resig</a>, my new year resolution is to produce code every day of the year.</p>
         <p>Now that my teammates depend on me, I want to learn as much as possible to be helpful to them!</p>
     </div>
 </div>
 
 ###Javier Pérez - Developer###
 
-Javi joined MarsBased at the beginning of Q4, in early October. Having worked at <a href="http://www.vass.es" title="VASS" target="_blank">VASS</a> together with Àlex, he transitioned from a full-time corporate J2EE consultant to an AngularJS & Rails developer.
+Javi joined MarsBased at the beginning of Q4, in early October. Having worked at <a href="http://www.vass.es" title="VASS" target="_blank" rel="nofollow">VASS</a> together with Àlex, he transitioned from a full-time corporate J2EE consultant to an AngularJS & Rails developer.
 
 Same as Emilio, feels like he's been forever with us!
 

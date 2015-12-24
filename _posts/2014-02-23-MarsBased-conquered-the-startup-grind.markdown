@@ -16,7 +16,7 @@ Read more to find out what happened in our first visit to Silicon Valley!
 
 If you are not familiar with the <a href="http://startupgrind.com/" title="Startup Grind" target="_blank">Startup Grind</a>, it's a recurring monthly event that aims to educate, inspire and connect entrepreneurs worldwide. The Startup Grind is a growing community in over 70 cities in 30 different countries, powered by <a href="http://www.google.com/entrepreneurs/" title="Google for Entrepreneurs" target="_blank">Google for Entrepreneurs</a>.
 
-People coming from all over the world travelled all the way to Mountain View to represent their startups or businesses. Investors, CEOs, developers, marketers, hackers, and all sorts of entrepreneurs attended the event in the <a href="http://www.computerhistory.org/" title="Computer History Musem" target="_blank">Computer History Musem</a> in Silicon Valley.
+People coming from all over the world travelled all the way to Mountain View to represent their startups or businesses. Investors, CEOs, developers, marketers, hackers, and all sorts of entrepreneurs attended the event in the <a href="http://www.computerhistory.org/" title="Computer History Musem" target="_blank" rel="nofollow">Computer History Museum</a> in Silicon Valley.
 
 There, we learnt the three Startup Grind principles:
 
@@ -25,9 +25,9 @@ There, we learnt the three Startup Grind principles:
 
 As Martians, and newcomers, we found these principles to be particularly welcoming. Want to know how do we apply them? Keep reading!
 
-###How do we help others###
+###How we help others###
 
-First and foremost, we offer our expertise as a remote working dev shop. We are highly specialized in Ruby on Rails and the tech stack we wrote about in <a href="http://www.marsbased.com/blog/2014/02/01/we-make-the-right-app2/" title="Our last blog entry" target="_blank">this blog entry</a>. We guide you from the very birth of your business idea to its launch, by offering our end-to-end solutions based on our expertise and experience in web app development.
+First and foremost, we offer our expertise as a remote working dev shop. We are highly specialized in Ruby on Rails and the tech stack we wrote about in <a href="http://www.marsbased.com/blog/2014/02/01/how-we-make-the-right-app2/" title="Our last blog entry" target="_blank">this blog entry</a>. We guide you from the very birth of your business idea to its launch, by offering our end-to-end solutions based on our expertise and experience in web app development.
 
 We can help your business if you...
 
@@ -37,7 +37,7 @@ We can help your business if you...
 
 For solo entrepreneurs or startups, we build MVPs. MarsBased has startup DNA, and that gives us a deep understanding of what do startups need, by aligning with your business model and growth strategy.
 
-###How do we make friends###
+###How we make friends###
 
 We met a lot of people at Startup Grind. We remember each and everyone's faces and names. We enjoyed a good chat with everybody and look forward to meeting them again, wherever they live or in the next Startup Grind Global Summit.
 

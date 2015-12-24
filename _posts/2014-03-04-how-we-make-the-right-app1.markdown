@@ -16,7 +16,7 @@ So what is it that we do? Read more to find out!
 
 The answer to that question is plain simple: *We make the right app for you*.
 
-Because we wanted to work for other companies as well as developing our own apps, we applied the lean techniques we wrote about in a <a href="/blog/2013/10/12/fail-learn-change-evolve" title="Blog entry about lean startups" target="_blank">previous entry</a>, changed our motto to "we make the right app for you", and started the search for web development projects at MarsBased.
+Because we wanted to work for other companies as well as developing our own apps, we applied the lean techniques we wrote about in a <a href="/blog/2013/10/12/fail-learn-change-evolve" title="Blog entry about lean startup" target="_blank">previous entry</a>, changed our motto to "we make the right app for you", and started the search for web development projects at MarsBased.
 
 ###Getting to know each other: The exchange###
 

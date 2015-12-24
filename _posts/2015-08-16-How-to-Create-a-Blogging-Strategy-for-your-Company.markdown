@@ -14,9 +14,9 @@ In this entry, we will cover how to create a blogging strategy for your company.
 
 <!--more-->
 
-We’re really proud of how and what we blog, because it helps us keeping track of our evolution as a global development shop, and feel like this could prove useful to many others that come after us. Exactly the same way we learnt from others like <a href="www.buffer.com" title="Buffer" target="_blank">Buffer</a>, <a href="dockyard.com" title="Dockyard" target="_blank">Dockyard</a>, <a href="thoughtbot.com" title="Thoughtbot" target="_blank">Thoughtbot</a> or other blogs we follow.
+We’re really proud of how and what we blog, because it helps us keeping track of our evolution as a global development shop, and feel like this could prove useful to many others that come after us. Exactly the same way we learnt from others like <a href="http://www.buffer.com" title="Buffer" target="_blank" rel="nofollow">Buffer</a>, <a href="http://dockyard.com" title="Dockyard" target="_blank" rel="nofollow">Dockyard</a>, <a href="http://thoughtbot.com" title="Thoughtbot" target="_blank" rel="nofollow">Thoughtbot</a> or other blogs we follow.
 
-A few weeks ago we published the <a href="http://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide/" title="The MarsBased Blogging Guide pt.1" target="_blank">first part of our blogging guide</a>. In the first part, we described how to craft a good blog post, by choosing a good title, the appropriate keywords, a fitting image, and other important criteria bloggers follow.
+A few weeks ago we published the <a href="http://marsbased.com/blog/2015/05/05/The-MarsBased-Blogging-Guide/" title="The MarsBased Blogging Guide pt.1" target="_blank">first part of our blogging guide</a>. In the first part, we described how to craft a good blog post, by choosing a good title, the appropriate keywords, a fitting image, and other important criteria bloggers follow.
 
 Blogging is nowadays a very important element in growing your company: it is one of the cheapest methods to create <a href="https://en.wikipedia.org/wiki/Inbound_marketing" title="Definition of Inbound Marketing" target="_blank">inbound marketing</a>, provides SEO, and helps you demonstrate your expertise to a very large audience.
 
@@ -30,7 +30,7 @@ One of the most common uses is content marketing. In this case, companies blog a
 
 At MarsBased we use it to drive qualified traffic to our website, so we made it a key element in our sales toolset.
 
-When we created the company, we didn’t have that much of a strategy, so we wrote posts about our company evolution: what we did and why we did it. However, some of these posts helped us rank high enough in search engines because they contained the right keywords. For instance, our most visited blog entry is <a href="http://marsbased.com/blog/2014/03/25/we-make-the-right-app2/" title="MarsBased tech stack" target="_blank">this one we wrote about our tech stack</a>.
+When we created the company, we didn’t have that much of a strategy, so we wrote posts about our company evolution: what we did and why we did it. However, some of these posts helped us rank high enough in search engines because they contained the right keywords. For instance, our most visited blog entry is <a href="http://marsbased.com/blog/2014/03/25/how-we-make-the-right-app2/" title="MarsBased tech stack" target="_blank">this one we wrote about our tech stack</a>.
 
 We have received a couple of project requests because of our post about technologies. In that post, we didn’t only show our expertise on the listed tools, but the content also made us rank higher on Google, especially in high-demanded technologies like AngularJS or Sidekiq because they’re specific enough to be very visible to the few people that google them.
 
@@ -62,7 +62,7 @@ Once you have chosen your goal and your audience, you must identify what will be
 
 The best blogs often cover just one specific topic. It might be travel, entrepreneurship, productivity, cuisine or knitting. But some blogs cover many topics to attract different sorts of target readers.
 
-If you’re bootstrapping a company, you will most likely neither have the time to blog, nor the resources to have somebody do that for you. A good tip is to start small by covering a single topic. For instance, our buddies at <a href="https://getquipu.com/en" title="Quipu" target="_blank">Quipu</a>, a personal finances app (built using Ruby on Rails!), chose to target small companies and freelancers/contractors that want to automate their bookkeeping. As a result of that, they are <a href="http://getquipu.com/blog/" title="Quipu Blog" target="_blank">blogging about personal finances</a>: how to do paperwork, how-to guides on taxes & forms, common mistakes in bookkeeping and tips about saving money on taxes are some of the topics they’ve dealt with.
+If you’re bootstrapping a company, you will most likely neither have the time to blog, nor the resources to have somebody do that for you. A good tip is to start small by covering a single topic. For instance, our buddies at <a href="https://getquipu.com/en" title="Quipu" target="_blank" rel="nofollow">Quipu</a>, a personal finances app (built using Ruby on Rails!), chose to target small companies and freelancers/contractors that want to automate their bookkeeping. As a result of that, they are <a href="http://getquipu.com/blog/" title="Quipu Blog" target="_blank" rel="nofollow">blogging about personal finances</a>: how to do paperwork, how-to guides on taxes & forms, common mistakes in bookkeeping and tips about saving money on taxes are some of the topics they’ve dealt with.
 
 It might look obvious, but if you write about startups and entrepreneurship, don't review your most favourite restaurants. It's OK to go offtopic every once in a while, but not every second post.
 
@@ -92,9 +92,9 @@ Once you have defined your blog frequency, you need to select what days & times 
 
 First of all, you should take into account your timezone. Say, if you’re an offshoring development company from India and your target is the UK, try posting in their morning, so that people read your blog first thing during breakfast or during their commute to work. Also, companies targeting US clients should choose between East & West Coast. A good tactic is to publish for East Coast first, and then publish the link in the social networks for each different time zone you might have defined as target (West Coast, Japan, etc.).
 
-According to <a href="buffer.com" title="Buffer" target="_blank">Buffer</a> and other social media gurus, the best time to blog is either early in the morning or right after lunch. There does not seem to be a consensus on which days of the week are better for blogging. Test it for yourself.
+According to <a href="http://buffer.com" title="Buffer" target="_blank" rel="nofollow">Buffer</a> and other social media gurus, the best time to blog is either early in the morning or right after lunch. There does not seem to be a consensus on which days of the week are better for blogging. Test it for yourself.
 
-Test, measure, repeat. <a href="http://www.google.com/analytics/" title="Google Analytics" target="_blank">Google Analytics</a>, <a href="medium.com" target="_blank" title="Medium">Medium</a> and many Wordpress plugins are really effective when measuring the impact of your blog posts. By using them, you can understand your audience and adjust your publishing times to them.
+Test, measure, repeat. <a href="http://www.google.com/analytics/" title="Google Analytics" target="_blank">Google Analytics</a>, <a href="http://medium.com" target="_blank" title="Medium">Medium</a> and many Wordpress plugins are really effective when measuring the impact of your blog posts. By using them, you can understand your audience and adjust your publishing times to them.
 
 <strong>Key question:</strong> When are your target readers most prone to devote some time to read you?
 

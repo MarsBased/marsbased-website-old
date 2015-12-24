@@ -26,7 +26,7 @@ The project is big. So big that <a href="http://twitter.com/xavier_redo" target=
 
 ###The Abduction###
 
-Because we're a remote working company, we do not have a physical office. We always meet our clients at their offices and seldom hold any get-togethers by now. So we went out for some coworking at one of the best venues in town: <a href="http://www.start2bee.com/" target="_blank" title="Start2bee coworking space">Start2bee</a>.
+Because we're a remote working company, we do not have a physical office. We always meet our clients at their offices and seldom hold any get-togethers by now. So we went out for some coworking at one of the best venues in town: <a href="http://www.start2bee.com/" target="_blank" title="Start2bee coworking space" rel="nofollow">Start2bee</a>.
 
 Javi is our first hire at MarsBased, so we made sure we gave him the best possible welcoming to the company.
 

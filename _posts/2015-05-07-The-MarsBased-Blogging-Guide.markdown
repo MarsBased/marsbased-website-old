@@ -14,17 +14,17 @@ Here's a thing or two we have learnt along the way.
 
 <!--more-->
 
-After over a year of blogging for MarsBased and other sites, such as <a href="http://www.startupgrind.com/barcelona" title="Startup Grind Barcelona" target="_blank">Startup Grind</a>, <a href="http://barcelonaventures.com/blog/" title="Barcelona Ventures blog" target="_blank">Barcelona Ventures</a> or <a href="https://medium.com/@lexrodba" title="@Lexrodba Medium" target="_blank">my personal Medium</a>, I've learned a thing or two that I wanted to share with all of you.
+After over a year of blogging for MarsBased and other sites, such as <a href="http://www.startupgrind.com/barcelona" title="Startup Grind Barcelona" target="_blank">Startup Grind</a>, <a href="http://barcelonaventures.com/blog/" rel="nofollow" title="Barcelona Ventures blog" target="_blank">Barcelona Ventures</a> or <a href="https://medium.com/@lexrodba" title="@Lexrodba Medium" target="_blank">my personal Medium</a>, I've learnt a thing or two that I wanted to share with all of you.
 
 ###Choose a good title###
 
-Let's start off from the very beginning: the title. Nowadays titles do not only have to be understandable by humans, but by robots too. And while we don't refer to robots like <a href="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/21/1392977241047/Robot-from-The-Terminator-010.jpg" title="Robot" target="_blank">this one</a> or <a href="http://img4.wikia.nocookie.net/__cb20141005032524/deadliestfiction/images/e/eb/Optimus_Prime_Generation_1.jpg" title="Robot" target="_blank">this one</a>, it's always a good idea to let Google bots and the rest of web crawlers "understand" that title.
+Let's start off from the very beginning: the title. Nowadays titles do not only have to be understandable by humans, but by robots too. And while we don't refer to robots like <a href="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/21/1392977241047/Robot-from-The-Terminator-010.jpg" title="Robot" target="_blank" rel="nofollow">this one</a> or <a href="http://img4.wikia.nocookie.net/__cb20141005032524/deadliestfiction/images/e/eb/Optimus_Prime_Generation_1.jpg" title="Robot" target="_blank" rel="nofollow">this one</a>, it's always a good idea to let Google bots and the rest of web crawlers "understand" that title.
 
 Therefore, if you're writing a guide on how to craft good blog posts you might want to go with "<i>How To Craft Good Posts For Your Blog</i>" or "<i>10 Useful Tips For Writing a Blog</i>". Choosing a title like "<i>Disentangling the Unfathomable Nature of Swordbuckling in the Interwebs</i>" probably won't get you very far.
 
-Titles should be meaningful, just like the first sentence of the post. <a href="https://blog.bufferapp.com/headline-formulas?utm_content=buffer144c3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" title="Buffer blog" target="_blank">Readers absorb the first and last three words of a sentence</a>, so make them count. Also, avoid clickbait titles ("<i>I Unboxed My iPhone and I Couldn't Believe What Happened Next</i>") where possible. They're not worth it: they might earn you a thousand followers today, but all will be gone tomorrow if you don't deliver what's promised.
+Titles should be meaningful, just like the first sentence of the post. <a href="https://blog.bufferapp.com/headline-formulas?utm_content=buffer144c3&utm_medium=social&utm_source=marsbased.com&utm_campaign=marsbased" title="Buffer blog" target="_blank">Readers absorb the first and last three words of a sentence</a>, so make them count. Also, avoid clickbait titles ("<i>I Unboxed My iPhone and I Couldn't Believe What Happened Next</i>") where possible. They're not worth it: they might earn you a thousand followers today, but all will be gone tomorrow if you don't deliver what's promised.
 
-Last, but not least, titles should include your keywords. If you're blogging about gadgets, include the words <i>wearables</i>, <i>tech</i>, <i>smartphones</i>, <i>gadgets</i>, etc. This will help SEO and thus increase your blog's visibility. Ideally, post titles <a href="http://www.orbitmedia.com/blog/ideal-blog-post-length/" title="Marketing tips" target="_blank">shouldn't exceed 60 characters</a>.
+Last, but not least, titles should include your keywords. If you're blogging about gadgets, include the words <i>wearables</i>, <i>tech</i>, <i>smartphones</i>, <i>gadgets</i>, etc. This will help SEO and thus increase your blog's visibility. Ideally, post titles <a href="http://www.orbitmedia.com/blog/ideal-blog-post-length/" rel="nofollow" title="Marketing tips" target="_blank">shouldn't exceed 60 characters</a>.
 
 ###Catch your reader's attention###
 
@@ -51,18 +51,18 @@ One interesting tip: if you talk about companies or individuals in your post, it
 
 Back in the early days of the Internet, backlinking was a good idea. Back then, blogs and sites alike paid one another to have a link to their site, whatever the content was, just to pass onto one another visitors and page rank.
 
-Nowadays, the reality is very different. <a href="http://white.net/blog/high-risk-seo-33-ways-to-get-penalised-by-google/" title="Google Penalises Backlinks" target="_blank">Google penalises that</a>.
+Nowadays, the reality is very different. <a href="http://white.net/blog/high-risk-seo-33-ways-to-get-penalised-by-google/" title="Google Penalises Backlinks" target="_blank" rel="nofollow">Google penalises that</a>.
 
 We don't have a dog in the fight, but we like to link other sites if we mention them. Not only to reference a quote, give other people credit, or also to help the reader find more interesting stuff outside of our blog.
 
 It is worth noting that you don't want your users to leave your page for good, so instead of adding a regular link to ease the transition from your blog post to an external website, just add the <i>target=_blank</i> HTML attribute so that the new page opens in a new tab.
 
-It is likewise important to add a good title attribute to your link, to help crawlers and users alike to understand the nature of the link. In this case, if we want to link to <a href="http://blog.buffer.com" title="Buffer's Blog" target="_blank">Buffer's blog</a>, we'll do it like this:
+It is likewise important to add a good title attribute to your link, to help crawlers and users alike to understand the nature of the link. In this case, if we want to link to <a href="http://blog.buffer.com" title="Buffer's Blog" target="_blank" rel="nofollow">Buffer's blog</a>, we'll do it like this:
 
 <pre><code>&lt;a href="http://blog.buffer.com" title="Buffer's Blog" target="_blank"&gt;Read Buffer's Blog&lt;/a&gt;
 </code></pre>
 
-One of our favourite bloggers, <a href="http://www.johnrampton.com/" title="John Rampton website" target="_blank">John Rampton</a>, who writes kickass posts for <a href="http://www.entrepreneur.com" title="Entrepreneur-com" target="_blank">Entrepreneur.com</a> and <a href="http://forbes.com" title="Forbes" target="_blank">Forbes</a> told us to use the first three links of a blog post to link your previous posts when possible. We didn't find it suitable for this post, but most of the times it can fit in pretty well and will encourage newcomers to your blog to read your previous articles.
+One of our favourite bloggers, <a href="http://www.johnrampton.com/" title="John Rampton website" target="_blank" rel="nofollow">John Rampton</a>, who writes kickass posts for <a href="http://www.entrepreneur.com" title="Entrepreneur-com" target="_blank">Entrepreneur.com</a> and <a href="http://forbes.com" title="Forbes" target="_blank">Forbes</a> told us to use the first three links of a blog post to link your previous posts when possible. We didn't find it suitable for this post, but most of the times it can fit in pretty well and will encourage newcomers to your blog to read your previous articles.
 
 ###Images###
 
@@ -84,7 +84,7 @@ Subtitles, when correctly marked using <code>&lt;h2&gt;</code> and <code>&lt;h3&
 
 ###Style###
 
-The perfect blog post length is thought to be <a href="http://www.bitrebels.com/social/makes-perfect-blog-post-infographic/" title="Infographic about blogging" target="_blank">around 1200 words</a>.
+The perfect blog post length is thought to be <a href="http://www.bitrebels.com/social/makes-perfect-blog-post-infographic/" title="Infographic about blogging" rel="nofollow" target="_blank">around 1200 words</a>.
 
 It is very important that you double-check your post thoroughly for typos, broken links, unformatted parts or unreferenced quotes. Mediocre or poorly processed posts seldom get shared.
 
@@ -96,7 +96,7 @@ It is a good idea to re-read the post 3 o 4 times prior to publishing, and it's 
 
 Finally, the post should have a <i>raison d'être</i>: it can be an informative post, a how-to guide, an opinion to give food for thought, or an invitation to the new beta version of your product.
 
-Whatever the aim of the post is, it should conclude with a call to action. A call to action (often referred to as CTA) is an instruction to the audience to provoke an immediate response, usually using an imperative verb such as "call now", "find out more" or "visit a store today" (<a href="http://homebusiness.about.com/od/homebusinessglossar1/g/Call-To-Action-Definition.htm" title="Definition of call to action" target="_blank">source</a>). If you don't know what call to action you should do, the message of your post might not be clear enough, yet you can always ask the audience to share the post around.
+Whatever the aim of the post is, it should conclude with a call to action. A call to action (often referred to as CTA) is an instruction to the audience to provoke an immediate response, usually using an imperative verb such as "call now", "find out more" or "visit a store today" (<a href="http://homebusiness.about.com/od/homebusinessglossar1/g/Call-To-Action-Definition.htm" title="Definition of call to action" target="_blank" rel="nofollow">source</a>). If you don't know what call to action you should do, the message of your post might not be clear enough, yet you can always ask the audience to share the post around.
 
 Want an example of call to action? We'll wrap up the post with one!
 

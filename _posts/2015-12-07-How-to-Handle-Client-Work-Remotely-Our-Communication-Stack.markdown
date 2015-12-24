@@ -22,7 +22,7 @@ The key to manage client work by being 100% remote is to be the best at communic
 
 ###What is a communication stack?###
 
-Tech-oriented companies often define their <i>tech stack</i>, which is the tools & programming languages they use as a <i>de facto</i> standard for every new project. One of the most famous tech stacks is the <a href="https://en.wikipedia.org/wiki/LAMP_(software_bundle)" title="LAMP" target="_blank">LAMP architecture</a> (Linux, Apache, MySQL, Php).
+Tech-oriented companies often define their <i>tech stack</i>, which is the tools & programming languages they use as a <i>de facto</i> standard for every new project. One of the most famous tech stacks is the <a href="https://en.wikipedia.org/wiki/LAMP_(software_bundle)" title="LAMP" target="_blank" rel="nofollow">LAMP architecture</a> (Linux, Apache, MySQL, Php).
 
 Likewise, a communication stack is the tool belt you use to channel company communications, both internal and external.
 
@@ -39,7 +39,7 @@ Let’s get to it. We’ll describe how do we manage our client work remotely.
 <img src="/images/blog/post27a.png" alt="Overview of Basecamp" title="Overview of Basecamp" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>This is how a Project looks like on Basecamp</small></p>
 
-<a href="http://www.basecamp.com" title="Basecamp" target="_blank">Basecamp</a> is an online collaboration tool for team management. The reason why we like Basecamp so much is because they’re the creators of the framework Ruby on Rails and the writers of two really inspirational books we identify ourselves a lot with, both as individuals and as a company: <a href="https://37signals.com/rework/" title="Rework" target="_blank">Rework</a> and <a href="https://37signals.com/remote/" title="Remote: No Office Required" target="_blank">Remote: No Office Required</a>.
+<a href="http://www.basecamp.com" title="Basecamp" target="_blank" rel="nofollow">Basecamp</a> is an online collaboration tool for team management. The reason why we like Basecamp so much is because they’re the creators of the framework Ruby on Rails and the writers of two really inspirational books we identify ourselves a lot with, both as individuals and as a company: <a href="https://37signals.com/rework/" title="Rework" target="_blank" rel="nofollow">Rework</a> and <a href="https://37signals.com/remote/" title="Remote: No Office Required" target="_blank" rel="nofollow">Remote: No Office Required</a>.
 
 Basecamp focuses on simplicity to provide a solid tool that allows the management of almost any team. In fact, we don’t use it only for our internal team, but we also manage our client work.
 
@@ -59,7 +59,7 @@ Lastly, we also use Basecamp to include our weekly report - every Monday - of wh
 <img src="/images/blog/post27d.png" alt="A Trello board" title="A Trello board" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>This is the top part of the sprint funnel on Trello</small></p>
 
-<a href="http://trello.com" title="Trello" target="_blank">Trello</a> is our tool of choice to manage team tasks. It's 100% agile-oriented and, therefore, a good fit for agile development teams.
+<a href="http://trello.com" title="Trello" target="_blank" rel="nofollow">Trello</a> is our tool of choice to manage team tasks. It's 100% agile-oriented and, therefore, a good fit for agile development teams.
 
 Trello boards allow you to create lists that hold cards. Each list represents a status, and the cards are dragged from board to board as they change their status. In the screenshot above, you can see some of the lists distributing the tasks between <i>Backlog</i>, the <i>Features</i> list, the <i>Bugs</i> list, and the planning for the next week. In the screenshot below, you can also see the lists including the tasks that have already been completed.
 
@@ -79,7 +79,7 @@ Since Trello is very oriented to tech-savvy people, we only invite the technical
 
 ###Real-time communication: Slack###
 
-While all the previous tools are really good for taking decisions, planning and execution, none of them offers real-time communication. For that, we use <a href="http://www.slack.com" title="Slack" target="_blank">Slack</a>: a real-time communication tool for teams.
+While all the previous tools are really good for taking decisions, planning and execution, none of them offers real-time communication. For that, we use <a href="http://www.slack.com" title="Slack" target="_blank" rel="nofollow">Slack</a>: a real-time communication tool for teams.
 
 <img src="/images/blog/post27g.png" alt="Slack" title="Slack" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>Here's our COO Jordi reporting to one of our clients via Slack</small></p>
@@ -96,7 +96,7 @@ With their multi-platform & -device apps, you’re just a chat away from getting
 
 Some topics require a little bit more of human touch. To be more precise, certain matters require a face-to-face conversation.
 
-Some text messages just don’t add the criticality, urgency or calm that a face-to-face conversation has. As a remote working company, it might as well happen that we are on the other side of the world when talking to our clients. But luckily enough, we’ve got <a href="http://appear.in" title="Appear.in" target="_blank">Appear.in</a>.
+Some text messages just don’t add the criticality, urgency or calm that a face-to-face conversation has. As a remote working company, it might as well happen that we are on the other side of the world when talking to our clients. But luckily enough, we’ve got <a href="http://appear.in" title="Appear.in" target="_blank" rel="nofollow">Appear.in</a>.
 
 <img src="/images/blog/post27h.png" alt="Appear.in" title="Appear.in" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>We kindly borrowed this photo from <a href="https://twitter.com/appear_in/status/560023198226714624" title="Appear.in Twitter handle" target="_blank">@appearin's</a> Twitter!</small></p>
@@ -105,7 +105,7 @@ Appear.in excels in what other video call services fail to deliver: requires no 
 
 As a matter of fact, we also have found that the video quality and the call stability is much better than on Skype or Google Hangouts, thus making it ideal for people in low wifi signals or using their mobile data plans.
 
-Last, but not least, Appear.in also offers screen sharing options, which they’re good enough for most purposes. However, we sometimes need to have a more collaborative screen share so we use <a href="http://screenhero.com" title="Screenhero" target="_blank">Screenhero</a> instead.
+Last, but not least, Appear.in also offers screen sharing options, which they’re good enough for most purposes. However, we sometimes need to have a more collaborative screen share so we use <a href="http://screenhero.com" title="Screenhero" target="_blank" rel="nofollow">Screenhero</a> instead.
 
 ——
 

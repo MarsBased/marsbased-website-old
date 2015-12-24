@@ -23,7 +23,7 @@ Frontend developers, this one is for you.
 Before we delve into the technologies we use, we will introduce our working methodologies here:
 
 <h4>Task management</h4>
-<a href="www.trello.com" title="Trello" target="_blank">Trello</a> is our tool of choice for managing tasks and weekly sprints.
+<a href="http://www.trello.com" title="Trello" target="_blank" rel="nofollow">Trello</a> is our tool of choice for managing tasks and weekly sprints.
 
 We have one board for each project. Inside the project's board, you'll find columns for the present and coming weeks, along with <i>Done, Review Pending, Bugs, Features,</i> and <i>Backlog</i>. In projects that have been already rolled out, you will see some columns for the deploys management, too.
 
@@ -35,7 +35,7 @@ The weekly sprints are defined on Mondays, in an online meeting between you and 
 
 <h4>Commits & Branches</h4>
 
-We work with both <a href="github.com" title="Github" target="_blank">Github</a> and <a href="bitbucket.org" title="Bitbucket" target="_blank">Bitbucket</a> and we always have separate repositories for the layout implementation and the development, so you don't have to worry about breaking stuff or learning Ruby on Rails. In other words, you will have to deal with HTML, CSS, and JS, only.
+We work with both <a href="http://github.com" title="Github" target="_blank" rel="nofollow">Github</a> and <a href="http://bitbucket.org" title="Bitbucket" rel="nofollow" target="_blank">Bitbucket</a> and we always have separate repositories for the layout implementation and the development, so you don't have to worry about breaking stuff or learning Ruby on Rails. In other words, you will have to deal with HTML, CSS, and JS, only.
 
 Furthermore, we never work on the <i>master</i> branch, as it only contains reviewed and finished stuff. Usually, we create a new branch for each task. However, we sometimes group small and related tasks to use only one branch for them. Apply common sense and branch wisely!
 
@@ -70,9 +70,9 @@ Keep this in mind all the time: an excellent developer is not just someone who c
 
 <h4>Middleman</h4>
 
-<a href="middlemanapp.com" title="Middleman" target="_blank">Middleman</a> is a static websites generator built with Ruby on Rails. It integrates all the state-of-the-art frameworks and tools for frontend development (like SASS, Modernizr, Compass, Autoprefixer...) and allows you to use templating languages such as ERB or Liquid.
+<a href="http://middlemanapp.com" title="Middleman" target="_blank" rel="nofollow">Middleman</a> is a static websites generator built with Ruby on Rails. It integrates all the state-of-the-art frameworks and tools for frontend development (like SASS, Modernizr, Compass, Autoprefixer...) and allows you to use templating languages such as ERB or Liquid.
 
-All our new projects are developed using Middleman, but before that, we used <a href="jekyllrb.com" title="Jekyll" target="_blank">Jekyll</a>. Jekyll is very similar to Middleman, with only a few differences between them. While we used Liquid as the templating language in Jekyll, now we switched to ERB in Middleman.
+All our new projects are developed using Middleman, but before that, we used <a href="http://jekyllrb.com" title="Jekyll" target="_blank" rel="nofollow">Jekyll</a>. Jekyll is very similar to Middleman, with only a few differences between them. While we used Liquid as the templating language in Jekyll, now we switched to ERB in Middleman.
 
 In the project's README file, you will find instructions about how to install the required packages and run any of those tools.
 
@@ -86,13 +86,13 @@ In the project's README file, you will find instructions about how to install th
 
 You can find more information about Middleman and Jekyll in their official websites.
 
-Also, if you never had the chance to use ERB, you can find some examples in <a href="http://benfrain.com/understanding-middleman-the-static-site-generator-for-faster-prototyping/" title="Middleman" target="_blank">this blog post</a>.
+Also, if you never had the chance to use ERB, you can find some examples in <a href="http://benfrain.com/understanding-middleman-the-static-site-generator-for-faster-prototyping/" title="Middleman" target="_blank" rel="nofollow">this blog post</a>.
 
 <h4>Bootstrap</h4>
 
-Most of our works are based on <a href="http://getbootstrap.com/" title="Bootstrap" target="_blank">Bootstrap</a>. It's a very well-known markup framework and it offers good compatibility with browsers and other components. Also, our developers are familiar with it and can reuse a lot of code.
+Most of our works are based on <a href="http://getbootstrap.com/" rel="nofollow" title="Bootstrap" target="_blank">Bootstrap</a>. It's a very well-known markup framework and it offers good compatibility with browsers and other components. Also, our developers are familiar with it and can reuse a lot of code.
 
-We tend to use always the last stable version of Bootstrap, in their SASS distribution. Since we also use SASS as our CSS framework of choice, you will be able to replace the Bootstrap variables and adapt them to each project. Do it whenever possible, instead of overwriting the Bootstrap properties. You can find the complete list of variables in the <a href="https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss" title="Bootstrap SASS Github page" target="_blank">Bootstrap SASS Github page</a>.
+We tend to use always the last stable version of Bootstrap, in their SASS distribution. Since we also use SASS as our CSS framework of choice, you will be able to replace the Bootstrap variables and adapt them to each project. Do it whenever possible, instead of overwriting the Bootstrap properties. You can find the complete list of variables in the <a href="https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss" rel="nofollow" title="Bootstrap SASS Github page" target="_blank">Bootstrap SASS Github page</a>.
 
 Finally, Bootstrap has a very powerful grid system. It can be used by simply including classes in the HTML markup, such as <i>.row</i> or <i>.col-xs-6</i>. However, instead of using those classes to define rows and columns, we prefer to use the Bootstrap mixins. They also allow you to define rows and columns, but you can do it directly in the SASS files, without dirtying the HTML code. Following this approach, we can completely separate the markup of a website from its styles and we make the application easier to maintain.
 
@@ -128,11 +128,11 @@ And:
   +make-md-column(4)
 </pre>
 
-You can see the <a href="https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/mixins/_grid.scss" title="Mixins used in the grid system" target="_blank">mixins used in the grid system</a> also in Github.
+You can see the <a href="https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/mixins/_grid.scss" title="Mixins used in the grid system" rel="nofollow" target="_blank">mixins used in the grid system</a> also in Github.
 
 <h4>SASS</h4>
 
-SASS is a CSS preprocessor that lets you use variables, functions, operations, and other useful stuff inside your CSS stylesheets. You can learn how to use SASS in their <a href="http://sass-lang.com/" title="SASS official website" target="_blank">official website</a>. We're sure you'll find it very easy!
+SASS is a CSS preprocessor that lets you use variables, functions, operations, and other useful stuff inside your CSS stylesheets. You can learn how to use SASS in their <a href="http://sass-lang.com/" title="SASS official website" rel="nofollow" target="_blank">official website</a>. We're sure you'll find it very easy!
 
 <h5>PARTIALS</h5>
 We organize our SASS code in partials that we later import in a single file called <i>application.sass</i>.
@@ -199,7 +199,7 @@ Now consider that these items have to look differently in the Homepage than in t
 
 <h5>NAMING CONVENTIONS</h5>
 
-In order to name our elements and classes, we follow the modular approach explained in <a href="http://thesassway.com/advanced/modular-css-naming-conventions" title="Modular CSS naming conventions" target="_blank">this article</a> from <a href="http://thesassway.com/" title="The SASS Way" target="_blank">The SASS Way</a>. However, we don't apply the <i>parent-child</i> rules, as we prefer to use nesting for such cases. In any case, if you ever have to define parent-child relations, use a dash (-) as a separator instead of an underscore (_) or any other symbol.
+In order to name our elements and classes, we follow the modular approach explained in <a href="http://thesassway.com/advanced/modular-css-naming-conventions" title="Modular CSS naming conventions" target="_blank" rel="nofollow">this article</a> from <a href="http://thesassway.com/" title="The SASS Way" target="_blank" rel="nofollow">The SASS Way</a>. However, we don't apply the <i>parent-child</i> rules, as we prefer to use nesting for such cases. In any case, if you ever have to define parent-child relations, use a dash (-) as a separator instead of an underscore (_) or any other symbol.
 
 Finally, in order to differentiate keyframes (animations) from classes or IDs, we name them without dashes or underscores:
 
@@ -227,11 +227,11 @@ Finally, in order to differentiate keyframes (animations) from classes or IDs, w
 
 <h4>Autoprefixer, Modernizr, and Compass</h4>
 
-<a href="https://github.com/middleman/middleman-autoprefixer" title="Autoprefixer" target="_blank">Autoprefixer</a> is a plugin that parses the CSS files and adds browser specific prefixes to the properties that require them. This means that you don't have to worry about adding prefixes such as -webkit-, -moz- or -ms- because Autoprefixer does it for you.
+<a href="https://github.com/middleman/middleman-autoprefixer" title="Autoprefixer" target="_blank" rel="nofollow">Autoprefixer</a> is a plugin that parses the CSS files and adds browser specific prefixes to the properties that require them. This means that you don't have to worry about adding prefixes such as -webkit-, -moz- or -ms- because Autoprefixer does it for you.
 
-<a href="http://modernizr.com/" title="Modernizr" target="_blank">Modernizr</a> is a JavaScript library that detects if the user's browser supports HTML5 and CSS3 features or not. You can use it to build fallbacks for modern features that old browsers might not support.
+<a href="http://modernizr.com/" title="Modernizr" target="_blank" rel="nofollow">Modernizr</a> is a JavaScript library that detects if the user's browser supports HTML5 and CSS3 features or not. You can use it to build fallbacks for modern features that old browsers might not support.
 
-<a href="http://compass-style.org/" title="Compass" target="_blank">Compass</a> is another CSS framework included in our Middleman projects. We prefer to use Autoprefixer to add browser specific prefixes, but you might want to use Compass for other things, like its vast library of reliable mixins.
+<a href="http://compass-style.org/" title="Compass" target="_blank" rel="nofollow">Compass</a> is another CSS framework included in our Middleman projects. We prefer to use Autoprefixer to add browser specific prefixes, but you might want to use Compass for other things, like its vast library of reliable mixins.
 
 <h4>Images and icons</h4>
 
@@ -268,7 +268,7 @@ Now you can include any SVG image in your HTML by simply calling it. Use this ma
 
 <h5>BOOTSTRAP GLYPHICONS AND FONT AWESOME</h5>
 
-If the design doesn't come with its own icons, we like to use the ones provided by Bootstrap and Font Awesome. If you don't find any suitable icon, try looking in websites like <a href="iconfinder.com" title="Iconfinder.com" target="_blank">iconfinder.com</a>.
+If the design doesn't come with its own icons, we like to use the ones provided by Bootstrap and Font Awesome. If you don't find any suitable icon, try looking in websites like <a href="http://iconfinder.com" title="Iconfinder.com" target="_blank" rel="nofollow">iconfinder.com</a>.
 
 <h5>IMAGE HELPERS</h5>
 
@@ -285,7 +285,7 @@ In the HTML markup, however, we use another helper called <i>image_tag</i>:
 <%= image_tag 'padrino.png', width: '35', class: 'logo pull-right' %>
 ```
 
-You can find more examples of the <i>image\_tag</i> helper in the <a href="http://api.rubyonrails.org/classes/ActionView/Helpers/AssetTagHelper.html#method-i-image_tag" title="Ruby on Rails API documentation" target="_blank">Ruby on Rails API documentation</a>.
+You can find more examples of the <i>image\_tag</i> helper in the <a href="http://api.rubyonrails.org/classes/ActionView/Helpers/AssetTagHelper.html#method-i-image_tag" title="Ruby on Rails API documentation" target="_blank" rel="nofollow">Ruby on Rails API documentation</a>.
 
 <h4>JS libraries</h4>
 
@@ -357,7 +357,7 @@ We prefer to do:
 </div>
 ```
 
-<b>Bonus:</b> there is a Sublime Text plugin called <a href="https://github.com/SublimeText/TrailingSpaces" title="TrailingSpaces" target="_blank">TrailingSpaces</a> that detects unnecessary blank spaces in your code and deletes them all at once with a keyboard shortcut!
+<b>Bonus:</b> there is a Sublime Text plugin called <a href="https://github.com/SublimeText/TrailingSpaces" title="TrailingSpaces" target="_blank" rel="nofollow">TrailingSpaces</a> that detects unnecessary blank spaces in your code and deletes them all at once with a keyboard shortcut!
 
 <h5>SASS FILES</h5>
 
@@ -387,7 +387,7 @@ Inside each of these tags, we try to respect a hierarchic structure of headings.
 
 Finally, we always add the <i>title</i> attribute to all the links and <i>title</i> and <i>alt</i> to all the images.
 
-Have a look at <a href="https://developer.mozilla.org/en/docs/Sections_and_Outlines_of_an_HTML5_document" title="HTML5 elements" target="_blank">this website</a> for a complete guide of HTML5 elements.
+Have a look at <a href="https://developer.mozilla.org/en/docs/Sections_and_Outlines_of_an_HTML5_document" title="HTML5 elements" rel="nofollow" target="_blank">this website</a> for a complete guide of HTML5 elements.
 
 <h5>LINKS BETWEEN PAGES</h5>
 Our layouts are used by our programmers to understand how they have to develop an application. However, our clients use them too to review the status of a project and to show the user interface to other people like investors or partners.

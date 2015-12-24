@@ -42,14 +42,14 @@ That being said, most places had an average wifi, but stable enough to work. Som
 
 We tried a fair share of different places during our ten days there. Some we found from an extensive Google search, others from wandering around and browsing Foursquare.
 
-During our stay, we actually required a good and stable connection to test & launch our latest project <a href="http://www.eureka-experts.com" title="Eureka Startups Experts" target="_blank">Eureka Startups Experts</a>. Eureka Startups Experts is a platform to hire experts online through video call, who will assess you on your business. Therefore, we needed to test video calls every now and then, and a good & stable wifi was required.
+During our stay, we actually required a good and stable connection to test & launch our latest project <a href="http://www.eureka-experts.com" title="Eureka Startups Experts" target="_blank" rel="nofollow">Eureka Startups Experts</a>. Eureka Startups Experts is a platform to hire experts online through video call, who will assess you on your business. Therefore, we needed to test video calls every now and then, and a good & stable wifi was required.
 
 These are the best three we have found (and wholeheartedly recommend) in order of preference.
 
 <h4>3. Olso Kaffebar</h4>
-Right in the confluence between the districts of Mitte and Prenzlauer Berg, close to Nordbahnhof (in <a href="http://www.oslokaffebar.com/contact/" title="Oslo Kaffebar" target="_blank">Eichendorffstr. 13</a>), is where you will find one of the best places to work from in Berlin.
+Right in the confluence between the districts of Mitte and Prenzlauer Berg, close to Nordbahnhof (in <a href="http://www.oslokaffebar.com/contact/" title="Oslo Kaffebar" target="_blank" rel="nofollow">Eichendorffstr. 13</a>), is where you will find one of the best places to work from in Berlin.
 
-<a href="http://www.oslokaffebar.com/" title="Oslo Kaffebar" target="_blank">Oslo Kaffebar</a> is run by expats, so you will be able to order in English without a problem, and the staff is super friendly. Moreover, we thoroughly enjoyed our visits there because of their musical taste.
+<a href="http://www.oslokaffebar.com/" title="Oslo Kaffebar" target="_blank" rel="nofollow">Oslo Kaffebar</a> is run by expats, so you will be able to order in English without a problem, and the staff is super friendly. Moreover, we thoroughly enjoyed our visits there because of their musical taste.
 
 The wifi was blazing fast and we had no trouble whatsoever using it, even when the place was packed with people working. The main drawback is that the port 22 was blocked, and we needed to go somewhere else to find it open, but it's a minor issue if you're not a developer.
 
@@ -58,7 +58,7 @@ There are quite a few outlets to plug your laptop and a scarce but delicious var
 Super recommended place, a real winner, and not only to work. The terrace and the park in front of Oslo, makes it a really cool place to spend your afternoon.
 
 <h4>2. Distrikt Coffee</h4>
-<a href="http://distriktcoffee.de/" target="Distrikt Coffee" target="_blank">Distrikt Coffee</a> is not appearing in any list of great places to work from in Berlin, and it's hard to believe. We actually found it by chance while hunting for an open port 22 near Oslo Kaffebar, so it's also in that area (<a href="http://www.yelp.com/map/distrikt-coffee-berlin-3" target="Distrikt Coffee" target="_blank">Bergstr. 68</a>).
+<a href="http://distriktcoffee.de/" target="Distrikt Coffee" target="_blank" rel="nofollow">Distrikt Coffee</a> is not appearing in any list of great places to work from in Berlin, and it's hard to believe. We actually found it by chance while hunting for an open port 22 near Oslo Kaffebar, so it's also in that area (<a href="http://www.yelp.com/map/distrikt-coffee-berlin-3" target="Distrikt Coffee" target="_blank">Bergstr. 68</a>).
 
 The place is huge, and has got plenty of outlets and very comfortable seats and tables, which are rare to find in Berlin. Furthermore, and for the extra points, it has some tall tables good for working while standing.
 
@@ -67,7 +67,7 @@ We spent only an afternoon there but the general impression was lovely: the bart
 The real winner here is the wifi connection. It was the fastest we found in the whole city. Probably one of the best-kept secrets in Berlin, and it's good that it stays like this.
 
 <h4>Schiller Bar</h4>
-In our last day in Berlin, we dropped by our buddies <a href="http://www.8fit.com" title="8fit" target="_blank">8fit</a>'s offices in Neukolln, so we had to look for something around that area. Luckily enough, after 5 minutes wandering around, we came across the best place we found in Berlin: <a href="http://www.schillerbar.com/" title="Schiller Bar" target="_blank">Schiller Bar</a> in <a href="Herrfurthstraße 7" title="Schiller Bar" target="_blank">Herrfurthstraße 7</a>. No Google, no Foursquare, just chance.
+In our last day in Berlin, we dropped by our buddies <a href="http://www.8fit.com" title="8fit" target="_blank" rel="nofollow">8fit</a>'s offices in Neukolln, so we had to look for something around that area. Luckily enough, after 5 minutes wandering around, we came across the best place we found in Berlin: <a href="http://www.schillerbar.com/" title="Schiller Bar" target="_blank" rel="nofollow">Schiller Bar</a> in <a href="https://www.google.com/maps/place/Herrfurthstra%C3%9Fe+7,+12049+Berlin,+Germany/data=!4m2!3m1!1s0x47a84fbe714be28b:0x427e4d39b72f0eee?sa=X&ved=0ahUKEwjbnOjvuvXJAhWC1RoKHbrUDmkQ8gEIHDAA" title="Schiller Bar" target="_blank">Herrfurthstraße 7</a>. No Google, no Foursquare, just chance.
 
 <img src="/images/blog/post21.jpg" alt="Àlex working in Schiller Bar" title="Àlex working in Schiller Bar" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>Àlex concentration level is OVER 9000!</small></p>

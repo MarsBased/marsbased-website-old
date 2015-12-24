@@ -32,7 +32,7 @@ All of the mentioned above are based in Barcelona!
 
 Startup Circle has one only goal: to help each other being more efficient, by sharing all we are learning on our entrepreneurial path. It should allow each company to focus on their strengths, rather than wasting time in trying to overcome their weaknesses.
 
-Each and every member of Startup Circle has identified what the weak and strong points of their teams are. If we had the resources, we'd probably delegate them to third parties, but we're <a href="http://en.wikipedia.org/wiki/Bootstrapping" title="Bootstrapping definition from Wikipedia" target="_blank">bootstrapping</a>.
+Each and every member of Startup Circle has identified what the weak and strong points of their teams are. If we had the resources, we'd probably delegate them to third parties, but we're <a href="http://en.wikipedia.org/wiki/Bootstrapping" rel="nofollow" title="Bootstrapping definition from Wikipedia" target="_blank">bootstrapping</a>.
 
 Bootstrapping means working on a project with whatever you have in your pockets. No external funding, working with the bare minimum to be profitable.
 

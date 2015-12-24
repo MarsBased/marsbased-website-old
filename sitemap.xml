@@ -25,31 +25,31 @@ code: sitemap
   </url>
   {% endfor %}
   <url>
-    <loc>http://www.marsbased.com</loc>
+    <loc>http://marsbased.com</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://www.marsbased.com/contact</loc>
+    <loc>http://marsbased.com/contact</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.marsbased.com/about</loc>
+    <loc>http://marsbased.com/about</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>http://www.marsbased.com/privacy</loc>
+    <loc>http://marsbased.com/privacy</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.marsbased.com/startups</loc>
+    <loc>http://marsbased.com/startups</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>

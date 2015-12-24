@@ -40,7 +40,7 @@ Connecting with the first point, this will also open doors in the press and medi
 ###3. You will be recognised as an expert###
 Every company or individual in business has a target customer. We are used to bombing our target customers by sending them our services brochures, newsletters or project quotes. We are usually too *direct* in our sales process.
 
-Few people can think differently about this and give real value to the customer before thinking about money. We have seen companies or freelancers offering free e-books or webinars to attract new clients. This is giving before taking, which is a <a href="http://www.cio.com/article/2867406/marketing/how-to-use-ebooks-to-improve-your-content-marketing-strategy.html" title="Ebooks increase sales" target="_blank"> proven way to increase your sales</a>.
+Few people can think differently about this and give real value to the customer before thinking about money. We have seen companies or freelancers offering free e-books or webinars to attract new clients. This is giving before taking, which is a <a href="http://www.cio.com/article/2867406/marketing/how-to-use-ebooks-to-improve-your-content-marketing-strategy.html" title="Ebooks increase sales" target="_blank" rel="nofollow"> proven way to increase your sales</a>.
 
 You should try to cater your potential customers with an event for them. Listen to their necessities and build the event around them. What do they want? Workshops? Inspirational stories? Quality networking? An informal meeting to drink beer with like-minded people? Something they can sponsor to get exposure?
 
@@ -55,7 +55,7 @@ Nowadays, we think that being *offline* can really boost your success.
 
 As technology made it easier for everybody to put up a sharp-looking landing page, using services like About.me, Strikingly or Squarespace, credibility is now at stake. If everybody can afford that, how can we be sure that the people behind those websites are legitimate/a big company/a full time consultant/a quality provider? The answer is clear: by meeting them in real life.
 
-It might look contradictory that a remote working company is telling you to do business in person, but that's human nature. Physical presence breeds trust, as stated by <a href="http://realbusiness.co.uk/article/26202-building-trust-is-all-important-when-doing-business-online" title="Interview to Tobias Kormind" target="_blank">Tobias Kormind, manager of 77 Diamonds</a>. Build up trust in real life, then move to the online world once the business happens.
+It might look contradictory that a remote working company is telling you to do business in person, but that's human nature. Physical presence breeds trust, as stated by <a href="http://realbusiness.co.uk/article/26202-building-trust-is-all-important-when-doing-business-online" title="Interview to Tobias Kormind" target="_blank" rel="nofollow">Tobias Kormind, manager of 77 Diamonds</a>. Build up trust in real life, then move to the online world once the business happens.
 
 ###5. People will help you###
 We could not wrap up this blog entry without underlining how great it is to meet new people, and here's our way to thank them.

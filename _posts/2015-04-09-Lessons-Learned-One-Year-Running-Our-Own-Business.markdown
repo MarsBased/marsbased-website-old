@@ -115,7 +115,7 @@ Remember, stretching your working shift today will have an impact tomorrow. It�
 
 One of the things we have had to learn so far is business development. Since none of us had a full sales background, we decided to have one person dedicated 100% to this area.
 
-Having a full-time member focused on business development is something most early-stage development shops do not have. For us, it has allowed us to build a consistent image on the social networks, a blog, a good ranking on the search engines and a frequent offline presence (organizing <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona website" target="_blank">Startup Grind Barcelona</a>, building the <a href="http://marsbased.com/blog/2013/11/07/start-up-circle-barcelona/" title="Blog post about Startup Circle" target="_blank">Startup Circle</a> community and attending an average of two events per week).
+Having a full-time member focused on business development is something most early-stage development shops do not have. For us, it has allowed us to build a consistent image on the social networks, a blog, a good ranking on the search engines and a frequent offline presence (organizing <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona website" target="_blank">Startup Grind Barcelona</a>, building the <a href="http://marsbased.com/blog/2013/11/07/startup-circle-barcelona/" title="Blog post about Startup Circle" target="_blank">Startup Circle</a> community and attending an average of two events per week).
 
 <strong>Lesson learnt</strong>: Sales are a service company’s fuel. Invest big time in this.
 
@@ -143,7 +143,7 @@ In order of relevance:
 
 ###What has not helped us getting clients###
 
-The following haven’t proved 100% useful yet when looking for new clients. Probably because we haven’t devoted enough time to them or because the timing or the execution were not right.
+The following haven't proved 100% useful yet when looking for new clients. Probably because we haven’t devoted enough time to them or because the timing or the execution were not right.
 
 - Our website.
 - Cold emailing.

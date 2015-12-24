@@ -14,7 +14,7 @@ We're a <a href="http://marsbased.com/blog/2013/09/07/take-offs-and-landings" ti
 
 <!--more-->
 
-That being said, we want to share a few thoughts about how we've worked in the first months since MarsBased was created. Yes, in fact, we have been *leaning*. <a href="http://en.wikipedia.org/wiki/Lean_Startup" title="Wikipedia definition of lean startup" target="_blank">More info on leaning startups here</a>.
+That being said, we want to share a few thoughts about how we've worked in the first months since MarsBased was created. Yes, in fact, we have been *leaning*. <a href="http://en.wikipedia.org/wiki/Lean_Startup" rel="nofollow" title="Wikipedia definition of lean startup" target="_blank">More info on leaning startups here</a>.
 
 <img src="/images/blog/post3.png" alt="Planet Success" title="Planet Success" class="img-center img-responsive" />
 
