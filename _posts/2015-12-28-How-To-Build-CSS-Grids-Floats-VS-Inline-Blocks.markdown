@@ -1,18 +1,24 @@
 ---
 layout: post
-title:  "How to build CSS grids: floats VS inline blocks"
-date:   2015-12-17 15:00:00
+title:  "How to Build CSS Grids: Floats vs Inline Blocks"
+date:   2015-12-28 15:00:00
 author: pedro
 categories: Frontend Webdesign MarsBased
 ---
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-When you're building anything in CSS (a header, a form, a grid) the first thing you need to consider is how elements will react with each other, that's how the flow of the document works: you put elements next to each other and you tell them how to behave. Some properties you attach to an element have influence on the elements beside it.
+At MarsBased we're very keen on sharing everything we learn. That's why we recently published our <a href="http://marsbased.com/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines/" title="MarsBased HTML & CSS Guidelines" target="_blank">HTML & CSS Guidelines</a>, and our <a href="http://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide" title="How to create a damn good blog post" target="_blank">blogging tips</a> or the <a href="http://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business" title="Lessons learnt after being one year in business" target="_blank">lessons learnt in our first year running the company</a>, among other stuff.
 
-## Floated elements
+In this entry, you will learn how to build CSS grids by comparing the two most popular approaches.
 
-So let's say you want to build a simple 3 column layout like this:
+<!--more-->
+
+When you're building anything in CSS (a header, a form or a grid, just to name a few) the first thing you need to consider is how elements will react with each other. That's how the flow of the document works: you put elements next to each other and you tell them how to behave. Some properties you attach to an element have an influence on the elements beside it.
+
+###Floated elements###
+
+Let's say you want to build a simple 3-column layout like this one:
 <img src="/images/blog/post28a.png" alt="Simple 3 column layout" title="Simple 3 column layout" class="img-center img-responsive" />
 
 First you write your HTML, which in this case is very simple:
@@ -37,7 +43,7 @@ This means all objects will float to the left in relation to each other. The fir
 
 So, now, their parent `.row` doesn't have a height, because floating an object means it will only "interact" with others that are floating. `.row` is not floating, so it will not take its floated child elements into account. To overcome this, we have to start "hacking" using one of the following options:
 
-1. You can apply `overflow: hidden;` to the parent. This may work as intended in our example, but maybe you can't use this, but you may need to have a different value for `overflow` for some other reason
+1. You can apply `overflow: hidden;` to the parent. This may work as intended in our example, but maybe you can't use this, but you may need to have a different value for `overflow` for some other reason.
 2. You can float the `.row`. This way, because it is floated, it will take its children's height into account and properly grow as needed. But maybe this option isn't available for you either, in which case it's getting difficult to overcome this.
 3. You can set the `.row` to `display: inline-block;`, which will also take the children into account, but maybe you need it to be `display: block;` for some other reason.
 4. As I've recently learned, you can add two pseudo-elements (`:before` and `:after`) to the parent `.row` and set them as `display: table;` and `clear: both;` to fix this. But, then again, if you also want to add some pseudo-element to do something else visually, this is not an option for you.
@@ -60,11 +66,11 @@ Item 3 is smaller than Item 2, so Item 4 will be rendered under 3, and that's no
 
 But if, suddenly, we want to have 4 columns, we have to change that rule as well. This is not ideal.
 
-## Inline Blocks
+###Inline Blocks###
 
 As we've seen, using floated elements has its quirks or may not be an option for you, so let's see how you can use `inline-block` as an alternative.
 
-Just to give you a quick intro, `display: inline-block;` makes elements flow like text, though each one will still be a block (in contrast, if you use `display: inline;` your elements will flow like text but will not have width or height, only the dimensions of its contents). This means that elements put side-by-side will display side-by-side as long as they fit within their parent.
+Just to give you a quick intro, `display: inline-block;` makes elements flow like text though each one will still be a block (in contrast, if you use `display: inline;` your elements will flow like text but will not have width or height, only the dimensions of its contents). This means that elements put side-by-side will display side-by-side as long as they fit within their parent.
 
 That said, let's do this:
 
@@ -77,7 +83,7 @@ This method also needs a small hack to circumvent the following problem:
 
 <img src="/images/blog/post28e.png" alt="Font size error with inline-block" title="Font size error with inline-block" class="img-center img-responsive" />
 
-What is happening here is that `inline-block` elements behave like words and, as words, they have `word-spacing`, which is a natural space between words. To overcome this you can either reset the font-size on the parent (my favourite way, but with some shortcomings when you use `ems` or `%` for `font-size`)
+What is happening here is that `inline-block` elements behave like words and, as words, they have `word-spacing`, which is a natural space between words. To overcome this, you can either reset the font-size on the parent (my favourite way, but with some shortcomings when you use `ems` or `%` for `font-size`)
 
     .row {
         font-size: 0;
@@ -114,13 +120,13 @@ You can also set the container to `text-align: center;` to achieve this:
 
 This is useful for dynamic content where you don't know how many items you will have.
 
-## Conclusion
+###Conclusion###
 
-There's not one good way to do it, that's the problem and beauty of web technologies! There are loads of ways to do each and every little thing, but there are always nuances that lead you to chose one or the other. At MarsBased we use a mix of these two. We mostly use floats because we use Bootstrap's grids to build general layouts, but we hesitate to use the `inline-block` technique when we need to.
+There's not one good way to do it, that's the problem and beauty of web technologies! There are loads of ways to do each and every little thing, but there are always nuances that lead you to choose one or the other. At MarsBased we use a mix of these two. We mostly use floats because we use Bootstrap's grids to build general layouts, but we sometimes resort to use the `inline-block` technique when we need to.
 
 There are also some CSS grid systems based on `inline-block` that are worth taking a look at:
 
-- [Griddle](http://necolas.github.io/griddle/)
-- [Justify Grid](http://justifygrid.com/)
+- <a href="http://necolas.github.io/griddle/" title="Griddle" target="_blank">Griddle</a>
+- <a href="http://www.justifygrid.com/" title="Justify Grid" target="_blank">Justify Grid</a>
 
-But the future is very promising, and we're keeping an eye on [Flexbox](http://learnlayout.com/flexbox.html), which gives us new ways to address these issues. Maybe the next front-end post will be about forgetting all of this and using the Flex Box model instead!
+But the future is very promising, and we're keeping an eye on <a href="http://learnlayout.com/flexbox.html" title="Flexbox" target="_blank">Flexbox</a>, which gives us new ways to address these issues. Maybe the next front-end post will be about forgetting all of this and using the Flex Box model instead!
