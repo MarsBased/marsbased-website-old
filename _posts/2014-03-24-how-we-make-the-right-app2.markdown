@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How We Make the Right App for You (Part 2)"
-date:   2014-03-24 23:59:00
+date:   2014-03-24 16:00:00
 author: xavi
 categories: Development Devshop RubyOnRails Ruby Rails AngularJS Capybara Airbrake Capistrano Chef HTML5 Chef
 ---

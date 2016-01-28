@@ -107,7 +107,7 @@ As a matter of fact, we also have found that the video quality and the call stab
 
 Last, but not least, Appear.in also offers screen sharing options, which they’re good enough for most purposes. However, we sometimes need to have a more collaborative screen share so we use <a href="http://screenhero.com" title="Screenhero" target="_blank" rel="nofollow">Screenhero</a> instead.
 
-——
+<hr>
 
 This is our way to handle client work remotely! As you can see, there’s nothing that we can’t do with these tools.
 

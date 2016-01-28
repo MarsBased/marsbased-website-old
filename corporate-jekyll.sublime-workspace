@@ -119,10 +119,16 @@
 	[
 		"/Users/alex/Projects/marsbased-web",
 		"/Users/alex/Projects/marsbased-web/_drafts",
+		"/Users/alex/Projects/marsbased-web/_plugins",
 		"/Users/alex/Projects/marsbased-web/_posts"
 	],
 	"file_history":
 	[
+		"/Users/alex/Projects/marsbased-web/_posts/2014-03-24-how-we-make-the-right-app2.markdown",
+		"/Users/alex/Projects/marsbased-web/_plugins/postauthor.rb",
+		"/Users/alex/Projects/marsbased-web/_posts/2015-12-28-How-To-Build-CSS-Grids-Floats-VS-Inline-Blocks.markdown",
+		"/Users/alex/Projects/marsbased-web/_drafts/22-10-2015-The-Best-Communication-Stack-For-Distributed-Teams.markdown",
+		"/Users/alex/Projects/marsbased-web/_posts/2016-01-25-Our-New-Years-Resolutions-for-2016.markdown",
 		"/Users/alex/Projects/marsbased-web/_drafts/15-06-2015-Working-Remotely-from-Berlin.markdown",
 		"/Users/alex/Projects/marsbased-web/_posts/2015-05-07-The-MarsBased-Blogging-Guide.markdown",
 		"/Users/alex/Projects/marsbased-web/_posts/2015-06-15-Six-Tips-for-Remote-Working.markdown",
@@ -205,7 +211,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -223,6 +229,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\"medium.com",
+			"start-up-circle",
 			"wind up",
 			"37sig",
 			"for for",
