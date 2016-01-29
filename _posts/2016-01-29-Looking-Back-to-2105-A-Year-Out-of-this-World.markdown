@@ -10,7 +10,7 @@ categories: MarsBased Growth Teamwork CompanyCulture 2015 Review
 
 Boy, what a year!
 
-If 2014 was the year when MarsBased got real, 2015 has been a year of growth. If you want to know what has been keeping us busy this past year, keep reading!
+If <a href="http://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business/" title="Lessons Learnt at MarsBased after the first year" target="_blank">2014 was the year when MarsBased got real</a>, 2015 has been a year of growth. If you want to know what has been keeping us busy this past year, keep reading!
 
 <!--more-->
 
