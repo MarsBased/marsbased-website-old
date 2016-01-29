@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Looking Back to 2015: A Year out of This World"
-date:   2016-01-28 15:00:00
+date:   2016-01-29 15:00:00
 author: alex
-categories: MarsBased Startup Teamwork CompanyCulture Resolutions
+categories: MarsBased Growth Teamwork CompanyCulture 2015 Review
 ---
 
 *Captain's log, stardate {{page.date | martian_date}}*
@@ -19,10 +19,11 @@ If 2014 was the year when MarsBased got real, 2015 has been a year of growth. If
 
 ### The team ###
 
-MarsBased has grown quite a lot. First of all, we started 2015 with only three full-time employees and an intern. However, during 2015, the third co-founder jumped in, and we hired <a href="https://twitter.com/dvdgs88" title="David Gómez Twitter Handle" target="_blank">David</a>, <a href="https://twitter.com/xsimov" title="Xavier Simó twitter handle" target="_blank">Xavier</a>, <a href="https://twitter.com/pedrogpimenta" title="Pedro Pimenta twitter handle" target="_blank">Pedro</a> and <a href="https://twitter.com/fjsanpedro" title="Fran's twitter handle" target="_blank">Fran</a>. Despite this growth, we still continue being an office-less company: Pedro just moved to Mexico, Jordi works from Balaguer, Fran is permanently based in his hometown in Murcia and I keep working from European islands whenever I can, for instance.
+MarsBased has grown quite a lot. First of all, we started 2015 with only three full-time employees and an intern, <a href="http://marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World" title="Emilio's Internship at MarsBased" target="_blank">Emilio</a>. However, during 2015, the third co-founder jumped in, and we hired <a href="https://twitter.com/dvdgs88" title="David Gómez Twitter Handle" target="_blank">David</a>, <a href="https://twitter.com/xsimov" title="Xavier Simó twitter handle" target="_blank">Xavier</a>, <a href="https://twitter.com/pedrogpimenta" title="Pedro Pimenta twitter handle" target="_blank">Pedro</a> and <a href="https://twitter.com/fjsanpedro" title="Fran's twitter handle" target="_blank">Fran</a>. Despite this growth, we still continue being an office-less company: Pedro just moved to Mexico, Jordi works from Balaguer, Fran is permanently based in his hometown in Murcia and I keep working from European islands whenever I can, for instance.
 
 <img src="/images/blog/20160128soparnadal.jpg" alt="The MarsBased team as of December 2015" title="The MarsBased team as of December 2015" class="img-center img-rounded img-responsive" />
 <p class="text-center img-footer"><small>The MarsBased team as of December 2015!</small></p>
+<p class="text-center img-footer"><small>Back, left to right: Fran, Àlex, Xavi. Front, also left to right: Pedro, Xavier, David, Javi, Jordi.</small></p>
 
 Besides that, we have also been working more and more with our favourite freelancers and providers to give more and better services to our customers. Being a specialised dev shop has limitations as to which services can you offer. Luckily enough, we can count an amazing selection of professionals that can complement our Ruby on Rails & AngularJS expertise.
 
@@ -46,7 +47,7 @@ In some cases, we had to deal with legacy code, but in most of them, we were abl
 
 We have been very actively involved with the Barcelona startup community. It goes a long way back, even to some months before creating MarsBased, when <a href="http://marsbased.com/blog/2013/11/07/startup-circle-barcelona" title="Startup Circle in Barcelona" target="_blank">we started the Startup Circle community</a> in Barcelona.
 
-This year <a href="http://marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event/" target="_blank" title="We pulled the plug on Startup Circle">we pulled the plug on Startup Circle</a>, as we felt it had too much in common with Startup Grind, so we ended up merging them.
+This year <a href="http://marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event/" target="_blank" title="We pulled the plug on Startup Circle">we pulled the plug on Startup Circle</a>, as we felt it had too much in common with Startup Grind, so we ended up merging them. If you want to go fast, go alone. If you want to go far, go together.
 
 As for <a href="http://www.startupgrind.cat" title="Startup Grind BCN" target="_blank">Startup Grind</a>, we have completed twelve more events (one every month, no exceptions!) upping the average attendance to 85 people, maxing at 180 in the event with the Wallapop founder Miguel Vicente. The event has also grown, as we've welcomed three new volunteers and have therefore enlarged the family. Also, I have been appointed as Regional Director for Southern Europe. So now I am responsible for Startup Grind Chapters in Spain, Portugal, Italy, Austria and Switzerland, in addition to those on Mars.
 
@@ -69,6 +70,6 @@ All in all, it looks like we've got a bright future ahead. Oh, by the way, did w
 
 <hr>
 
-We would also like to hear about your 2015 experiences? What was your best moment? Feel free to share it in the comments section below!
+We would also like to hear about your 2015 experiences! What was your best moment? Feel free to share it in the comments section below!
 
 
