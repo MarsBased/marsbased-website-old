@@ -3,8 +3,544 @@
   <channel>
     <title>MarsBased</title>
     <description>MarsBased is an application development company in Barcelona, highly specialized in Ruby on Rails.</description>
-    <link>http://www.marsbased.com</link>
-    <atom:link href="http://www.marsbased.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.marsbased.com</link>
+    <atom:link href="https://www.marsbased.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Expanding the MarsBased Team (Again)</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d501.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I am so happy to announce that we’re expanding the MarsBased team again. We kicked off 2016 gracefully with three new projects and a good forecast for the months to come.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I’ll frame this so you can understand it better. We usually get a new client every two or three months. The projects we do are big enough to sustain this. Also, we work with fewer clients, because we also carefully select them.&lt;/p&gt;
+
+&lt;p&gt;Our clients value our quality-over-quantity attitude, our fluid communication skills, our long-term relationships, and trust us to come up with high-caliber solutions where they only see uncertainty and difficulty.&lt;/p&gt;
+
+&lt;p&gt;Therefore, you can only imagine what happens when you land three in the same month.&lt;/p&gt;
+
+&lt;p&gt;Luckily enough, we’ve been harvesting our network for almost three years now. Not only have we organised many events, but we also attend developers’ meetups and keep in touch with the community via &lt;a href=&quot;http://www.startupgrind.com/barcelona&quot; title=&quot;Startup Grind&quot; target=&quot;_blank&quot;&gt;Startup Grind&lt;/a&gt; or our &lt;a href=&quot;http://www.bcn-startups.com&quot; title=&quot;Startup community in Barcelona&quot; target=&quot;_blank&quot;&gt;Slack community for freelancers and Startups in Barcelona&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To keep a sustainable and organic growth within the company, we outsource part of our workload. This way, when we finish a project and have nothing ready on our pipeline, we take the outsourced projects in-house. If we didn’t do this, we couldn’t grow as we’ve done, and we probably would have had to shrink the team accordingly.&lt;/p&gt;
+
+&lt;p&gt;Besides that, outsourcing has also earned us the possibility to get to know brilliant individuals with whom we are very happy to work. This way, we worked with Mortensen in three or four different projects at the beginning, so when &lt;a href=&quot;http://www.twitter.com/pedrogpimenta&quot; title=&quot;Pedro twitter handle&quot; target=&quot;_blank&quot;&gt;Pedro&lt;/a&gt; decided to quit their company, we approached him to hire him right away.&lt;/p&gt;
+
+&lt;p&gt;Our company is built upon trust, and recruitment is not an exception.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/blog-oriol1.jpeg&quot; alt=&quot;Rocket launch&quot; title=&quot;Rocket launch&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Our team keeps growing. The spaceship gets bigger.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;In this case, we hired someone we have known for quite a long time. He was the first person to join Startup Circle when we created it, even before we launched MarsBased. We’ve been friends ever since.&lt;/p&gt;
+
+&lt;p&gt;We want to welcome &lt;a href=&quot;http://www.twitter.com/oriol_bcn&quot; title=&quot;Oriol&#39;s Twitter handle&quot; target=&quot;_blank&quot;&gt;Oriol&lt;/a&gt; to MarsBased. His experience in Rails and his previous experience as CTO at &lt;a href=&quot;http://www.dineyo.com&quot; title=&quot;Dineyo&quot; target=&quot;_blank&quot;&gt;Dineyo&lt;/a&gt; will give a real boost to our already wonderful team.&lt;/p&gt;
+
+&lt;p&gt;In fact, Oriol was among the attendees last week at the first open Ironhack talks, where I was honoured to be &lt;a href=&quot;http://www.meetup.com/ironhack-barcelona/events/228228599/&quot; title=&quot;Ironhack talk about MarsBased&quot; target=&quot;_blank&quot;&gt;the first speaker&lt;/a&gt;. About 50 people showed up, amongst which I found some familiar faces from the community we’re building around our company.&lt;/p&gt;
+
+&lt;p&gt;Some background: Almost two years ago &lt;a href=&quot;https://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/&quot; title=&quot;MarsBased conquers the Ironhack&quot; target=&quot;_blank&quot;&gt;I gave the first talk about MarsBased at Ironhack&lt;/a&gt;. I was invited to talk about our experience, even though the company was barely a month old, so I spoke about what I knew from my previous companies and my failed ventures before MarsBased. Back then, these keynotes were only for Ironhack students.&lt;/p&gt;
+
+&lt;p&gt;Last week, I did this keynote with the lessons learnt during our first two years at MarsBased. Two years. Two years and 9 employees later. Who would’ve thought, when I quit my previous job in December 2013, that we’d reach this far.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/blog-oriol2.png&quot; alt=&quot;Àlex talking at Ironhack&quot; title=&quot;Àlex talking at Ironhack&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Àlex talking at Ironhack.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;In short, not many people knew MarsBased before the talk, only about ten, but in spite of that, 50 people showed up to learn from us. That was inspiring for me, and I hope it was also inspirational for them.&lt;/p&gt;
+
+&lt;p&gt;It’s time to start telling the tale. &lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;We’d like to hear your story too! If you’ve known us for a while, feel free to share what things you’ve learnt from us. If you didn’t know us, connect with us on Twitter.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Feb 2016 16:00:00 +0100</pubDate>
+        <link>https://www.marsbased.com/blog/2016/02/21/Expanding-the-MarsBased-team-again</link>
+        <guid isPermaLink="true">https://www.marsbased.com/blog/2016/02/21/Expanding-the-MarsBased-team-again</guid>
+      </item>
+    
+      <item>
+        <title>Our New Year&#39;s Resolutions for 2016</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d480.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Some days ago we published what had been keeping us busy in 2015. Lots of projects, events, growing the team, getting clients from abroad, new learnings and heaps of experiences.&lt;/p&gt;
+
+&lt;p&gt;With all that in mind, we&amp;#39;ve written the New Year&amp;#39;s Resolutions for this 2016, just like we did last year. Here&amp;#39;s the &lt;a href=&quot;https://marsbased.com/blog/2015/01/20/Our-New-Years-Resolutions-For-20154&quot; title=&quot;MarsBased 2015 Resolutions&quot; target=&quot;_blank&quot;&gt;post with our 2015 Resolutions&lt;/a&gt;. Continue reading to find out what we&amp;#39;ll be up to on 2016.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;In no particular order, here&amp;#39;s what the Martians pledged to achieve in 2016.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/20160129 team.jpeg&quot; alt=&quot;Team playing&quot; title=&quot;Team playing&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Our team keeps growing, and sport is among our top priorities this year!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h3&gt;Xavier Redó - CTO&lt;/h3&gt;
+
+&lt;p&gt;Funnily enough, last year I introduced him with this sentence, which is also valid this year: &amp;quot;&lt;i&gt;This past year has seen Xavi working hard to cope with all the projects we&amp;#39;ve gotten at MarsBased, therefore his resolutions are&lt;/i&gt;&amp;quot;:&lt;/p&gt;
+
+&lt;div class=&quot;quote left-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/xavi-squared.jpg&quot; alt=&quot;Xavier Redó&quot; title=&quot;Xavier Redó&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;Xavier Redó&lt;/h4&gt;
+        &lt;p&gt;CTO&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;Since we&#39;ve grown our team, we need to reduce the team&#39;s dependence on me so they can be more autonomous and I won&#39;t be a bottleneck.&lt;/p&gt;
+        &lt;p&gt;We will most likely meet this goal if I design a continuous training program. Every month we&#39;ll be learning something new.&lt;/p&gt;
+        &lt;p&gt;On a personal side, I&#39;ll become a father soon, so I am planning to find better life-work balance to enjoy both at their fullest. This will allocate more time to do sport and lead a healthier lifestyle.&lt;/p&gt;
+        &lt;p&gt;Finally, I&#39;d like to commit to learning mobile development during 2016.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Francisco Javier López - Developer&lt;/h3&gt;
+
+&lt;p&gt;Fran joined us in September 2015 as a Rails developer. He&amp;#39;s permanently based in Murcia, thus becoming the first 100% remote employee of the company. We fly him to Barcelona for the Martian Days.&lt;/p&gt;
+
+&lt;div class=&quot;quote right-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/fran.jpg&quot; alt=&quot;Francisco Javier López&quot; title=&quot;Francisco Javier López&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;Francisco Javier López&lt;/h4&gt;
+        &lt;p&gt;Developer&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;Although I have been working with Rails for quite some time, I would like to consolidate my skills by trying to improve every project I work on.&lt;/p&gt;
+        &lt;p&gt;I want to also contribute to open source by creating a couple of gems this year, and also some pull requests on popular repositories.&lt;/p&gt;
+        &lt;p&gt;While I am fairly skilled with Ruby on Rails, I need to get hands on with AngularJS, as it&#39;s totally unknown to me.&lt;/p&gt;
+        &lt;p&gt;Also, I usually retweet interesting stuff about coding, which gives ideas to Àlex for the MarsBased twitter handle, so I will keep doing that.&lt;/p&gt;
+        &lt;p&gt;Other things that I feel I need to work on during 2016 are my English skills and practising sport on a daily basis.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Javier Pérez - Developer&lt;/h3&gt;
+
+&lt;p&gt;Javi is the first hire at MarsBased. He&amp;#39;s been a year and a half with us already. Time flies!&lt;/p&gt;
+
+&lt;div class=&quot;quote left-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/javi-squared.jpg&quot; alt=&quot;Javier Pérez&quot; title=&quot;Javier Pérez&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;Javier Pérez&lt;/h4&gt;
+        &lt;p&gt;Developer&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;I feel like I have learnt a lot in a year and a half coding in Rails, and I have started building projects from the ground up. I have also mastered AngularJS, so I will be defining and helping to adopt style guides within the company to standardise our projects.&lt;/p&gt;
+        &lt;p&gt;My weakest skill is the server provisioning and stage setup. I want to dedicate a lot of time this year to improve these skills in order to be more helpful in our different projects when it&#39;s time to set up the different stages.&lt;/p&gt;
+        &lt;p&gt;This will also help ease Xavi&#39;s daily workload, as he will be delegating more stuff onto me.&lt;/p&gt;
+        &lt;p&gt;On a personal side, I want to become the world champion of paddle tennis, beat my teammates in every conceivable PS4 game there is, improve my spoken English, become a morning person and last, but not least, I&#39;ll try hard to not become single again!&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Àlex Rodríguez - CMO&lt;/h3&gt;
+
+&lt;p&gt;This past year has seen me become Regional Director at Startup Grind, which I have to balance with my business development responsibilities at MarsBased. Now I look forward to taking MarsBased to the next level!&lt;/p&gt;
+
+&lt;div class=&quot;quote right-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/alex-squared.jpg&quot; alt=&quot;Àlex Rodríguez&quot; title=&quot;Àlex Rodríguez&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;Àlex Rodríguez&lt;/h4&gt;
+        &lt;p&gt;CMO&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;I am happy to say that I am fully devoted now to what I like to do: sales and marketing. Throughout 2015, I had to help here and there, mostly on operational tasks and some project management, but I am happy to leave that behind.&lt;/p&gt;
+        &lt;p&gt;I haven&#39;t learnt graphic editing, as intended, but I don&#39;t regret it. Instead, I&#39;ve learnt other useful stuff and I&#39;ve definitely honed my blogging and public speaking skills.&lt;/p&gt;
+        &lt;p&gt;In 2016, I want to bring MarsBased to the next level: focus on getting new clients from outside Spain. I might have to grow this part of the team, but it&#39;ll pay off.&lt;/p&gt;
+        &lt;p&gt;As for Startup Grind, I want to have at least 100 people in every event and become THE event for startups and entrepreneurs in Barcelona. I also want to find more opportunities for our team to talk at big events.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Jordi Vendrell - COO&lt;/h3&gt;
+
+&lt;p&gt;Jordi has combined his first year full-time at MarsBased with having co-founded his first child, Roger. He&amp;#39;s the one that best embodies the &lt;i&gt;quality&lt;/i&gt; aspect of MarsBased.&lt;/p&gt;
+
+&lt;div class=&quot;quote left-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/jordi-squared.jpg&quot; alt=&quot;Jordi Vendrell&quot; title=&quot;Jordi Vendrell&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;Jordi Vendrell&lt;/h4&gt;
+        &lt;p&gt;COO&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;My main task at MarsBased is to improve everyone&#39;s working methodologies and the communications. Therefore, I designed our new working style, that will see us transition from being ninjas to samurais. I will blog about it very soon!&lt;/p&gt;
+        &lt;p&gt;In the last months, I&#39;ve been helping out in the sales process, to improve the frequency of getting new clients. I want to continue doing so and offer value where needed.&lt;/p&gt;
+        &lt;p&gt;On the other hand, I want to become more regular at sport. I&#39;ve had my streaks, but not very consistently. Balancing work and life with children is not always easy!&lt;/p&gt;
+        &lt;p&gt;I want to work fewer hours, but more meaningful and focused hours. I want to keep it at 40 hours per week, which, for a founder, is not easy.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;David Gómez - Developer&lt;/h3&gt;
+
+&lt;p&gt;David joined MarsBased at the end of 2015 Q1 and has been mainly working on the &lt;a href=&quot;http://www.naiz.eus&quot; title=&quot;Naiz&quot; target=&quot;_blank&quot;&gt;Naiz&lt;/a&gt; project. He used to work with Javi and Àlex at VASS.&lt;/p&gt;
+
+&lt;div class=&quot;quote right-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/fotografia.jpg&quot; alt=&quot;David Gómez&quot; title=&quot;David Gómez&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;David Gómez&lt;/h4&gt;
+        &lt;p&gt;Developer&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;Although I had worked some time with Rails and Javascript before joining MarsBased, I was never at this level. Therefore, I want to continue growing my Rails and Javascript skills, especially with AngularJS and React.&lt;/p&gt;
+        &lt;p&gt;I want to spend time writing on StackOverflow, which will help me to learn more coding, contribute to the community and also improve my written English skills.&lt;/p&gt;
+        &lt;p&gt;This year I want to start really early to finish my working shift by lunchtime. That will allow me to have more time for side projects, such as launching my first mobile app with Ionic framework and learning AngularJS.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Xavier Simó - Developer&lt;/h3&gt;
+
+&lt;p&gt;Xavier, not Xavi, joined right after David, at the end of 2015 Q1, from Ironhack. He&amp;#39;s a pianist and you might remember him from his first &lt;a href=&quot;https://marsbased.com/blog/2015/10/05/Code-Refactoring-When-Why-And-Who&quot; title=&quot;Code Reviews at MarsBased&quot; target=&quot;_blank&quot;&gt;blog post about code reviews&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;quote left-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/xavier.png&quot; alt=&quot;Xavier Simó&quot; title=&quot;Xavier Simó&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;Xavier Simó&lt;/h4&gt;
+        &lt;p&gt;Developer&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;I want to commit this new year to work on DevOps - with a special emphasis on Docker - and testing. I have worked a little bit here and there, but I feel there&#39;s a lot of room for improvement.&lt;/p&gt;
+        &lt;p&gt;I also feel I could bring more value to the company by learning how to estimate tasks better.&lt;/p&gt;
+        &lt;p&gt;Like my buddies, I also want to learn how to manage my time better, so as to have a more balanced life, practise sport regularly and to plan my escape to a foreign country. I want to spend some time abroad.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Pedro Pimenta - Frontend Developer&lt;/h3&gt;
+
+&lt;p&gt;We met Pedro when he was working at Mortensen, with whom we collaborated in three or four projects, mostly during 2014. He&amp;#39;s Portuguese but lives in Barcelona. Well... he recently moved for some months to Mexico. Perks of being a remote company!&lt;/p&gt;
+
+&lt;div class=&quot;quote right-sided&quot;&gt;
+    &lt;div class=&quot;avatar&quot;&gt;
+        &lt;img src=&quot;/images/blog/pedro.png&quot; alt=&quot;Pedro Pimenta&quot; title=&quot;Pedro Pimenta&quot; class=&quot;img-responsive img-circle&quot; /&gt;
+        &lt;h4&gt;Pedro Pimenta&lt;/h4&gt;
+        &lt;p&gt;Frontend Developer&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;text&quot;&gt;
+        &lt;p&gt;My self-organisation skills need to be taken to the next level this year: how to name stuff, what tools to use and when to work and when not. This will help me to be more productive.&lt;/p&gt;
+        &lt;p&gt;Technology wise, I want to hone my CSS knowledge, being animations and flexbox my top priorities. Venturing into the Javascript world is also quite appealing, but that looks like stuff for 2017, because:&lt;/p&gt;
+        &lt;p&gt;I&#39;m maximising my travel schedule when I am not working. In the past, I was quite overworked, so I feel like chilling a bit in my spare time in 2016. I might use this time to figure out how to live without a home, like a true digital nomad.&lt;/p&gt;
+        &lt;p&gt;Here&#39;s to hoping that all this traveling and soul-seeking will help me to find more focus on what I do, read more (I bought a Kindle!), write more and quit smoking!&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;As you can see, comparing this year&amp;#39;s resolutions to last year&amp;#39;s, not only does the team grow, but also our ambitions.&lt;/p&gt;
+
+&lt;p&gt;What are your resolutions for 2016? Let&amp;#39;s comment them in the comments section below!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Jan 2016 16:00:00 +0100</pubDate>
+        <link>https://www.marsbased.com/blog/2016/01/31/Our-New-Years-Resolutions-for-2016</link>
+        <guid isPermaLink="true">https://www.marsbased.com/blog/2016/01/31/Our-New-Years-Resolutions-for-2016</guid>
+      </item>
+    
+      <item>
+        <title>Looking Back to 2015: A Year out of This World</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d478.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Boy, what a year!&lt;/p&gt;
+
+&lt;p&gt;If &lt;a href=&quot;https://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business/&quot; title=&quot;Lessons Learnt at MarsBased after the first year&quot; target=&quot;_blank&quot;&gt;2014 was the year when MarsBased got real&lt;/a&gt;, 2015 has been a year of growth. If you want to know what has been keeping us busy this past year, keep reading!&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/20160128 lookingback.jpeg&quot; alt=&quot;All the road we&#39;ve covered&quot; title=&quot;All the road we&#39;ve covered&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Glancing back at 2015 feels like we&amp;#39;ve been covered great distances!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h3&gt;The team&lt;/h3&gt;
+
+&lt;p&gt;MarsBased has grown quite a lot. First of all, we started 2015 with only three full-time employees and an intern, &lt;a href=&quot;https://marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World&quot; title=&quot;Emilio&#39;s Internship at MarsBased&quot; target=&quot;_blank&quot;&gt;Emilio&lt;/a&gt;. However, during 2015, the third co-founder jumped in, and we hired &lt;a href=&quot;https://twitter.com/dvdgs88&quot; title=&quot;David Gómez Twitter Handle&quot; target=&quot;_blank&quot;&gt;David&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/xsimov&quot; title=&quot;Xavier Simó twitter handle&quot; target=&quot;_blank&quot;&gt;Xavier&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/pedrogpimenta&quot; title=&quot;Pedro Pimenta twitter handle&quot; target=&quot;_blank&quot;&gt;Pedro&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/fjsanpedro&quot; title=&quot;Fran&#39;s twitter handle&quot; target=&quot;_blank&quot;&gt;Fran&lt;/a&gt;. Despite this growth, we still continue being an office-less company: Pedro just moved to Mexico, Jordi works from Balaguer, Fran is permanently based in his hometown in Murcia and I keep working from European islands whenever I can, for instance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/20160128soparnadal.jpg&quot; alt=&quot;The MarsBased team as of December 2015&quot; title=&quot;The MarsBased team as of December 2015&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;The MarsBased team as of December 2015!&lt;/small&gt;&lt;/p&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Back, left to right: Fran, Àlex, Xavi. Front, also left to right: Pedro, Xavier, David, Javi, Jordi.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Besides that, we have also been working more and more with our favourite freelancers and providers to give more and better services to our customers. Being a specialised dev shop has limitations as to which services can you offer. Luckily enough, we can count an amazing selection of professionals that can complement our Ruby on Rails &amp;amp; AngularJS expertise.&lt;/p&gt;
+
+&lt;p&gt;If you read our &lt;a href=&quot;https://marsbased.com/blog/2015/01/20/Our-New-Years-Resolutions-For-2015/&quot; target=&quot;_blank&quot; title=&quot;MarsBased 2015 New Year Resolutions&quot;&gt;2015 Resolutions post&lt;/a&gt;, you will see that we have been too busy to keep up with them all.&lt;/p&gt;
+
+&lt;h3&gt;Our projects&lt;/h3&gt;
+
+&lt;p&gt;During 2015, we have not only enlarged the team, but also the project list, and, therefore our portfolio.&lt;/p&gt;
+
+&lt;p&gt;We have had the pleasure of developing and launching really interesting and challenging projects such as &lt;a href=&quot;https://list71.com/&quot; title=&quot;List71&quot; target=&quot;_blank&quot;&gt;List71&lt;/a&gt;, &lt;a href=&quot;http://www.skindler.com/&quot; title=&quot;Skindler&quot; target=&quot;_blank&quot;&gt;Skindler&lt;/a&gt;, &lt;a href=&quot;https://www.eureka-experts.com/&quot; title=&quot;Eureka Experts&quot; target=&quot;_blank&quot;&gt;Eureka Experts&lt;/a&gt;, &lt;a href=&quot;http://w28.bcn.cat/futurisme/&quot; title=&quot;FuTurisme&quot; target=&quot;_blank&quot;&gt;FuTurisme&lt;/a&gt;, &lt;a href=&quot;http://www.pisosbancos.com/&quot; title=&quot;PisosBancos&quot; target=&quot;_blank&quot;&gt;PisosBancos&lt;/a&gt;/&lt;a href=&quot;http://www.subastasde.com/&quot; title=&quot;SubastasDe&quot; target=&quot;_blank&quot;&gt;SubastasDe&lt;/a&gt; and a couple of others. We also became providers for &lt;a href=&quot;https://es.wuaki.tv/&quot; title=&quot;Wuaki.tv&quot; target=&quot;_blank&quot;&gt;Wuaki.tv&lt;/a&gt;, &lt;a href=&quot;http://worldsensing.com/&quot; title=&quot;Worldsensing&quot; target=&quot;_blank&quot;&gt;Worldsensing&lt;/a&gt; and &lt;a href=&quot;http://www.naiz.eus/&quot; target=&quot;_blank&quot; title=&quot;Naiz&quot;&gt;Naiz&lt;/a&gt;, just to name a few. Some we can&amp;#39;t mention because of NDAs or other commercial agreements.&lt;/p&gt;
+
+&lt;p&gt;Maybe the largest and most challenging have been List71 and Skindler. In the first one, an investment platform based on revenue, we had to learn how to deal with investment rounds, security compliance to treat banking data and an extremely polished UX that would help investors lend money to revenue-generating companies worldwide.&lt;/p&gt;
+
+&lt;p&gt;In the second case, Skindler is a curated marketplace of game development talent. Throughout this project, we have learnt how to pivot many times without breaking existing stuff, as we have had to change the design, layouts, main workflows and even the business model! We have mastered the lean startup methodology in this project. In fact, this is our oldest ongoing project: we have been working on it for almost two years!&lt;/p&gt;
+
+&lt;p&gt;All in all, we&amp;#39;ve worked on about a dozen projects during last year. That is, almost one a month!&lt;/p&gt;
+
+&lt;p&gt;In some cases, we had to deal with legacy code, but in most of them, we were able to build this using our Rails-powered tech stack. But most of all, it fills our Martian hearts with pride to have been able to work for clients from different countries, such as the USA, UK and Singapore.&lt;/p&gt;
+
+&lt;h3&gt;Building community&lt;/h3&gt;
+
+&lt;p&gt;We have been very actively involved with the Barcelona startup community. It goes a long way back, even to some months before creating MarsBased, when &lt;a href=&quot;https://marsbased.com/blog/2013/11/07/startup-circle-barcelona&quot; title=&quot;Startup Circle in Barcelona&quot; target=&quot;_blank&quot;&gt;we started the Startup Circle community&lt;/a&gt; in Barcelona.&lt;/p&gt;
+
+&lt;p&gt;This year &lt;a href=&quot;https://marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event/&quot; target=&quot;_blank&quot; title=&quot;We pulled the plug on Startup Circle&quot;&gt;we pulled the plug on Startup Circle&lt;/a&gt;, as we felt it had too much in common with Startup Grind, so we ended up merging them. If you want to go fast, go alone. If you want to go far, go together.&lt;/p&gt;
+
+&lt;p&gt;As for &lt;a href=&quot;http://www.startupgrind.cat&quot; title=&quot;Startup Grind BCN&quot; target=&quot;_blank&quot;&gt;Startup Grind&lt;/a&gt;, we have completed twelve more events (one every month, no exceptions!) upping the average attendance to 85 people, maxing at 180 in the event with the Wallapop founder Miguel Vicente. The event has also grown, as we&amp;#39;ve welcomed three new volunteers and have therefore enlarged the family. Also, I have been appointed as Regional Director for Southern Europe. So now I am responsible for Startup Grind Chapters in Spain, Portugal, Italy, Austria and Switzerland, in addition to those on Mars.&lt;/p&gt;
+
+&lt;p&gt;This past 2015 has seen us launching a very ambitious project: &lt;a href=&quot;https://marsbased.com/blog/2015/10/26/We-Launched-Slack-For-The-Barcelona-Startup-Community/&quot; title=&quot;A Slack community for entrepreneurs and startups in Barcelona&quot; target=&quot;_blank&quot;&gt;a Slack-powered online community for all entrepreneurs and startups in Barcelona&lt;/a&gt;. As of today, it has 230 users exchanging jobs, hiring one another, arranging meetups, crowdsourcing ideas and doing all sorts of cool ideas. You can join it here: &lt;a href=&quot;http://www.bcn-startups.com&quot; target=&quot;Barcelona community for startups and entrepreneurs&quot; target=&quot;_blank&quot;&gt;www.bcn-startups.com&lt;/a&gt; (free and open for everyone!)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/20160128xaviatgrind.JPG&quot; alt=&quot;Our CTO Xavi giving a keynote at Startup Grind&quot; title=&quot;Our CTO Xavi giving a keynote at Startup Grind&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Our CTO Xavi giving a keynote at Startup Grind&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Last, but not least, we have been giving keynotes, mentoring and teaching at very distinct places such as Toulouse Business School, Universitat de Barcelona, IronHack, Makers of Barcelona, Conector, Salto con Red and many others! We also appeared in the press a couple of times.&lt;/p&gt;
+
+&lt;h3&gt;A promising start&lt;/h3&gt;
+
+&lt;p&gt;While last year we focused on growing our team and helping to get the word out about what we do and who we are, this year we need to consolidate.&lt;/p&gt;
+
+&lt;p&gt;2016 will be the year where we settle all our methodologies we&amp;#39;ve been polishing and ironing out during 2015. This is the year that will see us becoming samurais, for we have been ninjas hacking our way up, until now.&lt;/p&gt;
+
+&lt;p&gt;In fact, we have had a terrific start of 2016. Three new clients have trusted us to build their applications, from three different countries. We might as well want to prioritise getting projects from abroad.&lt;/p&gt;
+
+&lt;p&gt;All in all, it looks like we&amp;#39;ve got a bright future ahead. Oh, by the way, did we mention we&amp;#39;re launching a new website very soon? Stay tuned for updates!&lt;/p&gt;
+
+&lt;p&gt;&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;We would also like to hear about your 2015 experiences! What was your best moment? Feel free to share it in the comments section below!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Jan 2016 16:00:00 +0100</pubDate>
+        <link>https://www.marsbased.com/blog/2016/01/29/Looking-Back-to-2015-A-Year-Out-of-this-World</link>
+        <guid isPermaLink="true">https://www.marsbased.com/blog/2016/01/29/Looking-Back-to-2015-A-Year-Out-of-this-World</guid>
+      </item>
+    
+      <item>
+        <title>How to Build CSS Grids: Floats vs Inline Blocks</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d447.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;At MarsBased we&amp;#39;re very keen on sharing everything we learn. That&amp;#39;s why we recently published our &lt;a href=&quot;https://marsbased.com/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines/&quot; title=&quot;MarsBased HTML &amp; CSS Guidelines&quot; target=&quot;_blank&quot;&gt;HTML &amp;amp; CSS Guidelines&lt;/a&gt;, and our &lt;a href=&quot;https://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide&quot; title=&quot;How to create a damn good blog post&quot; target=&quot;_blank&quot;&gt;blogging tips&lt;/a&gt; or the &lt;a href=&quot;https://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business&quot; title=&quot;Lessons learnt after being one year in business&quot; target=&quot;_blank&quot;&gt;lessons learnt in our first year running the company&lt;/a&gt;, among other stuff.&lt;/p&gt;
+
+&lt;p&gt;In this entry, you will learn how to build CSS grids by comparing the two most popular approaches.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;When you&amp;#39;re building anything in CSS (a header, a form or a grid, just to name a few) the first thing you need to consider is how elements will react with each other. That&amp;#39;s how the flow of the document works: you put elements next to each other and you tell them how to behave. Some properties you attach to an element have an influence on the elements beside it.&lt;/p&gt;
+
+&lt;h3&gt;Floated elements&lt;/h3&gt;
+
+&lt;p&gt;Let&amp;#39;s say you want to build a simple 3-column layout like this one:
+&lt;img src=&quot;/images/blog/post28a.png&quot; alt=&quot;Simple 3 column layout&quot; title=&quot;Simple 3 column layout&quot; class=&quot;img-center img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First you write your HTML, which in this case is very simple:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+    &amp;lt;div class=&amp;quot;item&amp;quot;&amp;gt;item&amp;lt;/div&amp;gt;
+    &amp;lt;div class=&amp;quot;item&amp;quot;&amp;gt;item&amp;lt;/div&amp;gt;
+    &amp;lt;div class=&amp;quot;item&amp;quot;&amp;gt;item&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;And for the CSS, the most common way to tackle this is to &lt;code&gt;float&lt;/code&gt; these elements, which means:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;.item {
+    display: block;
+    width: 33.33%;
+    float: left;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This means all objects will float to the left in relation to each other. The first problem that we get here is this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post28b.png&quot; alt=&quot;Floating error&quot; title=&quot;Floating error&quot; class=&quot;img-center img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, now, their parent &lt;code&gt;.row&lt;/code&gt; doesn&amp;#39;t have a height, because floating an object means it will only &amp;quot;interact&amp;quot; with others that are floating. &lt;code&gt;.row&lt;/code&gt; is not floating, so it will not take its floated child elements into account. To overcome this, we have to start &amp;quot;hacking&amp;quot; using one of the following options:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;You can apply &lt;code&gt;overflow: hidden;&lt;/code&gt; to the parent. This may work as intended in our example, but maybe you can&amp;#39;t use this, but you may need to have a different value for &lt;code&gt;overflow&lt;/code&gt; for some other reason.&lt;/li&gt;
+&lt;li&gt;You can float the &lt;code&gt;.row&lt;/code&gt;. This way, because it is floated, it will take its children&amp;#39;s height into account and properly grow as needed. But maybe this option isn&amp;#39;t available for you either, in which case it&amp;#39;s getting difficult to overcome this.&lt;/li&gt;
+&lt;li&gt;You can set the &lt;code&gt;.row&lt;/code&gt; to &lt;code&gt;display: inline-block;&lt;/code&gt;, which will also take the children into account, but maybe you need it to be &lt;code&gt;display: block;&lt;/code&gt; for some other reason.&lt;/li&gt;
+&lt;li&gt;As I&amp;#39;ve recently learned, you can add two pseudo-elements (&lt;code&gt;:before&lt;/code&gt; and &lt;code&gt;:after&lt;/code&gt;) to the parent &lt;code&gt;.row&lt;/code&gt; and set them as &lt;code&gt;display: table;&lt;/code&gt; and &lt;code&gt;clear: both;&lt;/code&gt; to fix this. But, then again, if you also want to add some pseudo-element to do something else visually, this is not an option for you.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One of these is bound to solve the parent height problem.&lt;/p&gt;
+
+&lt;p&gt;So, let&amp;#39;s say this is fixed and you want to add more items and build something like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post28c.png&quot; alt=&quot;Simple 3 columns layout with 6 elements&quot; title=&quot;Simple 3 columns layout with 6 elements&quot; class=&quot;img-center img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And because the web is not static and you&amp;#39;ll never know how big the content of the &lt;code&gt;.item&lt;/code&gt; elements will be (unless you force it), you can have items with different heights. If that&amp;#39;s the case, this will eventually occur:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post28d.png&quot; alt=&quot;Floated height wrapping error&quot; title=&quot;Floated height wrapping error&quot; class=&quot;img-center img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Item 3 is smaller than Item 2, so Item 4 will be rendered under 3, and that&amp;#39;s not right. So here we get back to &amp;quot;hacking&amp;quot;, we need to make it so every third item starting from the fourth is forced to jump to the next line:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;.item:nth-child(3n+4) {
+    clear: left;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;But if, suddenly, we want to have 4 columns, we have to change that rule as well. This is not ideal.&lt;/p&gt;
+
+&lt;h3&gt;Inline Blocks&lt;/h3&gt;
+
+&lt;p&gt;As we&amp;#39;ve seen, using floated elements has its quirks or may not be an option for you, so let&amp;#39;s see how you can use &lt;code&gt;inline-block&lt;/code&gt; as an alternative.&lt;/p&gt;
+
+&lt;p&gt;Just to give you a quick intro, &lt;code&gt;display: inline-block;&lt;/code&gt; makes elements flow like text though each one will still be a block (in contrast, if you use &lt;code&gt;display: inline;&lt;/code&gt; your elements will flow like text but will not have width or height, only the dimensions of its contents). This means that elements put side-by-side will display side-by-side as long as they fit within their parent.&lt;/p&gt;
+
+&lt;p&gt;That said, let&amp;#39;s do this:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;.item {
+    display: inline-block;
+    width: 33.33%;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This method also needs a small hack to circumvent the following problem:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post28e.png&quot; alt=&quot;Font size error with inline-block&quot; title=&quot;Font size error with inline-block&quot; class=&quot;img-center img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What is happening here is that &lt;code&gt;inline-block&lt;/code&gt; elements behave like words and, as words, they have &lt;code&gt;word-spacing&lt;/code&gt;, which is a natural space between words. To overcome this, you can either reset the font-size on the parent (my favourite way, but with some shortcomings when you use &lt;code&gt;ems&lt;/code&gt; or &lt;code&gt;%&lt;/code&gt; for &lt;code&gt;font-size&lt;/code&gt;)&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;.row {
+    font-size: 0;
+}
+.item {
+    font-size: 1rem;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Alternatively, you can adjust the &lt;code&gt;word-spacing&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;.row {
+    word-spacing: -4px;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The &lt;code&gt;word-spacing&lt;/code&gt; value depends on the typeface you are using, but the rule is to always use the smallest negative spacing possible. And now we have a perfect grid:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post28f.png&quot; alt=&quot;Simple 3 column layout with inline-block&quot; title=&quot;Simple 3 column layout with inline-block&quot; class=&quot;img-center img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Why is this better? For one, you can change the number of columns without running into the layout issues we looked at earlier. But the best thing is being able to align items vertically:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post28g.png&quot; alt=&quot;Centering columns vertically&quot; title=&quot;Centering columns vertically&quot; class=&quot;img-center img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Just by doing this:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;.item {
+    vertical-align: middle;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Isn&amp;#39;t that great? There&amp;#39;s no good way to do that with floated elements. You can also set &lt;code&gt;vertical-align&lt;/code&gt; to &lt;code&gt;top&lt;/code&gt;, &lt;code&gt;bottom&lt;/code&gt; or &lt;code&gt;baseline&lt;/code&gt;, among others, depending on what you want to achieve.&lt;/p&gt;
+
+&lt;p&gt;You can also set the container to &lt;code&gt;text-align: center;&lt;/code&gt; to achieve this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post28h.png&quot; alt=&quot;Centering columns horizontally&quot; title=&quot;Centering columns horizontally&quot; class=&quot;img-center img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is useful for dynamic content where you don&amp;#39;t know how many items you will have.&lt;/p&gt;
+
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;There&amp;#39;s not one good way to do it, that&amp;#39;s the problem and beauty of web technologies! There are loads of ways to do each and every little thing, but there are always nuances that lead you to choose one or the other. At MarsBased we use a mix of these two. We mostly use floats because we use Bootstrap&amp;#39;s grids to build general layouts, but we sometimes resort to use the &lt;code&gt;inline-block&lt;/code&gt; technique when we need to.&lt;/p&gt;
+
+&lt;p&gt;There are also some CSS grid systems based on &lt;code&gt;inline-block&lt;/code&gt; that are worth taking a look at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://necolas.github.io/griddle/&quot; title=&quot;Griddle&quot; target=&quot;_blank&quot;&gt;Griddle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.justifygrid.com/&quot; title=&quot;Justify Grid&quot; target=&quot;_blank&quot;&gt;Justify Grid&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But the future is very promising, and we&amp;#39;re keeping an eye on &lt;a href=&quot;http://learnlayout.com/flexbox.html&quot; title=&quot;Flexbox&quot; target=&quot;_blank&quot;&gt;Flexbox&lt;/a&gt;, which gives us new ways to address these issues. Maybe the next front-end post will be about forgetting all of this and using the Flex Box model instead!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Dec 2015 16:00:00 +0100</pubDate>
+        <link>https://www.marsbased.com/blog/2015/12/28/How-To-Build-CSS-Grids-Floats-VS-Inline-Blocks</link>
+        <guid isPermaLink="true">https://www.marsbased.com/blog/2015/12/28/How-To-Build-CSS-Grids-Floats-VS-Inline-Blocks</guid>
+      </item>
+    
+      <item>
+        <title>How to Handle Client Work Remotely: Our Communication Stack</title>
+        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d427.y36/AB&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As a remote working company, we work from &lt;a href=&quot;https://marsbased.com/blog/2015/06/22/Working-Remotely-from-Berlin/&quot; title=&quot;Working remotely from Berlin&quot; target=&quot;_blank&quot;&gt;very different places&lt;/a&gt; and at very different times. That is, we have no office. Because of that, we face a lot of questions about how we deal with customers: &amp;quot;&lt;i&gt;How do you earn their trust?&lt;/i&gt;&amp;quot;, &amp;quot;&lt;i&gt;how can they know if you&amp;#39;re working?&lt;/i&gt;&amp;quot;, &amp;quot;&lt;i&gt;how do you deal with specification changes?&lt;/i&gt;&amp;quot; and so on.&lt;/p&gt;
+
+&lt;p&gt;Dealing with clients while being a remote working company is not easy. In this entry, we explain how we do it.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;In general, it is easier for product companies to offer full flexibility on where and when to work, but not so much in service companies. For instance, Red Hat, Github, Spotify, Buffer and Basecamp - just to name a few - are companies that offer full-remote positions. Service companies offering remote positions do exist, but they’re fewer.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;i&gt;During the length of the project, I’ve talked to you more often than to my colleagues in the office, and I’ve only seen you once!&lt;/i&gt; - One of our clients&lt;/blockquote&gt;
+
+&lt;p&gt;The key to manage client work by being 100% remote is to be the best at communication. And how do you become the best at communicating? With a solid &lt;i&gt;communication stack&lt;/i&gt;.&lt;/p&gt;
+
+&lt;h3&gt;What is a communication stack?&lt;/h3&gt;
+
+&lt;p&gt;Tech-oriented companies often define their &lt;i&gt;tech stack&lt;/i&gt;, which is the tools &amp;amp; programming languages they use as a &lt;i&gt;de facto&lt;/i&gt; standard for every new project. One of the most famous tech stacks is the &lt;a href=&quot;https://en.wikipedia.org/wiki/LAMP_(software_bundle)&quot; title=&quot;LAMP&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;LAMP architecture&lt;/a&gt; (Linux, Apache, MySQL, Php).&lt;/p&gt;
+
+&lt;p&gt;Likewise, a communication stack is the tool belt you use to channel company communications, both internal and external.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Internal communication&lt;/strong&gt; includes project management, news sharing, a chatroom, decision taking and transfer of knowledge within your team. Think of your project management tools, task list managers, corporate chats/social networks, organisation tools, wikis, storage platforms, intranets and video call rooms.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;External communication&lt;/strong&gt;, instead, refers to whatever channels and tools you use to interact with agents outside of your company. That includes the following: RSS, newsletter &amp;amp; emailing tools, social media, call centers, a blog, newsfeeds, forums and client management tools. Some of the tools mentioned in the internal communication side might also be used here, as some allow collaboration.&lt;/p&gt;
+
+&lt;p&gt;In product companies, this separation is clearer, but as a services company, the limits between internal and external are far more diffuse. In this entry, we will focus more on the tools themselves than whether they&amp;#39;re for internal or for external communication.&lt;/p&gt;
+
+&lt;p&gt;Let’s get to it. We’ll describe how do we manage our client work remotely.&lt;/p&gt;
+
+&lt;h3&gt;Project Management: Basecamp&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post27a.png&quot; alt=&quot;Overview of Basecamp&quot; title=&quot;Overview of Basecamp&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;This is how a Project looks like on Basecamp&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.basecamp.com&quot; title=&quot;Basecamp&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Basecamp&lt;/a&gt; is an online collaboration tool for team management. The reason why we like Basecamp so much is because they’re the creators of the framework Ruby on Rails and the writers of two really inspirational books we identify ourselves a lot with, both as individuals and as a company: &lt;a href=&quot;https://37signals.com/rework/&quot; title=&quot;Rework&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Rework&lt;/a&gt; and &lt;a href=&quot;https://37signals.com/remote/&quot; title=&quot;Remote: No Office Required&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Remote: No Office Required&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Basecamp focuses on simplicity to provide a solid tool that allows the management of almost any team. In fact, we don’t use it only for our internal team, but we also manage our client work.&lt;/p&gt;
+
+&lt;p&gt;We have created a project for each and every project we’ve got. In client projects, we keep our clients in the loop by inviting them to join the platform.&lt;/p&gt;
+
+&lt;p&gt;Basecamp is really good to centralise a project’s relevant information in just one place. All discussions should be placed here, and decisions too. If something has been agreed outside of Basecamp, it should be moved to Basecamp, lest we forget about it.&lt;/p&gt;
+
+&lt;p&gt;You can also use the Google Drive integration to attach the important project files to the Basecamp Project (contracts, offers, credentials, documentation, logos, mockups etc.) and their own text files to save things you don’t want anyone to forget about.&lt;/p&gt;
+
+&lt;p&gt;Lastly, we also use Basecamp to include our weekly report - every Monday - of what has been keeping us busy the previous week, and the planning for the week ahead.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post27c.png&quot; alt=&quot;Reporting on Basecamp&quot; title=&quot;Reporting on Basecamp&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;You can use Basecamp to send the weekly reports to your clients&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h3&gt;Sprints &amp;amp; Tech teams: Trello + Github&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post27d.png&quot; alt=&quot;A Trello board&quot; title=&quot;A Trello board&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;This is the top part of the sprint funnel on Trello&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://trello.com&quot; title=&quot;Trello&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Trello&lt;/a&gt; is our tool of choice to manage team tasks. It&amp;#39;s 100% agile-oriented and, therefore, a good fit for agile development teams.&lt;/p&gt;
+
+&lt;p&gt;Trello boards allow you to create lists that hold cards. Each list represents a status, and the cards are dragged from board to board as they change their status. In the screenshot above, you can see some of the lists distributing the tasks between &lt;i&gt;Backlog&lt;/i&gt;, the &lt;i&gt;Features&lt;/i&gt; list, the &lt;i&gt;Bugs&lt;/i&gt; list, and the planning for the next week. In the screenshot below, you can also see the lists including the tasks that have already been completed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post27e.png&quot; alt=&quot;A Trello board&quot; title=&quot;A Trello board&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;This is the bottom part of the sprint funnel on Trello&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Tasks that have been completed by our developers are placed into the &lt;i&gt;Review Pending&lt;/i&gt; list, where a more experienced developer or the person in charge of code review will review them and test them. Once OK’d, they are dragged to the &lt;i&gt;Done&lt;/i&gt; list. Should one of them not be OK enough to be deployed, it’s moved back to the current week and reassigned to the developer so he spends more time on it.&lt;/p&gt;
+
+&lt;p&gt;We like to take this a little further, and we also classify the tasks &amp;amp; features according to where they are deployed. This works really well to find out very quickly what features are available in which environment, so we don’t miss stuff during product demos. For that, we&amp;#39;ve got lists such as &lt;i&gt;Deployed to staging&lt;/i&gt; and &lt;i&gt;Deployed to production&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;On the inside of a card, you can describe the task at hand, label it according to whatever taxonomy you use, assign it to people, add attachments, comment on the task and set a due date, among other things. We use the comments system to include the pull request of that feature/bug/hotfix when the task is completed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post27f.png&quot; alt=&quot;A Trello card&quot; title=&quot;A Trello card&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Trello cards represent tasks or sets of similar tasks&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Since Trello is very oriented to tech-savvy people, we only invite the technical personnel of our clients: CTOs, developers, tech leads and so on.&lt;/p&gt;
+
+&lt;h3&gt;Real-time communication: Slack&lt;/h3&gt;
+
+&lt;p&gt;While all the previous tools are really good for taking decisions, planning and execution, none of them offers real-time communication. For that, we use &lt;a href=&quot;http://www.slack.com&quot; title=&quot;Slack&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Slack&lt;/a&gt;: a real-time communication tool for teams.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post27g.png&quot; alt=&quot;Slack&quot; title=&quot;Slack&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Here&amp;#39;s our COO Jordi reporting to one of our clients via Slack&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Some clients demand a higher availability and/or a really short response time. For them, we set up a new Slack team, so everyone’s on board and can have direct real-time communication.&lt;/p&gt;
+
+&lt;p&gt;While this fast and effective communication is good for the coordination of urgent actions (hotfixes, a demo day, or other emergencies), Slack&amp;#39;s free tier only retains the last 10000 messages. Therefore, all decisions taken on Slack are volatile. &lt;a href=&quot;https://www.youtube.com/watch?v=NOW4QiOD-oc&quot; title=&quot;Blade Runner Monologue&quot; target=&quot;_blank&quot;&gt;All those moments will be lost in time, like tears...in...rain&lt;/a&gt;. For exceptional clients, we set up the paid version of Slack and channel all communication through Slack. We&amp;#39;re flexible about that.&lt;/p&gt;
+
+&lt;p&gt;Slack also provides kickass integrations with some of our preferred tools. You can integrate it with almost whatever tool your company or project uses. Depending on the project, we integrate it with Airbrake, Trello, Github or Bug Catcher just to name a few.&lt;/p&gt;
+
+&lt;p&gt;With their multi-platform &amp;amp; -device apps, you’re just a chat away from getting an answer (or a question) from your client.&lt;/p&gt;
+
+&lt;h3&gt;Videocalls: Appear.in&lt;/h3&gt;
+
+&lt;p&gt;Some topics require a little bit more of human touch. To be more precise, certain matters require a face-to-face conversation.&lt;/p&gt;
+
+&lt;p&gt;Some text messages just don’t add the criticality, urgency or calm that a face-to-face conversation has. As a remote working company, it might as well happen that we are on the other side of the world when talking to our clients. But luckily enough, we’ve got &lt;a href=&quot;http://appear.in&quot; title=&quot;Appear.in&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Appear.in&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/post27h.png&quot; alt=&quot;Appear.in&quot; title=&quot;Appear.in&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
+&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;We kindly borrowed this photo from &lt;a href=&quot;https://twitter.com/appear_in/status/560023198226714624&quot; title=&quot;Appear.in Twitter handle&quot; target=&quot;_blank&quot;&gt;@appearin&amp;#39;s&lt;/a&gt; Twitter!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Appear.in excels in what other video call services fail to deliver: requires no registering, no accounts, no installation and no hassle what-so-ever. Just type in &lt;i&gt;http://appear.in/(NAMEOFYOURCHATROOM)&lt;/i&gt; and boom! You’re magically in. Up to eight people joining that URL will be placed in a group video conference with you.&lt;/p&gt;
+
+&lt;p&gt;As a matter of fact, we also have found that the video quality and the call stability is much better than on Skype or Google Hangouts, thus making it ideal for people in low wifi signals or using their mobile data plans.&lt;/p&gt;
+
+&lt;p&gt;Last, but not least, Appear.in also offers screen sharing options, which they’re good enough for most purposes. However, we sometimes need to have a more collaborative screen share so we use &lt;a href=&quot;http://screenhero.com&quot; title=&quot;Screenhero&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Screenhero&lt;/a&gt; instead.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;This is our way to handle client work remotely! As you can see, there’s nothing that we can’t do with these tools.&lt;/p&gt;
+
+&lt;p&gt;We’d love to hear your thoughts on this, and what your communication stack is. What best practices do you recommend? What tools can we suggest we try to improve our current stack? Let’s discuss this in the comments section below!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Dec 2015 16:00:00 +0100</pubDate>
+        <link>https://www.marsbased.com/blog/2015/12/07/How-to-Handle-Client-Work-Remotely-Our-Communication-Stack</link>
+        <guid isPermaLink="true">https://www.marsbased.com/blog/2015/12/07/How-to-Handle-Client-Work-Remotely-Our-Communication-Stack</guid>
+      </item>
     
       <item>
         <title>The MarsBased CSS &amp; HTML Guidelines</title>
@@ -12,7 +548,7 @@
 
 &lt;p&gt;Since we started MarsBased, we&amp;#39;ve completed a good share of projects. From all of them we&amp;#39;ve learnt something useful. But all this knowledge should be stored somewhere for further use, for instance, to train new developers.&lt;/p&gt;
 
-&lt;p&gt;Pretty much like we did with the release of the MarsBased blogging guide (&lt;a href=&quot;http://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide&quot; title=&quot;How to Create a Damn Good Blog Post&quot; target=&quot;_blank&quot;&gt;part 1&lt;/a&gt;, &lt;a href=&quot;http://marsbased.com/blog/2015/08/16/How-to-Create-a-Blogging-Strategy-for-your-Company&quot; title=&quot;How to Create a Blogging Strategy for Your Company&quot; target=&quot;_blank&quot;&gt;part 2&lt;/a&gt;), we want to share what we have learnt about HTML5 &amp;amp; CSS3 with you all.&lt;/p&gt;
+&lt;p&gt;Pretty much like we did with the release of the MarsBased blogging guide (&lt;a href=&quot;https://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide&quot; title=&quot;How to Create a Damn Good Blog Post&quot; target=&quot;_blank&quot;&gt;part 1&lt;/a&gt;, &lt;a href=&quot;https://marsbased.com/blog/2015/08/16/How-to-Create-a-Blogging-Strategy-for-your-Company&quot; title=&quot;How to Create a Blogging Strategy for Your Company&quot; target=&quot;_blank&quot;&gt;part 2&lt;/a&gt;), we want to share what we have learnt about HTML5 &amp;amp; CSS3 with you all.&lt;/p&gt;
 
 &lt;p&gt;Things should not only work well. They can also look good.&lt;/p&gt;
 
@@ -26,7 +562,7 @@
 
 &lt;h4&gt;Task management&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;www.trello.com&quot; title=&quot;Trello&quot; target=&quot;_blank&quot;&gt;Trello&lt;/a&gt; is our tool of choice for managing tasks and weekly sprints.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.trello.com&quot; title=&quot;Trello&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Trello&lt;/a&gt; is our tool of choice for managing tasks and weekly sprints.&lt;/p&gt;
 
 &lt;p&gt;We have one board for each project. Inside the project&amp;#39;s board, you&amp;#39;ll find columns for the present and coming weeks, along with &lt;i&gt;Done, Review Pending, Bugs, Features,&lt;/i&gt; and &lt;i&gt;Backlog&lt;/i&gt;. In projects that have been already rolled out, you will see some columns for the deploys management, too.&lt;/p&gt;
 
@@ -38,7 +574,7 @@
 
 &lt;h4&gt;Commits &amp; Branches&lt;/h4&gt;
 
-&lt;p&gt;We work with both &lt;a href=&quot;github.com&quot; title=&quot;Github&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt; and &lt;a href=&quot;bitbucket.org&quot; title=&quot;Bitbucket&quot; target=&quot;_blank&quot;&gt;Bitbucket&lt;/a&gt; and we always have separate repositories for the layout implementation and the development, so you don&amp;#39;t have to worry about breaking stuff or learning Ruby on Rails. In other words, you will have to deal with HTML, CSS, and JS, only.&lt;/p&gt;
+&lt;p&gt;We work with both &lt;a href=&quot;http://github.com&quot; title=&quot;Github&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Github&lt;/a&gt; and &lt;a href=&quot;http://bitbucket.org&quot; title=&quot;Bitbucket&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Bitbucket&lt;/a&gt; and we always have separate repositories for the layout implementation and the development, so you don&amp;#39;t have to worry about breaking stuff or learning Ruby on Rails. In other words, you will have to deal with HTML, CSS, and JS, only.&lt;/p&gt;
 
 &lt;p&gt;Furthermore, we never work on the &lt;i&gt;master&lt;/i&gt; branch, as it only contains reviewed and finished stuff. Usually, we create a new branch for each task. However, we sometimes group small and related tasks to use only one branch for them. Apply common sense and branch wisely!&lt;/p&gt;
 
@@ -75,9 +611,9 @@
 
 &lt;h4&gt;Middleman&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;middlemanapp.com&quot; title=&quot;Middleman&quot; target=&quot;_blank&quot;&gt;Middleman&lt;/a&gt; is a static websites generator built with Ruby on Rails. It integrates all the state-of-the-art frameworks and tools for frontend development (like SASS, Modernizr, Compass, Autoprefixer...) and allows you to use templating languages such as ERB or Liquid.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://middlemanapp.com&quot; title=&quot;Middleman&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Middleman&lt;/a&gt; is a static websites generator built with Ruby on Rails. It integrates all the state-of-the-art frameworks and tools for frontend development (like SASS, Modernizr, Compass, Autoprefixer...) and allows you to use templating languages such as ERB or Liquid.&lt;/p&gt;
 
-&lt;p&gt;All our new projects are developed using Middleman, but before that, we used &lt;a href=&quot;jekyllrb.com&quot; title=&quot;Jekyll&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;. Jekyll is very similar to Middleman, with only a few differences between them. While we used Liquid as the templating language in Jekyll, now we switched to ERB in Middleman.&lt;/p&gt;
+&lt;p&gt;All our new projects are developed using Middleman, but before that, we used &lt;a href=&quot;http://jekyllrb.com&quot; title=&quot;Jekyll&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Jekyll&lt;/a&gt;. Jekyll is very similar to Middleman, with only a few differences between them. While we used Liquid as the templating language in Jekyll, now we switched to ERB in Middleman.&lt;/p&gt;
 
 &lt;p&gt;In the project&amp;#39;s README file, you will find instructions about how to install the required packages and run any of those tools.&lt;/p&gt;
 
@@ -93,13 +629,13 @@
 
 &lt;p&gt;You can find more information about Middleman and Jekyll in their official websites.&lt;/p&gt;
 
-&lt;p&gt;Also, if you never had the chance to use ERB, you can find some examples in &lt;a href=&quot;http://benfrain.com/understanding-middleman-the-static-site-generator-for-faster-prototyping/&quot; title=&quot;Middleman&quot; target=&quot;_blank&quot;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Also, if you never had the chance to use ERB, you can find some examples in &lt;a href=&quot;http://benfrain.com/understanding-middleman-the-static-site-generator-for-faster-prototyping/&quot; title=&quot;Middleman&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Bootstrap&lt;/h4&gt;
 
-&lt;p&gt;Most of our works are based on &lt;a href=&quot;http://getbootstrap.com/&quot; title=&quot;Bootstrap&quot; target=&quot;_blank&quot;&gt;Bootstrap&lt;/a&gt;. It&amp;#39;s a very well-known markup framework and it offers good compatibility with browsers and other components. Also, our developers are familiar with it and can reuse a lot of code.&lt;/p&gt;
+&lt;p&gt;Most of our works are based on &lt;a href=&quot;http://getbootstrap.com/&quot; rel=&quot;nofollow&quot; title=&quot;Bootstrap&quot; target=&quot;_blank&quot;&gt;Bootstrap&lt;/a&gt;. It&amp;#39;s a very well-known markup framework and it offers good compatibility with browsers and other components. Also, our developers are familiar with it and can reuse a lot of code.&lt;/p&gt;
 
-&lt;p&gt;We tend to use always the last stable version of Bootstrap, in their SASS distribution. Since we also use SASS as our CSS framework of choice, you will be able to replace the Bootstrap variables and adapt them to each project. Do it whenever possible, instead of overwriting the Bootstrap properties. You can find the complete list of variables in the &lt;a href=&quot;https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss&quot; title=&quot;Bootstrap SASS Github page&quot; target=&quot;_blank&quot;&gt;Bootstrap SASS Github page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We tend to use always the last stable version of Bootstrap, in their SASS distribution. Since we also use SASS as our CSS framework of choice, you will be able to replace the Bootstrap variables and adapt them to each project. Do it whenever possible, instead of overwriting the Bootstrap properties. You can find the complete list of variables in the &lt;a href=&quot;https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss&quot; rel=&quot;nofollow&quot; title=&quot;Bootstrap SASS Github page&quot; target=&quot;_blank&quot;&gt;Bootstrap SASS Github page&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Finally, Bootstrap has a very powerful grid system. It can be used by simply including classes in the HTML markup, such as &lt;i&gt;.row&lt;/i&gt; or &lt;i&gt;.col-xs-6&lt;/i&gt;. However, instead of using those classes to define rows and columns, we prefer to use the Bootstrap mixins. They also allow you to define rows and columns, but you can do it directly in the SASS files, without dirtying the HTML code. Following this approach, we can completely separate the markup of a website from its styles and we make the application easier to maintain.&lt;/p&gt;
 
@@ -135,11 +671,11 @@
   +make-md-column(4)
 &lt;/pre&gt;&lt;/p&gt;
 
-&lt;p&gt;You can see the &lt;a href=&quot;https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/mixins/_grid.scss&quot; title=&quot;Mixins used in the grid system&quot; target=&quot;_blank&quot;&gt;mixins used in the grid system&lt;/a&gt; also in Github.&lt;/p&gt;
+&lt;p&gt;You can see the &lt;a href=&quot;https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/mixins/_grid.scss&quot; title=&quot;Mixins used in the grid system&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;mixins used in the grid system&lt;/a&gt; also in Github.&lt;/p&gt;
 
 &lt;h4&gt;SASS&lt;/h4&gt;
 
-&lt;p&gt;SASS is a CSS preprocessor that lets you use variables, functions, operations, and other useful stuff inside your CSS stylesheets. You can learn how to use SASS in their &lt;a href=&quot;http://sass-lang.com/&quot; title=&quot;SASS official website&quot; target=&quot;_blank&quot;&gt;official website&lt;/a&gt;. We&amp;#39;re sure you&amp;#39;ll find it very easy!&lt;/p&gt;
+&lt;p&gt;SASS is a CSS preprocessor that lets you use variables, functions, operations, and other useful stuff inside your CSS stylesheets. You can learn how to use SASS in their &lt;a href=&quot;http://sass-lang.com/&quot; title=&quot;SASS official website&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;official website&lt;/a&gt;. We&amp;#39;re sure you&amp;#39;ll find it very easy!&lt;/p&gt;
 
 &lt;h5&gt;PARTIALS&lt;/h5&gt;
 
@@ -172,7 +708,7 @@
 
 &lt;p&gt;The &lt;i&gt;/utils&lt;/i&gt; folder is where we store our helpers, mixins and keyframes - coding tools that we use in our HTML and SASS files. We also have a file called &lt;i&gt;_variables.sass&lt;/i&gt; that contains generic variables like color or typography definitions. However, page- or module-specific variables are not stored here but inside the corresponding layout or module file (you can find an example a couple of paragraphs from here).&lt;/p&gt;
 
-&lt;p&gt;The &lt;i&gt;/modules&lt;/i&gt; folder contains the styles of the differents components that compose each page. And finally, we use the &lt;i&gt;/layouts&lt;/i&gt; folder to include styles we need to apply to specific pages.&lt;/p&gt;
+&lt;p&gt;The &lt;i&gt;/modules&lt;/i&gt; folder contains the styles of the different components that compose each page. And finally, we use the &lt;i&gt;/layouts&lt;/i&gt; folder to include styles we need to apply to specific pages.&lt;/p&gt;
 
 &lt;p&gt;If the difference between layouts and modules is still not clear for you, have a look at the following example.&lt;/p&gt;
 
@@ -206,7 +742,7 @@
 
 &lt;h5&gt;NAMING CONVENTIONS&lt;/h5&gt;
 
-&lt;p&gt;In order to name our elements and classes, we follow the modular approach explained in &lt;a href=&quot;http://thesassway.com/advanced/modular-css-naming-conventions&quot; title=&quot;Modular CSS naming conventions&quot; target=&quot;_blank&quot;&gt;this article&lt;/a&gt; from &lt;a href=&quot;http://thesassway.com/&quot; title=&quot;The SASS Way&quot; target=&quot;_blank&quot;&gt;The SASS Way&lt;/a&gt;. However, we don&amp;#39;t apply the &lt;i&gt;parent-child&lt;/i&gt; rules, as we prefer to use nesting for such cases. In any case, if you ever have to define parent-child relations, use a dash (-) as a separator instead of an underscore (_) or any other symbol.&lt;/p&gt;
+&lt;p&gt;In order to name our elements and classes, we follow the modular approach explained in &lt;a href=&quot;http://thesassway.com/advanced/modular-css-naming-conventions&quot; title=&quot;Modular CSS naming conventions&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;this article&lt;/a&gt; from &lt;a href=&quot;http://thesassway.com/&quot; title=&quot;The SASS Way&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;The SASS Way&lt;/a&gt;. However, we don&amp;#39;t apply the &lt;i&gt;parent-child&lt;/i&gt; rules, as we prefer to use nesting for such cases. In any case, if you ever have to define parent-child relations, use a dash (-) as a separator instead of an underscore (_) or any other symbol.&lt;/p&gt;
 
 &lt;p&gt;Finally, in order to differentiate keyframes (animations) from classes or IDs, we name them without dashes or underscores:&lt;/p&gt;
 
@@ -236,11 +772,11 @@
 
 &lt;h4&gt;Autoprefixer, Modernizr, and Compass&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/middleman/middleman-autoprefixer&quot; title=&quot;Autoprefixer&quot; target=&quot;_blank&quot;&gt;Autoprefixer&lt;/a&gt; is a plugin that parses the CSS files and adds browser specific prefixes to the properties that require them. This means that you don&amp;#39;t have to worry about adding prefixes such as -webkit-, -moz- or -ms- because Autoprefixer does it for you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/middleman/middleman-autoprefixer&quot; title=&quot;Autoprefixer&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Autoprefixer&lt;/a&gt; is a plugin that parses the CSS files and adds browser specific prefixes to the properties that require them. This means that you don&amp;#39;t have to worry about adding prefixes such as -webkit-, -moz- or -ms- because Autoprefixer does it for you.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://modernizr.com/&quot; title=&quot;Modernizr&quot; target=&quot;_blank&quot;&gt;Modernizr&lt;/a&gt; is a JavaScript library that detects if the user&amp;#39;s browser supports HTML5 and CSS3 features or not. You can use it to build fallbacks for modern features that old browsers might not support.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://modernizr.com/&quot; title=&quot;Modernizr&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Modernizr&lt;/a&gt; is a JavaScript library that detects if the user&amp;#39;s browser supports HTML5 and CSS3 features or not. You can use it to build fallbacks for modern features that old browsers might not support.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://compass-style.org/&quot; title=&quot;Compass&quot; target=&quot;_blank&quot;&gt;Compass&lt;/a&gt; is another CSS framework included in our Middleman projects. We prefer to use Autoprefixer to add browser specific prefixes, but you might want to use Compass for other things, like its vast library of reliable mixins.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://compass-style.org/&quot; title=&quot;Compass&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Compass&lt;/a&gt; is another CSS framework included in our Middleman projects. We prefer to use Autoprefixer to add browser specific prefixes, but you might want to use Compass for other things, like its vast library of reliable mixins.&lt;/p&gt;
 
 &lt;h4&gt;Images and icons&lt;/h4&gt;
 
@@ -267,7 +803,7 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h5&gt;BOOTSTRAP GLYPHICONS AND FONT AWESOME&lt;/h5&gt;
 
-&lt;p&gt;If the design doesn&amp;#39;t come with its own icons, we like to use the ones provided by Bootstrap and Font Awesome. If you don&amp;#39;t find any suitable icon, try looking in websites like &lt;a href=&quot;iconfinder.com&quot; title=&quot;Iconfinder.com&quot; target=&quot;_blank&quot;&gt;iconfinder.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If the design doesn&amp;#39;t come with its own icons, we like to use the ones provided by Bootstrap and Font Awesome. If you don&amp;#39;t find any suitable icon, try looking in websites like &lt;a href=&quot;http://iconfinder.com&quot; title=&quot;Iconfinder.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;iconfinder.com&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h5&gt;IMAGE HELPERS&lt;/h5&gt;
 
@@ -278,7 +814,7 @@
 &lt;p&gt;In the HTML markup, however, we use another helper called &lt;i&gt;image_tag&lt;/i&gt;:&lt;/p&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&amp;lt;%= image_tag &amp;#39;padrino.png&amp;#39;, width: &amp;#39;35&amp;#39;, class: &amp;#39;logo pull-right&amp;#39; %&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;You can find more examples of the &lt;i&gt;image_tag&lt;/i&gt; helper in the &lt;a href=&quot;http://api.rubyonrails.org/classes/ActionView/Helpers/AssetTagHelper.html#method-i-image_tag&quot; title=&quot;Ruby on Rails API documentation&quot; target=&quot;_blank&quot;&gt;Ruby on Rails API documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find more examples of the &lt;i&gt;image_tag&lt;/i&gt; helper in the &lt;a href=&quot;http://api.rubyonrails.org/classes/ActionView/Helpers/AssetTagHelper.html#method-i-image_tag&quot; title=&quot;Ruby on Rails API documentation&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Ruby on Rails API documentation&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;JS libraries&lt;/h4&gt;
 
@@ -316,7 +852,7 @@
 &lt;p&gt;It&amp;#39;s not always possible, but in order to improve code legibility we try to make lines no longer than 80 characters (this applies to HTML, JS, and SASS too).&lt;/p&gt;
 
 &lt;p&gt;If you have to split an HTML tag, do it between attributes and indent the second line:&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&amp;lt;a class=&amp;quot;item-link&amp;quot; href=&amp;quot;http://www.marsbased.com&amp;quot;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&amp;lt;a class=&amp;quot;item-link&amp;quot; href=&amp;quot;https://marsbased.com&amp;quot;
   target=&amp;quot;_blank&amp;quot;&amp;gt;
   MarsBased Website
 &amp;lt;/a&amp;gt;
@@ -343,7 +879,7 @@
   &amp;lt;/div&amp;gt;
 &amp;lt;/div&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;b&gt;Bonus:&lt;/b&gt; there is a Sublime Text plugin called &lt;a href=&quot;https://github.com/SublimeText/TrailingSpaces&quot; title=&quot;TrailingSpaces&quot; target=&quot;_blank&quot;&gt;TrailingSpaces&lt;/a&gt; that detects unnecessary blank spaces in your code and deletes them all at once with a keyboard shortcut!&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bonus:&lt;/b&gt; there is a Sublime Text plugin called &lt;a href=&quot;https://github.com/SublimeText/TrailingSpaces&quot; title=&quot;TrailingSpaces&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;TrailingSpaces&lt;/a&gt; that detects unnecessary blank spaces in your code and deletes them all at once with a keyboard shortcut!&lt;/p&gt;
 
 &lt;h5&gt;SASS FILES&lt;/h5&gt;
 
@@ -367,7 +903,7 @@ border: 1px solid purple
 
 &lt;p&gt;Finally, we always add the &lt;i&gt;title&lt;/i&gt; attribute to all the links and &lt;i&gt;title&lt;/i&gt; and &lt;i&gt;alt&lt;/i&gt; to all the images.&lt;/p&gt;
 
-&lt;p&gt;Have a look at &lt;a href=&quot;https://developer.mozilla.org/en/docs/Sections_and_Outlines_of_an_HTML5_document&quot; title=&quot;HTML5 elements&quot; target=&quot;_blank&quot;&gt;this website&lt;/a&gt; for a complete guide of HTML5 elements.&lt;/p&gt;
+&lt;p&gt;Have a look at &lt;a href=&quot;https://developer.mozilla.org/en/docs/Sections_and_Outlines_of_an_HTML5_document&quot; title=&quot;HTML5 elements&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;this website&lt;/a&gt; for a complete guide of HTML5 elements.&lt;/p&gt;
 
 &lt;h5&gt;LINKS BETWEEN PAGES&lt;/h5&gt;
 
@@ -380,15 +916,15 @@ border: 1px solid purple
 &lt;p&gt;That was a long read, indeed! Have you learnt something useful? Do you want to add something? Let us know in the comments section below!&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Nov 2015 16:00:00 +0100</pubDate>
-        <link>http://www.marsbased.com/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines</guid>
+        <link>https://www.marsbased.com/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines</link>
+        <guid isPermaLink="true">https://www.marsbased.com/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines</guid>
       </item>
     
       <item>
         <title>Presenting the Barcelona Startups Community on Slack</title>
         <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d386.y36/AB&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Slack is the new trend in online communications. Given its free-for-all policy, all kinds of companies adopted this popular communication app as their &lt;i&gt;de facto&lt;/i&gt; communication platform. Slack is &lt;a href=&quot;http://www.fastcompany.com/3042326/tech-forecast/with-500000-users-slack-says-its-the-fastest-growing-business-app-ever&quot; title=&quot;Fast Company article about Slack&quot; target=&quot;_blank&quot;&gt;quickly becoming a communication standard&lt;/a&gt; among companies and communities.&lt;/p&gt;
+&lt;p&gt;Slack is the new trend in online communications. Given its free-for-all policy, all kinds of companies adopted this popular communication app as their &lt;i&gt;de facto&lt;/i&gt; communication platform. Slack is &lt;a href=&quot;http://www.fastcompany.com/3042326/tech-forecast/with-500000-users-slack-says-its-the-fastest-growing-business-app-ever&quot; title=&quot;Fast Company article about Slack&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;quickly becoming a communication standard&lt;/a&gt; among companies and communities.&lt;/p&gt;
 
 &lt;p&gt;We&amp;#39;re excited to announce the launch of a Slack Community for &lt;strong&gt;all&lt;/strong&gt; Barcelona startups and entrepreneurs.&lt;/p&gt;
 
@@ -396,11 +932,11 @@ border: 1px solid purple
 
 &lt;p&gt;Click &lt;a href=&quot;https://bcnstartup.typeform.com/to/YV0pu1&quot; title=&quot;Barcelona Startup Slack Community&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; to join the Barcelona Startup community!&lt;/p&gt;
 
-&lt;p&gt;Following the success Slack found in companies, communities are now embracing Slack as a tool to engage with their current members and attract new ones. Communities such as &lt;a href=&quot;https://nomadlist.com/&quot; title=&quot;Nomad List&quot; target=&quot;_blank&quot;&gt;Nomad List&lt;/a&gt; and &lt;a href=&quot;http://www.rubyonrails.link/&quot; title=&quot;Ruby on Rails community&quot; target=&quot;_blank&quot;&gt;Ruby on Rails&lt;/a&gt; are some of the best examples of online Slack communities. There are some great individuals compiling lists of Slack communities, such as &lt;a href=&quot;https://medium.com/@angiecois/an-incomplete-list-of-communities-on-slack-1b1b6f157bda&quot; title=&quot;An incomplete list of communities on Slack&quot; target=&quot;_blank&quot;&gt;this one created by Angela Cois&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Following the success Slack found in companies, communities are now embracing Slack as a tool to engage with their current members and attract new ones. Communities such as &lt;a href=&quot;https://nomadlist.com/&quot; title=&quot;Nomad List&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Nomad List&lt;/a&gt; and &lt;a href=&quot;http://www.rubyonrails.link/&quot; title=&quot;Ruby on Rails community&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Ruby on Rails&lt;/a&gt; are some of the best examples of online Slack communities. There are some great individuals compiling lists of Slack communities, such as &lt;a href=&quot;https://medium.com/@angiecois/an-incomplete-list-of-communities-on-slack-1b1b6f157bda&quot; title=&quot;An incomplete list of communities on Slack&quot; target=&quot;_blank&quot;&gt;this one created by Angela Cois&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;Why Slack?&lt;/h3&gt;
 
-&lt;p&gt;Buffer wrote &lt;a href=&quot;https://blog.bufferapp.com/slack-community&quot; title=&quot;Buffer&#39;s guide to Slack&quot; target=&quot;_blank&quot;&gt;a very useful guide about how to create a Slack community&lt;/a&gt;, highlighting the advantages of bringing everyone together. This way, purely offline communities can now become online, while other online-based communities, can use Slack to offer a new level of interaction among their members.&lt;/p&gt;
+&lt;p&gt;Buffer wrote &lt;a href=&quot;https://blog.bufferapp.com/slack-community&quot; title=&quot;Buffer&#39;s guide to Slack&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;a very useful guide about how to create a Slack community&lt;/a&gt;, highlighting the advantages of bringing everyone together. This way, purely offline communities can now become online, while other online-based communities, can use Slack to offer a new level of interaction among their members.&lt;/p&gt;
 
 &lt;p&gt;For us, Slack&amp;#39;s market share is the main reason why we chose it as our app of choice, thus minimising the cost of adopting a new tool.&lt;/p&gt;
 
@@ -446,7 +982,7 @@ border: 1px solid purple
 
 &lt;h3&gt;Community Giveback&lt;/h3&gt;
 
-&lt;p&gt;At MarsBased, we feel very attached to the Barcelona entrepreneurial community. Not only did we run for almost two years the &lt;a href=&quot;http://marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event/&quot; title=&quot;Startup Circle, by MarsBased&quot; target=&quot;_blank&quot;&gt;Startup Circle&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/MarsBased/status/391521920858214400&quot; title=&quot;MarsBased Tweet about Startup Circle&quot; target=&quot;_blank&quot;&gt;here&amp;#39;s our tweet announcing it back then!&lt;/a&gt;) but we&amp;#39;re also behind Startup Grind Barcelona.&lt;/p&gt;
+&lt;p&gt;At MarsBased, we feel very attached to the Barcelona entrepreneurial community. Not only did we run for almost two years the &lt;a href=&quot;https://marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event/&quot; title=&quot;Startup Circle, by MarsBased&quot; target=&quot;_blank&quot;&gt;Startup Circle&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/MarsBased/status/391521920858214400&quot; title=&quot;MarsBased Tweet about Startup Circle&quot; target=&quot;_blank&quot;&gt;here&amp;#39;s our tweet announcing it back then!&lt;/a&gt;) but we&amp;#39;re also behind Startup Grind Barcelona.&lt;/p&gt;
 
 &lt;p&gt;With Startup Circle, we brought together a community of 50 individuals &amp;amp; companies that met once or twice a month to help one another and socialise. That was our door to entrepreneurship, and we hope it has helped other people as well.&lt;/p&gt;
 
@@ -459,8 +995,8 @@ border: 1px solid purple
 &lt;p&gt;Are you interested in joining the Barcelona Startup Slack community? You can do it by clicking &lt;a href=&quot;https://bcnstartup.typeform.com/to/YV0pu1&quot; title=&quot;Barcelona Startup Slack Community&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Oct 2015 16:00:00 +0100</pubDate>
-        <link>http://www.marsbased.com/blog/2015/10/26/We-Launched-Slack-For-The-Barcelona-Startup-Community</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/10/26/We-Launched-Slack-For-The-Barcelona-Startup-Community</guid>
+        <link>https://www.marsbased.com/blog/2015/10/26/We-Launched-Slack-For-The-Barcelona-Startup-Community</link>
+        <guid isPermaLink="true">https://www.marsbased.com/blog/2015/10/26/We-Launched-Slack-For-The-Barcelona-Startup-Community</guid>
       </item>
     
       <item>
@@ -479,7 +1015,7 @@ border: 1px solid purple
 
 &lt;p&gt;Imagine you are the CTO of a recently-founded dev shop: sitting in front of your laptop, fingers ready to code, while waiting for your salesman to bring in the contract for the next Facebook. However, the first project happens to come with legacy. That is, a client hires your company to fix an already existing project, which unsurprisingly is broken. The first five words that come to mind are: &amp;quot;&lt;i&gt;I can do this better!&lt;/i&gt;&amp;quot;.&lt;/p&gt;
 
-&lt;p&gt;In fact, at MarsBased, a very large proportion of our existing clients had a different provider in the past, but they decided to change for different reasons. This is something we learnt during &lt;a href=&quot;http://www.marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business/&quot;&gt;our first year operating&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In fact, at MarsBased, a very large proportion of our existing clients had a different provider in the past, but they decided to change for different reasons. This is something we learnt during &lt;a href=&quot;https://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business/&quot;&gt;our first year operating&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;While you being able to rewrite better code may actually be true, you should also consider the client&amp;#39;s needs. Why did this project end up on your table? Maybe the quality of the deliverables was insufficient, or maybe because the client perceived the development team&amp;#39;s pace was very low and he was running out of patience (and cash).&lt;/p&gt;
 
@@ -518,7 +1054,7 @@ border: 1px solid purple
 
 &lt;p&gt;That is why we should replace bad code when we find it. By eliminating bad code, we eliminate the chance of somebody borrowing those parts for other projects. This is even more so important when introducing new hires or less-experienced programmers to the project: they might think that code is yours or, worse, perceive it as a reference and replicate it somewhere else.&lt;/p&gt;
 
-&lt;p&gt;Our CTO, Xavi, &lt;a href=&quot;http://www.marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/&quot;&gt; gave a talk at Ironhack a year ago&lt;/a&gt; where he talked about the maintainability of the code.&lt;/p&gt;
+&lt;p&gt;Our CTO, Xavi, &lt;a href=&quot;https://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/&quot;&gt; gave a talk at Ironhack a year ago&lt;/a&gt; where he talked about the maintainability of the code.&lt;/p&gt;
 
 &lt;p&gt;To sum up, we need to refactor code to improve code quality, maintainability and legibility, while making it easier for other teammates to become familiar with the project.&lt;/p&gt;
 
@@ -543,15 +1079,15 @@ border: 1px solid purple
 &lt;p&gt;What&amp;#39;s your experience on refactoring from day zero? Have you ever tried it? Would you add other Whys Whens or Whos? If you have any thoughts on the subject feel free to share them using the comments section below!&lt;/p&gt;
 </description>
         <pubDate>Mon, 05 Oct 2015 17:00:00 +0200</pubDate>
-        <link>http://www.marsbased.com/blog/2015/10/05/Code-Refactoring-When-Why-And-Who</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/10/05/Code-Refactoring-When-Why-And-Who</guid>
+        <link>https://www.marsbased.com/blog/2015/10/05/Code-Refactoring-When-Why-And-Who</link>
+        <guid isPermaLink="true">https://www.marsbased.com/blog/2015/10/05/Code-Refactoring-When-Why-And-Who</guid>
       </item>
     
       <item>
         <title>Five Reasons Why Your Company Should Organise an Event</title>
         <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d352.y36/AB&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;After over a year and a half organising the &lt;a href=&quot;http://marsbased.com/blog/2013/11/07/startup-circle-barcelona&quot; title=&quot;Startup Circle in Barcelona&quot; target=&quot;_blank&quot;&gt;Startup Circle in Barcelona&lt;/a&gt;, we decided to pull the plug.&lt;/p&gt;
+&lt;p&gt;After over a year and a half organising the &lt;a href=&quot;https://marsbased.com/blog/2013/11/07/startup-circle-barcelona&quot; title=&quot;Startup Circle in Barcelona&quot; target=&quot;_blank&quot;&gt;Startup Circle in Barcelona&lt;/a&gt;, we decided to pull the plug.&lt;/p&gt;
 
 &lt;p&gt;We have been hosting Startup Circle and &lt;a href=&quot;http://startupgrind.com/barcelona&quot; title=&quot;Startup Grind Barcelona&quot; target=&quot;_blank&quot;&gt;Startup Grind&lt;/a&gt; until we realised they shared the same dynamics and principles: educating, inspiring and connecting entrepreneurs by helping each other. Therefore, we decided to merge the two communities to take Startup Grind BCN to the next level.&lt;/p&gt;
 
@@ -586,7 +1122,7 @@ border: 1px solid purple
 
 &lt;p&gt;Every company or individual in business has a target customer. We are used to bombing our target customers by sending them our services brochures, newsletters or project quotes. We are usually too &lt;em&gt;direct&lt;/em&gt; in our sales process.&lt;/p&gt;
 
-&lt;p&gt;Few people can think differently about this and give real value to the customer before thinking about money. We have seen companies or freelancers offering free e-books or webinars to attract new clients. This is giving before taking, which is a &lt;a href=&quot;http://www.cio.com/article/2867406/marketing/how-to-use-ebooks-to-improve-your-content-marketing-strategy.html&quot; title=&quot;Ebooks increase sales&quot; target=&quot;_blank&quot;&gt; proven way to increase your sales&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Few people can think differently about this and give real value to the customer before thinking about money. We have seen companies or freelancers offering free e-books or webinars to attract new clients. This is giving before taking, which is a &lt;a href=&quot;http://www.cio.com/article/2867406/marketing/how-to-use-ebooks-to-improve-your-content-marketing-strategy.html&quot; title=&quot;Ebooks increase sales&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; proven way to increase your sales&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;You should try to cater your potential customers with an event for them. Listen to their necessities and build the event around them. What do they want? Workshops? Inspirational stories? Quality networking? An informal meeting to drink beer with like-minded people? Something they can sponsor to get exposure?&lt;/p&gt;
 
@@ -602,7 +1138,7 @@ border: 1px solid purple
 
 &lt;p&gt;As technology made it easier for everybody to put up a sharp-looking landing page, using services like About.me, Strikingly or Squarespace, credibility is now at stake. If everybody can afford that, how can we be sure that the people behind those websites are legitimate/a big company/a full time consultant/a quality provider? The answer is clear: by meeting them in real life.&lt;/p&gt;
 
-&lt;p&gt;It might look contradictory that a remote working company is telling you to do business in person, but that&amp;#39;s human nature. Physical presence breeds trust, as stated by &lt;a href=&quot;http://realbusiness.co.uk/article/26202-building-trust-is-all-important-when-doing-business-online&quot; title=&quot;Interview to Tobias Kormind&quot; target=&quot;_blank&quot;&gt;Tobias Kormind, manager of 77 Diamonds&lt;/a&gt;. Build up trust in real life, then move to the online world once the business happens.&lt;/p&gt;
+&lt;p&gt;It might look contradictory that a remote working company is telling you to do business in person, but that&amp;#39;s human nature. Physical presence breeds trust, as stated by &lt;a href=&quot;http://realbusiness.co.uk/article/26202-building-trust-is-all-important-when-doing-business-online&quot; title=&quot;Interview to Tobias Kormind&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Tobias Kormind, manager of 77 Diamonds&lt;/a&gt;. Build up trust in real life, then move to the online world once the business happens.&lt;/p&gt;
 
 &lt;h3&gt;5. People will help you&lt;/h3&gt;
 
@@ -620,8 +1156,8 @@ border: 1px solid purple
 &lt;p&gt;This is our experience and, of course, we will like to complement it with your insight. Do you also organise events? Are you an expert on the matter? Feel free to share what you have learnt so far in the comments section below!&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Sep 2015 17:00:00 +0200</pubDate>
-        <link>http://www.marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event</guid>
+        <link>https://www.marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event</link>
+        <guid isPermaLink="true">https://www.marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event</guid>
       </item>
     
       <item>
@@ -634,9 +1170,9 @@ border: 1px solid purple
 
 &lt;!--more--&gt;
 
-&lt;p&gt;We’re really proud of how and what we blog, because it helps us keeping track of our evolution as a global development shop, and feel like this could prove useful to many others that come after us. Exactly the same way we learnt from others like &lt;a href=&quot;www.buffer.com&quot; title=&quot;Buffer&quot; target=&quot;_blank&quot;&gt;Buffer&lt;/a&gt;, &lt;a href=&quot;dockyard.com&quot; title=&quot;Dockyard&quot; target=&quot;_blank&quot;&gt;Dockyard&lt;/a&gt;, &lt;a href=&quot;thoughtbot.com&quot; title=&quot;Thoughtbot&quot; target=&quot;_blank&quot;&gt;Thoughtbot&lt;/a&gt; or other blogs we follow.&lt;/p&gt;
+&lt;p&gt;We’re really proud of how and what we blog, because it helps us keeping track of our evolution as a global development shop, and feel like this could prove useful to many others that come after us. Exactly the same way we learnt from others like &lt;a href=&quot;http://www.buffer.com&quot; title=&quot;Buffer&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Buffer&lt;/a&gt;, &lt;a href=&quot;http://dockyard.com&quot; title=&quot;Dockyard&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dockyard&lt;/a&gt;, &lt;a href=&quot;http://thoughtbot.com&quot; title=&quot;Thoughtbot&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Thoughtbot&lt;/a&gt; or other blogs we follow.&lt;/p&gt;
 
-&lt;p&gt;A few weeks ago we published the &lt;a href=&quot;http://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide/&quot; title=&quot;The MarsBased Blogging Guide pt.1&quot; target=&quot;_blank&quot;&gt;first part of our blogging guide&lt;/a&gt;. In the first part, we described how to craft a good blog post, by choosing a good title, the appropriate keywords, a fitting image, and other important criteria bloggers follow.&lt;/p&gt;
+&lt;p&gt;A few weeks ago we published the &lt;a href=&quot;https://marsbased.com/blog/2015/05/05/The-MarsBased-Blogging-Guide/&quot; title=&quot;The MarsBased Blogging Guide pt.1&quot; target=&quot;_blank&quot;&gt;first part of our blogging guide&lt;/a&gt;. In the first part, we described how to craft a good blog post, by choosing a good title, the appropriate keywords, a fitting image, and other important criteria bloggers follow.&lt;/p&gt;
 
 &lt;p&gt;Blogging is nowadays a very important element in growing your company: it is one of the cheapest methods to create &lt;a href=&quot;https://en.wikipedia.org/wiki/Inbound_marketing&quot; title=&quot;Definition of Inbound Marketing&quot; target=&quot;_blank&quot;&gt;inbound marketing&lt;/a&gt;, provides SEO, and helps you demonstrate your expertise to a very large audience.&lt;/p&gt;
 
@@ -650,7 +1186,7 @@ border: 1px solid purple
 
 &lt;p&gt;At MarsBased we use it to drive qualified traffic to our website, so we made it a key element in our sales toolset.&lt;/p&gt;
 
-&lt;p&gt;When we created the company, we didn’t have that much of a strategy, so we wrote posts about our company evolution: what we did and why we did it. However, some of these posts helped us rank high enough in search engines because they contained the right keywords. For instance, our most visited blog entry is &lt;a href=&quot;http://marsbased.com/blog/2014/03/25/we-make-the-right-app2/&quot; title=&quot;MarsBased tech stack&quot; target=&quot;_blank&quot;&gt;this one we wrote about our tech stack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When we created the company, we didn’t have that much of a strategy, so we wrote posts about our company evolution: what we did and why we did it. However, some of these posts helped us rank high enough in search engines because they contained the right keywords. For instance, our most visited blog entry is &lt;a href=&quot;https://marsbased.com/blog/2014/03/25/how-we-make-the-right-app2/&quot; title=&quot;MarsBased tech stack&quot; target=&quot;_blank&quot;&gt;this one we wrote about our tech stack&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We have received a couple of project requests because of our post about technologies. In that post, we didn’t only show our expertise on the listed tools, but the content also made us rank higher on Google, especially in high-demanded technologies like AngularJS or Sidekiq because they’re specific enough to be very visible to the few people that google them.&lt;/p&gt;
 
@@ -682,7 +1218,7 @@ border: 1px solid purple
 
 &lt;p&gt;The best blogs often cover just one specific topic. It might be travel, entrepreneurship, productivity, cuisine or knitting. But some blogs cover many topics to attract different sorts of target readers.&lt;/p&gt;
 
-&lt;p&gt;If you’re bootstrapping a company, you will most likely neither have the time to blog, nor the resources to have somebody do that for you. A good tip is to start small by covering a single topic. For instance, our buddies at &lt;a href=&quot;https://getquipu.com/en&quot; title=&quot;Quipu&quot; target=&quot;_blank&quot;&gt;Quipu&lt;/a&gt;, a personal finances app (built using Ruby on Rails!), chose to target small companies and freelancers/contractors that want to automate their bookkeeping. As a result of that, they are &lt;a href=&quot;http://getquipu.com/blog/&quot; title=&quot;Quipu Blog&quot; target=&quot;_blank&quot;&gt;blogging about personal finances&lt;/a&gt;: how to do paperwork, how-to guides on taxes &amp;amp; forms, common mistakes in bookkeeping and tips about saving money on taxes are some of the topics they’ve dealt with.&lt;/p&gt;
+&lt;p&gt;If you’re bootstrapping a company, you will most likely neither have the time to blog, nor the resources to have somebody do that for you. A good tip is to start small by covering a single topic. For instance, our buddies at &lt;a href=&quot;https://getquipu.com/en&quot; title=&quot;Quipu&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Quipu&lt;/a&gt;, a personal finances app (built using Ruby on Rails!), chose to target small companies and freelancers/contractors that want to automate their bookkeeping. As a result of that, they are &lt;a href=&quot;http://getquipu.com/blog/&quot; title=&quot;Quipu Blog&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;blogging about personal finances&lt;/a&gt;: how to do paperwork, how-to guides on taxes &amp;amp; forms, common mistakes in bookkeeping and tips about saving money on taxes are some of the topics they’ve dealt with.&lt;/p&gt;
 
 &lt;p&gt;It might look obvious, but if you write about startups and entrepreneurship, don&amp;#39;t review your most favourite restaurants. It&amp;#39;s OK to go offtopic every once in a while, but not every second post.&lt;/p&gt;
 
@@ -712,9 +1248,9 @@ border: 1px solid purple
 
 &lt;p&gt;First of all, you should take into account your timezone. Say, if you’re an offshoring development company from India and your target is the UK, try posting in their morning, so that people read your blog first thing during breakfast or during their commute to work. Also, companies targeting US clients should choose between East &amp;amp; West Coast. A good tactic is to publish for East Coast first, and then publish the link in the social networks for each different time zone you might have defined as target (West Coast, Japan, etc.).&lt;/p&gt;
 
-&lt;p&gt;According to &lt;a href=&quot;buffer.com&quot; title=&quot;Buffer&quot; target=&quot;_blank&quot;&gt;Buffer&lt;/a&gt; and other social media gurus, the best time to blog is either early in the morning or right after lunch. There does not seem to be a consensus on which days of the week are better for blogging. Test it for yourself.&lt;/p&gt;
+&lt;p&gt;According to &lt;a href=&quot;http://buffer.com&quot; title=&quot;Buffer&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Buffer&lt;/a&gt; and other social media gurus, the best time to blog is either early in the morning or right after lunch. There does not seem to be a consensus on which days of the week are better for blogging. Test it for yourself.&lt;/p&gt;
 
-&lt;p&gt;Test, measure, repeat. &lt;a href=&quot;http://www.google.com/analytics/&quot; title=&quot;Google Analytics&quot; target=&quot;_blank&quot;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&quot;medium.com&quot; target=&quot;_blank&quot; title=&quot;Medium&quot;&gt;Medium&lt;/a&gt; and many Wordpress plugins are really effective when measuring the impact of your blog posts. By using them, you can understand your audience and adjust your publishing times to them.&lt;/p&gt;
+&lt;p&gt;Test, measure, repeat. &lt;a href=&quot;http://www.google.com/analytics/&quot; title=&quot;Google Analytics&quot; target=&quot;_blank&quot;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&quot;http://medium.com&quot; target=&quot;_blank&quot; title=&quot;Medium&quot;&gt;Medium&lt;/a&gt; and many Wordpress plugins are really effective when measuring the impact of your blog posts. By using them, you can understand your audience and adjust your publishing times to them.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Key question:&lt;/strong&gt; When are your target readers most prone to devote some time to read you?&lt;/p&gt;
 
@@ -776,565 +1312,8 @@ border: 1px solid purple
 &lt;p&gt;Let us know if we have missed something in our comments section!&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Aug 2015 17:00:00 +0200</pubDate>
-        <link>http://www.marsbased.com/blog/2015/08/16/How-to-Create-a-Blogging-Strategy-for-your-Company</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/08/16/How-to-Create-a-Blogging-Strategy-for-your-Company</guid>
-      </item>
-    
-      <item>
-        <title>Working Remotely from Berlin</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d263.y36/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In our previous blog entry (&lt;a href=&quot;http://marsbased.com/blog/2015/06/15/Six-Tips-for-Remote-Working/&quot; title=&quot;Our Six Tips for Remote Working&quot; target=&quot;_blank&quot;&gt;Our Six Tips for Remote Working&lt;/a&gt;), we mentioned how much we identify ourselves with the culture of remote working. It is actually one of the main pillars of our company culture, and our methodologies clearly reflect the need to be able to work from wherever we want.&lt;/p&gt;
-
-&lt;p&gt;Actually, before that, we also wrote about &lt;a href=&quot;http://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team/&quot; title=&quot;Hiring in a distributed team&quot; target=&quot;_blank&quot;&gt;hiring in a distributed team&lt;/a&gt; and even in our &lt;a href=&quot;http://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business/&quot; title=&quot;Lessons Learnt at MarsBased in our first year&quot; target=&quot;_blank&quot;&gt;Lessons Learnt&lt;/a&gt; post from a couple of months back.&lt;/p&gt;
-
-&lt;p&gt;Two of us spent a good ten days in Berlin, the capital of Germany, and this has been our experience.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h3&gt;The best&lt;/h3&gt;
-
-&lt;p&gt;The best thing about working remotely from Berlin is the city itself. Berlin offers a vast variety of places for every taste. Hence, it is not surprising that the choice of places one can work from is also very rich.&lt;/p&gt;
-
-&lt;p&gt;There are places for absolutely everyone: traditional east-German bakeries, sunny terraces near the river, comfy brunch places, themed coffee shops and even secret bars (we spent a night hunting for them!).&lt;/p&gt;
-
-&lt;p&gt;Honestly, we didn&amp;#39;t even bother to look out for coworking places, even if we came across really cool ones while walking around the city. We preferred working from coffee shops.&lt;/p&gt;
-
-&lt;p&gt;While coworking spaces offer more stable connections and a perhaps less noisy environments, we wanted to keep away from real offices.&lt;/p&gt;
-
-&lt;p&gt;Working from cafés has also got a lot of advantages: they usually have really good food, serve tasty coffee, require no paperwork or signups and you also get to interact with their crew, which for the most part, are the kindest people.&lt;/p&gt;
-
-&lt;h3&gt;The worst&lt;/h3&gt;
-
-&lt;p&gt;Technologically speaking, Berlin could do much better. Not only are credit cards not accepted virtually anywhere city, but also good wifi is hard to find.&lt;/p&gt;
-
-&lt;p&gt;While the credit card issue can be solved with extra cash, the wifi can be a pain in the neck. For instance, we rented an apartment on AirBnB that allegedly had a very fast wifi. Far from that, the connection was useless: we could not even browse, and it was limited to just two devices. Having brought two computers, two smartphones, an iPad and a Kindle, the house connection was completely unusable.&lt;/p&gt;
-
-&lt;p&gt;Luckily enough, &lt;a href=&quot;http://www.foursquare.com&quot; title=&quot;Foursquare&quot; target=&quot;_blank&quot;&gt;Foursquare&lt;/a&gt; has a very good tag for &amp;quot;places to work&amp;quot; when browsing coffee shops &amp;amp; bakeries. Also, the user reviews tend to include the username/password of the wifi, as well as the connection speed and the amount of outlets available, therefore making it a priceless tool when searching for a place to work.&lt;/p&gt;
-
-&lt;p&gt;That being said, most places had an average wifi, but stable enough to work. Some of them had even the port 22 (developer stuff: SSH connection) blocked.&lt;/p&gt;
-
-&lt;h3&gt;The best places&lt;/h3&gt;
-
-&lt;p&gt;We tried a fair share of different places during our ten days there. Some we found from an extensive Google search, others from wandering around and browsing Foursquare.&lt;/p&gt;
-
-&lt;p&gt;During our stay, we actually required a good and stable connection to test &amp;amp; launch our latest project &lt;a href=&quot;http://www.eureka-experts.com&quot; title=&quot;Eureka Startups Experts&quot; target=&quot;_blank&quot;&gt;Eureka Startups Experts&lt;/a&gt;. Eureka Startups Experts is a platform to hire experts online through video call, who will assess you on your business. Therefore, we needed to test video calls every now and then, and a good &amp;amp; stable wifi was required.&lt;/p&gt;
-
-&lt;p&gt;These are the best three we have found (and wholeheartedly recommend) in order of preference.&lt;/p&gt;
-
-&lt;h4&gt;3. Olso Kaffebar&lt;/h4&gt;
-
-&lt;p&gt;Right in the confluence between the districts of Mitte and Prenzlauer Berg, close to Nordbahnhof (in &lt;a href=&quot;http://www.oslokaffebar.com/contact/&quot; title=&quot;Oslo Kaffebar&quot; target=&quot;_blank&quot;&gt;Eichendorffstr. 13&lt;/a&gt;), is where you will find one of the best places to work from in Berlin.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.oslokaffebar.com/&quot; title=&quot;Oslo Kaffebar&quot; target=&quot;_blank&quot;&gt;Oslo Kaffebar&lt;/a&gt; is run by expats, so you will be able to order in English without a problem, and the staff is super friendly. Moreover, we thoroughly enjoyed our visits there because of their musical taste.&lt;/p&gt;
-
-&lt;p&gt;The wifi was blazing fast and we had no trouble whatsoever using it, even when the place was packed with people working. The main drawback is that the port 22 was blocked, and we needed to go somewhere else to find it open, but it&amp;#39;s a minor issue if you&amp;#39;re not a developer.&lt;/p&gt;
-
-&lt;p&gt;There are quite a few outlets to plug your laptop and a scarce but delicious variety of sandwiches. We (almost) didn&amp;#39;t even mind that there were only vegetarian options. The coffee, on the other hand, is probably the best you can find in Berlin.&lt;/p&gt;
-
-&lt;p&gt;Super recommended place, a real winner, and not only to work. The terrace and the park in front of Oslo, makes it a really cool place to spend your afternoon.&lt;/p&gt;
-
-&lt;h4&gt;2. Distrikt Coffee&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://distriktcoffee.de/&quot; target=&quot;Distrikt Coffee&quot; target=&quot;_blank&quot;&gt;Distrikt Coffee&lt;/a&gt; is not appearing in any list of great places to work from in Berlin, and it&amp;#39;s hard to believe. We actually found it by chance while hunting for an open port 22 near Oslo Kaffebar, so it&amp;#39;s also in that area (&lt;a href=&quot;http://www.yelp.com/map/distrikt-coffee-berlin-3&quot; target=&quot;Distrikt Coffee&quot; target=&quot;_blank&quot;&gt;Bergstr. 68&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;The place is huge, and has got plenty of outlets and very comfortable seats and tables, which are rare to find in Berlin. Furthermore, and for the extra points, it has some tall tables good for working while standing.&lt;/p&gt;
-
-&lt;p&gt;We spent only an afternoon there but the general impression was lovely: the bartenders were super gentle, the music was awesome (they were binging on The Smiths that afternoon) and both the coffee and the food were really tasty.&lt;/p&gt;
-
-&lt;p&gt;The real winner here is the wifi connection. It was the fastest we found in the whole city. Probably one of the best-kept secrets in Berlin, and it&amp;#39;s good that it stays like this.&lt;/p&gt;
-
-&lt;h4&gt;Schiller Bar&lt;/h4&gt;
-
-&lt;p&gt;In our last day in Berlin, we dropped by our buddies &lt;a href=&quot;http://www.8fit.com&quot; title=&quot;8fit&quot; target=&quot;_blank&quot;&gt;8fit&lt;/a&gt;&amp;#39;s offices in Neukolln, so we had to look for something around that area. Luckily enough, after 5 minutes wandering around, we came across the best place we found in Berlin: &lt;a href=&quot;http://www.schillerbar.com/&quot; title=&quot;Schiller Bar&quot; target=&quot;_blank&quot;&gt;Schiller Bar&lt;/a&gt; in &lt;a href=&quot;Herrfurthstraße 7&quot; title=&quot;Schiller Bar&quot; target=&quot;_blank&quot;&gt;Herrfurthstraße 7&lt;/a&gt;. No Google, no Foursquare, just chance.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post21.jpg&quot; alt=&quot;Àlex working in Schiller Bar&quot; title=&quot;Àlex working in Schiller Bar&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Àlex concentration level is OVER 9000!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;Not only do they have a really cool website listing everything they offer, including Google Maps&amp;#39; inner view (we sat on that blue couch!), but they were also really cool to us the whole day we spent there.&lt;/p&gt;
-
-&lt;p&gt;There were quite a few outlets here and there, plus a really fast wifi (port 22 enabled! yay!), and the place was really comfortable. Actually, comfortable enough to spend the whole day there.&lt;/p&gt;
-
-&lt;p&gt;But the real highlight here is their crew and the food. The waitresses were really attentive and courteous to the only people working there (us two), and cooked the most delicious food. The Schnitzel Wiener Art was really tasty, and so were the sandwiches and coffees we had for breakfast. Schiller became our favourite place in Berlin to work remotely.&lt;/p&gt;
-
-&lt;p&gt;Actually, a week and a half was not enough to check all the places, but we are glad to have found so many outstanding places that confirm Berlin as one of the best destinations for digital nomads and remote workers.&lt;/p&gt;
-
-&lt;hr/&gt;
-
-&lt;p&gt;Have you found any other cool place that isn&amp;#39;t listed here? Feel free to share it using the comments section below!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 Jun 2015 17:00:00 +0200</pubDate>
-        <link>http://www.marsbased.com/blog/2015/06/22/Working-Remotely-from-Berlin</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/06/22/Working-Remotely-from-Berlin</guid>
-      </item>
-    
-      <item>
-        <title>Our Six Tips for Working Remotely</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d256.y36/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;At MarsBased, we have a strongly defined company culture. We believe that in order to compete with bigger companies, smaller ventures have to define a strong company culture that attracts like-minded people.&lt;/p&gt;
-
-&lt;p&gt;One of our core principles is being able to work remotely. As an officeless company, we want to be able to work from wherever we are, regardless of our location or time-zone. As long as the work gets done, who cares where did you write your code from?&lt;/p&gt;
-
-&lt;p&gt;While you wait for the second part of our blogging guide (read the first part &lt;a href=&quot;http://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide/&quot; title=&quot;The MarsBased Blogging Guide (Part 1)&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;), you can read our team&amp;#39;s advice for working remotely.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h3&gt;What does it mean to be officeless?&lt;/h3&gt;
-
-&lt;p&gt;Companies that are 100% digital and do not require a big physical infrastructure such as storage, a lab, servers, or other machinery, can perfectly exist without having an office.&lt;/p&gt;
-
-&lt;p&gt;An office requires maintenance, paying more bills, hiring basic services (phone, internet, water, A/C, etc.) and generally increases the number of chores that most small companies cannot afford to spend nor their money neither their time in.&lt;/p&gt;
-
-&lt;p&gt;While some companies have adopted this lifestyle and work from home, some others have become digital nomads, such as &lt;a href=&quot;http://www.8fit.com&quot; title=&quot;8fit&quot; target=&quot;_blank&quot;&gt;8fit&lt;/a&gt;, that travel together around the world, building their product from awesome places such as Bali, Berlin or the Canary Islands.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post20.jpg&quot; alt=&quot;Javi working from a plane&quot; title=&quot;Javi working from a plane&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Javi working from a plane. Sky-high quality code!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;We, for one, like to work from home and take advantage of this flexibility by moving around. For instance, it&amp;#39;s cheaper to travel during the week, so we might fly for a weekend off to Italy on Wednesday, and work from there during Thursday and Friday, and then spend the whole weekend enjoying the vacation, instead of packing up last minute and waiting for delayed or overbooked flights.&lt;/p&gt;
-
-&lt;p&gt;Having no office has some downsides, but also many advantages. We will cover this in future blog posts.&lt;/p&gt;
-
-&lt;h3&gt;Why are we a distributed team?&lt;/h3&gt;
-
-&lt;p&gt;Some companies might prefer it the other way, but we were adamant that our company would be 100% remote from the very beginning.&lt;/p&gt;
-
-&lt;p&gt;As a service provider, working mostly with SaaS and cloud-based solutions, we do not require anything more than a laptop and an Internet connection (all of which we can have at home). Moreover, we like traveling, so coding from San Francisco, Barcelona or Germany makes no difference at all.&lt;/p&gt;
-
-&lt;p&gt;For instance, last week we launched &lt;a href=&quot;http://www.eureka-experts.com&quot; title=&quot;Eureka Startups Experts&quot; target=&quot;_blank&quot;&gt;Eureka Startups Experts&lt;/a&gt; from Berlin. Javi and I were in the capital of Germany for 10 days of remote working.&lt;/p&gt;
-
-&lt;p&gt;We were actually the only two people directly involved in the project. So working together remotely brought a different kind of focus that isolated us from other distractions. We could round off a very safe launch for this complex project and not being in Barcelona didn&amp;#39;t make any difference whatsoever.&lt;/p&gt;
-
-&lt;h3&gt;Our team&amp;#39;s advice&lt;/h3&gt;
-
-&lt;p&gt;After over a year of working remotely from awesome places like Munich or Berlin (Germany), the island of Hvar (Croatia) or San Francisco (USA), our team wants to share some of their tips with all of you.&lt;/p&gt;
-
-&lt;div class=&quot;quote left-sided&quot;&gt;
-    &lt;div class=&quot;avatar&quot;&gt;
-        &lt;img src=&quot;/images/jordi-squared.jpg&quot; alt=&quot;Jordi Vendrell&quot; title=&quot;Jordi Vendrell&quot; class=&quot;img-responsive img-circle&quot; /&gt;
-        &lt;h4&gt;Jordi Vendrell&lt;/h4&gt;
-        &lt;p&gt;COO&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;text&quot;&gt;
-        &lt;p&gt;Being very strict with my working hours is really important to me. I have set a fixed schedule that I try to respect every day.&lt;/p&gt;
-        &lt;p&gt;Unlike in traditional workplaces, here I can start working earlier than most people if I predict interruptions throughout the afternoon. It&#39;s very usual for me to start working at 6:30 or 7:00 am if I know I&#39;ll have to take care of urgent matters after lunch.&lt;/p&gt;
-        &lt;p&gt;Also, I believe it&#39;s equally important to go out for a while after work. Exercising or going for a walk can do wonders.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;quote right-sided&quot;&gt;
-    &lt;div class=&quot;avatar&quot;&gt;
-        &lt;img src=&quot;/images/xavier.png&quot; alt=&quot;Xavier Simó&quot; title=&quot;Xavier Simó&quot; class=&quot;img-responsive img-circle&quot; /&gt;
-        &lt;h4&gt;Xavier Simó&lt;/h4&gt;
-        &lt;p&gt;Developer&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;text&quot;&gt;
-        &lt;p&gt;By working remotely, you spend way too much time indoors. I try to go for a walk twice a day: once during the lunch break and the second right after work, to wind down.&lt;/p&gt;
-        &lt;p&gt;Besides that, I also try to identify all possible distractions that might interrupt me before focusing on big tasks ahead. This way, I can prevent them, put them off or even deal with them before their time, so that nothing breaks my concentration.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;quote left-sided&quot;&gt;
-    &lt;div class=&quot;avatar&quot;&gt;
-        &lt;img src=&quot;/images/xavi-squared.jpg&quot; alt=&quot;Xavier Redó&quot; title=&quot;Xavier Redó&quot; class=&quot;img-responsive img-circle&quot; /&gt;
-        &lt;h4&gt;Xavier Redó&lt;/h4&gt;
-        &lt;p&gt;CTO&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;text&quot;&gt;
-        &lt;p&gt;I also find it essential to wind down by going for a walk. In my case, I prefer to do it early in the morning, before kicking off the day, to go out for bread or coffee, or simply to breath some fresh air. Just go out.&lt;/p&gt;
-        &lt;p&gt;It&#39;s also important to get your daily dose of daylight. People benefit from daylight as it has a direct effect on your mood. I highly recommend working by daylight.&lt;/p&gt;
-        &lt;p&gt;Last, but not least, it&#39;s important to think outside of the box. Dare to be different: most people carry their habits from their previous corporate job into their new setup.&lt;/p&gt;
-        &lt;p&gt;Breaking these mental barriers makes you enjoy your job much more. For instance, you can program while drinking a cold beer, blasting loud music, planning your next week sitting in the balcony, or even reordering your day and going out for groceries at noon, in order to be more productive later in the day. All that matters is that these little things make you more productive.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;quote right-sided&quot;&gt;
-    &lt;div class=&quot;avatar&quot;&gt;
-        &lt;img src=&quot;/images/fotografía.jpg&quot; alt=&quot;David Gómez&quot; title=&quot;David Gómez&quot; class=&quot;img-responsive img-circle&quot; /&gt;
-        &lt;h4&gt;David Gómez&lt;/h4&gt;
-        &lt;p&gt;Developer&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;text&quot;&gt;
-        &lt;p&gt;One thing that works well for me is splitting my day in two with a pause to practice sport. I try to work out using my stationary bicycle or going to the gym in the middle of the day.&lt;/p&gt;
-        &lt;p&gt;I too find it very important to dress accordingly when working, avoiding pyjamas and slippers. This is one of the main things I learnt from &lt;a href=&quot;http://37signals.com/remote/&quot; title=&quot;Remote: No Office Required&quot; target=&quot;_blank&quot;&gt;Remote: No Office Required&lt;/a&gt; and have strictly incorporated this in my daily routine.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;quote left-sided&quot;&gt;
-    &lt;div class=&quot;avatar&quot;&gt;
-        &lt;img src=&quot;/images/javi-squared.jpg&quot; alt=&quot;Javier Pérez&quot; title=&quot;Javier Pérez&quot; class=&quot;img-responsive img-circle&quot; /&gt;
-        &lt;h4&gt;Javier Pérez&lt;/h4&gt;
-        &lt;p&gt;Developer&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;text&quot;&gt;
-        &lt;p&gt;When choosing my workplace, I need to make sure there&#39;s direct sunlight and street view. Both things make it a more pleasant environment for me, and they make me feel more energized.&lt;/p&gt;
-        &lt;p&gt;Actually, being able to see what&#39;s happening in the street allows me to change focus and stop staring at the screen for a while. As a developer, I get a high amount of screen-time, so I need to rest my eyes every now and then.&lt;/p&gt;
-        &lt;p&gt;My ideal workplace does definitely not look like an office. The farther from an office it looks, the more I like it, so coffee shops and libraries are where you will find me.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;quote right-sided&quot;&gt;
-    &lt;div class=&quot;avatar&quot;&gt;
-        &lt;img src=&quot;/images/alex-squared.jpg&quot; alt=&quot;Àlex Rodríguez&quot; title=&quot;Àlex Rodríguez&quot; class=&quot;img-responsive img-circle&quot; /&gt;
-        &lt;h4&gt;Àlex Rodríguez&lt;/h4&gt;
-        &lt;p&gt;CMO&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;text&quot;&gt;
-        &lt;p&gt;I&#39;m working on the sales area, so I get lots of interruptions from outside the company (phone calls, unsolicited emails, events, etc.). Most of them require immediate or short-term attention, so rarely ever I work on tasks that need more than one hour of focus and break down everything to work on short but intense sprints. I leave long tasks for night-time, when no one&#39;s around.&lt;/p&gt;
-        &lt;p&gt;I also find it very challenging to go out and explore a new place to work from every week. That helps me break the routine and discover really cool places.&lt;/p&gt;
-        &lt;p&gt;Moreover, I spend most of the day meeting clients or going to events, so sometimes I can&#39;t go back home between meetings. I always browse &lt;a href=&quot;http://www.foursquare.com&quot; title=&quot;Foursquare&quot; target=&quot;_blank&quot;&gt;Foursquare&lt;/a&gt; to find good working places nearby.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr/&gt;
-
-&lt;p&gt;Are you also a remote working company? What tips have you got to share with us? Feel free to post them using the comments section below!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 Jun 2015 17:00:00 +0200</pubDate>
-        <link>http://www.marsbased.com/blog/2015/06/15/Six-Tips-for-Remote-Working</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/06/15/Six-Tips-for-Remote-Working</guid>
-      </item>
-    
-      <item>
-        <title>How to Create a Damn Good Blog Post</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d224.y36/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;At MarsBased, we are always learning new stuff. Running your own company means being constantly in the loop of learning things you could have never predicted you would ever need. Among other stuff, we have learnt how to run a blog.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;#39;s a thing or two we have learnt along the way.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;After over a year of blogging for MarsBased and other sites, such as &lt;a href=&quot;http://www.startupgrind.com/barcelona&quot; title=&quot;Startup Grind Barcelona&quot; target=&quot;_blank&quot;&gt;Startup Grind&lt;/a&gt;, &lt;a href=&quot;http://barcelonaventures.com/blog/&quot; title=&quot;Barcelona Ventures blog&quot; target=&quot;_blank&quot;&gt;Barcelona Ventures&lt;/a&gt; or &lt;a href=&quot;https://medium.com/@lexrodba&quot; title=&quot;@Lexrodba Medium&quot; target=&quot;_blank&quot;&gt;my personal Medium&lt;/a&gt;, I&amp;#39;ve learned a thing or two that I wanted to share with all of you.&lt;/p&gt;
-
-&lt;h3&gt;Choose a good title&lt;/h3&gt;
-
-&lt;p&gt;Let&amp;#39;s start off from the very beginning: the title. Nowadays titles do not only have to be understandable by humans, but by robots too. And while we don&amp;#39;t refer to robots like &lt;a href=&quot;http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/21/1392977241047/Robot-from-The-Terminator-010.jpg&quot; title=&quot;Robot&quot; target=&quot;_blank&quot;&gt;this one&lt;/a&gt; or &lt;a href=&quot;http://img4.wikia.nocookie.net/__cb20141005032524/deadliestfiction/images/e/eb/Optimus_Prime_Generation_1.jpg&quot; title=&quot;Robot&quot; target=&quot;_blank&quot;&gt;this one&lt;/a&gt;, it&amp;#39;s always a good idea to let Google bots and the rest of web crawlers &amp;quot;understand&amp;quot; that title.&lt;/p&gt;
-
-&lt;p&gt;Therefore, if you&amp;#39;re writing a guide on how to craft good blog posts you might want to go with &amp;quot;&lt;i&gt;How To Craft Good Posts For Your Blog&lt;/i&gt;&amp;quot; or &amp;quot;&lt;i&gt;10 Useful Tips For Writing a Blog&lt;/i&gt;&amp;quot;. Choosing a title like &amp;quot;&lt;i&gt;Disentangling the Unfathomable Nature of Swordbuckling in the Interwebs&lt;/i&gt;&amp;quot; probably won&amp;#39;t get you very far.&lt;/p&gt;
-
-&lt;p&gt;Titles should be meaningful, just like the first sentence of the post. &lt;a href=&quot;https://blog.bufferapp.com/headline-formulas?utm_content=buffer144c3&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer&quot; title=&quot;Buffer blog&quot; target=&quot;_blank&quot;&gt;Readers absorb the first and last three words of a sentence&lt;/a&gt;, so make them count. Also, avoid clickbait titles (&amp;quot;&lt;i&gt;I Unboxed My iPhone and I Couldn&amp;#39;t Believe What Happened Next&lt;/i&gt;&amp;quot;) where possible. They&amp;#39;re not worth it: they might earn you a thousand followers today, but all will be gone tomorrow if you don&amp;#39;t deliver what&amp;#39;s promised.&lt;/p&gt;
-
-&lt;p&gt;Last, but not least, titles should include your keywords. If you&amp;#39;re blogging about gadgets, include the words &lt;i&gt;wearables&lt;/i&gt;, &lt;i&gt;tech&lt;/i&gt;, &lt;i&gt;smartphones&lt;/i&gt;, &lt;i&gt;gadgets&lt;/i&gt;, etc. This will help SEO and thus increase your blog&amp;#39;s visibility. Ideally, post titles &lt;a href=&quot;http://www.orbitmedia.com/blog/ideal-blog-post-length/&quot; title=&quot;Marketing tips&quot; target=&quot;_blank&quot;&gt;shouldn&amp;#39;t exceed 60 characters&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Catch your reader&amp;#39;s attention&lt;/h3&gt;
-
-&lt;p&gt;The first sentences of a post are crucial. As we stated before, they really do count to make a good impression and make clear what is the post about. They usually are the ones before the &amp;quot;Read more&amp;quot; button.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post19a.png&quot; alt=&quot;Read more text&quot; title=&quot;Read more text&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Meerkat&amp;#39;s Medium account did pretty well here: placed their name, announced they&amp;#39;re an open platform and dropped keywords for developers.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;Moreover, the first sentences of a post count a lot for SEO, just like titles do. Some search engines will also index a snippet of the text, and that will be the first sentences. Also, when you share a blog post to Twitter or Facebook, a snippet of the text is included. Make the most out of it: keywords, facts &amp;amp; figures, a shocking anecdote...&lt;/p&gt;
-
-&lt;p&gt;However, just like titles, the first sentences must be an open invite to click on the post and continue reading, while clickbait is strongly discouraged.&lt;/p&gt;
-
-&lt;h3&gt;Content&lt;/h3&gt;
-
-&lt;p&gt;Nowadays, the definition of good content is, as Guy Kawasaki put it, &amp;quot;&lt;a href=&quot;https://www.startupgrind.com/events/details/startup-grind-london-hosted-guy-kawasaki-canvaex-apple#/&quot; title=&quot;Startup Grind hosts Guy Kawasaki&quot; target=&quot;_blank&quot;&gt;content worth sharing&lt;/a&gt;&amp;quot;.&lt;/p&gt;
-
-&lt;p&gt;We can&amp;#39;t emphasize enough how important a blog is for SEO. A blog allows you to have original content (yay!), on a regular basis (double yay!) that can be commented and shared, and therefore spread through the web (triple yay!).&lt;/p&gt;
-
-&lt;p&gt;As a result, your company name will be spread throughout the web if you do it right. Choose your keywords wisely (don&amp;#39;t overbloat it, though!) and make it worth sharing. Then, your readers will do the work for you.&lt;/p&gt;
-
-&lt;p&gt;One interesting tip: if you talk about companies or individuals in your post, it&amp;#39;s a good idea to link to their website. For the extra points, you can mention them in the social networks and maybe earn some extra retweets/likes/shares.&lt;/p&gt;
-
-&lt;h3&gt;Links&lt;/h3&gt;
-
-&lt;p&gt;Back in the early days of the Internet, backlinking was a good idea. Back then, blogs and sites alike paid one another to have a link to their site, whatever the content was, just to pass onto one another visitors and page rank.&lt;/p&gt;
-
-&lt;p&gt;Nowadays, the reality is very different. &lt;a href=&quot;http://white.net/blog/high-risk-seo-33-ways-to-get-penalised-by-google/&quot; title=&quot;Google Penalises Backlinks&quot; target=&quot;_blank&quot;&gt;Google penalises that&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We don&amp;#39;t have a dog in the fight, but we like to link other sites if we mention them. Not only to reference a quote, give other people credit, or also to help the reader find more interesting stuff outside of our blog.&lt;/p&gt;
-
-&lt;p&gt;It is worth noting that you don&amp;#39;t want your users to leave your page for good, so instead of adding a regular link to ease the transition from your blog post to an external website, just add the &lt;i&gt;target=_blank&lt;/i&gt; HTML attribute so that the new page opens in a new tab.&lt;/p&gt;
-
-&lt;p&gt;It is likewise important to add a good title attribute to your link, to help crawlers and users alike to understand the nature of the link. In this case, if we want to link to &lt;a href=&quot;http://blog.buffer.com&quot; title=&quot;Buffer&#39;s Blog&quot; target=&quot;_blank&quot;&gt;Buffer&amp;#39;s blog&lt;/a&gt;, we&amp;#39;ll do it like this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;a href=&quot;http://blog.buffer.com&quot; title=&quot;Buffer&#39;s Blog&quot; target=&quot;_blank&quot;&amp;gt;Read Buffer&#39;s Blog&amp;lt;/a&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;One of our favourite bloggers, &lt;a href=&quot;http://www.johnrampton.com/&quot; title=&quot;John Rampton website&quot; target=&quot;_blank&quot;&gt;John Rampton&lt;/a&gt;, who writes kickass posts for &lt;a href=&quot;http://www.entrepreneur.com&quot; title=&quot;Entrepreneur-com&quot; target=&quot;_blank&quot;&gt;Entrepreneur.com&lt;/a&gt; and &lt;a href=&quot;http://forbes.com&quot; title=&quot;Forbes&quot; target=&quot;_blank&quot;&gt;Forbes&lt;/a&gt; told us to use the first three links of a blog post to link your previous posts when possible. We didn&amp;#39;t find it suitable for this post, but most of the times it can fit in pretty well and will encourage newcomers to your blog to read your previous articles.&lt;/p&gt;
-
-&lt;h3&gt;Images&lt;/h3&gt;
-
-&lt;p&gt;Each blog post needs to have at least one image. Do not skip this part, ever.&lt;/p&gt;
-
-&lt;p&gt;Images help readability and can help better explain a concept. Remember that &amp;quot;A picture is worth a thousand words&amp;quot;. Good examples of this are: a good infography, a picture of the crowded event you hosted or a nice shot of your new offices.&lt;/p&gt;
-
-&lt;p&gt;Images will also be fetched by RSS feeds and the sharing widgets of your favourite social networks, so make sure it&amp;#39;s well displayed there. As a matter of fact, Tweets and Facebook posts with images receive more engagement, &lt;a href=&quot;https://blog.bufferapp.com/twitter-images&quot; title=&quot;Buffer&#39;s Blog&quot; target=&quot;_blank&quot;&gt;according to Buffer&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;On the tech side, images need to have their &lt;i&gt;alt&lt;/i&gt; and &lt;i&gt;title&lt;/i&gt; attributes being as descriptive as possible. This will ultimately reflect on your SEO. Here&amp;#39;s an example:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&quot;http://route.to/image&quot; alt=&quot;A group shot of the MarsBased team&quot; title=&quot;A group shot of the MarsBased team&quot;&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3&gt;Readability&lt;/h3&gt;
-
-&lt;p&gt;Use subtitles to distribute the reading rhythm along the post. One long post with no subtitles is harder to follow; whereas a well-structured blog post with evenly-divided sub-sections will help to maintain the reader&amp;#39;s focus.&lt;/p&gt;
-
-&lt;p&gt;Subtitles, when correctly marked using &lt;code&gt;&amp;lt;h2&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;h3&amp;gt;&lt;/code&gt; tags, help crawlers index the page&amp;#39;s content much better.&lt;/p&gt;
-
-&lt;h3&gt;Style&lt;/h3&gt;
-
-&lt;p&gt;The perfect blog post length is thought to be &lt;a href=&quot;http://www.bitrebels.com/social/makes-perfect-blog-post-infographic/&quot; title=&quot;Infographic about blogging&quot; target=&quot;_blank&quot;&gt;around 1200 words&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It is very important that you double-check your post thoroughly for typos, broken links, unformatted parts or unreferenced quotes. Mediocre or poorly processed posts seldom get shared.&lt;/p&gt;
-
-&lt;p&gt;In this last case, remember what was the last blog post you read and thought &amp;quot;I&amp;#39;m going to share this one&amp;quot;. Why did you do it? Was it the pictures? Was it funny? Was it because someone important wrote it? No. Most of the time you share it because you feel like more people should read it, and you either send it to specific people or you spread it on the web by sharing it through Twitter, Facebook or your social networks of choice.&lt;/p&gt;
-
-&lt;p&gt;It is a good idea to re-read the post 3 o 4 times prior to publishing, and it&amp;#39;s even more advisable to ask your team or another person to read it. What&amp;#39;s obvious to you, it might not be for everyone. A concept might need further explanation, some typos go unnoticed by spell-checkers (&lt;i&gt;your&lt;/i&gt; vs. &lt;i&gt;you&amp;#39;re&lt;/i&gt;, &lt;i&gt;then&lt;/i&gt; vs &lt;i&gt;than&lt;/i&gt;) or you might have left a sentence unfinished (these things happen, but at MarsBased we alwa&lt;/p&gt;
-
-&lt;h3&gt;Call to action&lt;/h3&gt;
-
-&lt;p&gt;Finally, the post should have a &lt;i&gt;raison d&amp;#39;être&lt;/i&gt;: it can be an informative post, a how-to guide, an opinion to give food for thought, or an invitation to the new beta version of your product.&lt;/p&gt;
-
-&lt;p&gt;Whatever the aim of the post is, it should conclude with a call to action. A call to action (often referred to as CTA) is an instruction to the audience to provoke an immediate response, usually using an imperative verb such as &amp;quot;call now&amp;quot;, &amp;quot;find out more&amp;quot; or &amp;quot;visit a store today&amp;quot; (&lt;a href=&quot;http://homebusiness.about.com/od/homebusinessglossar1/g/Call-To-Action-Definition.htm&quot; title=&quot;Definition of call to action&quot; target=&quot;_blank&quot;&gt;source&lt;/a&gt;). If you don&amp;#39;t know what call to action you should do, the message of your post might not be clear enough, yet you can always ask the audience to share the post around.&lt;/p&gt;
-
-&lt;p&gt;Want an example of call to action? We&amp;#39;ll wrap up the post with one!&lt;/p&gt;
-
-&lt;p&gt;Are you a blogger? What tips have you got that we might have skipped? Share your opinion in the comments section below!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 13 May 2015 17:00:00 +0200</pubDate>
-        <link>http://www.marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide</guid>
-      </item>
-    
-      <item>
-        <title>Lessons Learnt: One Year Running Our Own Business</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d195.y36/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Time flies. We have been so busy this year, that we have barely had time to look back to all the things we have accomplished thus far. Actually, it’s been a year and a month since &lt;a href=&quot;http://marsbased.com/blog/2014/03/30/Celebrating-the-first-Martian-year/&quot; title=&quot;Celebrating the First Martian Year&quot; target=&quot;_blank&quot;&gt;we legally founded MarsBased&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;One of the companies we look up to is &lt;a href=&quot;http://www.dockyard.com&quot; target=&quot;_blank&quot; title=&quot;Dockyard&quot;&gt;Dockyard&lt;/a&gt;. They run a very inspirational blog, where they publish their experiences. This is a small homage to them and to &lt;a href=&quot;http://reefpoints.dockyard.com/opinion/2012/06/21/lessons-learned-six-month-of-running-dockyard.html&quot; target=&quot;_blank&quot; title=&quot;Dockyard Blog&quot;&gt;this&lt;/a&gt; post, where they described the difficulties they faced during the first six months running a consultancy.&lt;/p&gt;
-
-&lt;p&gt;Here’s what we have learnt in this first year of operating full-time as service providers.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post18.png&quot; alt=&quot;Keep Calm And Trust MarsBased&quot; title=&quot;Keep Calm And Trust MarsBased&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Keep Calm and Trust the Martians&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;h3&gt;Market share&lt;/h3&gt;
-
-&lt;p&gt;One of the first fears we had when we created the company was that there would be no demand for customized web apps in Ruby on Rails. Ruby does not have a big market share in Spain, so we had to create it.&lt;/p&gt;
-
-&lt;p&gt;The truth is, we have been overwhelmed by the incessant demand of Ruby development. Apparently, there’s not enough developers, nor specialized companies. We&amp;#39;ve also done a lot of technology-agnostic projects where we chose the tech stack. That means we have contributed to increasing the number of clients using Rails. You’re welcome!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lesson learnt&lt;/strong&gt;: Identify the companies you want to work for and contact them or ask for an introduction. Most of them will want to hear your story. &lt;/p&gt;
-
-&lt;p&gt;To keep this section short, we will publish a dedicated post about each project we have completed throughout the year.&lt;/p&gt;
-
-&lt;h3&gt;Clients&lt;/h3&gt;
-
-&lt;p&gt;Clients are the essence of all consulting businesses. The difference between a successful company and a failed one often times boils down to choosing your clients right.&lt;/p&gt;
-
-&lt;p&gt;A good client can be your best asset: they talk about you, recommend you to other potential clients, give you more projects, promote your stuff, and offer better conditions over time. Actually, a happy client rarely ever changes providers.&lt;/p&gt;
-
-&lt;p&gt;Conversely, a bad customer can bring your business down. People that force you to work without a contract, on abusive conditions or not paying customers pose a real threat to your company.&lt;/p&gt;
-
-&lt;p&gt;Once you have defined your business model, and your company culture, you should also define what kind of clients do you want to have and stick to them.&lt;/p&gt;
-
-&lt;p&gt;Accepting bad conditions now might seem a good idea if there are complicated months ahead for finding new contracts — such as summer, or Christmas time -, but it’ll prevent you from potentially finding a better client a little later in time (this is the so-called &lt;i&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Opportunity_cost&quot; target=&quot;_blank&quot; title=&quot;Opportunity cost&quot;&gt;Opportunity cost&lt;/a&gt;&lt;/i&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lesson learnt&lt;/strong&gt;: Before committing to any contract, find out what the opportunity cost is.&lt;/p&gt;
-
-&lt;h3&gt;Price&lt;/h3&gt;
-
-&lt;p&gt;The most important advice we can give here is: do not undervalue yourself. Not only because you will lose the opportunity cost (see above), but also because you are what you repeatedly do. That is, if your hourly rate is 70 euro, but you always offer friendly prices and end up working for 30 euro/hour, then you are a 30 euro/hour company.&lt;/p&gt;
-
-&lt;p&gt;If your strategy is competing with price, skip this section: we’re not a good example. But if you compete with quality, your high rates are more justified. Specialized companies/individuals charge more per hour.&lt;/p&gt;
-
-&lt;p&gt;We, for one, started off at 50 euro/hour, which is actually cheap for a specialized company, but we wanted to build our portfolio. The market welcomed us with open arms with that price.&lt;/p&gt;
-
-&lt;p&gt;This year we have raised our fee. We need to filter out the number of opportunities we get each month and we have a larger team now. Strange as it might seem, our ideal clients might not want to hire us if they perceive we are “too cheap”.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lesson learnt&lt;/strong&gt;: do not start with a lower fee than you’d normally charge. Once you have got a client, it’s not easy to increase your rate.&lt;/p&gt;
-
-&lt;h3&gt;Company culture&lt;/h3&gt;
-
-&lt;p&gt;This. Is. Key.&lt;/p&gt;
-
-&lt;p&gt;Probably because we look up to companies like &lt;a href=&quot;http://www.thoughtbot.com&quot; target=&quot;_blank&quot; title=&quot;Thoughtbot website&quot;&gt;Thoughtbot&lt;/a&gt; or &lt;a href=&quot;http://37signals.com/&quot; target=&quot;_blank&quot; title=&quot;37Signals website&quot;&gt;37Signals (now Basecamp)&lt;/a&gt;, we always wanted to define a company culture for MarsBased right from the get-go.&lt;/p&gt;
-
-&lt;p&gt;Company culture is one of the things we always review at our board meetings, or while talking to our employees. Most of all, we try to keep the Martian culture as present as possible in our daily grind.&lt;/p&gt;
-
-&lt;p&gt;A strong and well-defined company culture will help you take strategic decisions, for instance, when choosing projects or clients &amp;quot;is this client aligned with my vision?&amp;quot; or when hiring &amp;quot;will this person adapt to our company environment?&amp;quot;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lesson learnt&lt;/strong&gt;: Defining your company culture should be the first thing you do when creating a business. Then, make it evolve naturally.&lt;/p&gt;
-
-&lt;h3&gt;Methodologies&lt;/h3&gt;
-
-&lt;p&gt;One of the best things we have done - and feel more proud of - is having defined our own working methodology.&lt;/p&gt;
-
-&lt;p&gt;We have consistently identified workflows we incur in on a daily basis (or frequently enough) and turned them into a working methodology by identifying its bottlenecks and documenting where it was possible.&lt;/p&gt;
-
-&lt;p&gt;For instance, our sales process was a bottleneck. Every time we needed to send an offer for a new project, the document had to undergo a revision by the whole team. More often than not, this revision was pushed back for over two weeks, potentially risking losing a customer.&lt;/p&gt;
-
-&lt;p&gt;We identified this problem, analyzed it and found some solutions to this blocking issue. After the document is ready, the whole team has two days to do their revision. If no feedback is given, we assume everything’s OK and deliver the document. This way, if somebody needs to actually work on the document, he just needs to ask for some extra time.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lesson learnt&lt;/strong&gt;: Find one day a month to step back and revise all your workflows. Identify issues and work on them. Rinse and repeat.&lt;/p&gt;
-
-&lt;h3&gt;Hiring&lt;/h3&gt;
-
-&lt;p&gt;One year ago we did not expect to hire anybody before 2014 ended. At best, we could only hope there’d be enough work to sustain the three founding members.&lt;/p&gt;
-
-&lt;p&gt;Turns out we had enough work to hire &lt;a href=&quot;http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction&quot; target=&quot;_blank&quot; title=&quot;Blog post about hiring Javi&quot;&gt;Javi&lt;/a&gt; in September, &lt;a href=&quot;http://marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World/&quot; target=&quot;_blank&quot; title=&quot;Post about Emilio&#39;s internship&quot;&gt;Emilio&lt;/a&gt; in December and &lt;a href=&quot;https://twitter.com/MarsBased/status/577401842105192448&quot; target=&quot;_blank&quot; title=&quot;Xavier abduction into MarsBased&quot;&gt;Xavier&lt;/a&gt; in March, while outsourcing an additional 33% of our workload to companies like &lt;a href=&quot;http://www.evilmartians.com&quot; target=&quot;_blank&quot; title=&quot;Evil Martians website&quot;&gt;Evil Martians&lt;/a&gt; or &lt;a href=&quot;http://mortensen.co/&quot; target=&quot;_blank&quot; title=&quot;Mortensen&quot;&gt;Mortensen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;However, hiring is not easy. As a consultancy, you need to focus on delivering results to your clients. There’s little to no time to do HR. We actually wrote a &lt;a href=&quot;http://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team/&quot; target=&quot;_blank&quot; title=&quot;Blog post about hiring&quot;&gt;blog post where we spoke about this&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Luckily enough, we have friends and colleagues that have recommended potential employees to us, and everyone we have hired so far turned out to be a really good asset to the company.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lesson learnt&lt;/strong&gt;: Hire only people you have worked with in the past or that you know very well. They will work harder to avoid disappointing you, and the risk of them being a flop is therefore minimized.&lt;/p&gt;
-
-&lt;h3&gt;Delegate wisely&lt;/h3&gt;
-
-&lt;p&gt;One of the principles we have built our company around is bootstrapping. We did not want to risk a lot of money in this, as it is our first company. So we decided to spend every penny wisely.&lt;/p&gt;
-
-&lt;p&gt;This is great at first, when you have enough time to deal with chores, while working on small projects (or even none of them). But as a specialized company, we needed to focus on what we do best: developing apps with Ruby on Rails.&lt;/p&gt;
-
-&lt;p&gt;As we started growing, we found out that our workload increased as well. Thus, we began delegating some tasks to external companies. Bookkeeping was the first one, then legal stuff, and now we even delegate part of our development or some of our designs to companies of trust.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lesson learnt&lt;/strong&gt;: Always delegate stuff that is not imperative you keep in-house. It might save you time, and time is ultimately money.&lt;/p&gt;
-
-&lt;h3&gt;Burnout&lt;/h3&gt;
-
-&lt;p&gt;As first-time entrepreneurs, this is tricky to handle. The founding members entrance to the company was by working part-time on weekends and spare hours until we accumulated enough cash to employ all of us. It was a slow but safe process.&lt;/p&gt;
-
-&lt;p&gt;In hindsight, we would probably do it differently now. When half of your company is working full time, and the other half only on weekends and spare hours, working schedules might not overlap. Therefore, the part-timers drag the full-timers to work longer shifts (till late night) or even on weekends, when they’re not supposed to.&lt;/p&gt;
-
-&lt;p&gt;Remember, stretching your working shift today will have an impact tomorrow. It’s easier to avoid burnout if you stick to your 40 hours work week.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lesson learnt&lt;/strong&gt;: Define a clear roadmap for the incorporations and stick to it. Try to avoid the aforementioned situation by adjusting your schedules accordingly.&lt;/p&gt;
-
-&lt;h3&gt;Sales&lt;/h3&gt;
-
-&lt;p&gt;One of the things we have had to learn so far is business development. Since none of us had a full sales background, we decided to have one person dedicated 100% to this area.&lt;/p&gt;
-
-&lt;p&gt;Having a full-time member focused on business development is something most early-stage development shops do not have. For us, it has allowed us to build a consistent image on the social networks, a blog, a good ranking on the search engines and a frequent offline presence (organizing &lt;a href=&quot;http://www.startupgrind.cat&quot; title=&quot;Startup Grind Barcelona website&quot; target=&quot;_blank&quot;&gt;Startup Grind Barcelona&lt;/a&gt;, building the &lt;a href=&quot;http://marsbased.com/blog/2013/11/07/start-up-circle-barcelona/&quot; title=&quot;Blog post about Startup Circle&quot; target=&quot;_blank&quot;&gt;Startup Circle&lt;/a&gt; community and attending an average of two events per week).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lesson learnt&lt;/strong&gt;: Sales are a service company’s fuel. Invest big time in this.&lt;/p&gt;
-
-&lt;h3&gt;Estimates, guesstimates and project planning&lt;/h3&gt;
-
-&lt;p&gt;Throughout this first year, we have learnt the cultural difference of working with Spanish clients and clients from outside of Spain.&lt;/p&gt;
-
-&lt;p&gt;Spanish clients prefer to work on a closed estimate of time and budget. A rather exhaustive document justifying how long will it take us to complete the project and a guesstimate in price.&lt;/p&gt;
-
-&lt;p&gt;The truth is, project plannings change following users’ or investors’ opinions &amp;amp; needs, so this method is only fit for projects with a very clear and fixed scope.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, our clients from abroad prefer to work on a more agile way: we fix a price per hour and a number of hours per week and we start working. The project roadmap is built and rearranged every now and then during the length of the project, making it less of a hassle to change a functionality for another that was not in the original planning, thus allowing developers to focus on developing rather than doing estimates.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lessons learnt&lt;/strong&gt;: So far, we have learnt to work using both methodologies, but we don’t have a dog in the fight.&lt;/p&gt;
-
-&lt;h3&gt;What has helped us getting clients&lt;/h3&gt;
-
-&lt;p&gt;In order of relevance:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Organizing Startup Grind BCN and other events.&lt;/li&gt;
-&lt;li&gt;Developing the &lt;a href=&quot;http://w153.bcn.cat/&quot; title=&quot;Barcelona Startup Map&quot; target=&quot;_blank&quot;&gt;Barcelona Startup Map&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Happy clients referring us to their contacts.&lt;/li&gt;
-&lt;li&gt;Belonging to &lt;a href=&quot;http://www.barcelonatechcity.com/&quot; target=&quot;_blank&quot; title=&quot;Barcelona Tech City&quot;&gt;Barcelona Tech City&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Our referral agreement program.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;What has not helped us getting clients&lt;/h3&gt;
-
-&lt;p&gt;The following haven’t proved 100% useful yet when looking for new clients. Probably because we haven’t devoted enough time to them or because the timing or the execution were not right.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Our website.&lt;/li&gt;
-&lt;li&gt;Cold emailing.&lt;/li&gt;
-&lt;li&gt;Posting on LinkedIn groups.&lt;/li&gt;
-&lt;li&gt;Using freelancing platforms (Workana, Elance, Freelancer.com…)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Other small lessons&lt;/h3&gt;
-
-&lt;p&gt;Here are some other tips we have learnt but do not deserve an own section:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Always meet your deadlines. Clients will often not meet theirs, but that does not spare you from doing your homework. Be always ready for unexpected changes and to help your client.&lt;/li&gt;
-&lt;li&gt;Previous experience in consulting and management have proved useful, especially when reporting to clients and managing expectations.&lt;/li&gt;
-&lt;li&gt;Treat your employees responsibly and they will behave responsibly (Basecamp&amp;#39;s Jason Fried &lt;a href=&quot;http://www.inc.com/magazine/20091101/the-way-i-work-jason-fried-of-37signals.html&quot; target=&quot;_blank&quot; title=&quot;Jason Friend&#39;s How I Work&quot;&gt;wrote about this first&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;Define a minimum budget for projects. You don’t want to waste your client’s time, so tell them what that price is upfront.&lt;/li&gt;
-&lt;li&gt;Clients that don&amp;#39;t fit your company might be a right fit for others. Offer them to pass their contact onto companies/freelancers you trust. They will be very grateful for that.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr/&gt;
-
-&lt;p&gt;Do you also run a company? Want to share some advice? Do it using the comments section below!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Apr 2015 17:00:00 +0200</pubDate>
-        <link>http://www.marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business</guid>
-      </item>
-    
-      <item>
-        <title>An Internship out of This World</title>
-        <description>&lt;p&gt;&lt;em&gt;Captain&amp;#39;s log, stardate d176.y36/AB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Last year, I completed my degree in Software Development, to begin my career in web development, I opted to go for an internship. Turns out, a good friend of mine had attended the &lt;a href=&quot;http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/&quot; title=&quot;The Martians Conquer the IronHack&quot; target=&quot;_blank&quot;&gt;first Ironhack edition in Barcelona&lt;/a&gt;, where he met a couple of MarsBased members and suggested that I applied for an internship here.&lt;/p&gt;
-
-&lt;p&gt;And this is how I met MarsBased. Let me tell you how it went!&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h3&gt;Landing on the red planet&lt;/h3&gt;
-
-&lt;p&gt;On my first day at MarsBased, they welcomed me as if we had known each other for a long time. That felt definitely relieving and took pressure off me, allowing me to learn much, work hard and make the most out of this experience.&lt;/p&gt;
-
-&lt;p&gt;Working at MarsBased has definitely been radically different from what I had done in the past. For example, MarsBased is a remote working company, so we have no offices and work as a distributed team. I had no prior experience in working from home, but after trying it, I am now captivated.&lt;/p&gt;
-
-&lt;p&gt;I also found a company with a very solid company culture and clear goals. Everybody knows what these goals are, and what is the best way to accomplish them.&lt;/p&gt;
-
-&lt;p&gt;For what I have seen, everyone brings in experiences from their previous jobs, so we all can follow best practices and avoid common mistakes. It&amp;#39;s all about the lessons learnt in the past. Sometimes you win, others you learn.&lt;/p&gt;
-
-&lt;p&gt;In this company, &lt;strong&gt;Martians are Martians&lt;/strong&gt;, not resources. We hold on this belief: however hard we may work, comradery is ever-present and there is always time for joking and laughing.&lt;/p&gt;
-
-&lt;h3&gt;The Martian crew&lt;/h3&gt;
-
-&lt;p&gt;Outwardly, MarsBased looks like a big company because of the huge workload we can cope with. In this case, however, size does &lt;i&gt;not&lt;/i&gt; matter. It is the Martians&amp;#39; ability to organize and communicate that&amp;#39;s &lt;i&gt;from another galaxy&lt;/i&gt;.&lt;/p&gt;
-
-&lt;p&gt;This is for sure one of the most important lessons I will take with me. Organization and communication are key in a remote working company. Both skills play a key role when dealing with client work.&lt;/p&gt;
-
-&lt;p&gt;There are not a lot of rules in MarsBased, as strange as it might be. And the few of them we&amp;#39;ve got, they are really easy to follow, such as no emails, the weekly summary Basecamp post on Monday, simpler is better, and so on.&lt;/p&gt;
-
-&lt;p&gt;Another thing I wanted to highlight is the diversity among the team members. Despite being such a small team, there is a very diverse set of strengths and weaknesses that work like a charm.&lt;/p&gt;
-
-&lt;p&gt;As a result of all the previous points, we are a very friendly, transparent, responsible and social company, while being very powerful - technologically speaking.&lt;/p&gt;
-
-&lt;h3&gt;Adapting to the environment&lt;/h3&gt;
-
-&lt;p&gt;On Mars, Ruby on Rails is spoken. Yet I came into the company with no prior knowledge of this framework.&lt;/p&gt;
-
-&lt;p&gt;Every beginning is hard - they say - and mine was not an exception! Learning everything about routes, controllers, presenters, views, models and the rest of the jargon was not easy. It was all Greek to me. I came from a very different background, and although I could describe how to solve a problem, I wasn&amp;#39;t able to figure out how to do it.&lt;/p&gt;
-
-&lt;p&gt;But that was not the worst. The red screen appearing after application errors, with a rather cryptographic error message scared the hell out of me more than once.&lt;/p&gt;
-
-&lt;p&gt;After a few days learning to prototype using mockups and some layout from &lt;a href=&quot;http://www.twitter.com/lexrodba&quot; title=&quot;Àlex Rodríguez Bacardit Twitter Handle&quot; target=&quot;_blank&quot;&gt;Àlex&lt;/a&gt; and &lt;a href=&quot;http://www.twitter.com/jordi_vendrell&quot; title=&quot;Jordi Vendrell Farreny Twitter Handle&quot; target=&quot;_blank&quot;&gt;Jordi&lt;/a&gt;, I have been working shoulder by shoulder with &lt;a href=&quot;http://www.twitter.com/xavier_redo&quot; title=&quot;Xavier Redó Cano Twitter Handle&quot; target=&quot;_blank&quot;&gt;Xavi&lt;/a&gt; most of my time in the company. He has been my guide in this journey.&lt;/p&gt;
-
-&lt;p&gt;Xavi is a natural born teacher. He is very good at explaining why things happen the way they do. Not only that: he&amp;#39;s extraordinarily gifted in keeping a clear discourse when he&amp;#39;s explaining technical concepts. Talking to Xavi feels like talking to an encyclopedia.&lt;/p&gt;
-
-&lt;p&gt;In my opinion, Xavi has been more than a teacher: he&amp;#39;s also taught me how to avoid burnout, praised my progress and cheered me up in those hard days when you can&amp;#39;t tell an Array from a Hash.&lt;/p&gt;
-
-&lt;h3&gt;Back to Earth&lt;/h3&gt;
-
-&lt;p&gt;On Mars, there is no oxygen, and my reserves are now depleted. I have to keep learning how to survive in such an environment, and that will happen somewhere else.&lt;/p&gt;
-
-&lt;p&gt;... or it might just be that I have not overcome my addiction to nachos with guacamole. You can&amp;#39;t find them on Mars, so I am coming back to the blue planet to refill my reserves.&lt;/p&gt;
-
-&lt;p&gt;This is not a farewell. It is more like a &amp;quot;see you later&amp;quot;.&lt;/p&gt;
-
-&lt;p&gt;Thank you very much for the ride!&lt;/p&gt;
-
-&lt;p&gt;- Emilio&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/blog/post17.jpg&quot; alt=&quot;The MarsBased team during Christmas Dinner 2014&quot; title=&quot;The MarsBased team during Christmas Dinner 2014&quot; class=&quot;img-center img-rounded img-responsive&quot; /&gt;
-&lt;p class=&quot;text-center img-footer&quot;&gt;&lt;small&gt;Good luck with your new endeavour, Emilio! We&amp;#39;ll miss you!&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Mar 2015 16:00:00 +0100</pubDate>
-        <link>http://www.marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World</link>
-        <guid isPermaLink="true">http://www.marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World</guid>
+        <link>https://www.marsbased.com/blog/2015/08/16/How-to-Create-a-Blogging-Strategy-for-your-Company</link>
+        <guid isPermaLink="true">https://www.marsbased.com/blog/2015/08/16/How-to-Create-a-Blogging-Strategy-for-your-Company</guid>
       </item>
     
   </channel>

@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://marsbased.com/blog</loc>
-    <lastmod>2015-11-26</lastmod>
+    <loc>https://marsbased.com/blog</loc>
+    <lastmod>2016-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines</loc>
+    <loc>https://marsbased.com/blog/2016/02/21/Expanding-the-MarsBased-team-again</loc>
+    
+    <lastmod>2016-02-21T16:00:00+01:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marsbased.com/blog/2016/01/31/Our-New-Years-Resolutions-for-2016</loc>
+    
+    <lastmod>2016-01-31T16:00:00+01:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marsbased.com/blog/2016/01/29/Looking-Back-to-2015-A-Year-Out-of-this-World</loc>
+    
+    <lastmod>2016-01-29T16:00:00+01:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marsbased.com/blog/2015/12/28/How-To-Build-CSS-Grids-Floats-VS-Inline-Blocks</loc>
+    
+    <lastmod>2015-12-28T16:00:00+01:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marsbased.com/blog/2015/12/07/How-to-Handle-Client-Work-Remotely-Our-Communication-Stack</loc>
+    
+    <lastmod>2015-12-07T16:00:00+01:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marsbased.com/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines</loc>
     
     <lastmod>2015-11-16T16:00:00+01:00</lastmod>
     
@@ -17,7 +62,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2015/10/26/We-Launched-Slack-For-The-Barcelona-Startup-Community</loc>
+    <loc>https://marsbased.com/blog/2015/10/26/We-Launched-Slack-For-The-Barcelona-Startup-Community</loc>
     
     <lastmod>2015-10-26T16:00:00+01:00</lastmod>
     
@@ -26,7 +71,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2015/10/05/Code-Refactoring-When-Why-And-Who</loc>
+    <loc>https://marsbased.com/blog/2015/10/05/Code-Refactoring-When-Why-And-Who</loc>
     
     <lastmod>2015-10-05T17:00:00+02:00</lastmod>
     
@@ -35,7 +80,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event</loc>
+    <loc>https://marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event</loc>
     
     <lastmod>2015-09-21T17:00:00+02:00</lastmod>
     
@@ -44,7 +89,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2015/08/16/How-to-Create-a-Blogging-Strategy-for-your-Company</loc>
+    <loc>https://marsbased.com/blog/2015/08/16/How-to-Create-a-Blogging-Strategy-for-your-Company</loc>
     
     <lastmod>2015-08-16T17:00:00+02:00</lastmod>
     
@@ -53,7 +98,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2015/06/22/Working-Remotely-from-Berlin</loc>
+    <loc>https://marsbased.com/blog/2015/06/22/Working-Remotely-from-Berlin</loc>
     
     <lastmod>2015-06-22T17:00:00+02:00</lastmod>
     
@@ -62,7 +107,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2015/06/15/Six-Tips-for-Remote-Working</loc>
+    <loc>https://marsbased.com/blog/2015/06/15/Six-Tips-for-Remote-Working</loc>
     
     <lastmod>2015-06-15T17:00:00+02:00</lastmod>
     
@@ -71,7 +116,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide</loc>
+    <loc>https://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide</loc>
     
     <lastmod>2015-05-13T17:00:00+02:00</lastmod>
     
@@ -80,7 +125,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business</loc>
+    <loc>https://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business</loc>
     
     <lastmod>2015-04-13T17:00:00+02:00</lastmod>
     
@@ -89,7 +134,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World</loc>
+    <loc>https://marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World</loc>
     
     <lastmod>2015-03-24T16:00:00+01:00</lastmod>
     
@@ -98,7 +143,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2015/01/20/Our-New-Years-Resolutions-For-20154</loc>
+    <loc>https://marsbased.com/blog/2015/01/20/Our-New-Years-Resolutions-For-2015</loc>
     
     <lastmod>2015-01-20T16:00:00+01:00</lastmod>
     
@@ -107,7 +152,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2014/12/23/Our-First-Christmas-Dinner</loc>
+    <loc>https://marsbased.com/blog/2014/12/23/Our-First-Christmas-Dinner</loc>
     
     <lastmod>2014-12-23T16:00:00+01:00</lastmod>
     
@@ -116,7 +161,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team</loc>
+    <loc>https://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team</loc>
     
     <lastmod>2014-10-25T17:00:00+02:00</lastmod>
     
@@ -125,7 +170,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction</loc>
+    <loc>https://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction</loc>
     
     <lastmod>2014-10-18T17:00:00+02:00</lastmod>
     
@@ -134,7 +179,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack</loc>
+    <loc>https://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack</loc>
     
     <lastmod>2014-08-22T17:00:00+02:00</lastmod>
     
@@ -143,7 +188,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2014/07/21/Sport-on-Rails</loc>
+    <loc>https://marsbased.com/blog/2014/07/21/Sport-on-Rails</loc>
     
     <lastmod>2014-07-21T23:00:00+02:00</lastmod>
     
@@ -152,7 +197,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2014/07/01/Barcelona-Startup-Map2</loc>
+    <loc>https://marsbased.com/blog/2014/07/01/Barcelona-Startup-Map2</loc>
     
     <lastmod>2014-07-01T12:00:00+02:00</lastmod>
     
@@ -161,7 +206,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2014/06/09/Barcelona-Startup-Map1</loc>
+    <loc>https://marsbased.com/blog/2014/06/09/Barcelona-Startup-Map1</loc>
     
     <lastmod>2014-06-09T21:00:00+02:00</lastmod>
     
@@ -170,7 +215,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2014/03/30/Celebrating-the-first-Martian-year</loc>
+    <loc>https://marsbased.com/blog/2014/03/30/Celebrating-the-first-Martian-year</loc>
     
     <lastmod>2014-03-30T16:00:00+02:00</lastmod>
     
@@ -179,16 +224,16 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2014/03/25/how-we-make-the-right-app2</loc>
+    <loc>https://marsbased.com/blog/2014/03/24/how-we-make-the-right-app2</loc>
     
-    <lastmod>2014-03-25T00:59:00+01:00</lastmod>
+    <lastmod>2014-03-24T17:00:00+01:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2014/03/04/how-we-make-the-right-app1</loc>
+    <loc>https://marsbased.com/blog/2014/03/04/how-we-make-the-right-app1</loc>
     
     <lastmod>2014-03-04T02:17:00+01:00</lastmod>
     
@@ -197,7 +242,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2014/02/23/MarsBased-conquered-the-startup-grind</loc>
+    <loc>https://marsbased.com/blog/2014/02/23/MarsBased-conquered-the-startup-grind</loc>
     
     <lastmod>2014-02-23T23:00:00+01:00</lastmod>
     
@@ -206,7 +251,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2013/11/07/startup-circle-barcelona</loc>
+    <loc>https://marsbased.com/blog/2013/11/07/startup-circle-barcelona</loc>
     
     <lastmod>2013-11-07T20:40:00+01:00</lastmod>
     
@@ -215,7 +260,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2013/10/12/fail-learn-change-evolve</loc>
+    <loc>https://marsbased.com/blog/2013/10/12/fail-learn-change-evolve</loc>
     
     <lastmod>2013-10-12T15:08:00+02:00</lastmod>
     
@@ -224,7 +269,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2013/09/20/cookin-recipes-want</loc>
+    <loc>https://marsbased.com/blog/2013/09/20/cookin-recipes-want</loc>
     
     <lastmod>2013-09-20T17:21:00+02:00</lastmod>
     
@@ -233,7 +278,7 @@
   </url>
   
   <url>
-    <loc>http://marsbased.com/blog/2013/09/07/take-offs-and-landings</loc>
+    <loc>https://marsbased.com/blog/2013/09/07/take-offs-and-landings</loc>
     
     <lastmod>2013-09-07T18:19:00+02:00</lastmod>
     
@@ -242,32 +287,32 @@
   </url>
   
   <url>
-    <loc>http://www.marsbased.com</loc>
-    <lastmod>2015-11-26</lastmod>
+    <loc>https://marsbased.com</loc>
+    <lastmod>2016-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://www.marsbased.com/contact</loc>
-    <lastmod>2015-11-26</lastmod>
+    <loc>https://marsbased.com/contact</loc>
+    <lastmod>2016-02-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.marsbased.com/about</loc>
-    <lastmod>2015-11-26</lastmod>
+    <loc>https://marsbased.com/about</loc>
+    <lastmod>2016-02-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>http://www.marsbased.com/privacy</loc>
-    <lastmod>2015-11-26</lastmod>
+    <loc>https://marsbased.com/privacy</loc>
+    <lastmod>2016-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.marsbased.com/startups</loc>
-    <lastmod>2015-11-26</lastmod>
+    <loc>https://marsbased.com/startups</loc>
+    <lastmod>2016-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
