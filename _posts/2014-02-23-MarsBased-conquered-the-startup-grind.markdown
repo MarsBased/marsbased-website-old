@@ -27,7 +27,7 @@ As Martians, and newcomers, we found these principles to be particularly welcomi
 
 ###How we help others###
 
-First and foremost, we offer our expertise as a remote working dev shop. We are highly specialized in Ruby on Rails and the tech stack we wrote about in <a href="http://www.marsbased.com/blog/2014/02/01/how-we-make-the-right-app2/" title="Our last blog entry" target="_blank">this blog entry</a>. We guide you from the very birth of your business idea to its launch, by offering our end-to-end solutions based on our expertise and experience in web app development.
+First and foremost, we offer our expertise as a remote working dev shop. We are highly specialized in Ruby on Rails and the tech stack we wrote about in <a href="https://marsbased.com/blog/2014/02/01/how-we-make-the-right-app2/" title="Our last blog entry" target="_blank">this blog entry</a>. We guide you from the very birth of your business idea to its launch, by offering our end-to-end solutions based on our expertise and experience in web app development.
 
 We can help your business if you...
 
@@ -41,7 +41,7 @@ For solo entrepreneurs or startups, we build MVPs. MarsBased has startup DNA, an
 
 We met a lot of people at Startup Grind. We remember each and everyone's faces and names. We enjoyed a good chat with everybody and look forward to meeting them again, wherever they live or in the next Startup Grind Global Summit.
 
-Because we enjoy keeping track of their endeavours, we connected with them on the social networks. We are always open to meet new people, so feel free to connect with <a href="http://www.marsbased.com/contact" title="Our social profiles" target="_blank">our social profiles</a> and let's start a good conversation!
+Because we enjoy keeping track of their endeavours, we connected with them on the social networks. We are always open to meet new people, so feel free to connect with <a href="https://marsbased.com/contact" title="Our social profiles" target="_blank">our social profiles</a> and let's start a good conversation!
 
 You can also meet us in real life by shooting us an e-mail, since we are frequent travellers and a distributed team. Remote working allows us to travel freely while getting our job done. If we're not around your area, we will schedule a video call.
 

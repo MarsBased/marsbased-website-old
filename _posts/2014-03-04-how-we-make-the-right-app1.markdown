@@ -32,7 +32,7 @@ Everyone should do what they're best at, and this is one of our core values at M
 
 MarsBased is a web development shop highly specialized in Ruby on Rails, and, therefore, we will always work around this technology. Ruby-based apps allow us to be more creative and efficient, and to work using agile development methodologies while keeping a high test coverage.
 
-MarsBased strives for the usage of the latest technologies in every project. To achieve that, we're currently doing some testing with <a href="http://marsbased.com/blog/2013/09/20/cookin-recipes-want" title="Cookin.me: Where All Your Recipes Want to Be" target="_blank">Cookin.me</a>, our technology sandbox. This way, when we master a new technology, and we're sure it's error-free and 100% integrated with the MarsBased Tech Stack, we integrate it in the rest of the projects. This way we can guarantee innovation while keeping MarsBased's quality standards.
+MarsBased strives for the usage of the latest technologies in every project. To achieve that, we're currently doing some testing with <a href="https://marsbased.com/blog/2013/09/20/cookin-recipes-want" title="Cookin.me: Where All Your Recipes Want to Be" target="_blank">Cookin.me</a>, our technology sandbox. This way, when we master a new technology, and we're sure it's error-free and 100% integrated with the MarsBased Tech Stack, we integrate it in the rest of the projects. This way we can guarantee innovation while keeping MarsBased's quality standards.
 
 To avoid mixing things up, we won't describe our technologies here. You'll have to wait until our next blog entry "How we make the right app for you (part 2)" is released to read about them.
 

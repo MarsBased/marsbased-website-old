@@ -8,7 +8,7 @@ categories: MarsBased Startup Teamwork CompanyCulture Team Internship
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-Last year, I completed my degree in Software Development, to begin my career in web development, I opted to go for an internship. Turns out, a good friend of mine had attended the <a href="http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/" title="The Martians Conquer the IronHack" target="_blank">first Ironhack edition in Barcelona</a>, where he met a couple of MarsBased members and suggested that I applied for an internship here.
+Last year, I completed my degree in Software Development, to begin my career in web development, I opted to go for an internship. Turns out, a good friend of mine had attended the <a href="https://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/" title="The Martians Conquer the IronHack" target="_blank">first Ironhack edition in Barcelona</a>, where he met a couple of MarsBased members and suggested that I applied for an internship here.
 
 And this is how I met MarsBased. Let me tell you how it went!
 

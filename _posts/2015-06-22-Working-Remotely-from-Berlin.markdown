@@ -8,9 +8,9 @@ categories: MarsBased Startup DigitalNomads Remote RemoteWorking NoOffice Distri
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-In our previous blog entry (<a href="http://marsbased.com/blog/2015/06/15/Six-Tips-for-Remote-Working/" title="Our Six Tips for Remote Working" target="_blank">Our Six Tips for Remote Working</a>), we mentioned how much we identify ourselves with the culture of remote working. It is actually one of the main pillars of our company culture, and our methodologies clearly reflect the need to be able to work from wherever we want.
+In our previous blog entry (<a href="https://marsbased.com/blog/2015/06/15/Six-Tips-for-Remote-Working/" title="Our Six Tips for Remote Working" target="_blank">Our Six Tips for Remote Working</a>), we mentioned how much we identify ourselves with the culture of remote working. It is actually one of the main pillars of our company culture, and our methodologies clearly reflect the need to be able to work from wherever we want.
 
-Actually, before that, we also wrote about <a href="http://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team/" title="Hiring in a distributed team" target="_blank">hiring in a distributed team</a> and even in our <a href="http://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business/" title="Lessons Learnt at MarsBased in our first year" target="_blank">Lessons Learnt</a> post from a couple of months back.
+Actually, before that, we also wrote about <a href="https://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team/" title="Hiring in a distributed team" target="_blank">hiring in a distributed team</a> and even in our <a href="https://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business/" title="Lessons Learnt at MarsBased in our first year" target="_blank">Lessons Learnt</a> post from a couple of months back.
 
 Two of us spent a good ten days in Berlin, the capital of Germany, and this has been our experience.
 

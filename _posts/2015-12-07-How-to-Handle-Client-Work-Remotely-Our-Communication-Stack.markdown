@@ -8,7 +8,7 @@ categories: Communication Productivity Organisation MarsBased
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-As a remote working company, we work from <a href="http://www.marsbased.com/blog/2015/06/22/Working-Remotely-from-Berlin/" title="Working remotely from Berlin" target="_blank">very different places</a> and at very different times. That is, we have no office. Because of that, we face a lot of questions about how we deal with customers: "<i>How do you earn their trust?</i>", "<i>how can they know if you're working?</i>", "<i>how do you deal with specification changes?</i>" and so on.
+As a remote working company, we work from <a href="https://marsbased.com/blog/2015/06/22/Working-Remotely-from-Berlin/" title="Working remotely from Berlin" target="_blank">very different places</a> and at very different times. That is, we have no office. Because of that, we face a lot of questions about how we deal with customers: "<i>How do you earn their trust?</i>", "<i>how can they know if you're working?</i>", "<i>how do you deal with specification changes?</i>" and so on.
 
 Dealing with clients while being a remote working company is not easy. In this entry, we explain how we do it.
 

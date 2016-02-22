@@ -8,7 +8,7 @@ categories: MarsBased Events Community Marketing Networking StartupCircle
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-After over a year and a half organising the <a href="http://marsbased.com/blog/2013/11/07/startup-circle-barcelona" title="Startup Circle in Barcelona" target="_blank">Startup Circle in Barcelona</a>, we decided to pull the plug.
+After over a year and a half organising the <a href="https://marsbased.com/blog/2013/11/07/startup-circle-barcelona" title="Startup Circle in Barcelona" target="_blank">Startup Circle in Barcelona</a>, we decided to pull the plug.
 
 We have been hosting Startup Circle and <a href="http://startupgrind.com/barcelona" title="Startup Grind Barcelona" target="_blank">Startup Grind</a> until we realised they shared the same dynamics and principles: educating, inspiring and connecting entrepreneurs by helping each other. Therefore, we decided to merge the two communities to take Startup Grind BCN to the next level.
 

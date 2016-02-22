@@ -43,7 +43,7 @@ The winner doesn’t get rewarded and the loser doesn’t get punished or mocked
 
 This year we were invited to take part in the <a href="http://www.startupdodgeball.net/bcn.html" title="Startup Dodgeball" rel="nofollow" target="_blank">Startup Dodgeball</a>. We could not attend because we were putting the final touches to the <a href="http://bcn.cat/bcnstartupmap" title="Barcelona Startup Map" target="_blank">Barcelona Startup Map</a>, so we decided to create our own event.
 
-In one of our first entries, we told you about the <a href="http://marsbased.com/blog/2013/11/07/startup-circle-barcelona/" title="Startup Circle in Barcelona" target="_blank">Startup Circle</a> we’re leading in Barcelona. Two weeks ago we decided to end the serious business-oriented meetings we were having and met for a football match and dinner. A good way to unwind from the daily grind.
+In one of our first entries, we told you about the <a href="https://marsbased.com/blog/2013/11/07/startup-circle-barcelona/" title="Startup Circle in Barcelona" target="_blank">Startup Circle</a> we’re leading in Barcelona. Two weeks ago we decided to end the serious business-oriented meetings we were having and met for a football match and dinner. A good way to unwind from the daily grind.
 
 The event was well received within the community and we’re planning to do it again. We garnered ten members of this small community to play a game of indoors football that saw the birth of a very powerful interplanetary alliance between <a href="http://mercurio-platform.com" title="Mercurio Platform" rel="nofollow" target="_blank">Mercurio</a> and MarsBased on the winning team.
 

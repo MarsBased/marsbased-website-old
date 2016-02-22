@@ -10,7 +10,7 @@ categories: MarsBased Resolutions Teamwork CompanyCulture Sport
 
 Some days ago we published what had been keeping us busy in 2015. Lots of projects, events, growing the team, getting clients from abroad, new learnings and heaps of experiences.
 
-With all that in mind, we've written the New Year's Resolutions for this 2016, just like we did last year. Here's the <a href="http://marsbased.com/blog/2015/01/20/Our-New-Years-Resolutions-For-20154" title="MarsBased 2015 Resolutions" target="_blank">post with our 2015 Resolutions</a>. Continue reading to find out what we'll be up to on 2016.
+With all that in mind, we've written the New Year's Resolutions for this 2016, just like we did last year. Here's the <a href="https://marsbased.com/blog/2015/01/20/Our-New-Years-Resolutions-For-20154" title="MarsBased 2015 Resolutions" target="_blank">post with our 2015 Resolutions</a>. Continue reading to find out what we'll be up to on 2016.
 
 <!--more-->
 
@@ -130,7 +130,7 @@ David joined MarsBased at the end of 2015 Q1 and has been mainly working on the 
 
 ###Xavier Simó - Developer###
 
-Xavier, not Xavi, joined right after David, at the end of 2015 Q1, from Ironhack. He's a pianist and you might remember him from his first <a href="http://marsbased.com/blog/2015/10/05/Code-Refactoring-When-Why-And-Who" title="Code Reviews at MarsBased" target="_blank">blog post about code reviews</a>.
+Xavier, not Xavi, joined right after David, at the end of 2015 Q1, from Ironhack. He's a pianist and you might remember him from his first <a href="https://marsbased.com/blog/2015/10/05/Code-Refactoring-When-Why-And-Who" title="Code Reviews at MarsBased" target="_blank">blog post about code reviews</a>.
 
 <div class="quote left-sided">
     <div class="avatar">

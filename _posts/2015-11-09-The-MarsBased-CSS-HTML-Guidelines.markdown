@@ -10,7 +10,7 @@ categories: Frontend Webdesign MarsBased
 
 Since we started MarsBased, we've completed a good share of projects. From all of them we've learnt something useful. But all this knowledge should be stored somewhere for further use, for instance, to train new developers.
 
-Pretty much like we did with the release of the MarsBased blogging guide (<a href="http://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide" title="How to Create a Damn Good Blog Post" target="_blank">part 1</a>, <a href="http://marsbased.com/blog/2015/08/16/How-to-Create-a-Blogging-Strategy-for-your-Company" title="How to Create a Blogging Strategy for Your Company" target="_blank">part 2</a>), we want to share what we have learnt about HTML5 & CSS3 with you all.
+Pretty much like we did with the release of the MarsBased blogging guide (<a href="https://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide" title="How to Create a Damn Good Blog Post" target="_blank">part 1</a>, <a href="https://marsbased.com/blog/2015/08/16/How-to-Create-a-Blogging-Strategy-for-your-Company" title="How to Create a Blogging Strategy for Your Company" target="_blank">part 2</a>), we want to share what we have learnt about HTML5 & CSS3 with you all.
 
 Things should not only work well. They can also look good.
 
@@ -323,7 +323,7 @@ It's not always possible, but in order to improve code legibility we try to make
 If you have to split an HTML tag, do it between attributes and indent the second line:
 
 ```
-<a class="item-link" href="http://www.marsbased.com"
+<a class="item-link" href="https://marsbased.com"
   target="_blank">
   MarsBased Website
 </a>

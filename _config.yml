@@ -1,6 +1,6 @@
 name: MarsBased
 description: "MarsBased is an application development company in Barcelona, highly specialized in Ruby on Rails."
-url: "http://www.marsbased.com"
+url: "https://www.marsbased.com"
 markdown: redcarpet
 highlighter: true
 permalink: /blog/:year/:month/:day/:title

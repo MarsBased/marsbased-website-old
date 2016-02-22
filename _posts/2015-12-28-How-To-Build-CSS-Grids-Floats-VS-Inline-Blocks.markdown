@@ -8,7 +8,7 @@ categories: Frontend Webdesign MarsBased
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-At MarsBased we're very keen on sharing everything we learn. That's why we recently published our <a href="http://marsbased.com/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines/" title="MarsBased HTML & CSS Guidelines" target="_blank">HTML & CSS Guidelines</a>, and our <a href="http://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide" title="How to create a damn good blog post" target="_blank">blogging tips</a> or the <a href="http://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business" title="Lessons learnt after being one year in business" target="_blank">lessons learnt in our first year running the company</a>, among other stuff.
+At MarsBased we're very keen on sharing everything we learn. That's why we recently published our <a href="https://marsbased.com/blog/2015/11/16/The-MarsBased-CSS-HTML-Guidelines/" title="MarsBased HTML & CSS Guidelines" target="_blank">HTML & CSS Guidelines</a>, and our <a href="https://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide" title="How to create a damn good blog post" target="_blank">blogging tips</a> or the <a href="https://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business" title="Lessons learnt after being one year in business" target="_blank">lessons learnt in our first year running the company</a>, among other stuff.
 
 In this entry, you will learn how to build CSS grids by comparing the two most popular approaches.
 

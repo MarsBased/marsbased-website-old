@@ -7,14 +7,14 @@ code: sitemap
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://marsbased.com/blog</loc>
+    <loc>https://marsbased.com/blog</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   {% for post in site.posts %}
   <url>
-    <loc>http://marsbased.com{{ post.url }}</loc>
+    <loc>https://marsbased.com{{ post.url }}</loc>
     {% if post.lastmod == null %}
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     {% else %}
@@ -25,31 +25,31 @@ code: sitemap
   </url>
   {% endfor %}
   <url>
-    <loc>http://marsbased.com</loc>
+    <loc>https://marsbased.com</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://marsbased.com/contact</loc>
+    <loc>https://marsbased.com/contact</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://marsbased.com/about</loc>
+    <loc>https://marsbased.com/about</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>http://marsbased.com/privacy</loc>
+    <loc>https://marsbased.com/privacy</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://marsbased.com/startups</loc>
+    <loc>https://marsbased.com/startups</loc>
     <lastmod>{{ site.time | date:"%F" }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>

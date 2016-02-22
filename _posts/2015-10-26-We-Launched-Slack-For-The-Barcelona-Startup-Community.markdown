@@ -66,7 +66,7 @@ Share your blog posts, your startup's job openings, your events or your latest l
 
 ###Community Giveback###
 
-At MarsBased, we feel very attached to the Barcelona entrepreneurial community. Not only did we run for almost two years the <a href="http://marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event/" title="Startup Circle, by MarsBased" target="_blank">Startup Circle</a> (<a href="https://twitter.com/MarsBased/status/391521920858214400" title="MarsBased Tweet about Startup Circle" target="_blank">here's our tweet announcing it back then!</a>) but we're also behind Startup Grind Barcelona.
+At MarsBased, we feel very attached to the Barcelona entrepreneurial community. Not only did we run for almost two years the <a href="https://marsbased.com/blog/2015/09/21/Five-Reasons-Why-Your-Company-Should-Organise-an-Event/" title="Startup Circle, by MarsBased" target="_blank">Startup Circle</a> (<a href="https://twitter.com/MarsBased/status/391521920858214400" title="MarsBased Tweet about Startup Circle" target="_blank">here's our tweet announcing it back then!</a>) but we're also behind Startup Grind Barcelona.
 
 With Startup Circle, we brought together a community of 50 individuals & companies that met once or twice a month to help one another and socialise. That was our door to entrepreneurship, and we hope it has helped other people as well.
 

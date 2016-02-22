@@ -35,7 +35,7 @@ We want to welcome <a href="http://www.twitter.com/oriol_bcn" title="Oriol's Twi
 
 In fact, Oriol was among the attendees last week at the first open Ironhack talks, where I was honoured to be <a href="http://www.meetup.com/ironhack-barcelona/events/228228599/" title="Ironhack talk about MarsBased" target="_blank">the first speaker</a>. About 50 people showed up, amongst which I found some familiar faces from the community we’re building around our company.
 
-Some background: Almost two years ago <a href="http://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/" title="MarsBased conquers the Ironhack" target="_blank">I gave the first talk about MarsBased at Ironhack</a>. I was invited to talk about our experience, even though the company was barely a month old, so I spoke about what I knew from my previous companies and my failed ventures before MarsBased. Back then, these keynotes were only for Ironhack students.
+Some background: Almost two years ago <a href="https://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/" title="MarsBased conquers the Ironhack" target="_blank">I gave the first talk about MarsBased at Ironhack</a>. I was invited to talk about our experience, even though the company was barely a month old, so I spoke about what I knew from my previous companies and my failed ventures before MarsBased. Back then, these keynotes were only for Ironhack students.
 
 Last week, I did this keynote with the lessons learnt during our first two years at MarsBased. Two years. Two years and 9 employees later. Who would’ve thought, when I quit my previous job in December 2013, that we’d reach this far.
 

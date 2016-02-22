@@ -10,7 +10,7 @@ categories: Development Devshop RubyOnRails Ruby Rails AngularJS Capybara Airbra
 
 *Disclaimer: long (and nerdy) post ahead.*
 
-In <a href="http://marsbased.com/blog/2014/03/04/how-we-make-the-right-app1" title="How We Make the Right App For You Pt.1" target="_blank">our last entry</a>, we wrote about MarsBased's principles when working for other companies, because we have recently been hired to develop our first client apps.
+In <a href="https://marsbased.com/blog/2014/03/04/how-we-make-the-right-app1" title="How We Make the Right App For You Pt.1" target="_blank">our last entry</a>, we wrote about MarsBased's principles when working for other companies, because we have recently been hired to develop our first client apps.
 
 In this entry, we are breaking down our tool belt.
 

@@ -10,7 +10,7 @@ categories: MarsBased Startups Entrepreneurship LeanStartup Pivoting Business Pi
 
 Cheers to everybody that has been reading us for a couple of posts as of now. It feels really good to know there's *someone out there*.
 
-We're a <a href="http://marsbased.com/blog/2013/09/07/take-offs-and-landings" title="Our first blog post" target="_blank">starting company</a>, still learning how to do things and in which order, so you might expect some changes in the coming months. Hopefully, they're all for the better.
+We're a <a href="https://marsbased.com/blog/2013/09/07/take-offs-and-landings" title="Our first blog post" target="_blank">starting company</a>, still learning how to do things and in which order, so you might expect some changes in the coming months. Hopefully, they're all for the better.
 
 <!--more-->
 

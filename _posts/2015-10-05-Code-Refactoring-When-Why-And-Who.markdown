@@ -20,7 +20,7 @@ According to <a target="https://en.wikipedia.org/wiki/Code_refactoring" title="C
 
 Imagine you are the CTO of a recently-founded dev shop: sitting in front of your laptop, fingers ready to code, while waiting for your salesman to bring in the contract for the next Facebook. However, the first project happens to come with legacy. That is, a client hires your company to fix an already existing project, which unsurprisingly is broken. The first five words that come to mind are: "<i>I can do this better!</i>".
 
-In fact, at MarsBased, a very large proportion of our existing clients had a different provider in the past, but they decided to change for different reasons. This is something we learnt during <a href="http://www.marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business/">our first year operating</a>.
+In fact, at MarsBased, a very large proportion of our existing clients had a different provider in the past, but they decided to change for different reasons. This is something we learnt during <a href="https://marsbased.com/blog/2015/04/13/Lessons-Learned-One-Year-Running-Our-Own-Business/">our first year operating</a>.
 
 While you being able to rewrite better code may actually be true, you should also consider the client's needs. Why did this project end up on your table? Maybe the quality of the deliverables was insufficient, or maybe because the client perceived the development team's pace was very low and he was running out of patience (and cash).
 
@@ -59,7 +59,7 @@ Let's be honest: we <i>all</i> copy and paste code. Although we ought not to do 
 
 That is why we should replace bad code when we find it. By eliminating bad code, we eliminate the chance of somebody borrowing those parts for other projects. This is even more so important when introducing new hires or less-experienced programmers to the project: they might think that code is yours or, worse, perceive it as a reference and replicate it somewhere else.
 
-Our CTO, Xavi, <a href="http://www.marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/"> gave a talk at Ironhack a year ago</a> where he talked about the maintainability of the code.
+Our CTO, Xavi, <a href="https://marsbased.com/blog/2014/08/22/The-Martians-conquer-the-IronHack/"> gave a talk at Ironhack a year ago</a> where he talked about the maintainability of the code.
 
 To sum up, we need to refactor code to improve code quality, maintainability and legibility, while making it easier for other teammates to become familiar with the project.
 

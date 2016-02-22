@@ -33,7 +33,7 @@ At MarsBased, we also like to adopt new technologies. Our latest adoptions have 
 
 ###Community giveback###
 
-MarsBased are fully committed to contributing to the entrepreneurial scene that saw us grow. More than half a year ago we created <a href="http://marsbased.com/blog/2013/11/07/startup-circle-barcelona/" title="Startup Circle" target="_blank">Startup Circle</a> with some friends, and now has grown to over 7 startups and more than 15 participants. Startup Circle helps new companies getting real by helping one another.
+MarsBased are fully committed to contributing to the entrepreneurial scene that saw us grow. More than half a year ago we created <a href="https://marsbased.com/blog/2013/11/07/startup-circle-barcelona/" title="Startup Circle" target="_blank">Startup Circle</a> with some friends, and now has grown to over 7 startups and more than 15 participants. Startup Circle helps new companies getting real by helping one another.
 
 MarsBased has also lately become the technological partner of <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona" target="_blank">Startup Grind Barcelona</a>, for which we are building a killer website at <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona" target="_blank">www.startupgrind.cat</a>.
 

@@ -8,7 +8,7 @@ categories: MarsBased Developers HR Entrepreneurship Hiring RemoteWork
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-In <a href="http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction/" title="First Hire at MarsBased" target="_blank">our last blog entry</a>, we described our first day with our new hire, Javi. Two weeks in, and the whole team has felt the boost of having a new employee at MarsBased: the company is producing more, he's learning while having fun, and so are we.
+In <a href="https://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction/" title="First Hire at MarsBased" target="_blank">our last blog entry</a>, we described our first day with our new hire, Javi. Two weeks in, and the whole team has felt the boost of having a new employee at MarsBased: the company is producing more, he's learning while having fun, and so are we.
 
 However, a new employee brings in a whole set of risks that need to be addressed when running your own company. One of them is the integration in the team, and this is what this entry is about.
 

@@ -8,7 +8,7 @@ categories: MarsBased Startup Teambuilding Team Martians Dinner CompanyCulture
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-It's been two months since <a href="http://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team" title="Dealing With Your First Hire in a Distributed Team" target="_blank">our last status update</a>, and we wanted to let you know we're far from dead.
+It's been two months since <a href="https://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team" title="Dealing With Your First Hire in a Distributed Team" target="_blank">our last status update</a>, and we wanted to let you know we're far from dead.
 
 After a fledging progression that has seen us completing our first projects after the summer, a couple of new big challenges have popped up. All these projects have kept us swamped with work, but they are also a reason to celebrate.
 
@@ -30,7 +30,7 @@ During the summer, we landed the project of <a href="http://www.eureka-startups.
 
 By working full-time, we could also start going to events, thus increasing our visibility in the scene. We participated in numerous events, organizing meetings with the Startup Circle, collaborating with <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona" target="_blank">Startup Grind</a>, mentoring at <a href="http://ironhack.com" title="IronHack" target="_blank">IronHack</a>, giving speeches at congresses, attending <a href="http://www.baruco.org" title="Baruco" target="_blank" rel="nofollow">Baruco</a>, and meeting fantastic people everywhere.
 
-But it was in September-October that we landed a couple of big projects from abroad. These two projects have given us enough stability to hire <a href="http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction/" title="Our blog post of our first hire" target="_blank">Javi</a> to increase our development capacity again. Soon thereafter, we got the opportunity of welcoming our first intern <a href="https://twitter.com/MarsBased/status/538760313836158976" title="MarsBased welcomes Emilio Rios" target="_blank">Emilio</a>.
+But it was in September-October that we landed a couple of big projects from abroad. These two projects have given us enough stability to hire <a href="https://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction/" title="Our blog post of our first hire" target="_blank">Javi</a> to increase our development capacity again. Soon thereafter, we got the opportunity of welcoming our first intern <a href="https://twitter.com/MarsBased/status/538760313836158976" title="MarsBased welcomes Emilio Rios" target="_blank">Emilio</a>.
 
 ###A Martian Christmas dinner###
 

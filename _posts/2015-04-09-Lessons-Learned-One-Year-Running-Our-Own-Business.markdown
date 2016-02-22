@@ -8,7 +8,7 @@ categories: MarsBased Startup Teamwork CompanyCulture Business Hiring Rails Cons
 
 *Captain's log, stardate {{page.date | martian_date}}*
 
-Time flies. We have been so busy this year, that we have barely had time to look back to all the things we have accomplished thus far. Actually, it’s been a year and a month since <a href="http://marsbased.com/blog/2014/03/30/Celebrating-the-first-Martian-year/" title="Celebrating the First Martian Year" target="_blank">we legally founded MarsBased</a>.
+Time flies. We have been so busy this year, that we have barely had time to look back to all the things we have accomplished thus far. Actually, it’s been a year and a month since <a href="https://marsbased.com/blog/2014/03/30/Celebrating-the-first-Martian-year/" title="Celebrating the First Martian Year" target="_blank">we legally founded MarsBased</a>.
 
 One of the companies we look up to is <a href="http://www.dockyard.com" target="_blank" title="Dockyard">Dockyard</a>. They run a very inspirational blog, where they publish their experiences. This is a small homage to them and to <a href="http://reefpoints.dockyard.com/opinion/2012/06/21/lessons-learned-six-month-of-running-dockyard.html" target="_blank" title="Dockyard Blog">this</a> post, where they described the difficulties they faced during the first six months running a consultancy.
 
@@ -83,9 +83,9 @@ We identified this problem, analyzed it and found some solutions to this blockin
 
 One year ago we did not expect to hire anybody before 2014 ended. At best, we could only hope there’d be enough work to sustain the three founding members.
 
-Turns out we had enough work to hire <a href="http://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction" target="_blank" title="Blog post about hiring Javi">Javi</a> in September, <a href="http://marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World/" target="_blank" title="Post about Emilio's internship">Emilio</a> in December and <a href="https://twitter.com/MarsBased/status/577401842105192448" target="_blank" title="Xavier abduction into MarsBased">Xavier</a> in March, while outsourcing an additional 33% of our workload to companies like <a href="http://www.evilmartians.com" target="_blank" title="Evil Martians website">Evil Martians</a> or <a href="http://mortensen.co/" target="_blank" title="Mortensen">Mortensen</a>.
+Turns out we had enough work to hire <a href="https://marsbased.com/blog/2014/10/18/The-MarsBased-Team-Grows-Bigger-The-Abduction" target="_blank" title="Blog post about hiring Javi">Javi</a> in September, <a href="https://marsbased.com/blog/2015/03/24/An-Internship-Out-of-This-World/" target="_blank" title="Post about Emilio's internship">Emilio</a> in December and <a href="https://twitter.com/MarsBased/status/577401842105192448" target="_blank" title="Xavier abduction into MarsBased">Xavier</a> in March, while outsourcing an additional 33% of our workload to companies like <a href="http://www.evilmartians.com" target="_blank" title="Evil Martians website">Evil Martians</a> or <a href="http://mortensen.co/" target="_blank" title="Mortensen">Mortensen</a>.
 
-However, hiring is not easy. As a consultancy, you need to focus on delivering results to your clients. There’s little to no time to do HR. We actually wrote a <a href="http://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team/" target="_blank" title="Blog post about hiring">blog post where we spoke about this</a>.
+However, hiring is not easy. As a consultancy, you need to focus on delivering results to your clients. There’s little to no time to do HR. We actually wrote a <a href="https://marsbased.com/blog/2014/10/25/Dealing-With-Your-First-Hire-In-A-Distributed-Team/" target="_blank" title="Blog post about hiring">blog post where we spoke about this</a>.
 
 Luckily enough, we have friends and colleagues that have recommended potential employees to us, and everyone we have hired so far turned out to be a really good asset to the company.
 
@@ -115,7 +115,7 @@ Remember, stretching your working shift today will have an impact tomorrow. It�
 
 One of the things we have had to learn so far is business development. Since none of us had a full sales background, we decided to have one person dedicated 100% to this area.
 
-Having a full-time member focused on business development is something most early-stage development shops do not have. For us, it has allowed us to build a consistent image on the social networks, a blog, a good ranking on the search engines and a frequent offline presence (organizing <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona website" target="_blank">Startup Grind Barcelona</a>, building the <a href="http://marsbased.com/blog/2013/11/07/startup-circle-barcelona/" title="Blog post about Startup Circle" target="_blank">Startup Circle</a> community and attending an average of two events per week).
+Having a full-time member focused on business development is something most early-stage development shops do not have. For us, it has allowed us to build a consistent image on the social networks, a blog, a good ranking on the search engines and a frequent offline presence (organizing <a href="http://www.startupgrind.cat" title="Startup Grind Barcelona website" target="_blank">Startup Grind Barcelona</a>, building the <a href="https://marsbased.com/blog/2013/11/07/startup-circle-barcelona/" title="Blog post about Startup Circle" target="_blank">Startup Circle</a> community and attending an average of two events per week).
 
 <strong>Lesson learnt</strong>: Sales are a service company’s fuel. Invest big time in this.
 

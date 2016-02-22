@@ -16,7 +16,7 @@ In this entry, we will cover how to create a blogging strategy for your company.
 
 We’re really proud of how and what we blog, because it helps us keeping track of our evolution as a global development shop, and feel like this could prove useful to many others that come after us. Exactly the same way we learnt from others like <a href="http://www.buffer.com" title="Buffer" target="_blank" rel="nofollow">Buffer</a>, <a href="http://dockyard.com" title="Dockyard" target="_blank" rel="nofollow">Dockyard</a>, <a href="http://thoughtbot.com" title="Thoughtbot" target="_blank" rel="nofollow">Thoughtbot</a> or other blogs we follow.
 
-A few weeks ago we published the <a href="http://marsbased.com/blog/2015/05/05/The-MarsBased-Blogging-Guide/" title="The MarsBased Blogging Guide pt.1" target="_blank">first part of our blogging guide</a>. In the first part, we described how to craft a good blog post, by choosing a good title, the appropriate keywords, a fitting image, and other important criteria bloggers follow.
+A few weeks ago we published the <a href="https://marsbased.com/blog/2015/05/05/The-MarsBased-Blogging-Guide/" title="The MarsBased Blogging Guide pt.1" target="_blank">first part of our blogging guide</a>. In the first part, we described how to craft a good blog post, by choosing a good title, the appropriate keywords, a fitting image, and other important criteria bloggers follow.
 
 Blogging is nowadays a very important element in growing your company: it is one of the cheapest methods to create <a href="https://en.wikipedia.org/wiki/Inbound_marketing" title="Definition of Inbound Marketing" target="_blank">inbound marketing</a>, provides SEO, and helps you demonstrate your expertise to a very large audience.
 
@@ -30,7 +30,7 @@ One of the most common uses is content marketing. In this case, companies blog a
 
 At MarsBased we use it to drive qualified traffic to our website, so we made it a key element in our sales toolset.
 
-When we created the company, we didn’t have that much of a strategy, so we wrote posts about our company evolution: what we did and why we did it. However, some of these posts helped us rank high enough in search engines because they contained the right keywords. For instance, our most visited blog entry is <a href="http://marsbased.com/blog/2014/03/25/how-we-make-the-right-app2/" title="MarsBased tech stack" target="_blank">this one we wrote about our tech stack</a>.
+When we created the company, we didn’t have that much of a strategy, so we wrote posts about our company evolution: what we did and why we did it. However, some of these posts helped us rank high enough in search engines because they contained the right keywords. For instance, our most visited blog entry is <a href="https://marsbased.com/blog/2014/03/25/how-we-make-the-right-app2/" title="MarsBased tech stack" target="_blank">this one we wrote about our tech stack</a>.
 
 We have received a couple of project requests because of our post about technologies. In that post, we didn’t only show our expertise on the listed tools, but the content also made us rank higher on Google, especially in high-demanded technologies like AngularJS or Sidekiq because they’re specific enough to be very visible to the few people that google them.
 

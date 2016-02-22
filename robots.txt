@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://www.marsbased.com/sitemap.xml
+Sitemap: https://www.marsbased.com/sitemap.xml

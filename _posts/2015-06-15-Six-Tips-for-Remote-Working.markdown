@@ -12,7 +12,7 @@ At MarsBased, we have a strongly defined company culture. We believe that in ord
 
 One of our core principles is being able to work remotely. As an officeless company, we want to be able to work from wherever we are, regardless of our location or time-zone. As long as the work gets done, who cares where did you write your code from?
 
-While you wait for the second part of our blogging guide (read the first part <a href="http://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide/" title="The MarsBased Blogging Guide (Part 1)" target="_blank">here</a>), you can read our team's advice for working remotely.
+While you wait for the second part of our blogging guide (read the first part <a href="https://marsbased.com/blog/2015/05/13/The-MarsBased-Blogging-Guide/" title="The MarsBased Blogging Guide (Part 1)" target="_blank">here</a>), you can read our team's advice for working remotely.
 
 <!--more-->
 
