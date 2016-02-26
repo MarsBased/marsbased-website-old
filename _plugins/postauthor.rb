@@ -35,6 +35,10 @@ module Jekyll
         html_line << 'Pedro Pimenta (<a href="http://twitter.com/pedrogpimenta" target="_blank"
           title="Pedro Pimenta twitter handle">@pedrogpimenta</a>)'
         img ["author"] = "pedro"
+      elsif input == 'david'
+        html_line << 'David Gómez (<a href="http://twitter.com/dvdgs88" target="_blank"
+          title="David Gómez twitter handle">@dvdgs88</a>)'
+        img ["author"] = "david"
       end
 
       html_line << '</div>'
