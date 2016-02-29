@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://marsbased.com/blog</loc>
-    <lastmod>2016-02-22</lastmod>
+    <lastmod>2016-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -288,31 +288,31 @@
   
   <url>
     <loc>https://marsbased.com</loc>
-    <lastmod>2016-02-22</lastmod>
+    <lastmod>2016-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://marsbased.com/contact</loc>
-    <lastmod>2016-02-22</lastmod>
+    <lastmod>2016-02-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://marsbased.com/about</loc>
-    <lastmod>2016-02-22</lastmod>
+    <lastmod>2016-02-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://marsbased.com/privacy</loc>
-    <lastmod>2016-02-22</lastmod>
+    <lastmod>2016-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://marsbased.com/startups</loc>
-    <lastmod>2016-02-22</lastmod>
+    <lastmod>2016-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
