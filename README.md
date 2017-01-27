@@ -1,3 +1,5 @@
+NOTE: This website is no longer published. The new MarsBased Website can be found <a target="_blank" href="https://github.com/MarsBased/marsbased-website" title="https://github.com/MarsBased/marsbased-website">here</a>.
+
 #MarsBased
 
 This is the public repository that serves our Jekyll powered website through
